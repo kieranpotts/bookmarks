@@ -51,39 +51,6 @@
     "editor.wordWrapColumn": 100,
   },
 
-  /* Disable built-in auto-formatting and validation for JavaScript/TypeScript.
-  (These settings will be applicable if the repository is opened in its own
-  workspace.) Instead, use ESLint for autoformatting of JavaScript/TypeScript
-  files, and other tools for validation. */
-  "javascript.format.enable": false,
-  "javascript.validate.enable": false,
-  "js/ts.implicitProjectConfig.checkJs": false,
-
-  "[javascript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-  },
-
-  /* Preference for quotes format in JS/TS code. */
-  "javascript.preferences.quoteStyle": "single",
-  "typescript.preferences.quoteStyle": "single",
-
-  /* Enable autoformatting of Terraform files using official HashiCorp extension. */
-  "[terraform]": {
-    "editor.defaultFormatter": "hashicorp.terraform",
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-  },
-
   /*
   GIT SETTINGS
   */
@@ -113,35 +80,5 @@
   rather than the default Asciidoc style. This ensures the colors of the
   preview are consistent with the enabled VS Code theme. */
   "asciidoc.preview.useEditorStyle": true,
-
-  /*
-  ESLint extension.
-  https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-  */
-
-  /* Enable support for the new flat-file configuration format,
-  `eslint.config.js`, available since ESLint v8.21. */
-  "eslint.useFlatConfig": true,
-
-  /* Enable ESLint as a code formatter. */
-  "eslint.format.enable": true,
-
-  /* Enable ESLint for validation of JS and TS source files. */
-  "eslint.validate": [
-    "javascript",
-    "typescript"
-  ],
-
-  /*
-  Jest extension.
-  https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest
-  https://github.com/jest-community/vscode-jest#jestcommandline
-  */
-
-  /* This is the command used to kick off tests in the terminal. The vscode-jest
-  extension will pass additional options to this command at runtime, so
-  we must append `--` to the `npm run` command to ensure the injected options
-  get forwarded to the `jest` command. */
-  "jest.jestCommandLine": "npm run test -- ",
 
 }
