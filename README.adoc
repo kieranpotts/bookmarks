@@ -4,4 +4,4 @@ Interesting destinations on the interweb.
 
 ''''
 
-Copyright © 2020-present Kieran Potts, link:./LICENSE.txt[MIT license]
+Copyright © 2020-present Kieran Potts, link:./LICENSE.txt[CC0 license]
