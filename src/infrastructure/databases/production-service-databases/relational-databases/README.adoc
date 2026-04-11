@@ -1,0 +1,13 @@
+= Relational Databases
+
+* https://www.postgresql.org/[PostgreSQL]
+* https://www.microsoft.com/en-us/sql-server[MSSQL (aka SQL Server)]
+* https://www.oracle.com/uk/database/[Oracle Database]
+* https://www.cockroachlabs.com/[CockroachDB]
+* https://www.sqlite.org/index.html[SQLite]
+
+== MySQL
+
+* https://www.mysql.com/[MySQL]
+* https://mariadb.org/[MariaDB]
+* https://www.percona.com/[Percona Server]

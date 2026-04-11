@@ -1,0 +1,10 @@
+= Document-Oriented (NoSQL) Databases
+
+* https://cassandra.apache.org/_/index.html[Cassandra]
+* https://aws.amazon.com/dynamodb/[Amazon DynamoDB]
+* https://couchdb.apache.org/[CouchDB]
+
+== MongoDB
+
+* https://www.mongodb.com/[MongoDB]
+* https://www.mongodb.com/products/tools/compass[Compass]

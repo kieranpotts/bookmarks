@@ -1,0 +1,7 @@
+= Data Warehouses (structured)
+
+* https://www.teradata.com/[Teradata]
+* https://www.snowflake.com/en/data-cloud/workloads/data-warehouse/[Snowflake Data Warehouse]
+* https://cloud.google.com/bigquery[Google BigQuery]
+* https://aws.amazon.com/redshift/[Amazon Redshift]
+* https://clickhouse.com/[ClickHouse]

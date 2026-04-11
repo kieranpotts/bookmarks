@@ -1,0 +1,6 @@
+= Key-Value Stores and In-Memory Object Caches
+
+* https://redis.io/[Redis]
+* https://www.singlestore.com/[SingleStore (formerly MemSQL)]
+* https://github.com/techfort/LokiJS[LokiJS]
+* https://memcached.org/[Memcached]
