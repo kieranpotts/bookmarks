@@ -1,0 +1,7 @@
+= Professional Bodies
+
+* https://www.acm.org/[ACM - The Association for Computing Machinery]
+* https://www.computer.org/[IEEE Computer Society (computer.org)]
+* https://www.ieee.org/[IEEE - Institute of Electrical and Electronics Engineers]
+* https://www.bcs.org/[BCS - The Chartered Institute for Computing]
+* https://www.usenix.org/[USENIX - The Advanced Computing Systems Association]

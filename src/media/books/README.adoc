@@ -1,0 +1,8 @@
+= Books
+
+* https://www.craftinginterpreters.com/[Crafting Interpreters]
+* https://pragprog.com/[Pragmatic Bookshelf]
+* https://abseil.io/resources/swe-book[Software Engineering at Google]
+* https://natureofcode.com/[The Nature of Code]
+* https://www.informit.com/imprint/series_detail.aspx?ser=334721[InformIT - Developer's Library Series]
+* https://www.gutenberg.org/[Project Gutenberg]

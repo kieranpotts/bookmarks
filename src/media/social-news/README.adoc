@@ -1,0 +1,6 @@
+= Social News
+
+* https://news.ycombinator.com/[Hacker News]
+* https://lobste.rs/[Lobsters]
+* https://www.echojs.com/[Echo JS]
+* https://slashdot.org/[Slashdot]

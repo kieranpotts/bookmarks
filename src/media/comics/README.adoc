@@ -1,0 +1,5 @@
+= Comics
+
+* https://xkcd.com/[xkcd]
+* https://cube-drone.com/#home[Cube Drone]
+* https://dilbert.com/[Dilbert.com]

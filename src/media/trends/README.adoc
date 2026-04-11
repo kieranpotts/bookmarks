@@ -1,0 +1,7 @@
+= Trends and Surveys
+
+* https://www.thoughtworks.com/radar[Thoughtworks Technology Radar]
+* https://www.tiobe.com/tiobe-index/[TIOBE Index]
+* https://survey.devographics.com/en-US/survey/state-of-js/2024[State of JS]
+* https://2024.stateofhtml.com/en-US[State of HTML]
+* https://insights.stackoverflow.com/survey/[Stack Overflow Insights]

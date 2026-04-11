@@ -1,0 +1,8 @@
+= Wikis and Bodies of Knowledge
+
+* https://folklore.org/[Folklore]
+* https://www.computer.org/education/bodies-of-knowledge/software-engineering[SWEBOK]
+* https://wiki.c2.com/[WikiWikiWeb]
+* http://catb.org/jargon/html/[The Jargon File]
+* http://hackersdictionary.com/html/index.html[The Hacker's Dictionary]
+* https://www.dourish.com/goodies/jargon.html[The Original Hacker's Dictionary]

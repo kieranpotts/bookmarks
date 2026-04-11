@@ -1,0 +1,12 @@
+= Journals / Research
+
+* https://www.similarweb.com/[SimilarWeb - Digital market research/intelligence]
+* https://www.worldscientific.com/worldscinet/ijseke[International Journal of Software Engineering and Knowledge Engineering]
+* https://cacm.acm.org/[Communications of the ACM]
+* https://dl.acm.org/[ACM Digital Library]
+* https://queue.acm.org/index.cfm[ACM Queue]
+* https://ieeexplore.ieee.org/Xplore/home.jsp[IEEE Xplore]
+* https://archivesit.org.uk/[Archives of IT]
+* https://www.engineeringvillage.com/home.url?redir=t[Elsevier Engineering Village]
+* https://www.csail.mit.edu/[MIT CSAIL]
+* https://research.google/[Google Research]
