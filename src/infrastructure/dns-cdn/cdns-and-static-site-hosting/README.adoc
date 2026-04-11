@@ -1,0 +1,4 @@
+= CDNs and Static Site Hosting
+
+* https://getforge.com/[Forge]
+* https://surge.sh/[Surge]

@@ -1,0 +1,8 @@
+= DNS Hosting Services
+
+* https://dnsmadeeasy.com/[DNS Made Easy - DigiCert]
+* https://www.oracle.com/cloud/networking/dns/[Oracle OCI DNS]
+* https://www.ibm.com/products/ns1-connect[IBM NS1 Connect]
+* https://www.pointhq.com/[PointDNS]
+* https://developers.google.com/speed/public-dns[8.8.8.8 (Google Public DNS)]
+* https://one.one.one.one/dns/[1.1.1.1 (Cloudflare)]

@@ -1,0 +1,11 @@
+= DNS Lookup
+
+* https://dns.google/[Google DNS]
+* https://dns-lookup.jvns.ca/[jvns.ca - DNS Lookup]
+* https://who.is/[who.is]
+* https://dnschecker.org/[DNS Checker (Propagation)]
+* https://www.whatsmydns.net/[DNS Propagation Checker]
+* https://www.iana.org/whois[IANA WHOIS Service]
+* https://mxtoolbox.com/[MX Toolbox]
+* https://powerdmarc.com/dmarc-record-checker/[DMARC Record Checker]
+* https://ifconfig.me/[ifconfig.me - lookup your IP address]

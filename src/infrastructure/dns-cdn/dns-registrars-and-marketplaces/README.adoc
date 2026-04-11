@@ -1,0 +1,6 @@
+= DNS Registrars and Marketplaces
+
+* https://www.namecheap.com/[Namecheap]
+* https://sedo.com/uk/[Sedo]
+* https://www.name.com/[Name.com]
+* https://dan.com/[Dan.com]

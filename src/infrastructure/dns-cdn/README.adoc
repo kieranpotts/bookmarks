@@ -3,66 +3,13 @@
 * https://www.cloudflare.com/en-gb/[Cloudflare]
 * https://www.iana.org/domains/root/db[Root Zone Database]
 
-== CDNs and Static Site Hosting
-
-* https://getforge.com/[Forge]
-* https://surge.sh/[Surge]
-
-== Reverse Proxies
-
-* https://varnish-cache.org/[Varnish]
-
-== DNS Hosting Services
-
-* https://dnsmadeeasy.com/[DNS Made Easy - DigiCert]
-* https://www.oracle.com/cloud/networking/dns/[Oracle OCI DNS]
-* https://www.ibm.com/products/ns1-connect[IBM NS1 Connect]
-* https://www.pointhq.com/[PointDNS]
-* https://developers.google.com/speed/public-dns[8.8.8.8 (Google Public DNS)]
-* https://one.one.one.one/dns/[1.1.1.1 (Cloudflare)]
-
-== Secondary DNS (Replication) Services
-
-* https://www.buddyns.com/[BuddyDNS]
-
-== DNS Lookup
-
-* https://dns.google/[Google DNS]
-* https://dns-lookup.jvns.ca/[jvns.ca - DNS Lookup]
-* https://who.is/[who.is]
-* https://dnschecker.org/[DNS Checker (Propagation)]
-* https://www.whatsmydns.net/[DNS Propagation Checker]
-* https://www.iana.org/whois[IANA WHOIS Service]
-* https://mxtoolbox.com/[MX Toolbox]
-* https://powerdmarc.com/dmarc-record-checker/[DMARC Record Checker]
-* https://ifconfig.me/[ifconfig.me - lookup your IP address]
-
-== DNS Registrars and Marketplaces
-
-* https://www.namecheap.com/[Namecheap]
-* https://sedo.com/uk/[Sedo]
-* https://www.name.com/[Name.com]
-* https://dan.com/[Dan.com]
-
-== Domain Name Generators
-
-* https://www.panabee.com/[Panabee]
-
-== Expired Domains & Backorders
-
-* https://www.dropcatch.com/[DropCatch]
-* https://auctions.godaddy.com/beta[GoDaddy Auctions]
-* https://www.expireddomains.net/[ExpiredDomains.net]
-* https://www.snapnames.com/[Snapnames]
-
-== Domain Name Valuation
-
-* https://domainvaluator.net/[Domain Valuator]
-* https://pc.domains/[Domain Price Checker]
-* https://humbleworth.com/[HumbleWorth]
-* https://uk.godaddy.com/domain-value-appraisal[GoDaddy Domain Appraisal]
-* https://www.atom.com/domain-appraisal[Atom.com]
-
-== DNS Tools
-
-* https://powerdmarc.com/dmarc-record-generator/[Free DMARC Generator]
+* *link:./cdns-and-static-site-hosting/[CDNs and Static Site Hosting]*
+* *link:./reverse-proxies/[Reverse Proxies]*
+* *link:./dns-hosting-services/[DNS Hosting Services]*
+* *link:./secondary-dns-replication-services/[Secondary DNS (Replication) Services]*
+* *link:./dns-lookup/[DNS Lookup]*
+* *link:./dns-registrars-and-marketplaces/[DNS Registrars and Marketplaces]*
+* *link:./domain-name-generators/[Domain Name Generators]*
+* *link:./expired-domains-and-backorders/[Expired Domains & Backorders]*
+* *link:./domain-name-valuation/[Domain Name Valuation]*
+* *link:./dns-tools/[DNS Tools]*
