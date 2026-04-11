@@ -1,67 +1,10 @@
 = Content Management Systems (CMS)
 
-== Blogging and Personal Publishing Platforms
-
-* https://substack.com/[Substack]
-* https://bearblog.dev/[Bear Blog]
-* https://medium.com/[Medium]
-* https://micro.blog/[Micro.blog]
-* https://notepin.co/[Notepin]
-
-== Book Publishing
-
-* https://leanpub.com/[Leanpub]
-
-== Database CMS + Web Frontend
-
-* https://www.fork-cms.com/[Fork]
-* https://wordpress.org/[WordPress]
-* https://umbraco.com/[Umbraco CMS]
-* https://hashnode.com/[hashnode]
-* https://ghost.org/[Ghost]
-
-== Flat-File and Git-Based CMSes
-
-* https://getkirby.com/[Kirby]
-* https://spinalcms.com/[Spinal CMS]
-* https://decapcms.org/[Decap CMS (formerly Netlify CMS)]
-* https://cloudcannon.com/[CloudCannon]
-* https://tina.io/[Tina CMS]
-* https://statamic.com/[Statamic]
-* https://frontmatter.codes/[Front Matter CMS]
-
-== Visual CMSes
-
-* https://shorthand.com/[Shorthand]
-* https://apostrophecms.com/[Apostrophe CMS]
-* https://www.builder.io/[Builder.io]
-
-== Headless CMSes
-
-* https://prismic.io/[Prismic]
-* https://directus.io/[Directus]
-* https://www.sitecore.com/products/experience-manager[Sitecore Experience Manager]
-* https://www.sanity.io/[Sanity CMS]
-* https://prepr.io/[Prepr CMS]
-* https://payloadcms.com/[PayloadCMS]
-* https://microcms.io/en[microCMS]
-* https://keystonejs.com/[KeystoneJS]
-* https://crystallize.com/[Crystallize]
-* https://caisy.io/[Caisy]
-* https://strapi.io/[Strapi]
-* https://kontent.ai/[Kontent.ai]
-* https://keystatic.com/[Keystatic]
-* https://hygraph.com/[Hygraph]
-* https://www.datocms.com/[DatoCMS]
-* https://www.cosmicjs.com/[Cosmic]
-* https://buttercms.com/[ButterCMS]
-* https://www.contentful.com/[Contentful]
-* https://www.storyblok.com/[StoryBlok]
-
-== Static-Site Generation Only
-
-* https://getpublii.com/[Publii]
-
-== Translation Management
-
-* https://phrase.com/[Phrase]
+* *link:./blogging-and-personal-publishing-platforms/[Blogging and Personal Publishing Platforms]*
+* *link:./book-publishing/[Book Publishing]*
+* *link:./database-cms-and-web-frontend/[Database CMS + Web Frontend]*
+* *link:./flat-file-and-git-based-cmses/[Flat-File and Git-Based CMSes]*
+* *link:./visual-cmses/[Visual CMSes]*
+* *link:./headless-cmses/[Headless CMSes]*
+* *link:./static-site-generation-only/[Static-Site Generation Only]*
+* *link:./translation-management/[Translation Management]*

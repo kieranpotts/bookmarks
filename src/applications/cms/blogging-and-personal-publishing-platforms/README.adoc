@@ -1,0 +1,7 @@
+= Blogging and Personal Publishing Platforms
+
+* https://substack.com/[Substack]
+* https://bearblog.dev/[Bear Blog]
+* https://medium.com/[Medium]
+* https://micro.blog/[Micro.blog]
+* https://notepin.co/[Notepin]

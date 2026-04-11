@@ -1,0 +1,9 @@
+= Flat-File and Git-Based CMSes
+
+* https://getkirby.com/[Kirby]
+* https://spinalcms.com/[Spinal CMS]
+* https://decapcms.org/[Decap CMS (formerly Netlify CMS)]
+* https://cloudcannon.com/[CloudCannon]
+* https://tina.io/[Tina CMS]
+* https://statamic.com/[Statamic]
+* https://frontmatter.codes/[Front Matter CMS]
