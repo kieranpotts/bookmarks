@@ -1,0 +1,9 @@
+= Mail Servers
+
+* http://www.postfix.org/[Postfix]
+* https://www.sendmail.org/[Sendmail]
+* https://www.dovecot.org/[Dovecot]
+* https://www.exim.org/[Exim Internet Mailer]
+* https://www.iredmail.org/[iRedMail]
+* https://modoboa.org/en/[Modoboa]
+* https://wildduck.email/[WildDuck]

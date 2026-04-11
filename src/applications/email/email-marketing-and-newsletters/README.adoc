@@ -1,0 +1,15 @@
+= Email Marketing and Newsletters
+
+* https://www.benchmarkemail.com/[Benchmark]
+* https://buttondown.email/[Buttondown]
+* https://listmonk.app/[listmonk]
+* https://www.brevo.com/[Brevo]
+* https://www.campaignmonitor.com/[Campaign Monitor]
+* https://emailoctopus.com/[EmailOctopus]
+* https://mailchimp.com/[MailChimp]
+* https://www.mailjet.com/[MailJet]
+* https://www.mautic.org/[Mautic]
+* https://moonmail.io/[MoonMail]
+* https://www.phplist.com/[phpList]
+* https://sendune.com/[Sendune]
+* https://sendy.co/[Sendy]

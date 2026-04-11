@@ -1,0 +1,5 @@
+= Temporary Email Addresses
+
+* https://temp-mail.org/en/[TempMail]
+* https://email.ml/[Email.ml]
+* https://www.throwawaymail.com/[ThrowAwayEmail.com]

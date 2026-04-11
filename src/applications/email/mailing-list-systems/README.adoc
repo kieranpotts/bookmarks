@@ -1,0 +1,6 @@
+= Mailing List Systems
+
+* https://www.phplist.org/[phpList]
+* https://www.list.org/[GNU Mailman]
+* https://www.mailmanlists.net/[MailmanLists]
+* https://www.simplelists.com/[SimpleLists]

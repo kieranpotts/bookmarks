@@ -1,0 +1,9 @@
+= Mailboxes
+
+* https://tuta.com/[Tuta]
+* https://mailbox.org/[Mailbox]
+* https://proton.me/[Proton]
+* https://kolab.org/[Kolab]
+* https://www.zoho.com/[Zoho]
+* https://www.zimbra.com/[Zimbra]
+* https://www.fastmail.com/[Fastmail]
