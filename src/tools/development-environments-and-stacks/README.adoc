@@ -1,0 +1,13 @@
+= Development Environments & Stacks
+
+* https://containers.dev/[Dev Containers]
+
+== LAMP-Like Stacks
+
+* https://ampps.com/[AMPPS]
+* https://www.apachefriends.org/[XAMPP - Apache Friends]
+* https://wampserver.aviatechno.net/[WampServer]
+* https://www.easyphp.org/[EasyPHP]
+* https://www.mamp.info/en/windows/[MAMP]
+* https://frankenphp.dev/[FrankenPHP]
+* https://www.apachefriends.org/index.html[XAMPP]

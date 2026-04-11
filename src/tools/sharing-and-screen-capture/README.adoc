@@ -1,0 +1,5 @@
+= Sharing and Screen Capture
+
+* https://www.screentogif.com/[ScreenToGif]
+* https://www.loom.com/[Loom]
+* https://github.com/chjj/ttystudio[ttystudio]

@@ -1,0 +1,28 @@
+= Testing Tools (Static and Dynamic - Platform Agnostic)
+
+== Performance and Load Testing
+
+* https://github.com/sharkdp/hyperfine[Hyperfine - CLI benchmarking utility]
+* https://gatling.io/[Gatling]
+* https://k6.io/[k6]
+* https://jmeter.apache.org/[JMeter]
+* https://locust.io/[Locust]
+
+== Static and Dynamic Application Security Testing (SAST, DAST)
+
+* https://checkmarx.com/[Checkmarx]
+* https://www.mend.io/[Mend.io]
+* https://sandworm.dev/[Sandworm]
+* https://portswigger.net/burp[Burp Suite]
+* https://www.zaproxy.org/[ZAP (Zed Attack Proxy)]
+* https://cloudmersive.com/[Cloudmersive]
+
+=== Pen Testing Tools and Services
+
+* https://ioactive.com/[IOActive]
+* https://www.cobalt.io/[Cobalt]
+
+=== Secrets Scanning
+
+* https://gitleaks.io/[GitLeaks]
+* https://trufflesecurity.com/trufflehog[TruffleHog]

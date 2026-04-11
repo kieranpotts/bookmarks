@@ -1,0 +1,15 @@
+= Diffing and Merging Tools
+
+* https://www.araxis.com/merge/[AraxisMerge]
+* https://www.scootersoftware.com/[BeyondCompare]
+* https://www.devart.com/codecompare/[CodeCompare]
+* https://www.deltawalker.com/[DeltaWalker]
+* https://www.sourcegear.com/diffmerge/[SourceGear DiffMerge]
+* https://kdiff3.sourceforge.net/[KDiff3]
+* https://meldmerge.org/[Meld]
+* https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge[P4Merge]
+* https://docs.plasticscm.com/semanticmerge[SemanticMerge]
+* https://tortoisegit.org/docs/tortoisegitmerge/[TortoiseGitMerge (for Git)]
+* https://tortoisesvn.net/TortoiseMerge.html[TortoiseMerge (for SVN)]
+* https://www.ultraedit.com/products/ultracompare/[UltraCompare]
+* https://winmerge.org/[WinMerge]

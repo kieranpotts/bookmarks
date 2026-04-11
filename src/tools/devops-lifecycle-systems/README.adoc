@@ -1,0 +1,53 @@
+= DevOps Lifecycle Systems
+
+== All-in-One DevOps Systems
+
+* https://about.gitlab.com/[GitLab]
+* https://azure.microsoft.com/en-us/products/devops/server/[Azure DevOps Server]
+* https://unity.com/products/unity-devops[Unity DevOps]
+
+=== GitHub
+
+* https://github.com/[GitHub]
+* https://github.com/marketplace[GitHub Marketplace]
+
+== Code Repository Hosting
+
+* https://bitbucket.org/[Bitbucket]
+* https://codeberg.org/[Codeberg]
+
+== Artifact Repositories
+
+* https://jfrog.com/[JFrog]
+
+== Code Search
+
+* https://grep.app/[grep.app]
+
+== CI/CD Systems (Automation Servers)
+
+* https://semaphoreci.com/[Semaphor]
+* https://spinnaker.io/[Spinnaker]
+* https://www.jetbrains.com/teamcity/pipelines/[JetBrains Pipelines]
+* https://circleci.com/[Circle CI]
+* https://www.jenkins.io/[Jenkins]
+* https://tekton.dev/[Tekton]
+* https://www.cloudbees.com/[CloudBees]
+* https://www.travis-ci.com/[Travis]
+
+=== GitHub Actions
+
+* https://github.com/features/actions[GitHub Features - GitHub Actions]
+* https://docs.github.com/en/actions[GitHub Actions Documentation]
+* https://github.com/actions/starter-workflows/tree/main[Git Actions - Starter Workflows]
+* https://github.com/actions[GitHub Actions - Official Actions Repositories]
+* https://github.com/marketplace?type=actions[GitHub Marketpace - All Actions]
+* https://www.blacksmith.sh/[Blacksmith]
+
+== CI/CD Integrations (Automation Tools and Services)
+
+* https://devfactory.com/codefix-3/[DevFactory CodeFix]
+
+== README Integrations
+
+* https://shields.io/[Shields.io]

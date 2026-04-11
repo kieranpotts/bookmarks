@@ -1,0 +1,8 @@
+= Email Capture
+
+* https://debugmail.io/[DebugMail]
+* https://mailcatcher.me/[MailCatcher]
+* https://github.com/mailhog/MailHog[MailHog]
+* https://github.com/maildev/maildev[MailDev]
+* https://mailtrap.io/[MailTrap]
+* https://pypi.org/project/lazr.smtptest/[lazr.smtptest]

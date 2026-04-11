@@ -1,0 +1,6 @@
+= Terminals and Terminal Emulators
+
+* https://gnome-terminator.readthedocs.io/en/latest/[Terminator]
+* https://hyper.is/[Hyper]
+* https://www.warp.dev/[Warp]
+* https://invisible-island.net/xterm/[xterm]

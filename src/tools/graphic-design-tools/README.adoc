@@ -1,0 +1,109 @@
+= Graphic Design Tools
+
+* https://www.canva.com/draw/[Canva Draw]
+
+== Accessibility Tools
+
+* https://www.learnui.design/tools/accessible-color-generator.html[Accessible Color Generator - Learn UI Design]
+
+== Photo Libraries and Digital Asset Management
+
+* https://svgx.app/[SVGX]
+* https://iconset.io/[Iconset]
+
+== Animation Tools
+
+* https://www.synfig.org/[Synfig Studio]
+* https://www.pencil2d.org/[Pencil2D Animation]
+* https://www.svgator.com/[svgator]
+* https://www.keyshapeapp.com/[Keyshape]
+* https://spiritapp.io/[Spirit]
+
+== Color Scheme and Gradient Generators
+
+* https://hslpicker.com/[HSL Color Picker]
+* https://www.adobe.com/express/learn/blog/101-brilliant-color-combinations[101 Brilliant Color Combinations - Adobe Express Blog]
+* https://picture-palette.web.app/[Picture Palette]
+* http://materialuicolors.co/[Material UI Colors]
+* https://flatuicolors.com/[Flat UI Colors]
+* https://www.learnui.design/tools/data-color-picker.html[Palette Generator - Learn UI Design]
+* https://clrs.cc/[clrs.cc]
+* https://colormagic.app/[ColorMagic]
+* https://access.mymind.com/colors[My Mind - Curated Color Palette]
+* https://colorhunt.co/[Color Hunt]
+* https://colorme.io/[ColorMe]
+* https://coolors.co/[Coolors]
+* https://duotones.co/[Duotones]
+* https://htmlcolorcodes.com/[HTML Color Code]
+* https://picular.co/[Picular]
+* https://yeun.github.io/open-color/[Open Color]
+* https://cssgradient.io/[CSS Gradient]
+* https://www.grabient.com/[Grabient]
+* https://www.tints.dev/blue/3B82F6[Tints]
+* https://coolors.co/1f271b-0b4f6c-145c9e-cbb9a8-dcc7be[Coolors]
+* https://maketintsandshades.com/[Tint and Shade Generator]
+* https://meyerweb.com/eric/tools/color-blend/#F2F4F8:E4E7EB:1:hex[Color Blender]
+
+== Image Compression and Optimization
+
+* https://svgo.dev/[SVGO]
+* https://jakearchibald.github.io/svgomg/[SVGOMG]
+* https://compressor.io/[Compressor.io]
+* https://picsmaller.com/[Pic Smaller]
+
+== Mockups and Prototyping
+
+* https://helpx.adobe.com/in/support/xd.html[Adobe XD (deprecated)]
+* https://balsamiq.com/[Balsamiq]
+* https://www.canva.com/en_gb/[Canva]
+* https://www.figma.com/[Figma]
+* https://www.flinto.com/[Flinto]
+* https://www.fluidui.com/[Fluid UI]
+* https://froont.com/[Froont]
+* https://www.hotgloo.io/[HotGloo]
+* https://www.invisionapp.com/[Invision]
+* https://www.justinmind.com/[Justinmind]
+* https://marvelapp.com/[Marvel]
+* https://mockflow.com/[MockFlow]
+* https://moqups.com/[Moqups]
+* https://pencil.evolus.vn/[Pencil]
+* https://proto.io/[Proto.io]
+* https://www.protopie.io/[ProtoPie]
+* https://www.sketch.com/[Sketch]
+* https://www.uxpin.com/[UX Pin]
+* https://webflow.com/[Webdlow]
+* https://wireflow.co/[Wireflow]
+* https://wireframe.cc/[wireframe.cc]
+* https://screenshot.rocks/[Screenshot.Rocks]
+* https://frame0.app/[Frame0]
+
+== Code Image Generators
+
+* https://carbon.now.sh/[Carbon]
+* https://ray.so/[ray.so]
+
+== Ascii Art Tools
+
+* https://www.kammerl.de/ascii/AsciiSignature.php[ASCII Text Signature]
+* https://asciiflow.com/[asciiflow]
+* https://textik.com/[Testik]
+
+== Typography Tools and Font Design
+
+* https://v-fonts.com/[Variable Fonts]
+* https://fontforge.org/en-US/[FontForge]
+
+== Photo Editing
+
+* https://playground.com/[Playground]
+
+== Vector Graphics Editors
+
+* https://svg-path-visualizer.netlify.app/[SVG Path Visualizer]
+* https://yqnn.github.io/svg-path-editor/[svg-path-editor]
+* https://svgartista.net/[SV Artista]
+* https://vecta.io/[vecta.io]
+* https://www.gimp.org/[GIMP - GNU Image Manipulation Program]
+* https://inkscape.org/[Inkscape]
+* https://github.com/SVG-Edit/svgedit[svgedit]
+* https://svg.wtf/[svg.wtf]
