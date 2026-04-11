@@ -1,0 +1,19 @@
+= Practices and Techniques
+
+== Refactoring
+
+* https://sourcemaking.com/refactoring[Source Making: Refactoring]
+* https://refactoring.guru/refactoring[Refactoring Guru]
+
+== Test-Driven Development
+
+* https://martinfowler.com/bliki/TestDrivenDevelopment.html[Martin Fowler: Test Driven Development]
+
+== Version Control Methodologies
+
+* https://nvie.com/posts/a-successful-git-branching-model/[GitFlow]
+* https://docs.github.com/en/get-started/using-github/github-flow[GitHub Flow]
+* https://martinfowler.com/articles/ship-show-ask.html[Ship/Show/Ask]
+* https://trunkbaseddevelopment.com/[Trunk-Based Development]
+* https://www.conventionalcommits.org/en/v1.0.0/[Conventional Commits]
+* https://keepachangelog.com/en/1.1.0/[Keep a Changelog]

@@ -1,0 +1,9 @@
+= Open Source
+
+* https://opensource.guide/[Open Source Guides]
+* https://sfconservancy.org/[Software Freedom Conservancy]
+* https://copyfree.org/[Copyfree]
+
+== Licenses
+
+* https://mariadb.com/bsl11/[Business Source License]

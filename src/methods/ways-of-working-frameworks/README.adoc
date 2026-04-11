@@ -1,0 +1,20 @@
+= Ways of Working Frameworks
+
+* https://www.pmi.org/standards/pmbok[PMBOK]
+* https://kanbanguides.org/[Kanban]
+* http://www.extremeprogramming.org/[Extreme Programming]
+* http://infolab.stanford.edu/~burback/water_sluice/sluice6.25.97/ws/watersluice.html[WaterSluice]
+* https://web.archive.org/web/20161002055756/https://www.dsdm.org/[DSDM (web.archive.org)]
+* http://pages.swcp.com/raccoon/chaosmodel.html[Chaos Model]
+* https://basecamp.com/shapeup[Shape Up]
+* https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum[The MANY Alternatives to Scrum - Adam Ard]
+
+== Scrum
+
+* https://www.scrum.org/[Scrum.org]
+* https://less.works/[LeSS (Large-Scale Scrum)]
+
+== SAFe
+
+* https://scaledagile.com/[SAFe - Scaled Agile, Inc.]
+* https://scaledagileframework.com/[SAFe - Scaled Agile Framework]

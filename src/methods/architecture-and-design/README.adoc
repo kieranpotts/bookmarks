@@ -1,0 +1,23 @@
+= Architecture and Design
+
+* https://martinfowler.com/architecture/[Software Architecture Guide - Martin Fowler]
+* https://pubs.opengroup.org/architecture/togaf8-doc/arch/toc.html[TOGAF - The Open Group Architecture Framework]
+* https://iasaglobal.org/[IASA - Association for IT Architects]
+
+== Algorithms
+
+== Data Structures
+
+== Design Patterns
+
+* https://c2.com/ppr/[Portland Pattern Repository (on the WikiWikiWeb)]
+* https://www.thoughtworks.com/insights/topic/architecture[Thoughtworks - Architecture]
+* https://openlibrary.org/works/OL8021055W/The_Pattern_Almanac_2000[The Pattern Almanac 2000 by Linda Rising]
+* http://c2.com/ppr/[Portland Pattern Repository]
+* https://codewithmosh.com/p/design-patterns[Code with Mosh - The Ultimate Design Pattern Series]
+* https://refactoring.guru/design-patterns[Refactoring Guru: Design Patterns]
+* https://sourcemaking.com/design_patterns[Source Making: Design Patterns]
+
+== Complexity Metrics
+
+* https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/[Big O Notation]

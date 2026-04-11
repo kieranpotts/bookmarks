@@ -1,0 +1,7 @@
+= Principles and Manifestos
+
+* https://malleable.systems/[Malleable Systems Collective]
+* https://agilemanifesto.org/[Manifesto for Agile Software Development]
+* http://manifesto.softwarecraftsmanship.org/[Manifesto for Software Craftsmanship]
+* https://www.reactivemanifesto.org/[The Reactive Manifesto]
+* http://www.halfarsedagilemanifesto.org/[Manifesto for Half-Arsed Agile Software Development]
