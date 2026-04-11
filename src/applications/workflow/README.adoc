@@ -1,0 +1,8 @@
+= Task/Workflow Automation
+
+* https://ifttt.com/[ITFFF]
+* https://n8n.io/[n8n]
+* https://tray.io/[tray.io]
+* https://trigger.dev/[Trigger.dev]
+* https://zapier.com/[Zapier]
+* https://nodered.org/[NODE-Red]

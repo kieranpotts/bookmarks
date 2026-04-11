@@ -1,0 +1,4 @@
+= ChatOps and IRC Clients
+
+* https://github.com/thelounge/thelounge[The Lounge]
+* https://slack.com/intl/en-gb/[Slack]

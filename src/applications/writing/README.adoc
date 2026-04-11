@@ -1,0 +1,35 @@
+= Writing and Research
+
+== Writing Assistants
+
+* https://www.grammarly.com/[Grammarly]
+* https://hemingwayapp.com/[Hemingway Editor]
+
+== Publishing Tools
+
+* https://www.zettlr.com/[Zettlr]
+
+== Text Editors
+
+* https://obsidian.md/[Obsidian]
+* https://writefreely.org/[Write Freely]
+* https://caret.io/[Caret]
+* https://markdownify.js.org/[Markdownify]
+* https://github.com/notable/notable[Notable]
+* https://typora.io/[Typora]
+* https://zenpen.io/[ZenPen]
+* https://ghostwriter.kde.org/[Ghostwriter]
+
+== Note Taking and Research Management
+
+* https://evernote.com/[Evernote]
+* https://orgmode.org/[Org Mode]
+* https://www.inkdrop.app/[Inkdrop]
+* https://simplenote.com/[Simplenote]
+* https://standardnotes.com/[Standard Notes]
+* https://www.zotero.org/[Zotero]
+
+== Reference
+
+* https://www.dictionary.com/[Dictionary.com]
+* https://www.thesaurus.com/[Thesaurus.com]

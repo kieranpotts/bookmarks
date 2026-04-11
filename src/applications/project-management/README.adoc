@@ -1,0 +1,15 @@
+= Issue Trackers and Project Management
+
+* https://www.tegon.ai/[Tegon]
+* https://www.shortcut.com/[Shortcut]
+* https://monday.com/[monday.com]
+* https://asana.com/[Asana]
+* https://basecamp.com/[Basecamp]
+* https://workflowmax2.com/[Workflow Max]
+* https://www.bugzilla.org/[Bugzilla]
+* https://www.getflow.com/[Flow]
+* https://www.atlassian.com/software/jira[Jira]
+* https://linear.app/[Linear]
+* https://podio.com/[Podio]
+* https://trac.edgewall.org/[trac]
+* https://trello.com/[Trello]

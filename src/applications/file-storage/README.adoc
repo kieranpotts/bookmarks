@@ -1,0 +1,5 @@
+= File Storage, Syncing and Sharing (inc. Encryption)
+
+* https://cryptomator.org/[Cryptomator]
+* https://syncthing.net/[Syncthing]
+* https://www.dropbox.com/[Dropbox]

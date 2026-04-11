@@ -1,0 +1,50 @@
+= Email
+
+== Mailboxes
+
+* https://tuta.com/[Tuta]
+* https://mailbox.org/[Mailbox]
+* https://proton.me/[Proton]
+* https://kolab.org/[Kolab]
+* https://www.zoho.com/[Zoho]
+* https://www.zimbra.com/[Zimbra]
+* https://www.fastmail.com/[Fastmail]
+
+== Temporary Email Addresses
+
+* https://temp-mail.org/en/[TempMail]
+* https://email.ml/[Email.ml]
+* https://www.throwawaymail.com/[ThrowAwayEmail.com]
+
+== Email Marketing and Newsletters
+
+* https://www.benchmarkemail.com/[Benchmark]
+* https://buttondown.email/[Buttondown]
+* https://listmonk.app/[listmonk]
+* https://www.brevo.com/[Brevo]
+* https://www.campaignmonitor.com/[Campaign Monitor]
+* https://emailoctopus.com/[EmailOctopus]
+* https://mailchimp.com/[MailChimp]
+* https://www.mailjet.com/[MailJet]
+* https://www.mautic.org/[Mautic]
+* https://moonmail.io/[MoonMail]
+* https://www.phplist.com/[phpList]
+* https://sendune.com/[Sendune]
+* https://sendy.co/[Sendy]
+
+== Mailing List Systems
+
+* https://www.phplist.org/[phpList]
+* https://www.list.org/[GNU Mailman]
+* https://www.mailmanlists.net/[MailmanLists]
+* https://www.simplelists.com/[SimpleLists]
+
+== Mail Servers
+
+* http://www.postfix.org/[Postfix]
+* https://www.sendmail.org/[Sendmail]
+* https://www.dovecot.org/[Dovecot]
+* https://www.exim.org/[Exim Internet Mailer]
+* https://www.iredmail.org/[iRedMail]
+* https://modoboa.org/en/[Modoboa]
+* https://wildduck.email/[WildDuck]

@@ -1,0 +1,6 @@
+= Image Optimization / Compression
+
+* https://www.jpeg.io/[jpeg.io]
+* https://www.jpegmini.com/[JPEGmini]
+* https://kraken.io/[Kraken]
+* https://tinypng.com/[tinify]

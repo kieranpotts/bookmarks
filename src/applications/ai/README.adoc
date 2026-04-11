@@ -1,0 +1,27 @@
+= AI
+
+== General AI
+
+* https://lmstudio.ai/[LM Studio]
+
+== AI Agents
+
+* https://www.deepseek.com/[DeepSeek]
+* https://www.perplexity.ai/[Perplexity]
+* https://replit.com/[Replit]
+* https://claude.ai/[Claude]
+* https://gemini.google.com/[Gemini]
+
+== AI Models
+
+* https://ollama.com/[Ollama]
+* https://www.ibm.com/granite[IBM Granite]
+* https://platform.openai.com/docs/api-reference/introduction[OpenAPI GPT-4]
+* https://x.ai/news/grok-4[Grok 4]
+* https://www.anthropic.com/claude/opus[Claude Opus 4]
+* https://www.anthropic.com/claude/sonnet[Claude Sonnet 4]
+
+== Front-Ends
+
+* https://docs.openwebui.com/[OpenWebUI]
+* https://www.kaibanjs.com/[KaibanJS]

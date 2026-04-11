@@ -1,0 +1,7 @@
+= Customer Relationship Management (CRM)
+
+* https://capsulecrm.com/[Capsule]
+* https://www.close.com/[Close]
+* https://www.hubspot.com/[Hubspot]
+* https://www.monicahq.com/[Monica]
+* https://overloop.com/[Overloop]

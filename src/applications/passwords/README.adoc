@@ -1,0 +1,14 @@
+= Password and Secrets Management/Sharing
+
+* https://1password.com/[1Password]
+* https://www.keepersecurity.com/[Keeper]
+* https://www.lastpass.com/[LastPass]
+* https://bitwarden.com/[Bitwarden]
+* https://github.com/dani-garcia/vaultwarden[Vaultwarden]
+* https://buttercup.pw/[Buttercup]
+* https://www.doppler.com/[Doppler]
+* https://www.keepassx.org/[KeePassX]
+* https://keepassxc.org/[KeePassXC]
+* https://keepass.info/[KeePass]
+* https://onetimesecret.com/[One Time Secret]
+* https://scrt.run/[scrt]

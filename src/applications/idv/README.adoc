@@ -1,0 +1,5 @@
+= Identity Verification (IDV) and Know Your Customer (KYC) services
+
+* https://www.yoti.com/[YOTI]
+* https://idverse.com/[IDVerse]
+* https://resistant.ai/[Resistant.ai]

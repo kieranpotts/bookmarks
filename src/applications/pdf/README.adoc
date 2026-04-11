@@ -1,0 +1,7 @@
+= PDF Generation and Editing
+
+* https://www.pdf24.org/en/[PDF24]
+* https://www.adobe.com/uk/acrobat/online.html[Adobe PDF Tools]
+* https://sign.dropbox.com/[Dropbox Sign]
+* https://smallpdf.com/[Smallpdf]
+* https://www.xpdfreader.com/index.html[Xpdf]
