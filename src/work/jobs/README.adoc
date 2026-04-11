@@ -1,0 +1,133 @@
+= Jobs
+
+== Contract/Freelance
+
+* https://catalant.com/[Catalant ★]
+* https://contra.com/[Contra ★]
+* https://www.designhill.com/[designhill ★]
+* https://www.fiverr.com/[Fiverr ★]
+* https://gigged.ai/[Gigged.ai ★]
+* https://gun.io/[Gun.io ★]
+* https://www.upwork.com/[Upwork ★]
+* https://www.mturk.com/[Amazon Mechanical Turk]
+* https://www.clickworker.com/[Clickworker]
+* https://www.contractspy.co.uk/[Contract Spy]
+* https://www.freelancermap.com/[freelancermap]
+* https://www.freelancer.com/[Freelancer.com]
+* https://outsideir35roles.com/[Outside IR35 Jobs]
+* https://www.peopleperhour.com/[PeoplePerHour]
+* https://www.procontractjobs.com/[Pro Contract Jobs]
+* https://www.remotasks.com/en[Remotasks]
+* https://www.remotejobs.ninja/[Remote Jobs Ninja]
+* https://remoteworkjunkie.com/[Remote Work Junkie]
+* https://www.toptal.com/[Toptal]
+* https://www.procontractjobs.com/it-jobs[ProContractJobs: IT]
+* https://project.partners/[ProjectPartners]
+* https://www.toptalents.com/[Top Talents]
+
+== Creative
+
+* https://99designs.co.uk/[99designs]
+* https://www.behance.net/joblist[Behance Jobs]
+* https://dribbble.com/jobs[Dribbble Jobs]
+
+== General Search
+
+* https://www.jobsite.co.uk/[jobsite ★]
+* https://www.jobserve.com/gb/en/[jobserve ★]
+* https://www.cv-library.co.uk/[CV-Library ★]
+* https://uk.indeed.com/[Indeed ★]
+* https://www.linkedin.com/jobs/?=[LinkedIn Jobs ★]
+* https://www.glassdoor.co.uk/Job/index.htm[Glassdoor Job Search ★]
+* https://www.arenella-ict.com/[Arenella ICT]
+* https://hackajob.com/talent[hackajob]
+* https://www.careerbeacon.com/[CareerBeacon]
+* https://www.careerjet.co.uk/[Careerjet.co.uk]
+* https://cord.co/[Cord]
+* https://www.escapethecity.org/[Escape the City]
+* https://hired.co.uk/[Hired.com]
+* https://www.jobillico.com/en[jobillico.com]
+* https://www.jobsrmine.com/[jobsRmine]
+* https://usemassive.com/[Massive]
+* https://www.monster.com/[Monster]
+* https://powertofly.com/[Power to Fly]
+* https://www.simplyhired.com/[SimplyHired]
+* https://www.snagajob.com/[snagajob]
+* https://uk.talent.com/[Talent.com]
+* https://trueup.io/[TrueUp]
+* https://www.ziprecruiter.co.uk/[ZipRecruiter]
+* https://www.purpose.jobs/[Purpose Jobs]
+
+== Remote
+
+* https://allremote.jobs/[All Remote (formerly Outsourcely)]
+* https://www.crossover.com/[Crossover]
+* https://dynamitejobs.com/[Dynamite Jobs]
+* https://www.findasync.com/[FindAsync]
+* https://flexa.careers/[Flexa Career]
+* https://www.flexjobs.com/[FlexJobs]
+* https://jobspresso.co/[Jobspresso]
+* https://pangian.com/[Pangian]
+* https://remoteok.com/[Remote OK]
+* https://www.remoteyear.com/find-a-job[Remote Year]
+* https://www.remoteworker.co.uk/[Remote Worker (UK)]
+* https://remote.co/[Remote.co]
+* https://www.commitasync.com/[RemoteAsync]
+* https://www.remotehub.com/[RemoteHub]
+* https://remotive.com/[Remotive]
+* https://www.skipthedrive.com/[Skip the Drive]
+* https://weworkremotely.com/[We Work Remotely]
+* https://workew.com/[Workew]
+* https://www.workingnomads.com/jobs[Working Nomads]
+* https://iworkremote.app/[WorkRemote]
+* https://javascript.jobs/remote[Remote Javascript Jobs]
+* https://nodesk.co/[NoDesk]
+* https://himalayas.app/[Himalayas]
+* https://beachcommute.com/[Beach Commute]
+* https://workwanderers.com/[Work Wanderers]
+* https://themincave.com/[themincave]
+
+== Tech & Startups
+
+* https://otta.com/[Otta ★]
+* https://news.ycombinator.com/submitted?id=whoishiring[Hacker News - Ask HN: Who is hiring?]
+* https://betalist.com/[BetaList]
+* https://devitjobs.uk/[DevITjobs.uk]
+* https://www.dice.com/[Dice]
+* https://www.trueup.io/[TrueUp]
+* https://wellfound.com/[Wellfound - formerly AngelList Talent]
+* https://stillhiring.today/[Who's Still Hiring?]
+* https://techworkersclub.com/[Tech Workers Club]
+* https://larajobs.com/[LaraJobs]
+* https://startups.gallery/[startups.gallery]
+
+== Companies
+
+=== Consultancies
+
+* https://www.equalexperts.com/join-us/[Equal Experts]
+* https://www.scottlogic.com/careers[Scott Logic]
+* https://www.thoughtworks.com/careers/jobs[Thoughtworks]
+
+=== Finance
+
+* https://monzo.com/careers[Monzo]
+
+== Job Search Tools
+
+* https://www.tealhq.com/[Teal]
+* https://www.rampedcareers.com/[Ramped]
+* https://yoodli.ai/[Yoodli]
+* https://www.careerflow.ai/[Careerflow]
+* https://www.f1hire.com/[F1 Hire]
+* https://resumeworded.com/[Resume Worded]
+* https://jobright.ai/[Jobright]
+* https://simplify.jobs/[Simplify]
+* https://www.jobscan.co/[Jobscan]
+* https://www.hays.co.uk/jobs/career-hub[Hayes - Career Hub]
+
+== Salary Data
+
+* https://www.workforce.ai/[Workforce.ai]
+* https://www.itjobswatch.co.uk/[IT Jobs Watch]
+* https://www.levels.fyi/[levels.fyi]
