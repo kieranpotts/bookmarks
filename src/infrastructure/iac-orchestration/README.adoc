@@ -18,26 +18,6 @@
 * https://stackstorm.com/[StackStorm]
 * https://developer.hashicorp.com/vagrant[Vagrant]
 
-== Cluster Management
-
-=== Kubernetes
-
-* https://helm.sh/[Helm]
-* https://fluxcd.io/[Flux]
-* https://kubernetes.io/[Kubernetes]
-* https://k3s.io/[k3s]
-
-==== Autoscalers
-
-* https://keda.sh/[KEDA]
-* https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/[Horizontal Pod Autoscaling]
-
-== IaC
-
-* https://opentofu.org/[OpenTofu]
-* https://www.terraform.io/[Terraform]
-* https://registry.terraform.io/[Terraform Registry]
-
-== Service Mesh
-
-* https://istio.io/[Istio]
+* *link:./cluster-management/[Cluster Management]*
+* *link:./iac/[IaC]*
+* *link:./service-mesh/[Service Mesh]*
