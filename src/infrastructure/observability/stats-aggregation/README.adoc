@@ -1,0 +1,8 @@
+= Stats Aggregation
+
+* https://github.com/statsd/statsd[statsd]
+* https://github.com/sivy/node-statsd[node-statsd]
+* https://github.com/iamcal/Flickr-StatsD[flickr-statsd]
+* https://github.com/brightcove/hot-shots[hot-shots]
+* https://docs.datadoghq.com/developers/dogstatsd/[DogStatsd]
+* https://github.com/influxdata/telegraf[telegraf]
