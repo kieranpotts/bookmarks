@@ -1,0 +1,8 @@
+= Typesetting Systems and Heavyweight Markup
+
+* https://www.lyx.org/[Lyx - Tex/LaTex WYSIWM editor]
+* https://www.tug.org/texworks/[TexWorks - LaTeX client]
+* https://www.latex-project.org/[LaTeX]
+* https://docbook.org/[DocBook]
+* https://www.gnu.org/software/groff/groff.html[GNU roff (groff)]
+* https://www.gnu.org/software/texinfo/manual/texinfo/[GNU Texinfo]
