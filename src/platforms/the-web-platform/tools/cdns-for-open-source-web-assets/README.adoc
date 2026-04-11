@@ -1,0 +1,9 @@
+= CDNs for Open Source Web Assets
+
+* https://unpkg.com/[UNPKG]
+* https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview[Microsoft Ajax CDN]
+* https://developers.google.com/speed/libraries/?csw=1[Google Hosted Libraries]
+* https://raw.githack.com/[raw.githack.com]
+* https://cdnjs.com/[cdnjs]
+* https://www.jsdelivr.com/[jsDelivr]
+* https://www.skypack.dev/[SkyPack]

@@ -1,0 +1,4 @@
+= Architecture
+
+* https://web.dev/explore/progressive-web-apps[Progressive Web Apps (PWA)]
+* https://jamstack.org/[Jamstack]

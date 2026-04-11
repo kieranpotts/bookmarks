@@ -1,0 +1,4 @@
+= Books
+
+* https://frontendmasters.com/guides/front-end-handbook/2024/[Front-End Developer Handbook (2024) - Cody Lindley]
+* https://singlepageappbook.com/[Single Page Apps in Depth - Mikito Takada]

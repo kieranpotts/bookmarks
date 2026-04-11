@@ -1,0 +1,46 @@
+= Code Generators
+
+== Animations and Transitions
+
+* https://cubic-bezier.com/[cubic-bezier]
+
+== Borders and Fills
+
+* https://9elements.github.io/fancy-border-radius/[fancy-border-radius]
+
+== Favicons
+
+* https://formito.com/tools/favicon[Free Favicon Maker - Formito]
+* https://favicon.io/[favicon.io]
+* https://faven.netlify.app/[Faven]
+
+== Grids and Flexbox
+
+* https://grid.layoutit.com/[Layoutit!]
+* https://griddy.io/[Griddy]
+* https://the-echoplex.net/flexyboxes/[Flexy Boxes]
+* https://flexboxpatterns.com/[Flexbox Patterns]
+* https://cssgridgenerator.io/[CSS Grid Generator]
+
+== Loaders
+
+* https://loading.io/[loading.io]
+
+== Shadows
+
+* https://neumorphism.io/[Neumorphism.io]
+* https://shadows.brumm.af/[shadows.brumm.af]
+
+== Typography
+
+* https://thegoodlineheight.com/[The Good Line Height]
+* https://meowni.ca/font-style-matcher/[Font Style Matcher]
+* https://fluid-typography.netlify.app/[Fluid Typography]
+* https://www.modularscale.com/[Modular Scale]
+* https://typescale.com/[TypeScale]
+* https://www.layoutgridcalculator.com/type-scale/[Typographic Scale Calculator]
+* https://modernfontstacks.com/[Modern Font Stacks]
+
+== Others...
+
+* https://hero-generator.netlify.app/[Hero Generator]

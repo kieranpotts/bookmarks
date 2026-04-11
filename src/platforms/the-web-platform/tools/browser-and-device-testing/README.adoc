@@ -1,0 +1,7 @@
+= Browser and Device Testing
+
+* https://browsershots.org/[BrowserShots (offline?)]
+* https://aws.amazon.com/device-farm/[AWS Device Farm]
+* https://browseemall.com/[BrowseEmAll]
+* https://www.browserling.com/[Browserling]
+* https://www.browserstack.com/[BrowserStack]

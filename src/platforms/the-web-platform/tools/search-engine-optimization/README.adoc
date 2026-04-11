@@ -1,0 +1,4 @@
+= Search Engine Optimization
+
+* https://search.google.com/search-console/about[Google Search Console]
+* https://ahrefs.com/[ahrefs]

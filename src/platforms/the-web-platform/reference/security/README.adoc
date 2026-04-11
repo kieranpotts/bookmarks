@@ -1,0 +1,8 @@
+= Security
+
+* https://cheatsheetseries.owasp.org/[OWASP Cheat Sheets]
+* https://owasp.org/www-project-top-ten/[OWASP Top 10]
+* https://nvd.nist.gov/vuln/search#/nvd/home?resultType=records[NVD - National Vulnerability Database - Search]
+* https://nvd.nist.gov/[NVD - National Vulnerability Database]
+* https://www.cve.org/[CVE - Common Vulnerabilities and Exposures]
+* https://cwe.mitre.org/index.html[CWE - Common Weakness Enumeration]

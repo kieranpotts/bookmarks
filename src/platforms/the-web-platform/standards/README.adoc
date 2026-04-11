@@ -1,0 +1,33 @@
+= Standards
+
+== Compatibility Lookup
+
+* https://wpt.fyi/[web-platform-tests]
+* https://caniuse.com/[Can I Use...?]
+* https://html-now.github.io/[HTML Now]
+* https://html5please.com/[HTML5 Please]
+* https://web.dev/baseline[web.dev Baseline]
+* https://webstatus.dev/[Web Platform Status (maintained by Google)]
+* https://www.caniemail.com/[Can I email…]
+
+== Specifications
+
+* https://www.w3.org/TR/css-2023/[CSS Snapshot 2023]
+* https://html.spec.whatwg.org/[HTML Living Standard]
+* https://w3c.github.io/[W3C on GitHub]
+* https://web-platform-dx.github.io/web-features-explorer/release-notes/[Web Platform Release Notes]
+* https://htmlreference.io/[HTML Reference]
+* https://cssreference.io/[CSS Reference]
+* https://html5doctor.com/[HTML5 Doctor]
+* https://devdocs.io/[DevDocs]
+
+== Organizations
+
+* https://www.w3.org/community/webdx/[WebDX Community Group]
+* https://wicg.io/[Web Incubator Community Group (WICG)]
+
+=== Cybersecurity
+
+* https://owasp.org/[OWASP]
+* https://www.nist.gov/cyberframework[NIST Cybersecurity Framework]
+

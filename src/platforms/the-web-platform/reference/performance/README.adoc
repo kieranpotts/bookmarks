@@ -1,0 +1,3 @@
+= Performance
+
+* https://web.dev/articles/vitals[Web Vitals]

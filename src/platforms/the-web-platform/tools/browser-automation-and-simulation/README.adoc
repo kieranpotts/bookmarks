@@ -1,0 +1,10 @@
+= Browser Automation and Simulation
+
+* https://w3c.github.io/webdriver/[W3C WebDriver Specification]
+* https://developer.chrome.com/docs/chromedriver[ChromeDriver]
+* https://www.cypress.io/[Cypress]
+* https://www.mobile.dev/[Maestro (mobile.dev)]
+* https://nightwatchjs.org/[Nightwatch]
+* https://www.selenium.dev/[Selenium]
+* https://testcafe.io/[TestCafe]
+* https://webdriver.io/[WebDriver.io]
