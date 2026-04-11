@@ -1,0 +1,9 @@
+= Visual Modeling Tools
+
+* https://eclipse.dev/emf/index.html[Eclipse Modeling Framework]
+* https://www.modelio.org/index.htm[Modelio]
+* https://staruml.io/[StarUML]
+* https://gaphor.org/[Gaphor]
+* https://www.archimatetool.com/[Archi - Archimate modelling]
+* https://www.cloudcraft.co/[CloudCraft - Draw AWS infrastructure diagrams]
+

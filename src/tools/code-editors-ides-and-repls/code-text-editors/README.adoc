@@ -1,0 +1,14 @@
+= Code/Text Editors
+
+== Terminal Code/Text Editors
+
+* https://nano-editor.org/[nano]
+
+== GUI Code/Text Editors
+
+* https://asciidocfx.com/[AsciidocFX]
+* https://github.com/dail8859/NotepadNext[NotepadNext]
+* https://notepad-plus-plus.org/[Notepad++]
+* https://www.geany.org/[Geany]
+* https://www.gnu.org/software/emacs/[Emacs]
+* https://www.sublimetext.com/[SublimeText]

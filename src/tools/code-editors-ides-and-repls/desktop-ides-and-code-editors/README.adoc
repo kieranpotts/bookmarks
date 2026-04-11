@@ -1,0 +1,35 @@
+= Desktop IDEs and Code Editors (Language-Agnostic)
+
+* https://www.activestate.com/products/komodo-ide/[Komodo]
+* https://www.cursor.com/en[Cursor]
+* https://haystackeditor.com/[Haystack]
+* https://www.oracle.com/application-development/technologies/developerstudio.html[Oracle Developer Studio]
+* https://visualstudio.microsoft.com/[Visual Studio]
+* https://www.axway.com/en/aptana[Aptana Studio]
+* https://brackets.io/[Brackets (now: phcode.io)]
+* https://eclipseide.org/[Eclipse IDE]
+* https://theia-ide.org/[Eclipse Theia]
+* https://netbeans.apache.org/[NetBeans]
+* https://phcode.dev/[Phoenix Code - fork of Brackets]
+* https://antigravity.google/[Google Antigravity]
+* https://zed.dev/[Zed (macOS only)]
+* https://netbeans.apache.org/front/main/index.html[Apache NetBeans]
+* https://phcode.io/[Phoenix Code]
+
+== Visual Studio Code
+
+* https://code.visualstudio.com/[Visual Studio Code]
+* https://vscodium.com/[VSCodium]
+
+=== Tools
+
+* https://vscodethemes.com/[vscodethemes.com]
+* https://themes.vscode.one/[VS Code Theme Studio]
+* https://glitchbone.github.io/vscode-base16-term/#/[Base16 Terminal Colors Generator]
+
+== JetBrains IDEs
+
+* https://www.jetbrains.com/fleet/[Fleet]
+* https://www.jetbrains.com/idea/[JetBrains IDEA]
+* https://plugins.jetbrains.com/[JetBrains Marketplace]
+

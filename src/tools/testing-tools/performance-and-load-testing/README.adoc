@@ -1,0 +1,8 @@
+= Performance and Load Testing
+
+* https://github.com/sharkdp/hyperfine[Hyperfine - CLI benchmarking utility]
+* https://gatling.io/[Gatling]
+* https://k6.io/[k6]
+* https://jmeter.apache.org/[JMeter]
+* https://locust.io/[Locust]
+

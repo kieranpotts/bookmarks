@@ -1,0 +1,5 @@
+= IDE Plugins
+
+* https://editorconfig.org/[EditorConfig]
+* https://sourcegraph.com/[Sourcegraph]
+

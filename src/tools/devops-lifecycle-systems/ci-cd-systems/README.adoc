@@ -1,0 +1,20 @@
+= CI/CD Systems (Automation Servers)
+
+* https://semaphoreci.com/[Semaphor]
+* https://spinnaker.io/[Spinnaker]
+* https://www.jetbrains.com/teamcity/pipelines/[JetBrains Pipelines]
+* https://circleci.com/[Circle CI]
+* https://www.jenkins.io/[Jenkins]
+* https://tekton.dev/[Tekton]
+* https://www.cloudbees.com/[CloudBees]
+* https://www.travis-ci.com/[Travis]
+
+== GitHub Actions
+
+* https://github.com/features/actions[GitHub Features - GitHub Actions]
+* https://docs.github.com/en/actions[GitHub Actions Documentation]
+* https://github.com/actions/starter-workflows/tree/main[Git Actions - Starter Workflows]
+* https://github.com/actions[GitHub Actions - Official Actions Repositories]
+* https://github.com/marketplace?type=actions[GitHub Marketpace - All Actions]
+* https://www.blacksmith.sh/[Blacksmith]
+

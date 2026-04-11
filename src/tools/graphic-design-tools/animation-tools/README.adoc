@@ -1,0 +1,8 @@
+= Animation Tools
+
+* https://www.synfig.org/[Synfig Studio]
+* https://www.pencil2d.org/[Pencil2D Animation]
+* https://www.svgator.com/[svgator]
+* https://www.keyshapeapp.com/[Keyshape]
+* https://spiritapp.io/[Spirit]
+

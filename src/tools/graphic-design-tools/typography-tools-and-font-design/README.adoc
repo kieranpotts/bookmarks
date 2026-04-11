@@ -1,0 +1,5 @@
+= Typography Tools and Font Design
+
+* https://v-fonts.com/[Variable Fonts]
+* https://fontforge.org/en-US/[FontForge]
+

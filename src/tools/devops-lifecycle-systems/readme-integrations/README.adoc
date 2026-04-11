@@ -1,0 +1,3 @@
+= README Integrations
+
+* https://shields.io/[Shields.io]
