@@ -1,0 +1,7 @@
+= Prompt Theme Engines (Multi-Shell)
+
+* https://spaceship-prompt.sh/[Spaceship]
+* https://starship.rs/[Starship]
+* https://github.com/dahlbyk/posh-git[posh-git]
+* https://github.com/powerline/powerline[Powerline]
+* https://ohmyposh.dev/[Oh My Posh]
