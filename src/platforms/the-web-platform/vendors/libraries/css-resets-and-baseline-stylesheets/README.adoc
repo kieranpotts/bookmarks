@@ -1,0 +1,12 @@
+= CSS Resets and Baseline Stylesheets
+
+* https://www.joshwcomeau.com/css/custom-css-reset/[Josh Comeau's Modern CSS Reset]
+* https://jakelazaroff.com/words/my-modern-css-reset/[Jake Lazaroff's Modern CSS Reset]
+* https://meyerweb.com/eric/tools/css/reset/[Eric Meyer's Reset CSS]
+* https://matcha.mizu.sh/[matcha.css]
+* https://github.com/xz/new.css[new.css]
+* https://getbootstrap.com/docs/4.1/content/reboot/[Bootstrap Reboot]
+* https://concrete.style/[Concise.css]
+* https://css.winterveil.net/[Magick.css]
+* https://necolas.github.io/normalize.css/[Normalize.css]
+

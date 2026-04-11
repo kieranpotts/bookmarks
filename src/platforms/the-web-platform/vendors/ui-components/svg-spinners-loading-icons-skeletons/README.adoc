@@ -1,0 +1,5 @@
+= SVG Spinners / Loading Icons / Skeletons
+
+* https://github.com/shubhamjain/svg-spinners[github.com/shubhamjain/svg-spinners]
+* https://github.com/mrtrimble/skelly-wc[Skelly-WC]
+

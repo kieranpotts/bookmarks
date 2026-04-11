@@ -1,0 +1,13 @@
+= Web Component Abstractions and Compilers
+
+* https://atomicojs.dev/[Atomico]
+* https://bayjs.org/[Bay.js]
+* https://hybrids.js.org/#/[hybrids]
+* https://lit.dev/[Lit]
+* https://polymer-library.polymer-project.org/[Polymer Library (deprecated)]
+* https://github.com/skatejs/skatejs[skatejs (deprecated)]
+* https://slimjs.com/#/welcome[slim.js]
+* https://vaadin.com/[Vaadin]
+* https://stenciljs.com/[Stencil]
+* https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/[WebComponents.dev - All the Ways to Make a Web Component]
+

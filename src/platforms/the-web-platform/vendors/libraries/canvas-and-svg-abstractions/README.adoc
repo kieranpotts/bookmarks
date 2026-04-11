@@ -1,0 +1,6 @@
+= Canvas and SVG Abstractions
+
+* https://svgjs.dev/[SVG.js]
+* https://roughjs.com/[Rough.js]
+* https://github.com/fabricjs/fabric.js[fabric.js]
+

@@ -1,0 +1,13 @@
+= Web Game Engines, VR and AR
+
+* https://straker.github.io/kontra/[Kontra]
+* https://phaser.io/[Phaser]
+* https://impactjs.com/[Impact]
+* https://love2d.org/[LÖVE]
+* https://github.com/suchipi/hex-engine[hex-engine]
+* https://piqnt.com/stage.js[Stage.js]
+* https://playcanvas.com/[PlayCanvas]
+* https://aframe.io/[Aframe]
+* https://www.babylonjs.com/[Babylon.js]
+* https://melonjs.org/[melonJS]
+

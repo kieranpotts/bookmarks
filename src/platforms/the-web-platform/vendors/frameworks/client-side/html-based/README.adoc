@@ -1,0 +1,18 @@
+= HTML-Based
+
+* https://tallstack.dev/[The TALL Stack]
+* https://alpinejs.dev/[Alpine.js]
+* https://hotwired.dev/[Hotwire (Turbo, Stimulus, Strada)]
+* https://htmx.org/[htmx]
+* https://hyperscript.org/[Hyperscript]
+* https://github.com/defunkt/jquery-pjax[jquery-pjax]
+* https://laravel-livewire.com/[LiveWire (Laravel)]
+* https://getludic.dev/[Lucid]
+* https://markojs.com/[Marko (by ebay)]
+* https://mavo.io/[Mavo]
+
+== MV*-Style Frameworks (Legacy)
+
+* https://knockoutjs.com/[Knockout]
+* https://sproutcore.com/[SproutCore]
+

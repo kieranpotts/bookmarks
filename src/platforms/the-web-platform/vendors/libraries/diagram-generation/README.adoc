@@ -1,0 +1,6 @@
+= Diagram Generation (including Diagrams as Code)
+
+* https://diagrams.mingrammer.com/[diagrams (python)]
+* https://bramp.github.io/js-sequence-diagrams/[js-sequence-diagrams]
+* http://flowchart.js.org/[flowchart.js]
+

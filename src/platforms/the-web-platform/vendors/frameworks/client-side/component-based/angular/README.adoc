@@ -1,0 +1,9 @@
+= Angular
+
+* https://angularjs.org/[AngularJS (Angular v1)]
+* https://angular.io/[Angular (Angular v2+)]
+
+== Testing Tools
+
+* https://github.com/ngneat/spectator[Spectator]
+

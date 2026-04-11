@@ -1,0 +1,17 @@
+= Native Web Component Libraries
+
+* https://www.webcomponents.org/[WebComponents.org]
+* https://www.duetds.com/[Duet]
+* https://www.fast.design/[FAST (from Microsoft)]
+* https://kelpui.com/[Kelp]
+* https://kickstand-ui.com/[Kickstand UI]
+* https://github.com/material-components/material-web[Material Design Web Components (deprecated)]
+* https://shoelace.style/[Shoelace]
+* https://github.com/adobe/spectrum-web-components[Spectrum Web Components (Adobe)]
+* https://github.com/andreasbm/weightless[Weightless]
+* https://carbondesignsystem.com/[Carbon (IBM's Design System)]
+* https://www.blazeui.com/[Blaze]
+* https://amp.dev/[AMP]
+* https://baklava.design/[Baklava]
+* https://onsen.io/[Onsen UI]
+

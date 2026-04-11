@@ -1,0 +1,35 @@
+= Static-Site Generators (Not Component-Based)
+
+* https://staticsitegenerators.net/[staticsitegenerators.net]
+* https://jamstack.org/generators/[Jamstack: List of Static Site Generators]
+* https://www.11ty.dev/[11ty]
+* https://harpjs.com/[Harp]
+* https://hexo.io/[Hexo]
+* http://ikiwiki.info/[ikiwiki]
+* https://jigsaw.tighten.com/[Jigsaw]
+* https://metalsmith.io/[Metalsmith]
+* https://middlemanapp.com/[Middleman]
+* https://retype.com/[Retype]
+* https://artik-man.github.io/SamuraiJS/[SamuraiJS]
+* https://github.com/sculpin/sculpin[Sculpin]
+* https://gohugo.io/[Hugo]
+
+== Technical Documentation and Book Generators
+
+* https://asciidoctor.org/[Asciidoctor]
+* https://antora.org/[Antora]
+* https://docusaurus.io/[Docosaurus]
+* https://github.com/speced/respec[ReSpec]
+* https://booklit.page/[Booklit]
+* https://couscous.io/[Couscous]
+* https://docpress.github.io/[docpress]
+* https://docsify.js.org/#/[docsify]
+* https://www.gitbook.com/[Gitbook]
+* https://honkit.netlify.app/[Honkit (Gitbook fork)]
+* https://rust-lang.github.io/mdBook/[mdBook]
+* https://www.mkdocs.org/[MkDocs]
+* https://roots.netlify.app/[Roots]
+* https://skydocs.skyost.eu/en/[SkyDocs]
+* https://www.sphinx-doc.org/en/master/[Sphinx]
+* https://github.com/slatedocs/slate[Slate]
+

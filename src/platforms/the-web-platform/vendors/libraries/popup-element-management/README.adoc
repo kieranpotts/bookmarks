@@ -1,0 +1,5 @@
+= Popup Element Management
+
+* https://floating-ui.com/[Floating UI]
+* https://popper.js.org/docs/v2/[Popper.js - replaced by Floating UI]
+

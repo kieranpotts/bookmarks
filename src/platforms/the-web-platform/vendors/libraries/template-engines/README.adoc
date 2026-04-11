@@ -1,0 +1,11 @@
+= Template Engines (Client-Side + Server-Side)
+
+* https://github.com/hmpl-language/hmpl[HMPL]
+* https://eta.js.org/[Eta]
+* https://mozilla.github.io/nunjucks/[Nunjucks]
+* https://github.com/mde/ejs[ejs]
+* https://mustache.github.io/[Mustache]
+* https://handlebarsjs.com/[Handlebars]
+* https://github.com/pugjs/pug[Pug]
+* https://github.com/google/closure-templates[Google Closure Templates (deprecated)]
+

@@ -1,0 +1,41 @@
+= React
+
+* https://react.dev/[React]
+* https://react.dev/learn[React Docs]
+* https://preactjs.com/[Preact]
+
+== About React - General Resources
+
+* https://overreacted.io/react-as-a-ui-runtime/[React as a UI Runtime]
+
+== Project Skeletons, Starter Kits and Generators
+
+* https://alexsergey.github.io/rockpack/[Rockpack]
+* https://create-react-app.dev/[Create React App]
+* https://github.com/vadimdemedes/pastel[Pastel (for Ink)]
+* https://github.com/ixartz/SaaS-Boilerplate[React SaaS Boilerplate]
+
+== Standalone React Components
+
+* https://react-tooltip.com/[React Tooltip]
+
+== Component Generators
+
+* https://tamagui.dev/[Tamagui]
+* https://glamorous.rocks/[Glamorous]
+* https://styled-components.com/[Styled Components]
+
+== React Renderers
+
+* https://github.com/vadimdemedes/ink[Ink]
+* https://www.npmjs.com/package/react-dom[react-dom]
+* https://github.com/facebook/react/tree/master/packages/react-reconciler[React Reconciler]
+
+== Performance Optimization
+
+* https://million.dev/[Million]
+
+== Testing Tools
+
+* https://legacy.reactjs.org/docs/test-utils.html[React Test Utilities]
+

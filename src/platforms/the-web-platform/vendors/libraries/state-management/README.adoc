@@ -1,0 +1,21 @@
+= State Management
+
+* https://github.com/sindresorhus/electron-store[electron-store]
+* https://jotai.org/[Jotai]
+* https://mobx.js.org/[MobX]
+* https://recoiljs.org/[Recoil]
+* https://rxdb.info/[RxDB]
+* https://tinybase.org/[TinyBase]
+* https://stately.ai/docs[XState + Stately]
+
+= Redux
+
+* https://redux.js.org/[Redux]
+* https://react-redux.js.org/[React Redux]
+* https://redux-toolkit.js.org/[Redux Toolkit]
+
+= Vuex and Pinia
+
+* https://vuex.vuejs.org/[Vuex]
+* https://pinia.vuejs.org/[Pinia]
+

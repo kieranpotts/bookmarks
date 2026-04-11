@@ -1,0 +1,8 @@
+= Polyfills
+
+* https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills[Modernizr: List of Cross-Browser-Polyfills]
+* https://olivernn.github.io/augment.js/[augment.js]
+* https://github.com/zloirock/core-js[core-js]
+* https://github.com/es-shims/es5-shim[es5-shim]
+* https://afarkas.github.io/webshim/demos/[webshim]
+

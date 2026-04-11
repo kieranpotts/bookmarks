@@ -1,0 +1,13 @@
+= Svelte
+
+* https://svelte.dev/[Svelte]
+
+== Project Skeletons, Starter Kits and Generators
+
+* https://github.com/Elderjs/elderjs[ElderJS]
+* https://www.junglejs.org/[JungleJS]
+* https://plenti.co/[Plenti]
+* https://sapper.svelte.dev/[Sapper (deprecated)]
+* https://kit.svelte.dev/[Svelte Kit]
+* https://www.sveltekit-ultrafast.com/[sveltekit-ultrafast]
+

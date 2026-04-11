@@ -1,0 +1,6 @@
+= Standalone Vue Components
+
+* https://github.com/alexjoverm/v-lazy-image[v-lazy-image]
+* https://palerdot.in/vue-speedometer/[vue-speedometer]
+* https://vee-validate.logaretm.com/v4/[VeeValidate]
+

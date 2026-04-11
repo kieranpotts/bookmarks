@@ -1,0 +1,6 @@
+= Static HTML + Progressive JS Component Libraries
+
+* https://denali.design/[Denali]
+* https://coreui.io/[Core UI]
+* https://jqueryui.com/[jQueryUI]
+

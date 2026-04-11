@@ -1,0 +1,7 @@
+= Browser Extension API Abstractions and SDKs
+
+* https://github.com/abhijithvijayan/wext-manifest-loader[wext-manifest-loader]
+* https://github.com/abhijithvijayan/web-extension-starter[web-extension-starter]
+* https://extensionkit.io/[ExtensionKIt]
+* https://extension.js.org/[Extension]
+

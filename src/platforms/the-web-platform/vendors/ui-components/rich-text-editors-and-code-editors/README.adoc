@@ -1,0 +1,10 @@
+= Rich-Text Editors (RTEs) and Code Editors
+
+* https://lexical.dev/[Lexical]
+* https://tiptap.dev/[TipTap]
+* https://microsoft.github.io/monaco-editor/[Monaco Editor]
+* https://www.blocknotejs.org/[BlockNote]
+* https://github.com/josdejong/jsoneditor[JSON Editor]
+* https://github.com/Microsoft/roosterjs[roosterjs]
+* https://quilljs.com/[Quill]
+
