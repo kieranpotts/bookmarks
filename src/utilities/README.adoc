@@ -1,0 +1,61 @@
+= Utilities
+
+== Password and Secrets Management
+
+* https://www.passwordstore.org/[pass]
+
+== Pagers
+
+* https://dandavison.github.io/delta/[Delta]
+* https://github.com/noborus/ov[ov]
+
+== Prompt Theme Engines (Multi-Shell)
+
+* https://spaceship-prompt.sh/[Spaceship]
+* https://starship.rs/[Starship]
+* https://github.com/dahlbyk/posh-git[posh-git]
+* https://github.com/powerline/powerline[Powerline]
+* https://ohmyposh.dev/[Oh My Posh]
+
+== Terminal Multiplexers
+
+* https://www.gnu.org/software/screen/[GNU Screen]
+* https://github.com/tmux/tmux/wiki[tmux]
+* https://zellij.dev/[Zellij]
+
+== File Transfer Utilties
+
+* https://rclone.org/[Rclone]
+
+== Text Editors (CLI)
+
+* https://ex-vi.sourceforge.net/[Vi]
+* https://www.vim.org/[Vim]
+* https://neovim.io/[NeoVim]
+* https://www.nano-editor.org/[Nano]
+
+== Parsers
+
+* https://kislyuk.github.io/yq/[yq]
+* https://jqlang.github.io/jq/[jq]
+
+== Web/HTTP Clients
+
+* https://curl.se/[curl]
+
+== Regex
+
+* https://github.com/google/re2[RE2]
+
+== Spelling and Grammar Checkers
+
+* https://writewithharper.com/[Harper]
+
+== Text Processing
+
+* https://github.com/onetrueawk/awk[awk]
+
+== Image Multimedia Processing
+
+* https://imagemagick.org/[ImageMagick]
+* https://ffmpeg.org/[FFmpeg]

@@ -1,0 +1,242 @@
+= Media
+
+== Professional Bodies
+
+* https://www.acm.org/[ACM - The Association for Computing Machinery]
+* https://www.computer.org/[IEEE Computer Society (computer.org)]
+* https://www.ieee.org/[IEEE - Institute of Electrical and Electronics Engineers]
+* https://www.bcs.org/[BCS - The Chartered Institute for Computing]
+* https://www.usenix.org/[USENIX - The Advanced Computing Systems Association]
+
+== Blogs
+
+* https://www.devreading.com/[/dev/reading]
+* https://substack.com/home[Substack]
+
+=== Corporate
+
+* https://aws.amazon.com/blogs/[AWS Blog]
+* https://cloud.google.com/blog[Google Cloud Blog]
+* https://retool.com/blog[Cache (Retool Blog)]
+
+=== Individuals
+
+* https://adactio.com/[Jeremy Keith - Adactio]
+* https://nolanlawson.com/[Nolan Lawson - Read the Tea Leaves]
+* https://dev.to/ryansolid/[Ryan Carniato - Creator of SolidJS]
+* https://www.abeautifulsite.net/[Cory LaViska - A Beautiful Site]
+* https://martinfowler.com/[Martin Fowler]
+* https://jvns.ca/[Julia Evans]
+* https://martinfowler.com/bliki/[Martin Fowler - Bliki]
+* https://highscalability.com/[High Scalability]
+* https://www.alexhyett.com/[Alex Hyett]
+* https://testing.googleblog.com/[Google Testing Blog]
+* https://www.joelonsoftware.com/[Joel Spolsky - Joel on Software]
+* https://mtlynch.io/[Michael Lynch]
+* https://www.allthingsdistributed.com/[All Things Distributed (Werner Vogels)]
+* https://2ality.com/[2ality – Dr. Axel Rauschmayer]
+* https://matthiasnoback.nl/[Matthias Noback]
+* https://lostechies.com/[LosTechies]
+* https://humanwhocodes.com/blog/[Nicholas C. Zakas - Human Who Codes]
+* https://laughingmeme.org/[Kellan Elliott-McCrea]
+* https://overreacted.io/[overreacted - Dan Abramov]
+* https://paulgraham.com/[Paul Graham]
+* https://www.alexhyett.com/blog/[Alex Hyett]
+* https://medium.com/@johnpcutler[John Cutler]
+* https://anthonyhobday.com/[Anthony Hobday]
+* https://mobprogramming.org/[Mob Programming – Woody Zuill]
+* https://masnun.com/[Abu Ashraf Masnun - Tales of a software craftsman]
+* https://addyosmani.com/blog/[Addy Osmani]
+* https://bcantrill.dtrace.org/[Bryan Cantrill - The Observation Deck]
+* https://danluu.com/[Dan Luu]
+* https://code.dblock.org/[Daniel Doubrovkine]
+* https://eli.thegreenplace.net/[Eli Bendersky]
+* https://evanhahn.com/blog/[Evan Hahn]
+* https://freek.dev/[Freek Van der Herten - freek.dev]
+* https://ilya.grigorik.com/[Ilya Grigorik]
+* https://codewithoutrules.com/[Itamar Turner-Trauring - Code Without Rules]
+* https://prog21.dadgum.com/[James Hague - Programming in the 21st Century (archived)]
+* https://blog.codinghorror.com/[Jeff Atwood - Coding Horror]
+* https://johnresig.com/category/blog/[John Resig]
+* https://snook.ca/[Jonathan Snook]
+* https://lea.verou.me/[Lea Verou]
+* https://philipwalton.com/[Philip Walton]
+* https://blog.cleancoder.com/[Robert C Martin - Clean Coder Blog]
+* https://radek.io/[Radek Pazdera]
+* https://rethinkingsoftware.substack.com/[Adam Ard - Rethinking Software]
+* https://roy.gbiv.com/untangled/[Roy Fielding - Untangled]
+* https://rollerweblogger.org/roller/[Dave Johnson - Blogging Roller]
+* https://matthewstrom.com/[Matt Ström-Awn]
+* https://www.catherinejue.com/[Catherine Jue]
+* https://www.paulgraham.com/[Paul Graham]
+* https://michaelnotebook.com/[Michael Nielsen]
+* https://dreamsongs.com/index.html[Dreamsongs - Richard P. Gabriel]
+* https://www.bram.us/[Bram.us Van Damme]
+* https://cutle.fish/[John Cutler]
+* https://cutlefish.substack.com/[John Cutler - The Beautiful Mess]
+* https://dreamsongs.com/[Richard P Gabriel - Dreamsongs]
+* https://steve-yegge.blogspot.com/[Steve Yegge]
+* https://specbranch.com/[Nima Badizadegan - Speculative Branches]
+* https://aresluna.org/[Marcin Wichary - Aresluna]
+* https://pragdave.me/[Dave Thomas (pragdave)]
+
+== Books
+
+* https://www.craftinginterpreters.com/[Crafting Interpreters]
+* https://pragprog.com/[Pragmatic Bookshelf]
+* https://abseil.io/resources/swe-book[Software Engineering at Google]
+* https://natureofcode.com/[The Nature of Code]
+* https://www.informit.com/imprint/series_detail.aspx?ser=334721[InformIT - Developer's Library Series]
+* https://www.gutenberg.org/[Project Gutenberg]
+
+== Bootcamps
+
+* https://wearecodenation.com/[Code Nation]
+* https://makers.tech/[Makers]
+* https://northcoders.com/[Northcoders]
+
+== Cheat Sheets
+
+* https://dzone.com/refcardz[DZone Refcards]
+
+== Comics
+
+* https://xkcd.com/[xkcd]
+* https://cube-drone.com/#home[Cube Drone]
+* https://dilbert.com/[Dilbert.com]
+
+== Courses
+
+* https://code.org/en-US[CODE.org]
+* https://www.baeldung.com/courses/[Baeldung Courses (Java)]
+* https://www.boot.dev/[Boot.dev]
+* https://bytebytego.com/[ByteByteGo - Technical Interview Prep]
+* https://codewithmosh.com/[Code with Mosh]
+* https://www.codecademy.com/[Codecademy]
+* https://codecrafters.io/[CodeCrafters.io]
+* https://www.coursera.org/[Coursera]
+* https://cryptohack.org/[Cryptohack]
+* https://digitalcloud.training/[Digital Ocean Training]
+* https://digitalcloud.training/hands-on-challenge-labs/[Digital Ocean Training - Hands-On Challenge Labs]
+* https://www.freecodecamp.org/[freeCodeCamp]
+* https://frontendmasters.com/[Frontend Masters]
+* https://www.linkedin.com/learning/[LinkedIn Learning (formerly Lynda)]
+* https://training.linuxfoundation.org/[Linux Foundation Training & Certifications]
+* https://learn.microsoft.com/en-us/[Microsoft Learn]
+* https://github.com/ossu/computer-science[Open Source Society University - OSSU]
+* https://www.oreilly.com/[O'Reilly]
+* https://www.pluralsight.com/[PluralSight]
+* https://www.schoolofcode.co.uk/[School of Code (free)]
+* https://v2.scrimba.com/[Scrimba]
+* https://serversforhackers.com/[Servers for Hackers]
+* https://www.sitepoint.com/[SitePoint]
+* https://teachyourselfcs.com/[Tech Yourself Computer Science]
+* https://teamtreehouse.com/[Treehouse]
+* https://www.udemy.com/[Udemy]
+* https://zerotomastery.io/courses/[Zero To Mastery]
+* https://www.khanacademy.org/[Khan Academy]
+
+== Conferences and Events
+
+* https://confs.tech/[confs.tech]
+
+=== Major Global Events
+
+* https://websummit.com/[Web Summit]
+* https://saastock-europe.com/[SaaStock]
+
+=== South West UK Events
+
+* https://dddsouthwest.com/[DDD South West]
+
+== Forums / Social
+
+* https://www.codeproject.com/[Code Project]
+* https://dev.to/[DEV.to]
+
+== Journals / Research
+
+* https://www.similarweb.com/[SimilarWeb - Digital market research/intelligence]
+* https://www.worldscientific.com/worldscinet/ijseke[International Journal of Software Engineering and Knowledge Engineering]
+* https://cacm.acm.org/[Communications of the ACM]
+* https://dl.acm.org/[ACM Digital Library]
+* https://queue.acm.org/index.cfm[ACM Queue]
+* https://ieeexplore.ieee.org/Xplore/home.jsp[IEEE Xplore]
+* https://archivesit.org.uk/[Archives of IT]
+* https://www.engineeringvillage.com/home.url?redir=t[Elsevier Engineering Village]
+* https://www.csail.mit.edu/[MIT CSAIL]
+* https://research.google/[Google Research]
+
+== Magazines
+
+* https://deprogrammaticaipsum.com/[De Programmatica Ipsum]
+* https://techcrunch.com/[TechCrunch]
+* https://www.methodsandtools.com/[Methods & Tools]
+* https://www.infoworld.com/uk/[InfoWorld]
+* https://www.infoq.com/[InfoQ]
+* https://increment.com/[Increment (discontinued)]
+* https://hackernoon.com/[Hackernoon]
+* https://thegradient.pub/[The Gradient]
+* https://www.smashingmagazine.com/[Smashing Magazine]
+* https://www.404media.co/[404 Media]
+* https://arstechnica.com/[Ars Technica]
+* https://leaddev.com/[LeadDev]
+* https://thenewstack.io/[The New Stack]
+* https://sdtimes.com/[SD Times]
+* https://www.fastcompany.com/[Fast Company]
+* https://www.theregister.com/[The Register]
+* https://www.developerdotstar.com/[developer.* - The Independent Magazine for Software Developers (archived 2006)]
+* https://www.cio.com/uk/[CIO.com]
+* https://www.softwaretestingmagazine.com/[Software Testing Magazine]
+* https://spectrum.ieee.org/[IEEE Spectrum]
+* https://www.itpro.com/[ITPro]
+* http://lambda-the-ultimate.org/[Lambda the Ultimate]
+* https://alistapart.com/[A List Apart]
+* https://solar.lowtechmagazine.com/[LOW←TECH MAGAZINE]
+
+== Meetups
+
+* https://local.saastock.com/c/bristol/[SaaStock Local | Bristol]
+
+== Podcasts
+
+* https://stackoverflow.blog/podcast/[The Stack Overflow Podcast]
+* https://changelog.com/[Changelog]
+
+== Product Launches
+
+* https://www.producthunt.com/[Product Hunt]
+* https://www.indiehackers.com/[Indie Hackers]
+
+== Social News
+
+* https://news.ycombinator.com/[Hacker News]
+* https://lobste.rs/[Lobsters]
+* https://www.echojs.com/[Echo JS]
+* https://slashdot.org/[Slashdot]
+
+== Trends and Surveys
+
+* https://www.thoughtworks.com/radar[Thoughtworks Technology Radar]
+* https://www.tiobe.com/tiobe-index/[TIOBE Index]
+* https://survey.devographics.com/en-US/survey/state-of-js/2024[State of JS]
+* https://2024.stateofhtml.com/en-US[State of HTML]
+* https://insights.stackoverflow.com/survey/[Stack Overflow Insights]
+
+== User Groups
+
+* https://app.slack.com/client/T0K234K2Q[LeadDev Slack Group]
+* https://dev.java/community/jugs/[Java User Groups]
+
+== Wikis and Bodies of Knowledge
+
+* https://folklore.org/[Folklore]
+* https://www.computer.org/education/bodies-of-knowledge/software-engineering[SWEBOK]
+* https://wiki.c2.com/[WikiWikiWeb]
+* http://catb.org/jargon/html/[The Jargon File]
+* http://hackersdictionary.com/html/index.html[The Hacker's Dictionary]
+* https://www.dourish.com/goodies/jargon.html[The Original Hacker's Dictionary]
+
+== Archives
+
+* https://vintageapple.org/[Vintage Apple]

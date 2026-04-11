@@ -1,0 +1,380 @@
+= Applications
+
+== ChatOps and IRC Clients
+
+* https://github.com/thelounge/thelounge[The Lounge]
+* https://slack.com/intl/en-gb/[Slack]
+
+== Email
+
+=== Mailboxes
+
+* https://tuta.com/[Tuta]
+* https://mailbox.org/[Mailbox]
+* https://proton.me/[Proton]
+* https://kolab.org/[Kolab]
+* https://www.zoho.com/[Zoho]
+* https://www.zimbra.com/[Zimbra]
+* https://www.fastmail.com/[Fastmail]
+
+=== Temporary Email Addresses
+
+* https://temp-mail.org/en/[TempMail]
+* https://email.ml/[Email.ml]
+* https://www.throwawaymail.com/[ThrowAwayEmail.com]
+
+=== Email Marketing and Newsletters
+
+* https://www.benchmarkemail.com/[Benchmark]
+* https://buttondown.email/[Buttondown]
+* https://listmonk.app/[listmonk]
+* https://www.brevo.com/[Brevo]
+* https://www.campaignmonitor.com/[Campaign Monitor]
+* https://emailoctopus.com/[EmailOctopus]
+* https://mailchimp.com/[MailChimp]
+* https://www.mailjet.com/[MailJet]
+* https://www.mautic.org/[Mautic]
+* https://moonmail.io/[MoonMail]
+* https://www.phplist.com/[phpList]
+* https://sendune.com/[Sendune]
+* https://sendy.co/[Sendy]
+
+=== Mailing List Systems
+
+* https://www.phplist.org/[phpList]
+* https://www.list.org/[GNU Mailman]
+* https://www.mailmanlists.net/[MailmanLists]
+* https://www.simplelists.com/[SimpleLists]
+
+=== Mail Servers
+
+* http://www.postfix.org/[Postfix]
+* https://www.sendmail.org/[Sendmail]
+* https://www.dovecot.org/[Dovecot]
+* https://www.exim.org/[Exim Internet Mailer]
+* https://www.iredmail.org/[iRedMail]
+* https://modoboa.org/en/[Modoboa]
+* https://wildduck.email/[WildDuck]
+
+== Low-Code/No-Code Application Development
+
+* https://bubble.io/[Bubble]
+* https://backendless.com/[Backendless]
+* https://www.airtable.com/[Airtable]
+* https://www.microsoft.com/en-gb/power-platform/products/power-apps[Microsoft Power Apps]
+* https://appery.io/[Appery]
+* https://retool.com/[Retool]
+* https://www.jetadmin.io/[Jet Admin]
+* https://www.nocode.tech/[Nocode.tech]
+* https://nocodelist.co/[NoCodeList]
+
+== Task/Workflow Automation
+
+* https://ifttt.com/[ITFFF]
+* https://n8n.io/[n8n]
+* https://tray.io/[tray.io]
+* https://trigger.dev/[Trigger.dev]
+* https://zapier.com/[Zapier]
+* https://nodered.org/[NODE-Red]
+
+== AI
+
+* https://lmstudio.ai/[LM Studio]
+
+=== AI Agents
+
+* https://www.deepseek.com/[DeepSeek]
+* https://www.perplexity.ai/[Perplexity]
+* https://replit.com/[Replit]
+* https://claude.ai/[Claude]
+* https://gemini.google.com/[Gemini]
+
+=== AI Models
+
+* https://ollama.com/[Ollama]
+* https://www.ibm.com/granite[IBM Granite]
+* https://platform.openai.com/docs/api-reference/introduction[OpenAPI GPT-4]
+* https://x.ai/news/grok-4[Grok 4]
+* https://www.anthropic.com/claude/opus[Claude Opus 4]
+* https://www.anthropic.com/claude/sonnet[Claude Sonnet 4]
+
+=== Front-Ends
+
+* https://docs.openwebui.com/[OpenWebUI]
+* https://www.kaibanjs.com/[KaibanJS]
+
+== Bookmarks and Web Clipping Applications
+
+* https://github.com/sissbruecker/linkding[linkding]
+
+== Brainstorming and Collaborative Planning
+
+* https://xmind.app/[Xmind]
+* https://miro.com/[Miro]
+
+== Coding Tests for Tech Recruitment
+
+* https://www.classmarker.com/[ClassMarker]
+* https://www.imocha.io/[iMocha]
+* https://tests4geeks.com/[Tests4Geeks]
+* https://www.testdome.com/[TestDome]
+* https://www.pskills.org/[Programming Skills]
+
+== Content Management Systems (CMS)
+
+=== Blogging and Personal Publishing Platforms
+
+* https://substack.com/[Substack]
+* https://bearblog.dev/[Bear Blog]
+* https://medium.com/[Medium]
+* https://micro.blog/[Micro.blog]
+* https://notepin.co/[Notepin]
+
+=== Book Publishing
+
+* https://leanpub.com/[Leanpub]
+
+=== Database CMS + Web Frontend
+
+* https://www.fork-cms.com/[Fork]
+* https://wordpress.org/[WordPress]
+* https://umbraco.com/[Umbraco CMS]
+* https://hashnode.com/[hashnode]
+* https://ghost.org/[Ghost]
+
+=== Flat-File and Git-Based CMSes
+
+* https://getkirby.com/[Kirby]
+* https://spinalcms.com/[Spinal CMS]
+* https://decapcms.org/[Decap CMS (formerly Netlify CMS)]
+* https://cloudcannon.com/[CloudCannon]
+* https://tina.io/[Tina CMS]
+* https://statamic.com/[Statamic]
+* https://frontmatter.codes/[Front Matter CMS]
+
+=== Visual CMSes
+
+* https://shorthand.com/[Shorthand]
+* https://apostrophecms.com/[Apostrophe CMS]
+* https://www.builder.io/[Builder.io]
+
+=== Headless CMSes
+
+* https://prismic.io/[Prismic]
+* https://directus.io/[Directus]
+* https://www.sitecore.com/products/experience-manager[Sitecore Experience Manager]
+* https://www.sanity.io/[Sanity CMS]
+* https://prepr.io/[Prepr CMS]
+* https://payloadcms.com/[PayloadCMS]
+* https://microcms.io/en[microCMS]
+* https://keystonejs.com/[KeystoneJS]
+* https://crystallize.com/[Crystallize]
+* https://caisy.io/[Caisy]
+* https://strapi.io/[Strapi]
+* https://kontent.ai/[Kontent.ai]
+* https://keystatic.com/[Keystatic]
+* https://hygraph.com/[Hygraph]
+* https://www.datocms.com/[DatoCMS]
+* https://www.cosmicjs.com/[Cosmic]
+* https://buttercms.com/[ButterCMS]
+* https://www.contentful.com/[Contentful]
+* https://www.storyblok.com/[StoryBlok]
+
+=== Static-Site Generation Only
+
+* https://getpublii.com/[Publii]
+
+=== Translation Management
+
+* https://phrase.com/[Phrase]
+
+== Customer Relationship Management (CRM)
+
+* https://capsulecrm.com/[Capsule]
+* https://www.close.com/[Close]
+* https://www.hubspot.com/[Hubspot]
+* https://www.monicahq.com/[Monica]
+* https://overloop.com/[Overloop]
+
+== Disk Imaging / Bootable Media Creation
+
+* https://etcher.balena.io/[Etcher]
+
+== Digital Asset Management
+
+* https://portingo.com/[Portingo]
+* https://cloudinary.com/[Cloudinary]
+
+== E-Book Readers and Managers
+
+* https://github.com/janeczku/calibre-web[Calibre Web]
+* https://calibre-ebook.com/[Calibre]
+
+== E-Commerce Platforms
+
+* https://medusajs.com/[Medusa]
+
+== File Storage, Syncing and Sharing (inc. Encryption)
+
+* https://cryptomator.org/[Cryptomator]
+* https://syncthing.net/[Syncthing]
+* https://www.dropbox.com/[Dropbox]
+
+== Home Automation
+
+* https://www.home-assistant.io/[Home Assistant]
+
+== Identity Verification (IDV) and Know Your Customer (KYC) services
+
+* https://www.yoti.com/[YOTI]
+* https://idverse.com/[IDVerse]
+* https://resistant.ai/[Resistant.ai]
+
+== Image Optimization / Compression
+
+* https://www.jpeg.io/[jpeg.io]
+* https://www.jpegmini.com/[JPEGmini]
+* https://kraken.io/[Kraken]
+* https://tinypng.com/[tinify]
+
+== Internationalization and Localization / Translation
+
+* https://www.memoq.com/[memoQ]
+
+== Issue Trackers and Project Management
+
+* https://www.tegon.ai/[Tegon]
+* https://www.shortcut.com/[Shortcut]
+* https://monday.com/[monday.com]
+* https://asana.com/[Asana]
+* https://basecamp.com/[Basecamp]
+* https://workflowmax2.com/[Workflow Max]
+* https://www.bugzilla.org/[Bugzilla]
+* https://www.getflow.com/[Flow]
+* https://www.atlassian.com/software/jira[Jira]
+* https://linear.app/[Linear]
+* https://podio.com/[Podio]
+* https://trac.edgewall.org/[trac]
+* https://trello.com/[Trello]
+
+== Learning Management Systems (LMS)
+
+* https://www.skillcast.com/[Skillcast]
+
+== Money Transfer
+
+* https://www.escrow.com/[Escrow.com]
+* https://www.payoneer.com/[Payoneer]
+* https://wise.com/[Wise (formerly TransferWise)]
+* https://www.currencycloud.com/[CurrencyCloud]
+
+== Password and Secrets Management/Sharing
+
+* https://1password.com/[1Password]
+* https://www.keepersecurity.com/[Keeper]
+* https://www.lastpass.com/[LastPass]
+* https://bitwarden.com/[Bitwarden]
+* https://github.com/dani-garcia/vaultwarden[Vaultwarden]
+* https://buttercup.pw/[Buttercup]
+* https://www.doppler.com/[Doppler]
+* https://www.keepassx.org/[KeePassX]
+* https://keepassxc.org/[KeePassXC]
+* https://keepass.info/[KeePass]
+* https://onetimesecret.com/[One Time Secret]
+* https://scrt.run/[scrt]
+
+== PDF Generation and Editing
+
+* https://www.pdf24.org/en/[PDF24]
+* https://www.adobe.com/uk/acrobat/online.html[Adobe PDF Tools]
+* https://sign.dropbox.com/[Dropbox Sign]
+* https://smallpdf.com/[Smallpdf]
+* https://www.xpdfreader.com/index.html[Xpdf]
+
+== Photo and Video Management
+
+* https://immich.app/[Immich]
+
+== Productivity Applications
+
+* https://www.notion.so/[Notion]
+
+== Recruitment Software and Applicant Tracking Software (ATS)
+
+* https://www.greenhouse.com/uk[Greenhouse]
+* https://www.ashbyhq.com/[Ashby]
+* https://www.lever.co/[Lever]
+
+== RSS Feed Readers and News Aggregators
+
+* https://flipboard.com/[Flipboard]
+* https://github.com/0x2E/fusion[Fusion]
+* https://feedly.com/[Feedly]
+* https://newsblur.com/[NewsBlur]
+* https://superfeedr.com/[Superfeedr]
+* https://freshrss.org/[FreshRSS]
+* https://lireapp.com/[Lire]
+
+== Time Tracking
+
+* https://workspace.fiverr.com/[Fiverr Workspace]
+
+== Online Marketing & SEO
+
+* https://www.screamingfrog.co.uk/seo-spider/[Screaming Frog]
+* https://www.semrush.com/[Semrush]
+* https://www.lumar.io/[Lumar (formerly DeepCrawl)]
+
+== Service Desk / Help Desk and ITSM
+
+* https://www.atlassian.com/software/jira/service-management[Jira Service Management]
+* https://www.zendesk.co.uk/[ZenDesk]
+
+== SSH Clients
+
+* https://www.9bis.net/kitty/[KiTTY]
+* https://www.putty.org/[PuTTY]
+
+== Wikis and Knowledgebases
+
+* https://www.dropbox.com/paper/[Dropbox Paper]
+* https://docmost.com/[Docmost]
+* https://redocly.com/[Redocly]
+* https://www.atlassian.com/software/confluence[Confluence]
+* https://answer.apache.org/[Apache Answer]
+* https://swimm.io/[Swimm]
+
+== Writing and Research
+
+* https://www.dictionary.com/[Dictionary.com]
+* https://www.thesaurus.com/[Thesaurus.com]
+
+=== Writing Assistants
+
+* https://www.grammarly.com/[Grammarly]
+* https://hemingwayapp.com/[Hemingway Editor]
+
+=== Publishing Tools
+
+* https://www.zettlr.com/[Zettlr]
+
+=== Text Editors
+
+* https://obsidian.md/[Obsidian]
+* https://writefreely.org/[Write Freely]
+* https://caret.io/[Caret]
+* https://markdownify.js.org/[Markdownify]
+* https://github.com/notable/notable[Notable]
+* https://typora.io/[Typora]
+* https://zenpen.io/[ZenPen]
+* https://ghostwriter.kde.org/[Ghostwriter]
+
+=== Note Taking and Research Management
+
+* https://evernote.com/[Evernote]
+* https://orgmode.org/[Org Mode]
+* https://www.inkdrop.app/[Inkdrop]
+* https://simplenote.com/[Simplenote]
+* https://standardnotes.com/[Standard Notes]
+* https://www.zotero.org/[Zotero]
+

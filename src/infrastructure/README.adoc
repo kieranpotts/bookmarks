@@ -1,0 +1,450 @@
+= Infrastructure
+
+== Public Cloud Services
+
+=== Major Public Cloud Services
+
+==== AWS
+
+* https://aws.amazon.com/[Amazon Web Services (AWS)]
+* https://www.aws.training/[aws.training]
+* https://aws.amazon.com/training/[AWS Training and Certification]
+* https://www.w3schools.com/training/aws/home/[W3 Schools - AWS Courses]
+* https://www.w3schools.com/training/aws/home/learningpath/cloud-essentials.php[W3 Schools - AWS Cloud Essentials]
+* https://www.udemy.com/topic/amazon-aws/[Udemy AWS Courses]
+* https://github.com/towardsthecloud/aws-toolbox[AWS Toolbox]
+
+==== Azure
+
+* https://azure.microsoft.com/en-us/[Azure]
+* https://learn.microsoft.com/en-us/training/paths/az-400-get-started-devops-transformation-journey/[AZ-400]
+
+==== GCP
+
+=== VPS, Dedicated, and Managed Hosting
+
+* https://www.hetzner.com/[Hetzner]
+* https://ramnode.com/[RamNode]
+* https://www.vultr.com/[Vultr]
+* https://aws.amazon.com/lightsail/[Amazon Lightsail]
+* https://www.dreamhost.com/[DreamHost]
+* https://www.ovhcloud.com/en-gb/[OVH Cloud]
+* https://www.scaleway.com/en/[Scaleway]
+* https://www.cloudways.com/en/[Cloudways]
+* https://www.akamai.com/[Akamai]
+* https://www.digitalocean.com/[Digital Ocean]
+* https://www.linode.com/[Linode]
+
+=== Platform-as-a-Service
+
+* https://railway.app/[Railway.app]
+* https://www.pythonanywhere.com/[PythonAnywhere]
+* https://cloud.google.com/appengine[Google App Engine]
+* https://www.heroku.com/[Heroku]
+* https://render.com/[Render]
+* https://www.netlify.com/[Netlify]
+* https://vercel.com/[Vercel (formerly Zeit)]
+
+=== Function-as-a-Service (aka Serverless)
+
+* https://aws.amazon.com/lambda/[AWS Lambda]
+
+=== Cloud Storage and Data Backup Services
+
+* https://www.backblaze.com/[Backblaze]
+
+=== Static Site Hosting
+
+* https://pages.cloudflare.com/[Cloudflare Pages]
+* https://docs.gitlab.com/ee/user/project/pages/[GitLab Pages]
+* https://pages.github.com/[GitHub Pages]
+
+== Private Cloud Solutions
+
+* https://www.openstack.org/[OpenStack]
+* https://cloudstack.apache.org/[Apache CloudStack]
+* https://www.redhat.com/en/technologies/cloud-computing/openshift[OpenShift]
+
+== DNS, CDNs, Reverse Proxies
+
+* https://www.cloudflare.com/en-gb/[Cloudflare]
+* https://www.iana.org/domains/root/db[Root Zone Database]
+
+=== CDNs and Static Site Hosting
+
+* https://getforge.com/[Forge]
+* https://surge.sh/[Surge]
+
+=== Reverse Proxies
+
+* https://varnish-cache.org/[Varnish]
+
+=== DNS Hosting Services
+
+* https://dnsmadeeasy.com/[DNS Made Easy - DigiCert]
+* https://www.oracle.com/cloud/networking/dns/[Oracle OCI DNS]
+* https://www.ibm.com/products/ns1-connect[IBM NS1 Connect]
+* https://www.pointhq.com/[PointDNS]
+* https://developers.google.com/speed/public-dns[8.8.8.8 (Google Public DNS)]
+* https://one.one.one.one/dns/[1.1.1.1 (Cloudflare)]
+
+=== Secondary DNS (Replication) Services
+
+* https://www.buddyns.com/[BuddyDNS]
+
+=== DNS Lookup
+
+* https://dns.google/[Google DNS]
+* https://dns-lookup.jvns.ca/[jvns.ca - DNS Lookup]
+* https://who.is/[who.is]
+* https://dnschecker.org/[DNS Checker (Propagation)]
+* https://www.whatsmydns.net/[DNS Propagation Checker]
+* https://www.iana.org/whois[IANA WHOIS Service]
+* https://mxtoolbox.com/[MX Toolbox]
+* https://powerdmarc.com/dmarc-record-checker/[DMARC Record Checker]
+* https://ifconfig.me/[ifconfig.me - lookup your IP address]
+
+=== DNS Registrars and Marketplaces
+
+* https://www.namecheap.com/[Namecheap]
+* https://sedo.com/uk/[Sedo]
+* https://www.name.com/[Name.com]
+* https://dan.com/[Dan.com]
+
+=== Domain Name Generators
+
+* https://www.panabee.com/[Panabee]
+
+=== Expired Domains & Backorders
+
+* https://www.dropcatch.com/[DropCatch]
+* https://auctions.godaddy.com/beta[GoDaddy Auctions]
+* https://www.expireddomains.net/[ExpiredDomains.net]
+* https://www.snapnames.com/[Snapnames]
+
+=== Domain Name Valuation
+
+* https://domainvaluator.net/[Domain Valuator]
+* https://pc.domains/[Domain Price Checker]
+* https://humbleworth.com/[HumbleWorth]
+* https://uk.godaddy.com/domain-value-appraisal[GoDaddy Domain Appraisal]
+* https://www.atom.com/domain-appraisal[Atom.com]
+
+=== DNS Tools
+
+* https://powerdmarc.com/dmarc-record-generator/[Free DMARC Generator]
+
+== IaC, Cloud Automation and Orchestration
+
+* https://www.ansible.com/[Ansible]
+* https://docs.aws.amazon.com/cdk/v2/guide/home.html[AWS CDK]
+* https://aws.amazon.com/cloudformation/[AWS CloudFormation]
+* http://aws.amazon.com/elasticbeanstalk/[AWS Elastic Beanstalk]
+* https://www.cdi.st/[cdist]
+* https://cfengine.com/[CFEngine]
+* https://cloud-init.io/[cloud-init]
+* https://www.chef.io/[Chef]
+* https://wiki.openstack.org/wiki/Heat[Heat (OpenStack)]
+* https://juju.is/[Juju]
+* https://moss.sh/[Moss]
+* https://inedo.com/otter[Otter]
+* https://www.pulumi.com/[Pulumi]
+* https://www.puppet.com/[Puppet]
+* https://saltproject.io/[Salt]
+* https://stackstorm.com/[StackStorm]
+* https://developer.hashicorp.com/vagrant[Vagrant]
+
+=== Cluster Management
+
+==== Kubernetes
+
+* https://helm.sh/[Helm]
+* https://fluxcd.io/[Flux]
+* https://kubernetes.io/[Kubernetes]
+* https://k3s.io/[k3s]
+
+===== Autoscalers
+
+* https://keda.sh/[KEDA]
+* https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/[Horizontal Pod Autoscaling]
+
+=== IaC
+
+* https://opentofu.org/[OpenTofu]
+* https://www.terraform.io/[Terraform]
+* https://registry.terraform.io/[Terraform Registry]
+
+=== Service Mesh
+
+* https://istio.io/[Istio]
+
+== Virtualization and Containerization
+
+=== Container Systems
+
+* https://www.packer.io/[Packer]
+* https://podman.io/[Podman]
+
+==== Docker
+
+* https://github.com/jesseduffield/lazydocker[lazydocker - Docker TUI]
+* https://github.com/wagoodman/dive[Dive - Explore layers in a Docker image]
+* https://orbstack.dev/[OrbStack - Alternative to Docker Desktop]
+* https://lando.dev/[Lando]
+* https://www.docker.com/[Docker]
+* https://docs.docker.com/engine/reference/commandline/docker/[Docker CLI Reference]
+
+=== Virtualization Systems
+
+* https://www.virtualbox.org/[VirtualBox]
+* https://www.vmware.com/[VMWare]
+
+=== VM and Container Image Libraries
+
+* https://portal.cloud.hashicorp.com/[HashiCorp Cloud Platform (HCP)]
+* https://app.vagrantup.com/[Vagrant Cloud]
+* https://www.linuxserver.io/[linuxserver.io]
+
+== Pre-Packaged Application Catalogs
+
+* https://bitnami.com/[Bitnami]
+
+== Data Serialization Systems
+
+* https://avro.apache.org/[Apache Avro]
+* https://thrift.apache.org/[Apache Thrift]
+* https://github.com/facebook/fbthrift[fbthrift]
+* https://protobuf.dev/[Protocol Buffers]
+
+== Communication Protocols
+
+* https://www.amqp.org/[AMQP]
+
+=== HTTP
+
+* https://httpwg.org/specs/[httpwg specs]
+
+== Databases and Caching Systems
+
+* https://db-engines.com/en/[DB-Engines]
+
+=== Production Service Databases
+
+==== Relational Databases
+
+* https://www.postgresql.org/[PostgreSQL]
+* https://www.microsoft.com/en-us/sql-server[MSSQL (aka SQL Server)]
+* https://www.oracle.com/uk/database/[Oracle Database]
+* https://www.cockroachlabs.com/[CockroachDB]
+* https://www.sqlite.org/index.html[SQLite]
+
+===== MySQL
+
+* https://www.mysql.com/[MySQL]
+* https://mariadb.org/[MariaDB]
+* https://www.percona.com/[Percona Server]
+
+==== Document-Oriented (NoSQL) Databases
+
+* https://cassandra.apache.org/_/index.html[Cassandra]
+* https://aws.amazon.com/dynamodb/[Amazon DynamoDB]
+* https://couchdb.apache.org/[CouchDB]
+
+===== MongoDB
+
+* https://www.mongodb.com/[MongoDB]
+* https://www.mongodb.com/products/tools/compass[Compass]
+
+==== Graph Databases
+
+* https://spark.apache.org/[Apache Spark]
+* https://arangodb.com/[ArrangoDB]
+* https://neo4j.com/[neo4j]
+* https://github.com/twitter-archive/flockdb[FlockDB]
+
+=== Operational Databases
+
+==== Key-Value Stores and In-Memory Object Caches
+
+* https://redis.io/[Redis]
+* https://www.singlestore.com/[SingleStore (formerly MemSQL)]
+* https://github.com/techfort/LokiJS[LokiJS]
+* https://memcached.org/[Memcached]
+
+==== Time Series Databases
+
+* https://oss.oetiker.ch/rrdtool/[RRDtool]
+* https://prometheus.io/[Prometheus]
+* https://www.timescale.com/[Timescale]
+* https://www.influxdata.com/[InfluxDB]
+
+==== Logs & Search Databases
+
+* https://www.elastic.co/[Elastic Stack, formerly ELK Stack - Elasticsearch, Logstash, Kibana]
+* https://solr.apache.org/[Solr]
+
+=== Analytical Databases
+
+==== Data Warehouses (structured)
+
+* https://www.teradata.com/[Teradata]
+* https://www.snowflake.com/en/data-cloud/workloads/data-warehouse/[Snowflake Data Warehouse]
+* https://cloud.google.com/bigquery[Google BigQuery]
+* https://aws.amazon.com/redshift/[Amazon Redshift]
+* https://clickhouse.com/[ClickHouse]
+
+==== Data Lakes (unstructured)
+
+* https://aws.amazon.com/s3/[Amazon S3]
+* https://www.databricks.com/[Databricks]
+* https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html[HDFS]
+
+==== GIS Databases
+
+* https://www.kinetica.com/[Kinetica]
+* https://postgis.net/[PostGIS]
+* https://www.oracle.com/database/spatial/[Oracle Spacial Database]
+
+=== Distributed Databases
+
+* https://www.couchbase.com/[Couchbase]
+* https://cloud.google.com/bigtable[Google BigTable]
+* https://hbase.apache.org/[Apache HBase]
+
+== Big Data Analytics, Search Engines, Logging and Observability
+
+* https://yacy.net/[YaCy]
+* https://www.honeycomb.io/[Honeycomb]
+* https://logz.io/[Logz.io: Cloud Observability & Security Powered by Open Source]
+* https://coralogix.com/[Coralogix]
+
+== Distributed File Systems
+
+* https://hadoop.apache.org/[Apache Hadoop]
+
+== Load Balancers, Reverse Proxies, Service Routing
+
+* https://github.com/OptimalBits/redbird[Redbird]
+* https://www.haproxy.org/[HAProxy]
+* https://traefik.io/[Traefik]
+* https://kubernetes.io/docs/concepts/services-networking/ingress/[Ingress - Kubernetes]
+
+== TLS/SSL Certificate Authorities
+
+* https://letsencrypt.org/[Let's Encrypt]
+
+== Event-Driven Systems
+
+* https://github.com/drasi-project/drasi-platform[Drasi]
+
+== Message Brokers (aka Message Queues)
+
+* https://aws.amazon.com/sqs/[Amazon SQS]
+* https://zeromq.org/[ZeroMQ]
+* https://nsq.io/[NSQ]
+* https://nats.io/[NATS]
+* https://activemq.apache.org/[ActiveMQ]
+* https://github.com/tembo-io/pgmq[pgmq]
+* https://github.com/smrchy/rsmq[rsmq]
+* https://www.rabbitmq.com/[RabbitMQ]
+* https://kafka.apache.org/[Apache Kafka]
+
+== Visibility (Observability and Monitoring)
+
+=== Stats Aggregation
+
+* https://github.com/statsd/statsd[statsd]
+* https://github.com/sivy/node-statsd[node-statsd]
+* https://github.com/iamcal/Flickr-StatsD[flickr-statsd]
+* https://github.com/brightcove/hot-shots[hot-shots]
+* https://docs.datadoghq.com/developers/dogstatsd/[DogStatsd]
+* https://github.com/influxdata/telegraf[telegraf]
+
+=== Monitoring
+
+==== Infrastructure and Application (Performance) Monitoring (APM)
+
+* https://www.solarwinds.com/appoptics[AppOptics (formerly Librato)]
+* https://www.bugsnag.com/[Bugsnag]
+* https://www.datadoghq.com/[Datadog]
+* https://graylog.org/[Graylog]
+* https://healthchecks.io/[Healthchecks]
+* https://www.host-tracker.com/en[Host Tracker]
+* https://www.hostedgraphite.com/[Hosted Graphite]
+* https://www.logicmonitor.com/[LogicMonitor]
+* https://www.loggly.com/[Loggly]
+* https://www.monitor.us/[Monitor.us]
+* https://www.nagios.org/[Nagios]
+* https://www.netdata.cloud/[NetData]
+* https://newrelic.com/[New Relic]
+* https://tools.keycdn.com/ping[Ping Test (keycdn)]
+* https://www.pingdom.com/[Pingdom]
+* https://sentry.io/[Sentry]
+* https://www.serviceuptime.com/[Service Uptime]
+* https://simpleops.io/[SimpleOps]
+* https://stackify.com/[Stackify]
+* https://www.uptrends.com/[UpTrends]
+* https://www.wormly.com/[Wormly]
+
+==== System Monitoring
+
+* https://github.com/aristocratos/bashtop[bashtop]
+* https://oss.oetiker.ch/mrtg/[MRTG]
+* https://mmonit.com/monit/[Monit]
+* https://ctop.sh/[ctop]
+* https://github.com/aristocratos/btop[btop]
+* https://htop.dev/[htop]
+* https://github.com/tariqbuilds/linux-dash[Linux Dash]
+
+==== Service Status Dashboards
+
+* https://statushub.com/[StatusHub]
+
+=== Observability
+
+* https://www.cacti.net/info/cacti[Cacti]
+* https://www.splunk.com/[Splunk]
+* https://grafana.com/[Grafana]
+* https://sensu.io/[Sensu]
+* http://opentsdb.net/[OpenTSDB]
+* https://graphite.readthedocs.io/en/latest/[Graphite]
+* https://opentelemetry.io/[OpenTelemetry]
+
+=== Tracing
+
+* https://opencensus.io/[OpenCensus]
+* https://opentracing.io/[OpenTracing]
+* https://www.jaegertracing.io/[Jaeger]
+* https://zipkin.io/[Zipkin]
+
+=== Logging
+
+* https://www.elastic.co/logstash[Logstash]
+
+=== Data Analysis Tools
+
+* https://www.elastic.co/kibana[Kibana]
+
+== Service Communication Protocols
+
+* https://grpc.io/[gRPC]
+
+== Service Mesh and Service Discovery
+
+* https://www.consul.io/[Consul]
+
+== Task Queues (aka Job Queues)
+
+* https://beanstalkd.github.io/[Beanstalkd]
+* https://hatchet.run/[Hatchet]
+
+== Web/HTTP Servers
+
+* https://tomcat.apache.org/[Tomcat]
+* https://httpd.apache.org/[Apache HTTP Server]
+* https://nginx.org/[Nginx]
+* https://caddyserver.com/[Caddy Server]
+
+== Infrastructure Testing
+
+* https://www.gremlin.com/[Gremlin]

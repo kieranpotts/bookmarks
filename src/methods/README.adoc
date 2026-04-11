@@ -1,0 +1,95 @@
+= Methods
+
+== Architecture and Design
+
+* https://martinfowler.com/architecture/[Software Architecture Guide - Martin Fowler]
+* https://pubs.opengroup.org/architecture/togaf8-doc/arch/toc.html[TOGAF - The Open Group Architecture Framework]
+* https://iasaglobal.org/[IASA - Association for IT Architects]
+
+=== Algorithms
+
+=== Data Structures
+
+=== Design Patterns
+
+* https://c2.com/ppr/[Portland Pattern Repository (on the WikiWikiWeb)]
+* https://www.thoughtworks.com/insights/topic/architecture[Thoughtworks - Architecture]
+* https://openlibrary.org/works/OL8021055W/The_Pattern_Almanac_2000[The Pattern Almanac 2000 by Linda Rising]
+* http://c2.com/ppr/[Portland Pattern Repository]
+* https://codewithmosh.com/p/design-patterns[Code with Mosh - The Ultimate Design Pattern Series]
+* https://refactoring.guru/design-patterns[Refactoring Guru: Design Patterns]
+* https://sourcemaking.com/design_patterns[Source Making: Design Patterns]
+
+=== Complexity Metrics
+
+* https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/[Big O Notation]
+
+== Principles and Manifestos
+
+* https://malleable.systems/[Malleable Systems Collective]
+* https://agilemanifesto.org/[Manifesto for Agile Software Development]
+* http://manifesto.softwarecraftsmanship.org/[Manifesto for Software Craftsmanship]
+* https://www.reactivemanifesto.org/[The Reactive Manifesto]
+* http://www.halfarsedagilemanifesto.org/[Manifesto for Half-Arsed Agile Software Development]
+
+== Ways of Working Frameworks
+
+* https://www.pmi.org/standards/pmbok[PMBOK]
+* https://kanbanguides.org/[Kanban]
+* http://www.extremeprogramming.org/[Extreme Programming]
+* http://infolab.stanford.edu/~burback/water_sluice/sluice6.25.97/ws/watersluice.html[WaterSluice]
+* https://web.archive.org/web/20161002055756/https://www.dsdm.org/[DSDM (web.archive.org)]
+* http://pages.swcp.com/raccoon/chaosmodel.html[Chaos Model]
+* https://basecamp.com/shapeup[Shape Up]
+* https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum[The MANY Alternatives to Scrum - Adam Ard]
+
+=== Scrum
+
+* https://www.scrum.org/[Scrum.org]
+* https://less.works/[LeSS (Large-Scale Scrum)]
+
+=== SAFe
+
+* https://scaledagile.com/[SAFe - Scaled Agile, Inc.]
+* https://scaledagileframework.com/[SAFe - Scaled Agile Framework]
+
+== Practices and Techniques
+
+=== Refactoring
+
+* https://sourcemaking.com/refactoring[Source Making: Refactoring]
+* https://refactoring.guru/refactoring[Refactoring Guru]
+
+=== Test-Driven Development
+
+* https://martinfowler.com/bliki/TestDrivenDevelopment.html[Martin Fowler: Test Driven Development]
+
+=== Version Control Methodologies
+
+* https://nvie.com/posts/a-successful-git-branching-model/[GitFlow]
+* https://docs.github.com/en/get-started/using-github/github-flow[GitHub Flow]
+* https://martinfowler.com/articles/ship-show-ask.html[Ship/Show/Ask]
+* https://trunkbaseddevelopment.com/[Trunk-Based Development]
+* https://www.conventionalcommits.org/en/v1.0.0/[Conventional Commits]
+* https://keepachangelog.com/en/1.1.0/[Keep a Changelog]
+
+== Productivity Measurement Frameworks
+
+* https://www.youtube.com/watch?v=OFKv8vVQeZM[GSM Goals/Signals/Metrics]
+* https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance[DORA Four Key Metrics]
+* https://queue.acm.org/detail.cfm?id=3454124[SPACE]
+* https://dl.acm.org/doi/10.1145/3595878[DevEx]
+
+== Surveys and Research
+
+* https://dora.dev/research/2023/dora-report/[DORA - State of DevOps Report]
+
+== Open Source
+
+* https://opensource.guide/[Open Source Guides]
+* https://sfconservancy.org/[Software Freedom Conservancy]
+* https://copyfree.org/[Copyfree]
+
+=== Licenses
+
+* https://mariadb.com/bsl11/[Business Source License]

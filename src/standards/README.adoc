@@ -1,0 +1,7 @@
+= Standards
+
+== Messages, Events, Webhooks
+
+* https://datatracker.ietf.org/doc/html/rfc9421[RFC 9421 HTTP Message Signatures]
+* https://www.standardwebhooks.com/[Standard Webhooks]
+* https://cloudevents.io/[CloudEvents]

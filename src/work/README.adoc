@@ -1,0 +1,271 @@
+= Work
+
+== Jobs
+
+=== Contract/Freelance
+
+* https://catalant.com/[Catalant ★]
+* https://contra.com/[Contra ★]
+* https://www.designhill.com/[designhill ★]
+* https://www.fiverr.com/[Fiverr ★]
+* https://gigged.ai/[Gigged.ai ★]
+* https://gun.io/[Gun.io ★]
+* https://www.upwork.com/[Upwork ★]
+* https://www.mturk.com/[Amazon Mechanical Turk]
+* https://www.clickworker.com/[Clickworker]
+* https://www.contractspy.co.uk/[Contract Spy]
+* https://www.freelancermap.com/[freelancermap]
+* https://www.freelancer.com/[Freelancer.com]
+* https://outsideir35roles.com/[Outside IR35 Jobs]
+* https://www.peopleperhour.com/[PeoplePerHour]
+* https://www.procontractjobs.com/[Pro Contract Jobs]
+* https://www.remotasks.com/en[Remotasks]
+* https://www.remotejobs.ninja/[Remote Jobs Ninja]
+* https://remoteworkjunkie.com/[Remote Work Junkie]
+* https://www.toptal.com/[Toptal]
+* https://www.procontractjobs.com/it-jobs[ProContractJobs: IT]
+* https://project.partners/[ProjectPartners]
+* https://www.toptalents.com/[Top Talents]
+
+=== Creative
+
+* https://99designs.co.uk/[99designs]
+* https://www.behance.net/joblist[Behance Jobs]
+* https://dribbble.com/jobs[Dribbble Jobs]
+
+=== General Search
+
+* https://www.jobsite.co.uk/[jobsite ★]
+* https://www.jobserve.com/gb/en/[jobserve ★]
+* https://www.cv-library.co.uk/[CV-Library ★]
+* https://uk.indeed.com/[Indeed ★]
+* https://www.linkedin.com/jobs/?=[LinkedIn Jobs ★]
+* https://www.glassdoor.co.uk/Job/index.htm[Glassdoor Job Search ★]
+* https://www.arenella-ict.com/[Arenella ICT]
+* https://hackajob.com/talent[hackajob]
+* https://www.careerbeacon.com/[CareerBeacon]
+* https://www.careerjet.co.uk/[Careerjet.co.uk]
+* https://cord.co/[Cord]
+* https://www.escapethecity.org/[Escape the City]
+* https://hired.co.uk/[Hired.com]
+* https://www.jobillico.com/en[jobillico.com]
+* https://www.jobsrmine.com/[jobsRmine]
+* https://usemassive.com/[Massive]
+* https://www.monster.com/[Monster]
+* https://powertofly.com/[Power to Fly]
+* https://www.simplyhired.com/[SimplyHired]
+* https://www.snagajob.com/[snagajob]
+* https://uk.talent.com/[Talent.com]
+* https://trueup.io/[TrueUp]
+* https://www.ziprecruiter.co.uk/[ZipRecruiter]
+* https://www.purpose.jobs/[Purpose Jobs]
+
+=== Remote
+
+* https://allremote.jobs/[All Remote (formerly Outsourcely)]
+* https://www.crossover.com/[Crossover]
+* https://dynamitejobs.com/[Dynamite Jobs]
+* https://www.findasync.com/[FindAsync]
+* https://flexa.careers/[Flexa Career]
+* https://www.flexjobs.com/[FlexJobs]
+* https://jobspresso.co/[Jobspresso]
+* https://pangian.com/[Pangian]
+* https://remoteok.com/[Remote OK]
+* https://www.remoteyear.com/find-a-job[Remote Year]
+* https://www.remoteworker.co.uk/[Remote Worker (UK)]
+* https://remote.co/[Remote.co]
+* https://www.commitasync.com/[RemoteAsync]
+* https://www.remotehub.com/[RemoteHub]
+* https://remotive.com/[Remotive]
+* https://www.skipthedrive.com/[Skip the Drive]
+* https://weworkremotely.com/[We Work Remotely]
+* https://workew.com/[Workew]
+* https://www.workingnomads.com/jobs[Working Nomads]
+* https://iworkremote.app/[WorkRemote]
+* https://javascript.jobs/remote[Remote Javascript Jobs]
+* https://nodesk.co/[NoDesk]
+* https://himalayas.app/[Himalayas]
+* https://beachcommute.com/[Beach Commute]
+* https://workwanderers.com/[Work Wanderers]
+* https://themincave.com/[themincave]
+
+=== Tech & Startups
+
+* https://otta.com/[Otta ★]
+* https://news.ycombinator.com/submitted?id=whoishiring[Hacker News - Ask HN: Who is hiring?]
+* https://betalist.com/[BetaList]
+* https://devitjobs.uk/[DevITjobs.uk]
+* https://www.dice.com/[Dice]
+* https://www.trueup.io/[TrueUp]
+* https://wellfound.com/[Wellfound - formerly AngelList Talent]
+* https://stillhiring.today/[Who's Still Hiring?]
+* https://techworkersclub.com/[Tech Workers Club]
+* https://larajobs.com/[LaraJobs]
+* https://startups.gallery/[startups.gallery]
+
+=== Companies
+
+==== Consultancies
+
+* https://www.equalexperts.com/join-us/[Equal Experts]
+* https://www.scottlogic.com/careers[Scott Logic]
+* https://www.thoughtworks.com/careers/jobs[Thoughtworks]
+
+==== Finance
+
+* https://monzo.com/careers[Monzo]
+
+=== Job Search Tools
+
+* https://www.tealhq.com/[Teal]
+* https://www.rampedcareers.com/[Ramped]
+* https://yoodli.ai/[Yoodli]
+* https://www.careerflow.ai/[Careerflow]
+* https://www.f1hire.com/[F1 Hire]
+* https://resumeworded.com/[Resume Worded]
+* https://jobright.ai/[Jobright]
+* https://simplify.jobs/[Simplify]
+* https://www.jobscan.co/[Jobscan]
+* https://www.hays.co.uk/jobs/career-hub[Hayes - Career Hub]
+
+=== Salary Data
+
+* https://www.workforce.ai/[Workforce.ai]
+* https://www.itjobswatch.co.uk/[IT Jobs Watch]
+* https://www.levels.fyi/[levels.fyi]
+
+== Interviewing
+
+* https://www.techinterviewhandbook.org/[Tech Interview Handbook]
+* https://github.com/kdn251/interviews[kdn251/interviews]
+* https://github.com/jwasham/coding-interview-university[Coding Interview University]
+
+== Contracting
+
+=== Umbrella Companies
+
+* https://www.nasagroup.co.uk/umbrella[Nasa]
+* https://www.paystream.co.uk/umbrella/[PayStream]
+* https://www.giantgroup.com/umbrella[Giant]
+* https://parasolgroup.co.uk/our-offering/umbrella/[Parasol]
+* https://umbrellacompany.co.uk/home-ab-test?nab=1[Danbro]
+
+=== Resources
+
+* https://www.gov.uk/money/ir35[GOV.UK IR35]
+* https://www.gov.uk/tax-relief-for-employees[GOV.UK - P87 (claim tax relief on job expenses)]
+* https://www.legislation.gov.uk/uksi/2003/3319/contents/made[Conduct Regulations]
+* https://www.contracteye.co.uk/[Contract Eye]
+* https://www.contractoruk.com/[Contractor UK]
+* https://www.contractorcalculator.co.uk/[Contractor Calculator]
+* https://www.crunch.co.uk/knowledge[Crunch Knowledge]
+* https://www.ir35shield.co.uk/[IR35 Shield]
+* https://www.itcontractjobs.co.uk/[itcontractjobs.co.uk]
+
+== Certification
+
+=== Broad, Foundational Certifications
+
+* https://www.comptia.org/[CompTIA]
+* https://www.examcompass.com/[Exam Compass - CompTIA practice tests]
+
+=== Specialist Certifications
+
+==== Applications
+
+* https://learning.servicenow.com/expertprograms/en/pages/expert-program?id=snpx_home&type=CTA[ServiceNow Certified Technical Architect]
+
+==== Architecture
+
+Two main certifications:
+
+* CPSA-F
+* https://www.opengroup.org/certifications/togaf-certification-portfolio[TOGAF]
+
+===== CPSA-F
+
+*Certified Professional for Software Architecture - Foundational Level* by iSAQB (International Software Architecture Qualification Board).
+
+This certificate is regarded as being difficult to obtain, but at least it never expires once you've earned it!
+
+The focus of this certification is *software architecture*. This is about being hands-on with system design, handling code-level design and component structures, and working closely with application developers and even being a bit hands-on with coding yourself. A software architect makes technology choices, sets standards to ensure quality, and does technical designs through artifacts such as UML. Software architects are expected to have substantial development experience.
+
+Software architects work mostly with other technicians, rather than business folk.
+
+This role is for people who enjoy shaping technical foundations for products, and collaborating with other technical stakeholders including QA and ops, as well as product managers. The focus of the role is delivering software that meets specific user requirements.
+
+This role is a good choice for people who are good as solving complex technical challenges, setting standards, choosing technologies and design patterns, and so on.
+
+===== TOGAF
+
+*The Open Group Architecture Framework* by The Open Group.
+
+This certificate is focused more on *enterprise architecture*, ie. focusing on high-level business strategy and aligning IT infrastructure with broader business goals. Enterprise architects engage in planning, governance, and alignment of technology with business strategy.
+
+Enterprise architects spend more time collaborating with senior leadership than technical folk - but ultimately they are the glue between the two. They set the technical strategy from a business perspective, rather than a user/customer one.
+
+Enterprise architects do not get so involved in things like code-level design patterns, application performance tuning, database optimization, or choosing software frameworks for individual projects, etc.
+
+This role is for people who enjoy strategic planning and working at management levels.
+
+****
+Analogy:
+
+* Enterprise architects design a blueprint for a city.
+* Software architects design individual buildings.
+****
+
+==== Computer Science
+
+* https://www.edx.org/cs50[CS50 (Stanford)]
+* https://www.edx.org/learn/computer-science/stanford-university-computer-science-101[CS101 (Stanford)]
+* https://www.coursera.org/learn/comparch[Computer Architecture (Princeton)]
+* https://www.coursera.org/specializations/data-structures-algorithms[Data Structures & Algorithms (UC San Diego)]
+
+==== Infrastructure
+
+* https://aws.amazon.com/certification/[AWS Certification]
+* https://digitalcloud.training/udemy-aws-coupon-neal-davis/?utm_source=udemy&utm_medium=bonus&utm_campaign=coupons[AWS Udemy course coupons from Neal Davis]
+* https://examregistration.github.com/[GitHub Certifications]
+* https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/[Certified Kubernetes Application Developer (CKAD)]
+* https://developers.google.com/certification[Google Developers Certification]
+* https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html[Cisco CCNA]
+* https://www.hashicorp.com/en/certification[HashiCorp Certification]
+* https://training.mirantis.com/certification/dca-certification-exam/[Docker Certification | Mirantis]
+
+==== Project Management
+
+* https://www.prince2.com/uk[Prince2]
+* https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1[ITIL 4 Foundation - PeopleCert]
+* Lean Six Sigma: https://en.wikipedia.org/wiki/Lean_Six_Sigma
+* CBRM: https://brm.institute/certified-business-relationship-manager-cbrm/
+
+==== Security
+
+* COMPTIA Security+ – General, vendor-neutral cybersecurity knowledge.
+* https://www.ncsc.gov.uk/cyberessentials/overview[Cyber Essentials]
+* https://www.iso.org/standard/62085.html[ISO 9001]
+* https://www.iso.org/standard/27001[ISO 27001]
+* https://www.isaca.org/credentialing/cism[CISM Certification]
+* https://www.isc2.org/landing/cissp-2024[Certified Information Systems Security Professional (CISSP)] – Advanced security management.
+* https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/[Certified Ethical Hacker (CEH) from EC-Council] – Ethical hacking and penetration testing.
+* https://www.cisco.com/site/us/en/learn/training-certifications/certifications/security/ccnp-security/index.html[Cisco CCNP Security]
+* Systems Security Certified Practitioner (SSCP) – Security administration.
+
+==== Languages & Runtimes
+
+* https://education.oracle.com/oracle-certification-path/pFamily_48[Oracle: Java certification paths]
+
+== Coworking
+
+* https://andco.life/[AndCo]
+* https://work.life/[Work.Life]
+
+== Startups
+
+=== Incubators and Venture Capital
+
+* https://www.ycombinator.com/[Y Combinator]
+* https://www.startupschool.org/[Startup School]
+* https://www.techstars.com/[Tech Stars]
+* https://foundy.com/[Foundy]

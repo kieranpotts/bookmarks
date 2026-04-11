@@ -1,0 +1,1463 @@
+= Languages
+
+== Data Interchange Formats
+
+* https://json-ld.org/[JSON-LD]
+* https://jsonapi.org/[JSON:API]
+* https://www.jsonrpc.org/[JSON-RPC]
+
+=== Resource Description Framework - RDF
+
+* https://www.w3.org/RDF/[RDF - Semantic Web Standards]
+* https://www.w3.org/TR/rdfa-primer/[RDFa 1.1 Primer - Third Edition]
+
+== Interface Definition Languages
+
+=== Web Service APIs
+
+* https://www.openapis.org/[OpenAPI Initiative]
+* https://swagger.io/specification/[OpenAPI Specification]
+* https://www.asyncapi.com/en[AsyncAPI]
+* https://typespec.io/[TypeSpec]
+* https://www.w3.org/TR/wsdl20/[Wev Services Description Language (WSDL)]
+
+== Programming & Scripting Languages
+
+=== ECMAScript Languages
+
+* https://github.com/voodootikigod/logo.js[logo.js - A community logo for JS]
+
+==== Engines
+
+* https://trynova.dev/[Nova]
+* https://boajs.dev/[Boa]
+* https://github.com/facebook/hermes[Hermes]
+* https://v8.dev/[V8]
+* https://quickjs-ng.github.io/quickjs/[QuickJS-NG]
+* https://bellard.org/quickjs/[QuickJS]
+* https://porffor.dev/[Porffor]
+
+==== Runtimes
+
+===== JS Compilers & Runtime Environments
+
+* https://tryandromeda.dev/[Andromeda]
+* https://bun.sh/[Bun]
+* https://deno.com/[Deno]
+* https://github.com/awslabs/llrt[LLRT]
+* https://github.com/saghul/txiki.js[txiki.js]
+
+===== Node
+
+* https://www.thenodebook.com/[NodeBook]
+* https://nodejs.org/en/[Node.js]
+
+===== Compatibility Tables
+
+* https://test262.fyi/[test262.fyi]
+* https://node.green/[node.green]
+* https://compat-table.github.io/compat-table/es6/[ES Compat Tables]
+* https://runtime-compat.unjs.io/[runtime-compat.unjs.io]
+
+==== Language Dialects and Extensions, Compile-to-JS Languages
+
+* https://www.typescriptlang.org/[TypeScript]
+* https://elm-lang.org/[Elm]
+* https://nginx.org/en/docs/njs/[njs]
+* https://github.com/leontrolski/dnjs[dnjs]
+* https://dart.dev/[Dart]
+* https://www.daklang.com/[Dak]
+* https://civet.dev/[Civet]
+* https://www.purescript.org/[PureScript]
+* http://mbebenita.github.io/LLJS/[LLJS]
+* https://facebook.github.io/jsx/[JSX]
+* https://flow.org/[Flow]
+* https://rescript-lang.org/[ReScript]
+* https://small-js.org/[SmallJS]
+
+==== Language Specifications and Proposals
+
+* https://github.com/tc39/proposals[tc39/proposals]
+* https://tc39.es/[tc39.es]
+* https://github.com/tc39[TC39]
+* https://www.proposals.es/[ES Proposals]
+
+==== Tools
+
+===== Benchmarking and Runtime Analysis
+
+* https://caderek.github.io/benny/[Benny]
+* https://github.com/mcollina/autocannon[autocannon]
+* https://github.com/tinylibs/tinybench[tinylibs/tinybench]
+* https://benchmarkjs.com/[Benchmark.js]
+
+===== Build Tools and Task Runners
+
+* https://codekitapp.com/[CodeKit]
+* https://gulpjs.com/[Gulp]
+* https://gruntjs.com/[Grunt]
+* https://jakejs.com/[Jake]
+* https://moonrepo.dev/moon[Moon]
+* https://github.com/microsoft/just[Just]
+* https://docs.npmjs.com/cli/v10[npm CLI]
+* https://turbo.build/repo[TurboRepo]
+* https://nx.dev/[Nx]
+* https://github.com/bchr02/CodeFlattener[CodeFlattener]
+
+===== Single Executables
+
+* https://github.com/vercel/ncc[vercel/ncc]
+* https://github.com/nexe/nexe[nexe]
+* https://github.com/vercel/pkg[vercel/pkg]
+
+===== Code Editors and IDEs
+
+* https://www.jetbrains.com/webstorm/[WebStorm]
+
+===== Code Sandboxes/Playgrounds/REPLs
+
+* https://srcbook.com/[Srcbook]
+* https://jsbin.com/[JS Bin]
+* https://jsfiddle.net/[jsFiddle]
+* https://playcode.io/[playcode.io]
+
+===== Compilers/Transpilers and Parsers
+
+* https://bloomberg.github.io/ts-blank-space/[ts-blank-space]
+* https://jscodeshift.com/[jscodeshift - by Meta]
+* https://github.com/kaleidawave/ezno[ezno]
+* https://github.com/zenparsing/esdown[esdown]
+* https://developers.google.com/closure/compiler[Google Closure Compiler]
+* https://github.com/google/traceur-compiler[Traceur]
+* https://babeljs.io/[Babel]
+* https://github.com/neutrinojs/neutrino[Neutrino (deprecated)]
+* https://github.com/mishoo/UglifyJS[UglifyJS]
+* https://github.com/benjamn/recast[recast - JS parser]
+
+===== Runtime Transpilers and Module Loaders
+
+* https://github.com/unjs/jiti[jiti]
+* https://www.npmjs.com/package/esm[esm]
+
+===== Development Lifecycle Automation
+
+* https://semantic-release.gitbook.io/semantic-release[semantic-release]
+* https://github.com/release-it/release-it[release-it]
+* https://github.com/sindresorhus/np[np]
+* https://github.com/conventional-changelog/standard-version[standard-version]
+* https://github.com/googleapis/release-please[release-please]
+
+===== Documentation Generators
+
+* https://documentjs.com/[documentjs]
+* https://jsdoc.app/[JSDoc]
+
+===== Dummy/Fake Data Generation
+
+* https://ngneat.github.io/falso/[falso]
+* https://github.com/boo1ean/casual[casual]
+* https://github.com/json-schema-faker/json-schema-faker[json-schema-faker]
+* http://chancejs.com/[chance]
+* https://fakerjs.dev/[faker]
+
+===== Hot JS Module Reloading
+
+* https://nodemon.io/[nodemon]
+
+===== Module Systems (Legacy)
+
+* https://requirejs.org/[Require.js]
+
+===== Package Managers
+
+* https://www.vlt.sh/[vlt]
+* https://github.com/antfu-collective/ni[ni]
+* https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager[npm]
+* https://yarnpkg.com/[Yarn]
+* https://pnpm.io/[pNpm]
+* https://github.com/peerigon/updtr[updtr]
+* https://github.com/Pana/nrm[nrm]
+
+===== Package Registries and Hosting
+
+* https://github.com/cnpm/cnpm[cnpm - client for China mirror of NPM]
+* https://www.vlt.sh/serverless-registry[vlt serverless registry]
+* https://jsr.io/[JSR (JavaScript Registry)]
+* https://js.org/[js.org]
+
+===== Runtime Version Managers
+
+* https://github.com/jasongin/nvs[nvs - node version switcher - offers easy integration with vs code]
+* https://github.com/tj/n[n - a long-standing nvm alternative that accomplishes the same thing with slightly different commands and is installed via npm rather than a bash script]
+* https://asdf-vm.com/[asdf]
+* https://github.com/nvm-sh/nvm[nvm]
+* https://github.com/coreybutler/nvm-windows[nvm-windows]
+* https://github.com/1111mp/nvm-desktop[Node Version Manager Desktop]
+* https://volta.sh/[Volta - a new version manager from the LinkedIn team that claims improved speed and cross-platform support]
+* https://github.com/Schniz/fnm[Fast Node Manager (FNM)]
+
+===== Runtime Process Managers
+
+* https://pm2.keymetrics.io/[PM2]
+
+===== Script Runners
+
+* https://www.npmjs.com/package/npx[npx]
+* https://github.com/sezna/nps[nps]
+
+===== Static Analysis and Linting
+
+* https://github.com/philbooth/complexity-report[complexity-report (deprecated)]
+* http://dsheiko.github.io/jscodesniffer/[JSCodeSniffer (online, deprecated)]
+* https://www.javascriptlint.com/[JavaScript Lint]
+* https://jshint.com/[JSHint]
+* https://www.jslint.com/[JSLint]
+* https://github.com/lirantal/lockfile-lint[lockfile-lint]
+* https://ls-lint.org/[ls-lint]
+* https://packagequality.com/[packagequality.com]
+* https://github.com/es-analysis/plato[plato]
+* https://publint.dev/[publint]
+* https://palantir.github.io/tslint/[TSLint (deprecated)]
+* https://github.com/xojs/xo[xo]
+* https://github.com/secretlint/secretlint[secretlint]
+* https://github.com/peerigon/scriptlint[scriptlint]
+* https://developers.google.com/closure/utilities[Google Closure Linter (deprecated)]
+* https://prettier.io/[Prettier]
+* https://biomejs.dev/[Biome]
+* https://oxc.rs/docs/guide/usage/linter.html[Oxlint]
+* https://rslint.rs/[Rslint]
+* https://github.com/Bogdan-Lyashenko/codecrumbs[Codecrumbs]
+* https://github.com/the-simian/es6-plato[es6-plato]
+* https://github.com/simonrenoult/code-complexity[code-complexity]
+* https://github.com/escomplex/complexity-report[complexity-report (unmaintained)]
+* https://github.com/typhonjs-node-escomplex/typhonjs-escomplex[typhonjs-escomplex]
+
+===== ESLint
+
+* https://eslint.org/[ESLint]
+
+===== Plugins
+
+* https://github.com/azat-io/eslint-plugin-perfectionist[eslint-plugin-perfectionist]
+
+===== Testing Frameworks
+
+* https://mochajs.org/[Mocha]
+* https://poku.io/[Poku]
+* https://wallabyjs.com/[Wallaby]
+* https://github.com/avajs/ava[Ava]
+* https://funcunit.com/[funcunit]
+* https://qunitjs.com/[QUnit]
+* https://jasmine.github.io/[Jasmine]
+* https://jestjs.io/[Jest]
+* https://vitest.dev/[Vitest]
+
+===== Workspace Management (Monorepos)
+
+* https://github.com/sevifives/bit[bit - git abstraction for mono-repos / multi-root workspaces]
+* https://github.com/guigrpa/oao[oao]
+* https://github.com/boltpkg/bolt[Bolt]
+* https://github.com/changesets/changesets/[Changesets]
+* https://lerna.js.org/[Lerna]
+
+===== Dependency Analysis
+
+* https://github.com/lirantal/npq[npq]
+* https://github.com/silverwind/updates[updates]
+* https://github.com/upgradejs/depngn[depngn]
+* https://github.com/depcheck/depcheck[depcheck]
+* https://github.com/dylang/npm-check[npm-check]
+* https://github.com/raineorshine/npm-check-updates[npm-check-updates]
+* https://www.mend.io/renovate/[Mend Renovate]
+* https://github.com/pahen/madge[madge]
+* https://github.com/sverweij/dependency-cruiser[dependency-cruiser]
+
+===== File Watching and Hot Reloading
+
+* https://github.com/paulmillr/chokidar[Chokidar]
+
+==== Vendors (pure ES/TS + server-side runtimes)
+
+* https://nodejstoolbox.com/[Node.js Toolbox]
+
+===== General Utility and Functional Programming Libraries
+
+* https://lodash.com/[Lodash]
+* https://github.com/lodash/lodash/wiki/FP-Guide[Lodash FP]
+* https://lodash.info/[lodash.info]
+* https://underscorejs.org/[Underscore.js]
+* https://www.7urtle.com/[@7urtle/lambda]
+* https://ramdajs.com/[Ramda]
+* https://char0n.github.io/ramda-adjunct/[Ramda Adjunt]
+* https://es-toolkit.dev/[es-toolkit]
+* https://commonlyjs.com/[Commonly]
+* https://es-toolkit.slash.page/[es-toolkit]
+* https://github.com/Oaxoa/fp-filters[fp-filters]
+* https://github.com/folktale/[Folktale (deprecated)]
+* https://github.com/futil-js/futil-js[futil-js]
+* https://fxts.dev/[FxTS]
+* https://github.com/google/closure-library[Google Closure Library (deprecated)]
+* https://github.com/sanctuary-js/sanctuary[Sanctuary]
+* https://thescottyjam.github.io/snap.js/[Snap.js (copy-paste snippets)]
+* https://stdlib.io/[stdlib]
+* https://github.com/lukeed/dequal[dequal]
+* https://github.com/planttheidea/fast-copy[fast-copy]
+* https://thames-technology.github.io/monads/[monads]
+* https://github.com/gvergnaud/ts-pattern[ts-pattern]
+
+===== Polyfills and Shims
+
+* https://github.com/es-shims[ECMAScript Shims]
+
+===== Asynchronous JavaScript (Promises)
+
+* https://github.com/nodeshift/opossum[Opossum]
+* https://effect.website/[Effect]
+
+===== Authentication
+
+* https://next-auth.js.org/[NextAuth.js]
+* https://www.passportjs.org/[Passport.js]
+* https://github.com/expressjs/session[expressjs/session]
+* https://lucia-auth.com/[Lucia]
+* https://github.com/simov/grant[simov/grant - OAuth proxy]
+* https://github.com/hapijs/bell[@hapi/bell]
+
+===== Authorization
+
+* https://casl.js.org/v6/en/[CASL]
+* https://www.osohq.com/docs/oss[Oso]
+* https://casbin.org/[Casbin]
+* https://onury.io/accesscontrol/[AccessControl]
+
+===== Browser Automation and Web Scraping
+
+* https://pptr.dev/[Puppeteer]
+* https://playwright.dev/[Playwright]
+* https://crawlee.dev/[Crawlee]
+* https://github.com/matthewmueller/x-ray[x-ray]
+
+===== CLI Abstractions/Frameworks
+
+* https://github.com/leo/args[args]
+* https://github.com/infinitered/gluegun[gluegun]
+* https://github.com/cacjs/cac[cac]
+* http://vorpal.js.org/[Vorpal]
+* https://github.com/vercel/arg[arg]
+* https://github.com/sindresorhus/meow[meow]
+* https://github.com/npm/nopt[nopt]
+* https://github.com/gkz/optionator[optionator]
+* https://github.com/minimistjs/minimist[minimist]
+* https://yargs.js.org/[yargs]
+* https://github.com/medikoo/cli-color[cli-color]
+* https://github.com/lukeed/kleur[kleur]
+* https://github.com/Marak/colors.js[colors.js]
+* https://github.com/chalk/chalk[chalk]
+* https://github.com/enquirer/enquirer[enquirer]
+* https://github.com/terkelg/prompts[prompts]
+* https://github.com/SBoudrias/Inquirer.js[Inquirer.js]
+* https://github.com/mattallty/Caporal.js[Caporal.js]
+* https://oclif.io/[Oclif]
+* https://github.com/tj/commander.js[commander.js]
+
+===== Color Manipulation
+
+* https://github.com/color-js/color.js[color.js]
+
+===== Parallelism (Worker Threads)
+
+* https://github.com/bitair-org/concurrent.js[concurrent.js]
+* https://github.com/BuilderIO/partytown[Partytown]
+* https://github.com/piscinajs/piscina[Piscina]
+* https://github.com/tinylibs/tinypool[tinypool]
+
+===== Configuration and Env Loaders
+
+* https://dotenvx.com/[dotenvx]
+* https://github.com/mozilla/node-convict[node-convict]
+* https://github.com/indexzero/nconf[nconf]
+* https://github.com/node-config/node-config[node-config]
+* https://github.com/dominictarr/rc[rc]
+* https://github.com/cosmiconfig/cosmiconfig[cosmicconfig]
+* https://github.com/evanshortiss/env-var[env-var]
+
+===== Cookie Abstractions
+
+* https://github.com/jshttp/cookie[cookie]
+* https://github.com/salesforce/tough-cookie[tough-cookie]
+
+===== Data Structures, Entities and Value Objects
+
+* https://github.com/true-myth/true-myth[True Myth]
+* https://tydel.js.org/[tydel]
+* https://github.com/arktypeio/arktype[arktype]
+* https://github.com/glideapps/quicktype[quicktype]
+* https://github.com/rauschma/enumify[Enumify]
+* https://github.com/AmpersandJS/ampersand-state[AmpersandState]
+* https://github.com/immutable-js/immutable-js[Immutable]
+* https://immutable-js.com/[Immutable.js]
+* https://github.com/gcanti/io-ts[io-ts]
+* https://swannodette.github.io/mori/[Mori]
+* https://objectmodel.js.org/[Object Model]
+* https://giusepperaso.github.io/structura.js/[Structura.js]
+* https://github.com/talyssonoc/structure/[Structure]
+* https://docs.superstructjs.org/[SuperStruct]
+* https://github.com/gcanti/tcomb[tcomb]
+* https://immerjs.github.io/immer/[Immer]
+
+===== Database and Storage Abstractions and ORMs
+
+* https://mikro-orm.io/[Mikro ORM]
+* https://sequelize.org/[Sequelize]
+* https://github.com/porsager/postgres[Postgres.js]
+* https://github.com/vitaly-t/pg-promise[pg-promise]
+* https://orm.drizzle.team/[Drizzle]
+* https://github.com/mikro-orm/mikro-orm[Mikro ORM]
+* https://github.com/thebinarysearchtree/flyweight[Flyweight]
+* https://mongoosejs.com/[Mongoose]
+* https://www.prisma.io/[Prisma]
+* https://orange-orm.io/[Orange ORM]
+* https://vincit.github.io/objection.js/[Objection.js]
+
+===== PostgreSQL Clients
+
+* https://vitaly-t.github.io/pg-promise/[pg-promise]
+* https://github.com/gajus/slonik[slonik]
+* https://node-postgres.com/[node-postgres]
+
+===== Object-Relational Mapping (ORM)
+
+* https://typeorm.io/[TypeORM]
+
+===== Query Builders
+
+* https://kysely.dev/[kysely]
+* https://knex.github.io/documentation/[knex]
+
+===== Redis Clients
+
+* https://github.com/luin/ioredis[ioredis]
+* https://redis.js.org/[node-redis]
+
+===== SQLite Clients
+
+* https://github.com/WiseLibs/better-sqlite3[better-sqlite3 by wise labs]
+* https://github.com/TryGhost/node-sqlite3[sqlite3 by ghost]
+
+===== DB Drivers
+
+* https://sidorares.github.io/node-mysql2/docs[MySQL2]
+* https://github.com/mysqljs/mysql[mysql]
+* https://www.mongodb.com/docs/drivers/node/current/[MongoDB Node Driver]
+
+===== Datetime Libraries
+
+* https://moment.github.io/luxon/#/[Luxon]
+* https://date-fns.org/[date-fns]
+* https://day.js.org/[Day.js]
+* https://momentjs.com/[Moment (deprecated)]
+* https://spacetime.how/[spacetime]
+
+===== Dependency Injection + Service Locator (IoC)
+
+* https://github.com/jeffijoe/awilix[Awilix]
+* https://github.com/zheksoon/dioma[Dioma]
+
+===== Diffing (Text) Libraries
+
+* https://github.com/kpdecker/jsdiff[jsdiff]
+
+===== DOM Implementations & Fakes
+
+* https://github.com/jsdom/jsdom[jsdom]
+* https://github.com/capricorn86/happy-dom[happy-dom]
+
+===== Email Delivery
+
+* https://github.com/guileen/node-sendmail[node-sendmail]
+* https://github.com/eleith/emailjs[emailjs]
+* https://nodemailer.com/[nodemailer]
+* https://upyo.org/[Upyo]
+
+===== Event Emitters and PubSub
+
+* https://github.com/mroderick/PubSubJS[PubSubJS]
+* https://github.com/ai/nanoevents[Nano Events]
+
+===== Feature Detection and UserAgent/Browser/Runtime Detection
+
+* https://uaparser.dev/[uaparser]
+* https://github.com/sindresorhus/get-windows[get-windows]
+* https://www.npmjs.com/package/browser-or-node[browser-or-node]
+* https://github.com/Modernizr/Modernizr[Modernizr]
+
+===== File Archiving and Compression
+
+* https://github.com/thejoshwolfe/yauzl[yauzl]
+* https://github.com/thejoshwolfe/yazl[yazl]
+* https://stuk.github.io/jszip/[JSZip]
+
+===== File Type / Mimetype Detection
+
+* https://github.com/sindresorhus/file-type[file-type]
+
+===== Form and File Upload Processing
+
+* https://github.com/pillarjs/multiparty[multiparty]
+* https://github.com/richardgirges/express-fileupload[express-fileupload]
+* https://github.com/mscdex/busboy[busboy]
+* https://github.com/node-formidable/formidable[formidable]
+* https://github.com/expressjs/multer[multer]
+
+===== Geospatial Analysis
+
+* https://turfjs.org/[Turf.js]
+
+===== Graphics
+
+* https://skia-canvas.org/[Skia Canvas]
+
+===== Cryptography and Hashing
+
+* https://github.com/entronad/crypto-es[crypto-es]
+* https://github.com/lovell/farmhash[farmhash]
+
+===== Hot Module Reloading
+
+* https://github.com/julien-R44/hot-hook[hot-hook]
+
+===== HTTP and WebSocket Clients
+
+* https://axios-http.com/[Axios]
+* https://github.com/googleapis/gaxios[gaxios]
+* https://github.com/sindresorhus/ky[ky]
+* https://github.com/node-modules/urllib[urllib]
+* https://elbywan.github.io/wretch/[wretch]
+* https://undici.nodejs.org/#/[undici]
+* https://github.com/sindresorhus/got[got]
+* https://github.com/node-fetch/node-fetch[node-fetch]
+* https://github.com/request/request[request]
+* https://github.com/nodejs/undici[undici]
+* https://github.com/ethanent/phin[phin]
+* https://github.com/websockets/ws[ws]
+* https://github.com/vpulim/node-soap[node-soap]
+* https://en.wikipedia.org/wiki/Socket.IO[Socket.IO]
+
+===== HTTP and WebSocket Servers
+
+* https://github.com/caolan/dispatch[Dispatch]
+* https://github.com/senchalabs/connect[Connect]
+
+===== Static Servers
+
+* https://github.com/lukeed/sirv[sirv-cli]
+* https://github.com/JacksonTian/anywhere[anywhere]
+* http://tapiov.net/live-server/[live-server]
+* https://github.com/vercel/serve[vercel/serve]
+* https://github.com/http-party/http-server[http-server]
+
+===== Image Generation and Processing
+
+* https://docs.image-js.org/[ImageJS]
+* https://github.com/Yuriy-Svetlov/compress-images[compress-images]
+* https://github.com/rsms/node-imagemagick[node-imagemagick]
+* https://github.com/imagemin/imagemin[imagemin]
+* https://github.com/aheckmann/gm[gm]
+* http://jimp-dev.github.io/jimp/[jimp]
+* https://sharp.pixelplumbing.com/[sharp]
+* https://github.com/frinyvonnick/node-html-to-image[node-html-to-image]
+
+===== Internationalization and Localization
+
+* https://github.com/andreruffert/i18n-literally[i18n-literally]
+
+===== JSX Implementations
+
+* https://nanojsx.io/[Nano JSX]
+
+===== JWT
+
+* https://nearform.github.io/fast-jwt/[fast-jwt]
+* https://github.com/cisco/node-jose[node-jose]
+* https://github.com/auth0/jwt-decode[jwt-decode]
+* https://github.com/panva/jose[jose]
+* https://github.com/auth0/node-jsonwebtoken[node-jsonwebtoken]
+
+===== Logging
+
+* https://github.com/iamqitmeer/log-vwer[log-vwer]
+* https://logtape.org/[LogTape]
+* https://github.com/trentm/node-bunyan[node-bunyan]
+* https://github.com/pimterry/loglevel[loglevel]
+* https://log4js-node.github.io/log4js-node/[log4js-node]
+* https://github.com/expressjs/morgan[Morgan]
+* https://github.com/npm/npmlog[npmlog (deprecated)]
+* https://github.com/winstonjs/winston[Winston]
+* https://getpino.io/#/[Pino]
+
+===== Machine Learning
+
+* https://github.com/frost-beta/node-mlx[node-mlx]
+* https://github.com/eduardoleao052/js-pytorch[JS-PyTorch]
+* https://github.com/mljs[ml.js]
+
+===== Numbers, Money and Currency Libraries
+
+* https://mathjs.org/[Math.js]
+* https://github.com/sindresorhus/pretty-ms[pretty-ms]
+* https://github.com/rawify/Fraction.js[Fraction.js]
+* https://github.com/EvanHahn/HumanizeDuration.js[HumanizeDuration.js]
+* https://github.com/scurker/currency.js[currency.js]
+
+===== Parsers and Compilers
+
+* https://peggyjs.org/[Peggy]
+* https://github.com/beaugunderson/ip-address[ip-address]
+
+===== JS
+
+* https://ericsmekens.github.io/jsep/[jsep]
+
+===== BSON
+
+* https://github.com/mongodb/js-bson[js-bson]
+
+===== CSV and Spreadsheets
+
+* https://github.com/zurmokeeper/officecrypto-tool[officecrypto-tool]
+* https://github.com/mgcrea/node-xlsx[node-xlsx]
+* https://github.com/exceljs/exceljs[exceljs]
+* https://sheetjs.com/[SheetJS]
+* https://github.com/flash-oss/lil-csv[lil-csv]
+* https://d3js.org/d3-dsv[d3-dsv]
+* https://github.com/mafintosh/csv-parser[csv-parser]
+* https://c2fo.github.io/fast-csv/[Fast-CSV]
+* https://github.com/Keyang/node-csvtojson[node-csvtojson]
+* https://csv.js.org/parse/[CSV Parser for Node.js]
+* https://www.papaparse.com/[Papa Parse]
+
+===== DOCX etc
+
+* https://docx.js.org/[DOCX]
+
+===== HTML
+
+* https://github.com/taoqf/node-html-parser[node-html-parser]
+* https://github.com/mozilla/readability[readability.js]
+* https://cheerio.js.org/[cheerio]
+
+===== RDF
+
+* https://github.com/rdfjs/N3.js[N3.js]
+
+===== Markdown
+
+* https://marked.js.org/[Marked]
+
+===== JSON / BSON
+
+* https://github.com/tinyhttp/milliparsec[milliparsec]
+
+===== XML
+
+* https://github.com/rgrove/parse-xml[parse-xml]
+* https://github.com/oozcitak/xmlbuilder2[xmlbuilder2]
+
+===== INI
+
+* https://github.com/npm/ini[ini]
+
+===== PDF Generation
+
+* https://pdfme.com/[pdfme]
+* https://pdf-lib.js.org/[PDF-Lib]
+* http://pdfkit.org/[PDFKit]
+* http://pdfmake.org/#/[pdfmake]
+* https://parall.ax/products/jspdf[jsPDF]
+* https://github.com/foliojs/pdfkit[pdfkit]
+
+===== Queues
+
+* https://github.com/mourner/flatqueue[flatqueue]
+* https://github.com/mourner/tinyqueue/[tinyqueue]
+* https://github.com/luciopaiva/heapify/[Heapify]
+
+===== QR Code Generation
+
+* https://github.com/Short-io/qr-image[Short-io/qr-image (deprecated)]
+* https://github.com/Rich-Harris/headless-qr[Rich-Harris/headless-qr]
+* https://github.com/alexeyten/qr-image[alexeyten/qr-image]
+* https://github.com/gtanner/qrcode-terminal[gtanner/qrcode-terminal]
+* https://github.com/kazuhikoarase/qrcode-generator[kazuhikoarase/qrcode-generator]
+* https://github.com/soldair/node-qrcode[soldair/node-qrcode]
+
+===== Random, UUID, Passwords, Hashes and Secrets Generation
+
+* https://github.com/uuidjs/uuid[uuid]
+* https://antonz.org/uuidv7/[UUIDv7 Generator in 29 Languages]
+* https://github.com/buttercup/buttercup-generator[Buttercup Password Generator]
+* https://github.com/ai/nanoid[nanoid]
+
+===== Reactive Programming Libraries
+
+* https://reactivex.io/[ReactiveX]
+* https://cycle.js.org/[Cycle.js]
+* https://github.com/cujojs/most[Most]
+
+===== Schedulars (In-Process)
+
+* https://croner.56k.guru/[Croner]
+* https://github.com/kibertoad/toad-scheduler[toad-scheduler]
+* https://github.com/merencia/node-cron[merencia/node-cron]
+* https://github.com/kelektiv/node-cron[kelektiv/node-cron]
+* https://github.com/node-schedule/node-schedule[Node Schedule]
+* https://github.com/P4sca1/cron-schedule[cron-schedule]
+
+===== Screen Capture
+
+* https://github.com/nashaofu/node-screenshots[node-screenshots]
+
+===== Security - Input Sanitization, etc.
+
+* https://github.com/cure53/DOMPurify[DOMPurify]
+
+===== Server-Sent Events
+
+* https://github.com/MatthewWid/better-sse[better-sse]
+
+===== Shell Scripting / Shell Execution
+
+* https://github.com/sindresorhus/nano-spawn[nano-spawn]
+* https://github.com/shelljs/shelljs[shelljs]
+* https://david.deno.dev/posts/dax-node-js/[dax]
+* https://google.github.io/zx/[zx]
+* https://github.com/sindresorhus/execa[Execa]
+
+===== SSH Abstractions and Implementations
+
+* https://github.com/mscdex/ssh2[ssh2]
+* https://github.com/steelbrain/node-ssh[Node-SSH]
+
+===== Syntax Parsing and Highlighting
+
+* https://shiki.style/[Shiki]
+
+===== Task/Job Queues
+
+* https://node-resque.actionherojs.com/[node-resque]
+* https://github.com/timgit/pg-boss[pg-boss]
+* https://github.com/bee-queue/bee-queue[Bee Queue]
+* https://github.com/agenda/agenda[Agenda]
+* http://automattic.github.io/kue/[Kue]
+* https://github.com/OptimalBits/bull[Bull]
+* https://github.com/breejs/bree[Bree]
+* https://bullmq.io/[BullMQ]
+
+===== Validation and Assertions
+
+* https://osom.js.org/[osom]
+* https://github.com/ajv-validator/ajv[ajv]
+* https://vinejs.dev/[VineJS]
+* https://www.chaijs.com/[Chai]
+* https://gajus.github.io/flow-runtime/#/[Flow Runtime]
+* https://github.com/enricomarino/is/[is]
+* http://is.js.org/[is.js]
+* https://joi.dev/api/[Joi]
+* https://github.com/gcanti/tcomb-validation[tcomb-validation]
+* https://github.com/imbrn/v8n/[v8n]
+* https://github.com/dleitee/valid.js[valid.js]
+* https://validatejs.org/[validate.js]
+* http://rickharrison.github.io/validate.js/[validate.js]
+* https://github.com/validatorjs/validator.js[validator.js]
+* https://github.com/af/envalid[af/envalid - Environment variable validation]
+
+===== Object / Schema Validation
+
+* https://valibot.dev/[Valibot]
+* https://github.com/jquense/yup[Yup]
+* https://github.com/hapijs/joi[Joi]
+* https://zod.dev/[Zod]
+
+===== JSON Schema Validation
+
+* https://ajv.js.org/[ajv]
+* https://github.com/tdegrunt/jsonschema[jsonschema]
+* https://github.com/mafintosh/is-my-json-valid[is-my-json-valid]
+* https://github.com/ExodusMovement/schemasafe[schemasafe]
+* https://github.com/korzio/djv[djv]
+* https://github.com/sagold/json-schema-library[json-schema-library]
+
+===== Visual Diff and Regression Testing
+
+* https://github.com/rafasofizada/pechkin[Pechkin]
+* https://github.com/dmtrKovalenko/odiff[Odiff]
+
+===== Middleware Systems
+
+* https://middy.js.org/[Middy]
+
+==== Organizations
+
+* https://openjsf.org/[OpenJS Foundation]
+* https://ecma-international.org/[ECMA International]
+
+==== Reference
+
+* https://javascript.info/[JavaScript.info]
+* https://github.com/trekhleb/javascript-algorithms[JavaScript Algorithms]
+* https://github.com/myshov/history-of-javascript[History of JavaScript]
+* https://github.com/leonardomso/33-js-concepts[33 JavaScript Concepts]
+* https://github.com/lydiahallie/javascript-questions[JavaScript Questions]
+* http://bit.ly/wtfjavascript[wtfjs by Denys Dovhan]
+
+===== Books
+
+* https://effectivejs.com/[Effective JavaScript - David Herman]
+* https://eloquentjavascript.net/[Eloquent JavaScript - Marijn Haverbeke]
+* https://exploringjs.com/[Exploring JS - Dr. Axel Rauschmayer]
+* https://addyosmani.com/largescalejavascript/[Patterns For Large-Scale JavaScript Application Architecture - Addy Osmani]
+
+=== JVM Languages
+
+==== Java
+
+===== Tools
+
+===== Build Automation & Dependency Management
+
+* https://ant.apache.org/[Ant]
+* https://maven.apache.org/[Maven]
+* https://gradle.org/[Gradle]
+
+===== Package Registries
+
+* https://mvnrepository.com/[Maven Repository]
+
+===== JVMs and JDKs
+
+* https://en.wikipedia.org/wiki/OpenJDK[OpenJDK - Wikipedia]
+* https://en.wikipedia.org/wiki/Java_virtual_machine#JVM_languages[Java virtual machine - Wikipedia]
+* https://www.oracle.com/java/technologies/downloads/[Oracle Java SE]
+* https://jdk.java.net/[jsk.java.net - OpenJDK builds by Oracle]
+* https://aws.amazon.com/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc[Amazon Corretto]
+* https://www.azul.com/downloads/?package=jdk#zulu[Azul Zulu]
+* https://adoptium.net/en-GB/[Eclipse Adoptium's Temurin]
+* https://developer.ibm.com/languages/java/semeru-runtimes/[IBM Semeru Runtimes]
+* https://www.microsoft.com/openjdk[Microsoft Build of OpenJDK]
+* https://developers.redhat.com/products/openjdk/download[Red Hat build of OpenJDK]
+* https://sap.github.io/SapMachine/[SapMachine]
+* https://adoptium.net/en-GB/temurin/releases/[Eclipse Temurin - Adoptium Builds]
+* https://openjdk.org/[OpenJDK]
+* https://github.com/openjdk/jdk[OpenJDK repository]
+* https://openjdk.org/projects/jdk/[JDK]
+* https://openjdk.org/groups/hotspot/[HotSpot]
+* https://www.graalvm.org/[GraalVM]
+* https://developers.redhat.com/products/openjdk/overview[Red Hat OpenJDK]
+* https://hub.docker.com/_/openjdk[OpenJDK Docker Images]
+
+===== Java Version Managers
+
+* https://github.com/shyiko/jabba[Jabba]
+* https://sdkman.io/[SDKMAN!]
+* https://www.jenv.be/[jEnv]
+* https://direnv.net/[direnv]
+* https://github.com/inishchith/autoenv[autoenv]
+
+===== Testing Frameworks and Mocking Librares
+
+* https://junit.org/junit5/[JUnit]
+* https://testng.org/[TestNG]
+* https://www.archunit.org/[ArchUnit]
+* https://site.mockito.org/[Mockito]
+
+===== Annotation Libraries
+
+* https://projectlombok.org/[Project Lombok]
+
+===== Vendors
+
+===== Frameworks
+
+* https://helidon.io/[Helidon]
+* https://micronaut.io/[Micronaut]
+* https://github.com/byronka/minum[Minum]
+* https://quarkus.io/[Quarkus]
+
+===== Spring
+
+* https://spring.io/[Spring]
+* https://spring.io/projects/spring-boot[Spring Boot]
+
+===== Tools
+
+===== Project Skeletons, Starter Kits and Generators
+
+* https://start.spring.io/[Spring Initializer]
+
+===== Libraries
+
+* https://www.thymeleaf.org/[Thymeleaf]
+* https://github.com/google/guava[Guava - Google's core libraries for its Java projects]
+
+===== Specifications
+
+* https://jakarta.ee/[Jakarta EE (formerly Java Platform Enterprise Edition, Java EE, J2EE)]
+* https://www.oracle.com/java/technologies/java-se-glance.html[Java Platform Standard Edition (Java SE, formerly J2SE)]
+* https://www.oracle.com/java/technologies/javameoverview.html[Java Platform Micro Edition (Java ME, formerly J2ME)]
+* https://www.oracle.com/java/java-card/[Java Card (for smart cards)]
+* https://openjfx.io/[JavaFX]
+* https://www.jcp.org/en/home/index[Java Community Process (JCP)]
+* https://www.jcp.org/en/jsr/overview[Java Specification Requests (JSR)]
+
+===== Reference
+
+===== Documentation
+
+* https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/[JDBC API]
+* https://docs.oracle.com/en/java/[Java Documentation]
+* https://docs.oracle.com/javase/tutorial/[Oracle: The Java Tutorials]
+
+===== Learning
+
+* https://www.baeldung.com/[Baeldung]
+* https://dev.java/[Dev.java]
+* https://www.w3schools.com/java/default.asp[W3 Schools - Java]
+
+==== Kotlin
+
+* https://kotlinlang.org/[Kotlin]
+
+==== Scala
+
+* https://www.scala-lang.org/[Scala]
+
+==== Groovy
+
+* http://groovy-lang.org/[Apache Groovy]
+
+==== Clojure
+
+==== Other Languages Implemented in JVMs
+
+* https://eta-lang.org/[Eta (Haskell JVM implementation)]
+* https://github.com/thomasmodeneis/jgo[JGo (Go implementation)]
+* https://www.jython.org/[Jython (Python implementation)]
+* https://github.com/openjdk/nashorn[Nashorn Engine (ECMAScript 5.1 implementation)]
+* https://mozilla.github.io/rhino/[Rhino (JavaScript runtime)]
+* https://www.jruby.org/[JRuby (Ruby implementation)]
+
+=== C Family Languages
+
+==== C
+
+* https://www.iso.org/standard/74528.html[ISO/IEC 9899:2018]
+* https://www.open-std.org/jtc1/sc22/wg14/[ISO/IEC JTC1/SC22/WG14]
+
+==== C#
+
+* https://learn.microsoft.com/en-us/dotnet/csharp/[C# language documentation]
+
+==== C++
+
+=== Lisp Family Languages
+
+* https://common-lisp.net/[Common Lisp]
+* https://www.scheme.org/[Scheme]
+* https://racket-lang.org/[Racket]
+
+****
+* https://planet.lisp.org/[Planet Lisp] — Commnunity wiki for all things Lisp.
+****
+
+==== Clojure
+
+* https://clojure.org/[Clojure]
+* https://tryclojure.org/[Try Clojure (sandbox)]
+
+=== Go (aka Golang)
+
+* https://go.dev/[Go]
+
+==== Tools
+
+===== Code Sandboxes/Playgrounds/REPLs
+
+* https://go.dev/play/[Go Playground]
+
+===== Package Registries
+
+* https://pkg.go.dev/[pkg.go.dev]
+
+==== Reference
+
+* https://go.dev/tour/welcome/1[Go Tour]
+* https://go.dev/doc/[Go Documentation]
+* https://go.dev/ref/spec[Go Language Specification]
+* https://gobyexample.com/[Go By Example]
+
+==== Vendors
+
+===== Application Frameworks
+
+* https://revel.github.io/[Revel]
+* https://github.com/go-martini/martini[Martini]
+* https://gorilla.github.io/[Gorilla]
+* https://github.com/zenazn/goji[Goji]
+* https://gobot.io/[Gobot]
+* https://echo.labstack.com/[Echo]
+* https://gobuffalo.io/[Buffalo]
+* https://www.goravel.dev/?utm_source=hackernewsletter&utm_medium=email&utm_term=code[Goravel - Laravel-inspired Go application framework]
+
+=== Perl
+
+* https://www.perl.org/[The Perl Programming Language]
+
+=== PHP
+
+==== Dialects and Runtimes
+
+* https://roadrunner.dev/[RoadRunner]
+* https://hacklang.org/[Hack]
+* https://github.com/pmukhin/gophp[gophp]
+
+==== Vendors
+
+===== Application Frameworks
+
+* https://www.codeigniter.com/[CodeIgniter]
+* https://cakephp.org/[CakePHP]
+* https://www.yiiframework.com/[Yii]
+* https://framework.zend.com/[Zend Framework (deprecated)]
+* https://getlaminas.org/[Laminas (formerly Zend Framework)]
+* https://flow.neos.io/[Flow]
+* https://github.com/caoym/phpboot[PhpBoot]
+* https://api-platform.com/[API Platform]
+
+===== Laravel
+
+* https://laravel.com/[Laravel]
+
+===== Symfony
+
+* https://symfony.com/doc/5.x/frontend/ux.html[Symfony UX]
+* https://symfony.com/[Symfony]
+
+===== Concurrency Frameworks
+
+* https://reactphp.org/[ReactPHP]
+* https://amphp.org/[AMPHP]
+* https://www.php.net/manual/en/book.pthreads.php[pthreads (extension)]
+* https://openswoole.com/[Open Swoole]
+
+===== Libraries
+
+===== Validation and Filtering
+
+* https://github.com/ircmaxell/filterus[Filterus]
+* https://github.com/siriusphp/validation[Sirius Validation]
+
+===== Dates and Times
+
+* https://carbon.nesbot.com/[Carbon]
+
+===== CLI Execution
+
+* http://ncuesta.github.io/Clinner/[Clinner]
+
+===== Utility Libraries (General Purpose)
+
+* https://github.com/spatie[Spatie]
+
+==== Tools
+
+===== Code Sandboxes/Playgrounds/REPLs
+
+* https://psysh.org/[psysh]
+* https://3v4l.org/[3v4l.org]
+* https://onlinephp.io/[OnlinePHP.io]
+
+===== Code Editors and IDEs
+
+* https://www.jetbrains.com/phpstorm/[PhpStorm]
+* https://www.zend.com/products/zend-studio[Zend Studio]
+
+===== Debugging and Profiling
+
+* http://phpdebugbar.com/[PHP Debug Bar]
+
+===== Testing Tools
+
+===== Testing Frameworks
+
+* https://atoum.org/[Atoum]
+* https://docs.behat.org/[Behat]
+* https://codeception.com/[Codeception]
+* https://github.com/kahlan/kahlan[Kahlan]
+* https://peridot-php.github.io/[Peridot]
+* https://github.com/phpspec/prophecy[prophecy]
+* https://github.com/phpspec/phpspec[phpspec]
+* https://phpunit.de/[PHPUnit]
+* https://github.com/Brunty/cigar[Cigar]
+* https://infection.github.io/[Infection]
+* https://pestphp.com/[Pest]
+
+===== Contract Testing
+
+* https://github.com/hotmeteor/spectator[Spectator]
+
+===== Debugging and Profiling
+
+* https://github.com/leonardovilarinho/insphptor[insphptor]
+* https://github.com/phacility/xhprof[xhprof]
+
+===== Documentation Generation
+
+* https://docs.phpdoc.org/[phpDocumentor]
+* https://github.com/appertly/hphpdoc[hphpdoc]
+
+===== Package Registries
+
+* https://packagist.org/[Packagist]
+
+===== Package Management
+
+* https://getcomposer.org/[Composer]
+* https://pear.php.net/manual/en/pyrus.php[Pyrus]
+* https://pear.php.net/[PEAR]
+
+===== Linters and Static Analysis
+
+* https://phpstan.org/[PHPstan]
+* https://github.com/phan/phan[phan]
+* https://psalm.dev/[psalm]
+
+===== PHP Version Managers
+
+* https://github.com/hjbdev/pvm[PVM for Windows]
+* https://github.com/wilmoore/php-version[php-version]
+* https://github.com/phpenv/phpenv[phpenv]
+* https://phpbrew.github.io/phpbrew/[phpbrew]
+
+===== PHP Runtime Builders/Compilers
+
+* https://www.php.net/manual/en/install.windows.building.php[PHP docs: building from source]
+* https://github.com/php-build/php-build[php-build]
+* https://nativephp.com/[NativePHP]
+
+==== Standards
+
+* https://williamdurand.fr/2013/06/03/object-calisthenics/[Object Calisthenics]
+* https://www.php-fig.org/[PHP-FIG]
+* https://pear.php.net/manual/en/standards.php[Pear Coding Standards]
+* https://phpbestpractices.org/[phpbestpractices.org]
+
+==== Reference
+
+* https://php.watch/[PHP Watch]
+* https://www.php.net/[PHP]
+
+===== Books
+
+* https://en.wikibooks.org/wiki/PHP_Programming[PHP Programming]
+
+===== Blogs and Posts
+
+* https://www.phpinternalsbook.com/[PHP Internals Book]
+* http://www.hackingwithphp.com/[Hacking with PHP]
+* https://phptherightway.com/[PHP: The Right Way]
+* https://web.archive.org/web/20240618032444/https://www.phpthewrongway.com/[PHP: The Wrong Way (archive)]
+* https://web.archive.org/web/20240704060409/https://phpsadness.com/[PHP Sadness (archive)]
+* https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/[PHP: A Fractal of Bad Design]
+
+=== Python
+
+* https://docs.python.org/3/[Python Docs]
+
+==== Standards
+
+* https://peps.python.org/pep-0008/[PEP 8]
+
+==== Implementations
+
+* https://micropython.org/[MicroPython]
+
+==== Tools
+
+===== Testing Frameworks
+
+* https://docs.pytest.org/en/7.4.x/[pytest docs]
+
+===== Package Registries
+
+* https://pypi.org/[PyPI · The Python Package Index]
+
+===== Code Editors and IDEs
+
+* https://www.jetbrains.com/pycharm/[PyCharm]
+
+===== Linters and Static Analysis
+
+* https://docs.astral.sh/ruff/[Ruff]
+
+===== Python Version Managers
+
+* https://github.com/pyenv/pyenv[pyenv]
+
+==== Vendors
+
+===== Frameworks
+
+* https://www.djangoproject.com/[Django]
+* https://www.starlette.io/[Starlette]
+
+===== Libraries
+
+===== Data Analysis
+
+* https://pandas.pydata.org/[Pandas]
+
+==== Reference
+
+* https://www.learnpython.org/[learnpython.org]
+
+=== Tcl ("tickle")
+
+* https://www.tcl-lang.org/[Tcl Developer Site]
+
+==== Implementations
+
+* https://eagle.to/[Eagle]
+* https://jim.tcl.tk/index.html/doc/www/www/index.html[Jim]
+* https://www.androwish.org/home/home[AndroWIsh]
+* https://www.activestate.com/products/tcl/[ActiveState]
+
+=== Data-Centric Programming Languages
+
+* https://hpccsystems.com/training/documentation/learning-ecl/[ECL - Enterprise Control Language by HPCC Systems]
+* https://odin-lang.org/[Odin]
+
+=== Other Programming Languages
+
+== Shells and Command Languages
+
+=== Unix Shells
+
+==== POSIX
+
+* https://www.grymoire.com/Unix/Sh.html[Sh - the POSIX Shell, by Bruce Barnett]
+* https://github.com/dylanaraps/pure-sh-bible[Pure SH Bible]
+
+==== Bash
+
+* https://github.com/dylanaraps/pure-bash-bible[Pure Bash Bible]
+* https://guide.bash.academy/[The Bash Guide]
+* https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html[Bash Reference Manual]
+* https://en.wikibooks.org/wiki/Bash_Shell_Scripting[Bash Shell Scripting - Wiki Book]
+* https://www.gnu.org/software/bash/[Bash]
+* https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html[BASH Programming - Introduction HOW-TO]
+* https://tldp.org/LDP/abs/html/index.html[Advanced Bash-Scripting Guide]
+
+==== Z shell (Zsh)
+
+* https://www.zsh.org/[Zsh]
+* https://ohmyz.sh/[Oh My ZSH!]
+* https://github.com/sorin-ionescu/prezto[Prezto]
+
+==== C Shell (csh and tsch)
+
+* https://github.com/freebsd/freebsd-src/tree/main/bin/csh[C Shell Repository]
+* https://docs-archive.freebsd.org/44doc/usd/04.csh/paper.html[An Introduction to the C Shell by WIlliam Joy]
+* https://www.tcsh.org/[TCSH ("tee-shell")]
+
+==== Fish
+
+* https://fishshell.com/[fish shell]
+
+==== KornShell
+
+* http://kornshell.com/[KornShell]
+
+==== Qshell (qsh)
+
+* https://www.ibm.com/docs/en/i/7.4?topic=languages-qshell[Qshell]
+
+==== Others...
+
+* https://elv.sh/[Elvish]
+* https://github.com/liljencrantz/crush[Crush]
+
+==== Tools
+
+===== Runtime Testing
+
+* https://github.com/Checksum/critic.sh[critic.sh]
+* https://github.com/bach-sh/bach[Bach]
+
+===== Static Analysis
+
+* https://linux.die.net/man/1/checkbashisms[checkbashisms]
+* https://github.com/koalaman/shellcheck[ShellCheck (CLI)]
+* https://www.shellcheck.net/[ShellCheck (online)]
+
+=== Cross-Platform Shells
+
+==== Nushell
+
+* https://www.nushell.sh/[Nushell]
+
+==== PowerShell
+
+* https://learn.microsoft.com/en-gb/powershell/[PowerShell]
+
+=== Compile-to-Shell Languages
+
+* https://amber-lang.com/[Amber]
+
+== Domain-Specific Scripting Languages
+
+=== AWK
+
+* https://pubs.opengroup.org/onlinepubs/9699919799/utilities/awk.html[awk - IEEE Std 1003.1-2008]
+
+== Visual Programming Languages and Tools
+
+* https://rete.js.org/[Rete.js]
+* https://snap.berkeley.edu/[Snap!]
+* https://developers.google.com/blockly[Blockly]
+* https://www.ni.com/en/shop/labview.html[LabVIEW]
+* https://scratch.mit.edu/[Scratch]
+* https://www.flyde.dev/[Flyde]
+
+== Schema Languages
+
+* https://cuelang.org/[CUE]
+* https://schema.org/[Schema.org]
+* https://www.w3.org/TR/xmlschema-1/[XML Schema]
+
+=== JSON Schema
+
+* https://json-schema.hyperjump.io/[Hyperjump - JSON Schema validation]
+* https://json-schema.org/[JSON Schema]
+* https://www.learnjsonschema.com/2020-12/[Learn JSON Schema]
+
+== Serialization Languages
+
+=== Text Serialization Formats
+
+* https://yaml.org/[YAML]
+
+==== Configuration File Formats
+
+* https://toml.io/en/[TOML]
+* https://ne-on.org/[Neon]
+* https://dhall-lang.org/[Dhall]
+
+==== JSON
+
+* https://www.json.org/[JSON]
+
+===== JSON-Based Serialization Formats
+
+* https://github.com/bevry/cson[CSON]
+* https://json5.org/[JSON5]
+* https://github.com/muhammadmuzzammil1998/jsonc[jsonc]
+* https://hjson.github.io/[Hjson]
+* https://github.com/lightbend/config/blob/master/HOCON.md[HOCON]
+
+===== JSON Schema
+
+* https://datatracker.ietf.org/doc/html/rfc7517[JSON Web Key (JWK)]
+* https://datatracker.ietf.org/doc/html/rfc7516[JSON Web Encryption (JWE)]
+* https://datatracker.ietf.org/doc/html/rfc7515[JSON Web Signature (JWS)]
+* https://datatracker.ietf.org/doc/html/rfc7519[JSON Web Token (JWT)]
+
+===== JSON Tools
+
+* https://jsonformatter.com/[JSON Formatter]
+* https://jsoneditoronline.org/[JSON Editor]
+
+=== Binary Serialization Formats
+
+* https://ubjson.org/[UBJSON]
+* http://bjson.org/[BJSON]
+* https://bsonspec.org/[BSON]
+
+=== Dual (Text + Binary) Serialization Formats
+
+* https://amazon-ion.github.io/ion-docs/index.html[Amazon Ion]
+
+== Style Sheet Languages
+
+=== CSS
+
+* https://github.com/CSS-Next/logo.css[logo.css - An official logo for CSS]
+
+=== Others
+
+== Text Encoding Systems
+
+=== Unicode
+
+* https://home.unicode.org/[Unicode - Official Website]
+* https://www.unicode.org/main.html[Unicode - Technical Docs]
+* https://symbl.cc/en/[SYMBL - Unicode Character Lookup]
+
+== Text Markup Languages
+
+=== HTML
+
+=== Lightweight Text Markup
+
+* http://www.wikicreole.org/[Creole]
+* https://leanpub.com/markua/read[Markua (by LeanPub)]
+* https://txt2tags.org/[txt2tags]
+* https://www.mediawiki.org/wiki/Help:Formatting[MediaWiki Syntax]
+* https://www.dokuwiki.org/wiki:syntax[DokuWiki]
+* https://vimwiki.github.io/[Vimwiki]
+* https://podlite.org/[Podlite]
+* https://docutils.sourceforge.io/rst.html[reStructuredText]
+
+==== AsciiDoc
+
+* https://asciidoc.org/[AsciiDoc]
+* https://gitlab.eclipse.org/eclipse/asciidoc-lang/asciidoc-lang[AsciiDoc Language Project]
+* https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc Language Documentation]
+* https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
+
+==== Markdown
+
+* https://daringfireball.net/projects/markdown/[Markdown - John Gruber, Daring Fireball]
+* https://commonmark.org/[CommonMark]
+* https://markdoc.dev/[MarkDoc]
+* https://github.github.com/gfm/[GitHub Flavored Markdown Spec]
+* https://www.markdownguide.org/[The Markdown Guide]
+
+=== Typesetting Systems and Heavyweight Markup
+
+* https://www.lyx.org/[Lyx - Tex/LaTex WYSIWM editor]
+* https://www.tug.org/texworks/[TexWorks - LaTeX client]
+* https://www.latex-project.org/[LaTeX]
+* https://docbook.org/[DocBook]
+* https://www.gnu.org/software/groff/groff.html[GNU roff (groff)]
+* https://www.gnu.org/software/texinfo/manual/texinfo/[GNU Texinfo]
+
+== Query Languages
+
+* https://graphql.org/[GraphQL]
+* https://codeql.github.com/docs/[CodeQL]
+
+== Modelling Languages
+
+* https://c4model.com/[C4 Model]
+* https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf[4+1 Model]
+* https://sysml.org/[SysML]
+* http://www.omg.org/spec/SoaML/[SoaML]
+* https://www.opengroup.org/archimate-forum/archimate-overview[ArchiMate]
+
+=== UML
+
+* https://psemantica.com/umli/[UMLi - UML for Interactive Applications]
+* https://sourcemaking.com/uml[Source Making: UML]
+* https://pdf.plantuml.net/1.2020.22/PlantUML_Language_Reference_Guide_en.pdf[PlantUML Language Reference Guide (PDF)]
+* https://www.uml.org/[UML]
+* https://holub.com/uml/[Allen Holub's UML Quick Reference]
