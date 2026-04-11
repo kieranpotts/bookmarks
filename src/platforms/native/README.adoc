@@ -1,0 +1,102 @@
+= Native (Operating Systems)
+
+== Android
+
+=== Tools
+
+==== Code Editors and IDEs
+
+* https://developer.android.com/studio/index.html[Android Studio]
+
+== BSD
+
+=== Distributions
+
+* https://www.freebsd.org/[FreeBSD]
+* https://www.netbsd.org/[NetBSD]
+* https://www.openbsd.org/[OpenBSD]
+* https://www.dragonflybsd.org/[Dragonfly BSD]
+
+== Linux
+
+=== Distributions
+
+* https://distrowatch.com/[Distro Watch]
+* https://alpinelinux.org/[Alpine Linux - widely used for container base images]
+* https://voidlinux.org/[Void]
+* https://fedoraproject.org/[Fedora]
+* https://ubuntu.com/[Ubuntu]
+* https://www.debian.org/[Debian]
+* https://www.gentoo.org/[Gentoo]
+* https://archlinux.org/[Arch Linux]
+
+=== Package Managers
+
+* https://nixos.org/[Nix]
+* https://rpm.org/[RPM]
+* http://yum.baseurl.org/[Yum]
+* https://flathub.org/en[Flathub (via Flatpak)]
+* https://wiki.debian.org/AptCLI[Apt]
+* https://wiki.gentoo.org/wiki/Portage[Portage]
+* https://wiki.archlinux.org/title/pacman[Pacman]
+* https://snapcraft.io/[Snapcraft]
+* https://brew.sh/[Homebrew]
+* https://github.com/rpm-software-management/dnf[DNF]
+
+=== Package Repositories
+
+* https://pkgs.org/[pkgs.org]
+* https://ius.io/[IUS]
+
+=== System and Service Managers
+
+* https://systemd.io/[systemd]
+
+=== Reference
+
+* https://www.linuxjournal.com/[Linux Journal]
+* https://lwn.net/[LWN.net]
+* https://linuxize.com/[Linuxize]
+* https://linuxfromscratch.org/[Linux From Scratch!]
+* https://tldp.org/[The Linux Documentation Project]
+
+== Windows
+
+=== Tools
+
+==== Package Managers
+
+* https://chocolatey.org/[Chocolatey]
+* https://www.nuget.org/[NuGet]
+
+==== Virtual Machines and Emulators
+
+* https://learn.microsoft.com/en-us/windows/wsl/[Windows Subsystem for Linux]
+* https://gitforwindows.org/[Git Bash for Windows]
+* https://cygwin.com/[Cygwin]
+* https://github.com/msys2[MSYS2]
+* https://www.mingw-w64.org/[MinGW-w64]
+
+== macOS
+
+=== Tools
+
+==== Package Managers
+
+==== Code Editors and IDEs
+
+* https://developer.apple.com/xcode/[Xcode]
+
+== Unix
+
+=== Reference
+
+* https://archive.org/details/unixtoolbox/[Unix Toolbox by Colin Barschel (archive)]
+
+=== Standards
+
+* https://pubs.opengroup.org/onlinepubs/9699919799/[The POSIX.1-2017 Standard]
+* https://unix.org/what_is_unix/single_unix_specification.html[The Single UNIX Specification]
+* https://refspecs.linuxfoundation.org/fhs.shtml[Filesystem Hierarchy Standard]
+
+=== Package Repositories

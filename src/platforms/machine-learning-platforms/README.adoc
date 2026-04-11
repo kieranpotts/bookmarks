@@ -1,0 +1,15 @@
+= Machine Learning Platforms
+
+* https://github.com/tracel-ai/burn[Burn]
+
+== TensorFlow
+
+* https://www.tensorflow.org/[TensorFlow]
+
+== PyTorch
+
+* https://pytorch.org/[PyTorch]
+
+== MLX
+
+* https://github.com/ml-explore/mlx[MLX]
