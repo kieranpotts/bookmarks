@@ -1,0 +1,15 @@
+= Modelling Languages
+
+* https://c4model.com/[C4 Model]
+* https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf[4+1 Model]
+* https://sysml.org/[SysML]
+* http://www.omg.org/spec/SoaML/[SoaML]
+* https://www.opengroup.org/archimate-forum/archimate-overview[ArchiMate]
+
+== UML
+
+* https://psemantica.com/umli/[UMLi - UML for Interactive Applications]
+* https://sourcemaking.com/uml[Source Making: UML]
+* https://pdf.plantuml.net/1.2020.22/PlantUML_Language_Reference_Guide_en.pdf[PlantUML Language Reference Guide (PDF)]
+* https://www.uml.org/[UML]
+* https://holub.com/uml/[Allen Holub's UML Quick Reference]

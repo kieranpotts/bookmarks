@@ -1,0 +1,11 @@
+= Schema Languages
+
+* https://cuelang.org/[CUE]
+* https://schema.org/[Schema.org]
+* https://www.w3.org/TR/xmlschema-1/[XML Schema]
+
+== JSON Schema
+
+* https://json-schema.hyperjump.io/[Hyperjump - JSON Schema validation]
+* https://json-schema.org/[JSON Schema]
+* https://www.learnjsonschema.com/2020-12/[Learn JSON Schema]

@@ -1,0 +1,7 @@
+= Text Encoding Systems
+
+== Unicode
+
+* https://home.unicode.org/[Unicode - Official Website]
+* https://www.unicode.org/main.html[Unicode - Technical Docs]
+* https://symbl.cc/en/[SYMBL - Unicode Character Lookup]

@@ -1,0 +1,8 @@
+= Visual Programming Languages and Tools
+
+* https://rete.js.org/[Rete.js]
+* https://snap.berkeley.edu/[Snap!]
+* https://developers.google.com/blockly[Blockly]
+* https://www.ni.com/en/shop/labview.html[LabVIEW]
+* https://scratch.mit.edu/[Scratch]
+* https://www.flyde.dev/[Flyde]

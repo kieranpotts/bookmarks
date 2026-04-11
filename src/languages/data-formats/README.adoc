@@ -1,0 +1,10 @@
+= Data Interchange Formats
+
+* https://json-ld.org/[JSON-LD]
+* https://jsonapi.org/[JSON:API]
+* https://www.jsonrpc.org/[JSON-RPC]
+
+== Resource Description Framework - RDF
+
+* https://www.w3.org/RDF/[RDF - Semantic Web Standards]
+* https://www.w3.org/TR/rdfa-primer/[RDFa 1.1 Primer - Third Edition]

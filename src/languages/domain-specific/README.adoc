@@ -1,0 +1,5 @@
+= Domain-Specific Scripting Languages
+
+== AWK
+
+* https://pubs.opengroup.org/onlinepubs/9699919799/utilities/awk.html[awk - IEEE Std 1003.1-2008]

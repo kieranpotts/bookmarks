@@ -1,0 +1,9 @@
+= Interface Definition Languages
+
+== Web Service APIs
+
+* https://www.openapis.org/[OpenAPI Initiative]
+* https://swagger.io/specification/[OpenAPI Specification]
+* https://www.asyncapi.com/en[AsyncAPI]
+* https://typespec.io/[TypeSpec]
+* https://www.w3.org/TR/wsdl20/[Wev Services Description Language (WSDL)]

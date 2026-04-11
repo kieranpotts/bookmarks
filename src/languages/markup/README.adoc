@@ -1,0 +1,38 @@
+= Text Markup Languages
+
+== HTML
+
+== Lightweight Text Markup
+
+* http://www.wikicreole.org/[Creole]
+* https://leanpub.com/markua/read[Markua (by LeanPub)]
+* https://txt2tags.org/[txt2tags]
+* https://www.mediawiki.org/wiki/Help:Formatting[MediaWiki Syntax]
+* https://www.dokuwiki.org/wiki:syntax[DokuWiki]
+* https://vimwiki.github.io/[Vimwiki]
+* https://podlite.org/[Podlite]
+* https://docutils.sourceforge.io/rst.html[reStructuredText]
+
+=== AsciiDoc
+
+* https://asciidoc.org/[AsciiDoc]
+* https://gitlab.eclipse.org/eclipse/asciidoc-lang/asciidoc-lang[AsciiDoc Language Project]
+* https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc Language Documentation]
+* https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
+
+=== Markdown
+
+* https://daringfireball.net/projects/markdown/[Markdown - John Gruber, Daring Fireball]
+* https://commonmark.org/[CommonMark]
+* https://markdoc.dev/[MarkDoc]
+* https://github.github.com/gfm/[GitHub Flavored Markdown Spec]
+* https://www.markdownguide.org/[The Markdown Guide]
+
+== Typesetting Systems and Heavyweight Markup
+
+* https://www.lyx.org/[Lyx - Tex/LaTex WYSIWM editor]
+* https://www.tug.org/texworks/[TexWorks - LaTeX client]
+* https://www.latex-project.org/[LaTeX]
+* https://docbook.org/[DocBook]
+* https://www.gnu.org/software/groff/groff.html[GNU roff (groff)]
+* https://www.gnu.org/software/texinfo/manual/texinfo/[GNU Texinfo]
