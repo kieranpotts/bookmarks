@@ -1,0 +1,9 @@
+= Validation and Verification Services
+
+== Email
+
+* https://mailboxlayer.com/[Mailbox Layer]
+
+== Human Language Detection
+
+* https://languagelayer.com/[Language Layer]

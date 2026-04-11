@@ -1,0 +1,9 @@
+= Backend-as-a-Service (BaaS)
+
+* https://pusher.com/[Pusher]
+* https://firebase.google.com/[Firebase]
+* https://github.com/cloudboost/cloudboost[CloudBoost]
+* https://aws.amazon.com/products/frontend-web-mobile/[AWS Web & Mobile]
+* https://developer.apple.com/icloud/[iCloud for Developers]
+* https://ably.com/[Ably]
+* https://www.algolia.com/[Algolia]

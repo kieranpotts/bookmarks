@@ -1,0 +1,7 @@
+= SSO and User Authentication and Authorization
+
+* https://fusionauth.io/[FusionAuth]
+* https://auth0.com/[Auth0]
+* https://www.okta.com/[Okta]
+* https://www.onelogin.com/[OneLogin]
+* https://workos.com/[WorkOS]

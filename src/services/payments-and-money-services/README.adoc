@@ -1,0 +1,14 @@
+= Payments & Money Services
+
+== Payments Processing Services
+
+* https://fastspring.com/[FastSpring]
+* https://gumroad.com/[Gumroad]
+* https://www.paddle.com/[Paddle]
+* https://stripe.com/gb[Stripe]
+
+== Currency / Exchange-Rate Conversion
+
+* https://1forge.com/[1forge]
+* https://currencylayer.com/[CurrencyLayer]
+* https://fixer.io/[Fixer]

@@ -1,0 +1,13 @@
+= Transactional Email
+
+* https://aws.amazon.com/ses/[AWS Simple Email Service (SES)]
+* https://www.authmailer.com/[AuthMailer]
+* https://www.campaignmonitor.com/features/transactional-email/[Campaign Monitor - Transaction Email]
+* https://www.lob.com/[Lob]
+* https://www.mailgun.com/[MailGun]
+* https://postmarkapp.com/[Postmark]
+* https://sendgrid.com/en-us[Twilio SendGrid]
+* https://www.smtp.com/[SMTP]
+* https://bird.com/api/email[Bird Email API]
+* https://serversmtp.com/[turboSMTP]
+* https://www.twilio.com/en-us/sendgrid/email-api[Twilio Email API]

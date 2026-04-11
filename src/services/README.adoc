@@ -1,110 +1,16 @@
 = Services
 
-== Backend-as-a-Service (BaaS)
-
-* https://pusher.com/[Pusher]
-* https://firebase.google.com/[Firebase]
-* https://github.com/cloudboost/cloudboost[CloudBoost]
-* https://aws.amazon.com/products/frontend-web-mobile/[AWS Web & Mobile]
-* https://developer.apple.com/icloud/[iCloud for Developers]
-* https://ably.com/[Ably]
-* https://www.algolia.com/[Algolia]
-
-== Application Usage Analytics
-
-* https://umami.is/[unami]
-* https://mixpanel.com/[Mixpanel]
-* https://amplitude.com/[Amplitude]
-* https://dash.cloudflare.com/sign-up/web-analytics[Cloudflare Web Analytics]
-* https://usefathom.com/[Fathom Analytics]
-* https://get.gaug.es/[Gauges]
-* https://www.gosquared.com/[GoSquared]
-* https://www.heap.io/[Heap]
-* https://www.openwebanalytics.com/[Open Web Analytics]
-* https://plausible.io/[Plausible]
-
-== Avatar Services
-
-* https://unavatar.io/[Unavatar]
-
-== Event Gateways and Webhook Services
-
-* https://hookdeck.com/[Hookdeck]
-
-== Feature Flag Management
-
-* https://www.flagsmith.com/[Flagsmith]
-* https://www.flipt.io/[Flipt]
-* https://www.getunleash.io/[Unleash]
-
-== Form Hosting and Capture
-
-* https://airform.io/[Airform]
-* https://www.typeform.com/[Typeform]
-
-== Live Chat Systems
-
-* https://github.com/chatwoot/chatwoot[Chatwood]
-* https://crisp.chat/en/[Crisp]
-* https://www.drift.com/[Drift]
-* https://www.intercom.com/[Intercom]
-
-== Payments & Money Services
-
-=== Payments Processing Services
-
-* https://fastspring.com/[FastSpring]
-* https://gumroad.com/[Gumroad]
-* https://www.paddle.com/[Paddle]
-* https://stripe.com/gb[Stripe]
-
-=== Currency / Exchange-Rate Conversion
-
-* https://1forge.com/[1forge]
-* https://currencylayer.com/[CurrencyLayer]
-* https://fixer.io/[Fixer]
-
-== Push Notifications Services
-
-* https://pushover.net/[Pushover]
-
-== Text Messaging (SMS) Services
-
-* https://www.textanywhere.com/[Text Anywhere]
-* https://www.twilio.com/en-us/messaging[Twilio Messaging]
-
-== Transactional Email
-
-* https://aws.amazon.com/ses/[AWS Simple Email Service (SES)]
-* https://www.authmailer.com/[AuthMailer]
-* https://www.campaignmonitor.com/features/transactional-email/[Campaign Monitor - Transaction Email]
-* https://www.lob.com/[Lob]
-* https://www.mailgun.com/[MailGun]
-* https://postmarkapp.com/[Postmark]
-* https://sendgrid.com/en-us[Twilio SendGrid]
-* https://www.smtp.com/[SMTP]
-* https://bird.com/api/email[Bird Email API]
-* https://serversmtp.com/[turboSMTP]
-* https://www.twilio.com/en-us/sendgrid/email-api[Twilio Email API]
-
-== SSO and User Authentication and Authorization
-
-* https://fusionauth.io/[FusionAuth]
-* https://auth0.com/[Auth0]
-* https://www.okta.com/[Okta]
-* https://www.onelogin.com/[OneLogin]
-* https://workos.com/[WorkOS]
-
-== Two-Factor Authentication
-
-* https://www.twilio.com/en-us/user-authentication-identity/verify[Twilio Verify]
-
-== Validation and Verification Services
-
-=== Email
-
-* https://mailboxlayer.com/[Mailbox Layer]
-
-=== Human Language Detection
-
-* https://languagelayer.com/[Language Layer]
+* *link:./backend-as-a-service/[Backend-as-a-Service (BaaS)]*
+* *link:./application-usage-analytics/[Application Usage Analytics]*
+* *link:./avatar-services/[Avatar Services]*
+* *link:./event-gateways-and-webhook-services/[Event Gateways and Webhook Services]*
+* *link:./feature-flag-management/[Feature Flag Management]*
+* *link:./form-hosting-and-capture/[Form Hosting and Capture]*
+* *link:./live-chat-systems/[Live Chat Systems]*
+* *link:./payments-and-money-services/[Payments & Money Services]*
+* *link:./push-notifications-services/[Push Notifications Services]*
+* *link:./text-messaging-services/[Text Messaging (SMS) Services]*
+* *link:./transactional-email/[Transactional Email]*
+* *link:./sso-and-user-authentication-and-authorization/[SSO and User Authentication and Authorization]*
+* *link:./two-factor-authentication/[Two-Factor Authentication]*
+* *link:./validation-and-verification-services/[Validation and Verification Services]*

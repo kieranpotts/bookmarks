@@ -1,0 +1,12 @@
+= Application Usage Analytics
+
+* https://umami.is/[unami]
+* https://mixpanel.com/[Mixpanel]
+* https://amplitude.com/[Amplitude]
+* https://dash.cloudflare.com/sign-up/web-analytics[Cloudflare Web Analytics]
+* https://usefathom.com/[Fathom Analytics]
+* https://get.gaug.es/[Gauges]
+* https://www.gosquared.com/[GoSquared]
+* https://www.heap.io/[Heap]
+* https://www.openwebanalytics.com/[Open Web Analytics]
+* https://plausible.io/[Plausible]
