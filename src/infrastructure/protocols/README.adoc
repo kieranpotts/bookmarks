@@ -1,0 +1,7 @@
+= Communication Protocols
+
+* https://www.amqp.org/[AMQP]
+
+== HTTP
+
+* https://httpwg.org/specs/[httpwg specs]

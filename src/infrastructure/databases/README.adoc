@@ -1,0 +1,86 @@
+= Databases and Caching Systems
+
+* https://db-engines.com/en/[DB-Engines]
+
+== Production Service Databases
+
+=== Relational Databases
+
+* https://www.postgresql.org/[PostgreSQL]
+* https://www.microsoft.com/en-us/sql-server[MSSQL (aka SQL Server)]
+* https://www.oracle.com/uk/database/[Oracle Database]
+* https://www.cockroachlabs.com/[CockroachDB]
+* https://www.sqlite.org/index.html[SQLite]
+
+==== MySQL
+
+* https://www.mysql.com/[MySQL]
+* https://mariadb.org/[MariaDB]
+* https://www.percona.com/[Percona Server]
+
+=== Document-Oriented (NoSQL) Databases
+
+* https://cassandra.apache.org/_/index.html[Cassandra]
+* https://aws.amazon.com/dynamodb/[Amazon DynamoDB]
+* https://couchdb.apache.org/[CouchDB]
+
+==== MongoDB
+
+* https://www.mongodb.com/[MongoDB]
+* https://www.mongodb.com/products/tools/compass[Compass]
+
+=== Graph Databases
+
+* https://spark.apache.org/[Apache Spark]
+* https://arangodb.com/[ArrangoDB]
+* https://neo4j.com/[neo4j]
+* https://github.com/twitter-archive/flockdb[FlockDB]
+
+== Operational Databases
+
+=== Key-Value Stores and In-Memory Object Caches
+
+* https://redis.io/[Redis]
+* https://www.singlestore.com/[SingleStore (formerly MemSQL)]
+* https://github.com/techfort/LokiJS[LokiJS]
+* https://memcached.org/[Memcached]
+
+=== Time Series Databases
+
+* https://oss.oetiker.ch/rrdtool/[RRDtool]
+* https://prometheus.io/[Prometheus]
+* https://www.timescale.com/[Timescale]
+* https://www.influxdata.com/[InfluxDB]
+
+=== Logs & Search Databases
+
+* https://www.elastic.co/[Elastic Stack, formerly ELK Stack - Elasticsearch, Logstash, Kibana]
+* https://solr.apache.org/[Solr]
+
+== Analytical Databases
+
+=== Data Warehouses (structured)
+
+* https://www.teradata.com/[Teradata]
+* https://www.snowflake.com/en/data-cloud/workloads/data-warehouse/[Snowflake Data Warehouse]
+* https://cloud.google.com/bigquery[Google BigQuery]
+* https://aws.amazon.com/redshift/[Amazon Redshift]
+* https://clickhouse.com/[ClickHouse]
+
+=== Data Lakes (unstructured)
+
+* https://aws.amazon.com/s3/[Amazon S3]
+* https://www.databricks.com/[Databricks]
+* https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html[HDFS]
+
+=== GIS Databases
+
+* https://www.kinetica.com/[Kinetica]
+* https://postgis.net/[PostGIS]
+* https://www.oracle.com/database/spatial/[Oracle Spacial Database]
+
+== Distributed Databases
+
+* https://www.couchbase.com/[Couchbase]
+* https://cloud.google.com/bigtable[Google BigTable]
+* https://hbase.apache.org/[Apache HBase]

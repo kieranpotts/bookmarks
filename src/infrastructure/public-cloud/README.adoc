@@ -1,0 +1,58 @@
+= Public Cloud Services
+
+== Major Public Cloud Services
+
+=== AWS
+
+* https://aws.amazon.com/[Amazon Web Services (AWS)]
+* https://www.aws.training/[aws.training]
+* https://aws.amazon.com/training/[AWS Training and Certification]
+* https://www.w3schools.com/training/aws/home/[W3 Schools - AWS Courses]
+* https://www.w3schools.com/training/aws/home/learningpath/cloud-essentials.php[W3 Schools - AWS Cloud Essentials]
+* https://www.udemy.com/topic/amazon-aws/[Udemy AWS Courses]
+* https://github.com/towardsthecloud/aws-toolbox[AWS Toolbox]
+
+=== Azure
+
+* https://azure.microsoft.com/en-us/[Azure]
+* https://learn.microsoft.com/en-us/training/paths/az-400-get-started-devops-transformation-journey/[AZ-400]
+
+=== GCP
+
+== VPS, Dedicated, and Managed Hosting
+
+* https://www.hetzner.com/[Hetzner]
+* https://ramnode.com/[RamNode]
+* https://www.vultr.com/[Vultr]
+* https://aws.amazon.com/lightsail/[Amazon Lightsail]
+* https://www.dreamhost.com/[DreamHost]
+* https://www.ovhcloud.com/en-gb/[OVH Cloud]
+* https://www.scaleway.com/en/[Scaleway]
+* https://www.cloudways.com/en/[Cloudways]
+* https://www.akamai.com/[Akamai]
+* https://www.digitalocean.com/[Digital Ocean]
+* https://www.linode.com/[Linode]
+
+== Platform-as-a-Service
+
+* https://railway.app/[Railway.app]
+* https://www.pythonanywhere.com/[PythonAnywhere]
+* https://cloud.google.com/appengine[Google App Engine]
+* https://www.heroku.com/[Heroku]
+* https://render.com/[Render]
+* https://www.netlify.com/[Netlify]
+* https://vercel.com/[Vercel (formerly Zeit)]
+
+== Function-as-a-Service (aka Serverless)
+
+* https://aws.amazon.com/lambda/[AWS Lambda]
+
+== Cloud Storage and Data Backup Services
+
+* https://www.backblaze.com/[Backblaze]
+
+== Static Site Hosting
+
+* https://pages.cloudflare.com/[Cloudflare Pages]
+* https://docs.gitlab.com/ee/user/project/pages/[GitLab Pages]
+* https://pages.github.com/[GitHub Pages]

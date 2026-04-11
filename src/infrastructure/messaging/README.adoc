@@ -1,0 +1,11 @@
+= Message Brokers (aka Message Queues)
+
+* https://aws.amazon.com/sqs/[Amazon SQS]
+* https://zeromq.org/[ZeroMQ]
+* https://nsq.io/[NSQ]
+* https://nats.io/[NATS]
+* https://activemq.apache.org/[ActiveMQ]
+* https://github.com/tembo-io/pgmq[pgmq]
+* https://github.com/smrchy/rsmq[rsmq]
+* https://www.rabbitmq.com/[RabbitMQ]
+* https://kafka.apache.org/[Apache Kafka]

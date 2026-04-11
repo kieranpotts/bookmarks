@@ -1,0 +1,6 @@
+= Data Serialization Systems
+
+* https://avro.apache.org/[Apache Avro]
+* https://thrift.apache.org/[Apache Thrift]
+* https://github.com/facebook/fbthrift[fbthrift]
+* https://protobuf.dev/[Protocol Buffers]

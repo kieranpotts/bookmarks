@@ -1,0 +1,26 @@
+= Virtualization and Containerization
+
+== Container Systems
+
+* https://www.packer.io/[Packer]
+* https://podman.io/[Podman]
+
+=== Docker
+
+* https://github.com/jesseduffield/lazydocker[lazydocker - Docker TUI]
+* https://github.com/wagoodman/dive[Dive - Explore layers in a Docker image]
+* https://orbstack.dev/[OrbStack - Alternative to Docker Desktop]
+* https://lando.dev/[Lando]
+* https://www.docker.com/[Docker]
+* https://docs.docker.com/engine/reference/commandline/docker/[Docker CLI Reference]
+
+== Virtualization Systems
+
+* https://www.virtualbox.org/[VirtualBox]
+* https://www.vmware.com/[VMWare]
+
+== VM and Container Image Libraries
+
+* https://portal.cloud.hashicorp.com/[HashiCorp Cloud Platform (HCP)]
+* https://app.vagrantup.com/[Vagrant Cloud]
+* https://www.linuxserver.io/[linuxserver.io]
