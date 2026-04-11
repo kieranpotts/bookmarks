@@ -1,0 +1,31 @@
+= Abstracted/Interpreted (VMs)
+
+== Java Platform - JDKs and JVMs
+
+== React Native
+
+* https://github.com/thecodingmachine/react-native-boilerplate[React Native Boilerplate]
+* https://reactnative.dev/[React Native]
+* https://www.decoide.org/[Deco IDE]
+
+== Web Containers
+
+* https://wasmer.io/[Wasmer]
+* https://v2.tauri.app/[Tauri]
+* https://capacitorjs.com/[Capacitor]
+* https://neutralino.js.org/[Neutralinojs]
+* https://nwjs.io/[NW.js]
+* https://titaniumsdk.com/[Titanium SDK]
+* https://tabris.com/[Tabris.js]
+
+=== Electron
+
+* https://www.electronjs.org/[Electron]
+* https://www.electronforge.io/[Electron Forge]
+* https://github.com/electron-userland/spectron[Spectron (deprecated)]
+
+== .NET Framework
+
+* https://dotnet.microsoft.com/en-us/[.NET Framework]
+* https://www.mono-project.com/[Mono]
+* https://nunit.org/[NUnit]

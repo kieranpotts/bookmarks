@@ -1,0 +1,13 @@
+= Unix
+
+== Reference
+
+* https://archive.org/details/unixtoolbox/[Unix Toolbox by Colin Barschel (archive)]
+
+== Standards
+
+* https://pubs.opengroup.org/onlinepubs/9699919799/[The POSIX.1-2017 Standard]
+* https://unix.org/what_is_unix/single_unix_specification.html[The Single UNIX Specification]
+* https://refspecs.linuxfoundation.org/fhs.shtml[Filesystem Hierarchy Standard]
+
+== Package Repositories

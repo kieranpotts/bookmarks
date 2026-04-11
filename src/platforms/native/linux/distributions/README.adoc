@@ -1,0 +1,10 @@
+= Distributions
+
+* https://distrowatch.com/[Distro Watch]
+* https://alpinelinux.org/[Alpine Linux - widely used for container base images]
+* https://voidlinux.org/[Void]
+* https://fedoraproject.org/[Fedora]
+* https://ubuntu.com/[Ubuntu]
+* https://www.debian.org/[Debian]
+* https://www.gentoo.org/[Gentoo]
+* https://archlinux.org/[Arch Linux]

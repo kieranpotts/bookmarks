@@ -1,0 +1,28 @@
+= Runtimes (Web Browsers)
+
+=== Mainstream Browsers
+
+* https://www.opera.com/browsers[Opera]
+* https://brave.com/[Brave]
+* https://minbrowser.org/[Min]
+
+==== Chromium-Based Browsers
+
+* https://github.com/ungoogled-software/ungoogled-chromium[Ungoogled Chromium]
+
+=== Text-Only Browsers
+
+* https://www.gnu.org/software/emacs/manual/html_mono/eww.html[EWW - Emacs Web Browser]
+* https://lynx.invisible-island.net/[Lynx]
+* https://www.brow.sh/[Browsh]
+
+=== Specialist Browsers
+
+* https://polypane.app/[Polypane]
+
+=== Embeddable Web Rendering Engines
+
+* https://bitbucket.org/chromiumembedded/cef/src/master/[CEF - Chromium Embedded Framework]
+* https://wpewebkit.org/[WPE WebKit]
+* https://servo.org/[Servo]
+* https://github.com/facebook/yoga[Yoga]

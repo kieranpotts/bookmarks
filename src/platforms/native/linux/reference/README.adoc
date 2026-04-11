@@ -1,0 +1,7 @@
+= Reference
+
+* https://www.linuxjournal.com/[Linux Journal]
+* https://lwn.net/[LWN.net]
+* https://linuxize.com/[Linuxize]
+* https://linuxfromscratch.org/[Linux From Scratch!]
+* https://tldp.org/[The Linux Documentation Project]

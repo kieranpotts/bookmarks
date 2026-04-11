@@ -1,0 +1,16 @@
+= Windows
+
+== Tools
+
+=== Package Managers
+
+* https://chocolatey.org/[Chocolatey]
+* https://www.nuget.org/[NuGet]
+
+=== Virtual Machines and Emulators
+
+* https://learn.microsoft.com/en-us/windows/wsl/[Windows Subsystem for Linux]
+* https://gitforwindows.org/[Git Bash for Windows]
+* https://cygwin.com/[Cygwin]
+* https://github.com/msys2[MSYS2]
+* https://www.mingw-w64.org/[MinGW-w64]

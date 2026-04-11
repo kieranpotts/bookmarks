@@ -1,0 +1,8 @@
+= Hybrid Web Apps (ie using native Web Views)
+
+== Cordova (formerly PhoneGap)
+
+* https://cordova.apache.org/[Apache Cordova]
+* https://monaca.io/[Monaca]
+
+== Capacitor

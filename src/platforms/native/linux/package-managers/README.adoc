@@ -1,0 +1,12 @@
+= Package Managers
+
+* https://nixos.org/[Nix]
+* https://rpm.org/[RPM]
+* http://yum.baseurl.org/[Yum]
+* https://flathub.org/en[Flathub (via Flatpak)]
+* https://wiki.debian.org/AptCLI[Apt]
+* https://wiki.gentoo.org/wiki/Portage[Portage]
+* https://wiki.archlinux.org/title/pacman[Pacman]
+* https://snapcraft.io/[Snapcraft]
+* https://brew.sh/[Homebrew]
+* https://github.com/rpm-software-management/dnf[DNF]
