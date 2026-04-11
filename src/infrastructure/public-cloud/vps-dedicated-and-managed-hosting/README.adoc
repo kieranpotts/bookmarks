@@ -1,0 +1,13 @@
+= VPS, Dedicated, and Managed Hosting
+
+* https://www.hetzner.com/[Hetzner]
+* https://ramnode.com/[RamNode]
+* https://www.vultr.com/[Vultr]
+* https://aws.amazon.com/lightsail/[Amazon Lightsail]
+* https://www.dreamhost.com/[DreamHost]
+* https://www.ovhcloud.com/en-gb/[OVH Cloud]
+* https://www.scaleway.com/en/[Scaleway]
+* https://www.cloudways.com/en/[Cloudways]
+* https://www.akamai.com/[Akamai]
+* https://www.digitalocean.com/[Digital Ocean]
+* https://www.linode.com/[Linode]

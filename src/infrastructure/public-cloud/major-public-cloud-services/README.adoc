@@ -1,0 +1,18 @@
+= Major Public Cloud Services
+
+== AWS
+
+* https://aws.amazon.com/[Amazon Web Services (AWS)]
+* https://www.aws.training/[aws.training]
+* https://aws.amazon.com/training/[AWS Training and Certification]
+* https://www.w3schools.com/training/aws/home/[W3 Schools - AWS Courses]
+* https://www.w3schools.com/training/aws/home/learningpath/cloud-essentials.php[W3 Schools - AWS Cloud Essentials]
+* https://www.udemy.com/topic/amazon-aws/[Udemy AWS Courses]
+* https://github.com/towardsthecloud/aws-toolbox[AWS Toolbox]
+
+== Azure
+
+* https://azure.microsoft.com/en-us/[Azure]
+* https://learn.microsoft.com/en-us/training/paths/az-400-get-started-devops-transformation-journey/[AZ-400]
+
+== GCP

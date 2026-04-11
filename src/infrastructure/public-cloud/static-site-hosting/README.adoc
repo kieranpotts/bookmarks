@@ -1,0 +1,5 @@
+= Static Site Hosting
+
+* https://pages.cloudflare.com/[Cloudflare Pages]
+* https://docs.gitlab.com/ee/user/project/pages/[GitLab Pages]
+* https://pages.github.com/[GitHub Pages]
