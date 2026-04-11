@@ -1,0 +1,6 @@
+= Random, UUID, Passwords, Hashes and Secrets Generation
+
+* https://github.com/uuidjs/uuid[uuid]
+* https://antonz.org/uuidv7/[UUIDv7 Generator in 29 Languages]
+* https://github.com/buttercup/buttercup-generator[Buttercup Password Generator]
+* https://github.com/ai/nanoid[nanoid]

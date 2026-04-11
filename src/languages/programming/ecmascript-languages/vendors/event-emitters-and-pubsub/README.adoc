@@ -1,0 +1,4 @@
+= Event Emitters and PubSub
+
+* https://github.com/mroderick/PubSubJS[PubSubJS]
+* https://github.com/ai/nanoevents[Nano Events]

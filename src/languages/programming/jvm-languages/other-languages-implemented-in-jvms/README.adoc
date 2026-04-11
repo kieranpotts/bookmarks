@@ -1,0 +1,8 @@
+= Other Languages Implemented in JVMs
+
+* https://eta-lang.org/[Eta (Haskell JVM implementation)]
+* https://github.com/thomasmodeneis/jgo[JGo (Go implementation)]
+* https://www.jython.org/[Jython (Python implementation)]
+* https://github.com/openjdk/nashorn[Nashorn Engine (ECMAScript 5.1 implementation)]
+* https://mozilla.github.io/rhino/[Rhino (JavaScript runtime)]
+* https://www.jruby.org/[JRuby (Ruby implementation)]

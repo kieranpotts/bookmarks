@@ -1,0 +1,12 @@
+= C Family Languages
+
+== C
+
+* https://www.iso.org/standard/74528.html[ISO/IEC 9899:2018]
+* https://www.open-std.org/jtc1/sc22/wg14/[ISO/IEC JTC1/SC22/WG14]
+
+== C#
+
+* https://learn.microsoft.com/en-us/dotnet/csharp/[C# language documentation]
+
+== C++

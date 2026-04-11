@@ -1,0 +1,8 @@
+= Authentication
+
+* https://next-auth.js.org/[NextAuth.js]
+* https://www.passportjs.org/[Passport.js]
+* https://github.com/expressjs/session[expressjs/session]
+* https://lucia-auth.com/[Lucia]
+* https://github.com/simov/grant[simov/grant - OAuth proxy]
+* https://github.com/hapijs/bell[@hapi/bell]

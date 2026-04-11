@@ -1,0 +1,12 @@
+= Build Tools and Task Runners
+
+* https://codekitapp.com/[CodeKit]
+* https://gulpjs.com/[Gulp]
+* https://gruntjs.com/[Grunt]
+* https://jakejs.com/[Jake]
+* https://moonrepo.dev/moon[Moon]
+* https://github.com/microsoft/just[Just]
+* https://docs.npmjs.com/cli/v10[npm CLI]
+* https://turbo.build/repo[TurboRepo]
+* https://nx.dev/[Nx]
+* https://github.com/bchr02/CodeFlattener[CodeFlattener]

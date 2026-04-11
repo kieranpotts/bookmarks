@@ -1,0 +1,12 @@
+= HTTP and WebSocket Servers
+
+* https://github.com/caolan/dispatch[Dispatch]
+* https://github.com/senchalabs/connect[Connect]
+
+== Static Servers
+
+* https://github.com/lukeed/sirv[sirv-cli]
+* https://github.com/JacksonTian/anywhere[anywhere]
+* http://tapiov.net/live-server/[live-server]
+* https://github.com/vercel/serve[vercel/serve]
+* https://github.com/http-party/http-server[http-server]

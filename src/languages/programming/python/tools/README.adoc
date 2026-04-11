@@ -1,0 +1,21 @@
+= Tools
+
+== Testing Frameworks
+
+* https://docs.pytest.org/en/7.4.x/[pytest docs]
+
+== Package Registries
+
+* https://pypi.org/[PyPI · The Python Package Index]
+
+== Code Editors and IDEs
+
+* https://www.jetbrains.com/pycharm/[PyCharm]
+
+== Linters and Static Analysis
+
+* https://docs.astral.sh/ruff/[Ruff]
+
+== Python Version Managers
+
+* https://github.com/pyenv/pyenv[pyenv]

@@ -1,0 +1,7 @@
+= Java Version Managers
+
+* https://github.com/shyiko/jabba[Jabba]
+* https://sdkman.io/[SDKMAN!]
+* https://www.jenv.be/[jEnv]
+* https://direnv.net/[direnv]
+* https://github.com/inishchith/autoenv[autoenv]

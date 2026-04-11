@@ -1,0 +1,9 @@
+= Cross-Platform Shells
+
+== Nushell
+
+* https://www.nushell.sh/[Nushell]
+
+== PowerShell
+
+* https://learn.microsoft.com/en-gb/powershell/[PowerShell]

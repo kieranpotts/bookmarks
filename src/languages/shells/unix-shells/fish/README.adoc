@@ -1,0 +1,3 @@
+= Fish
+
+* https://fishshell.com/[fish shell]

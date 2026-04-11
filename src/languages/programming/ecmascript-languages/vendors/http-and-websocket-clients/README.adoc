@@ -1,0 +1,16 @@
+= HTTP and WebSocket Clients
+
+* https://axios-http.com/[Axios]
+* https://github.com/googleapis/gaxios[gaxios]
+* https://github.com/sindresorhus/ky[ky]
+* https://github.com/node-modules/urllib[urllib]
+* https://elbywan.github.io/wretch/[wretch]
+* https://undici.nodejs.org/#/[undici]
+* https://github.com/sindresorhus/got[got]
+* https://github.com/node-fetch/node-fetch[node-fetch]
+* https://github.com/request/request[request]
+* https://github.com/nodejs/undici[undici]
+* https://github.com/ethanent/phin[phin]
+* https://github.com/websockets/ws[ws]
+* https://github.com/vpulim/node-soap[node-soap]
+* https://en.wikipedia.org/wiki/Socket.IO[Socket.IO]

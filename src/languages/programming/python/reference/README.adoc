@@ -1,0 +1,4 @@
+= Reference
+
+* https://docs.python.org/3/[Python Docs]
+* https://www.learnpython.org/[learnpython.org]

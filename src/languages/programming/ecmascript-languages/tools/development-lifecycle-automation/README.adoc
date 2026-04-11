@@ -1,0 +1,7 @@
+= Development Lifecycle Automation
+
+* https://semantic-release.gitbook.io/semantic-release[semantic-release]
+* https://github.com/release-it/release-it[release-it]
+* https://github.com/sindresorhus/np[np]
+* https://github.com/conventional-changelog/standard-version[standard-version]
+* https://github.com/googleapis/release-please[release-please]

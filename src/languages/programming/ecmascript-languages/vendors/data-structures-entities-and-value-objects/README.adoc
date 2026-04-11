@@ -1,0 +1,18 @@
+= Data Structures, Entities and Value Objects
+
+* https://github.com/true-myth/true-myth[True Myth]
+* https://tydel.js.org/[tydel]
+* https://github.com/arktypeio/arktype[arktype]
+* https://github.com/glideapps/quicktype[quicktype]
+* https://github.com/rauschma/enumify[Enumify]
+* https://github.com/AmpersandJS/ampersand-state[AmpersandState]
+* https://github.com/immutable-js/immutable-js[Immutable]
+* https://immutable-js.com/[Immutable.js]
+* https://github.com/gcanti/io-ts[io-ts]
+* https://swannodette.github.io/mori/[Mori]
+* https://objectmodel.js.org/[Object Model]
+* https://giusepperaso.github.io/structura.js/[Structura.js]
+* https://github.com/talyssonoc/structure/[Structure]
+* https://docs.superstructjs.org/[SuperStruct]
+* https://github.com/gcanti/tcomb[tcomb]
+* https://immerjs.github.io/immer/[Immer]

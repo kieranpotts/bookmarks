@@ -1,0 +1,3 @@
+= Screen Capture
+
+* https://github.com/nashaofu/node-screenshots[node-screenshots]

@@ -1,0 +1,156 @@
+= PHP
+
+== Dialects and Runtimes
+
+* https://roadrunner.dev/[RoadRunner]
+* https://hacklang.org/[Hack]
+* https://github.com/pmukhin/gophp[gophp]
+
+== Vendors
+
+=== Application Frameworks
+
+* https://www.codeigniter.com/[CodeIgniter]
+* https://cakephp.org/[CakePHP]
+* https://www.yiiframework.com/[Yii]
+* https://framework.zend.com/[Zend Framework (deprecated)]
+* https://getlaminas.org/[Laminas (formerly Zend Framework)]
+* https://flow.neos.io/[Flow]
+* https://github.com/caoym/phpboot[PhpBoot]
+* https://api-platform.com/[API Platform]
+
+=== Laravel
+
+* https://laravel.com/[Laravel]
+
+=== Symfony
+
+* https://symfony.com/doc/5.x/frontend/ux.html[Symfony UX]
+* https://symfony.com/[Symfony]
+
+=== Concurrency Frameworks
+
+* https://reactphp.org/[ReactPHP]
+* https://amphp.org/[AMPHP]
+* https://www.php.net/manual/en/book.pthreads.php[pthreads (extension)]
+* https://openswoole.com/[Open Swoole]
+
+=== Libraries
+
+==== Validation and Filtering
+
+* https://github.com/ircmaxell/filterus[Filterus]
+* https://github.com/siriusphp/validation[Sirius Validation]
+
+==== Dates and Times
+
+* https://carbon.nesbot.com/[Carbon]
+
+==== CLI Execution
+
+* http://ncuesta.github.io/Clinner/[Clinner]
+
+==== Utility Libraries (General Purpose)
+
+* https://github.com/spatie[Spatie]
+
+== Tools
+
+=== Code Sandboxes/Playgrounds/REPLs
+
+* https://psysh.org/[psysh]
+* https://3v4l.org/[3v4l.org]
+* https://onlinephp.io/[OnlinePHP.io]
+
+=== Code Editors and IDEs
+
+* https://www.jetbrains.com/phpstorm/[PhpStorm]
+* https://www.zend.com/products/zend-studio[Zend Studio]
+
+=== Debugging and Profiling
+
+* http://phpdebugbar.com/[PHP Debug Bar]
+
+=== Testing Tools
+
+==== Testing Frameworks
+
+* https://atoum.org/[Atoum]
+* https://docs.behat.org/[Behat]
+* https://codeception.com/[Codeception]
+* https://github.com/kahlan/kahlan[Kahlan]
+* https://peridot-php.github.io/[Peridot]
+* https://github.com/phpspec/prophecy[prophecy]
+* https://github.com/phpspec/phpspec[phpspec]
+* https://phpunit.de/[PHPUnit]
+* https://github.com/Brunty/cigar[Cigar]
+* https://infection.github.io/[Infection]
+* https://pestphp.com/[Pest]
+
+==== Contract Testing
+
+* https://github.com/hotmeteor/spectator[Spectator]
+
+==== Debugging and Profiling
+
+* https://github.com/leonardovilarinho/insphptor[insphptor]
+* https://github.com/phacility/xhprof[xhprof]
+
+==== Documentation Generation
+
+* https://docs.phpdoc.org/[phpDocumentor]
+* https://github.com/appertly/hphpdoc[hphpdoc]
+
+==== Package Registries
+
+* https://packagist.org/[Packagist]
+
+==== Package Management
+
+* https://getcomposer.org/[Composer]
+* https://pear.php.net/manual/en/pyrus.php[Pyrus]
+* https://pear.php.net/[PEAR]
+
+==== Linters and Static Analysis
+
+* https://phpstan.org/[PHPstan]
+* https://github.com/phan/phan[phan]
+* https://psalm.dev/[psalm]
+
+==== PHP Version Managers
+
+* https://github.com/hjbdev/pvm[PVM for Windows]
+* https://github.com/wilmoore/php-version[php-version]
+* https://github.com/phpenv/phpenv[phpenv]
+* https://phpbrew.github.io/phpbrew/[phpbrew]
+
+==== PHP Runtime Builders/Compilers
+
+* https://www.php.net/manual/en/install.windows.building.php[PHP docs: building from source]
+* https://github.com/php-build/php-build[php-build]
+* https://nativephp.com/[NativePHP]
+
+== Standards
+
+* https://williamdurand.fr/2013/06/03/object-calisthenics/[Object Calisthenics]
+* https://www.php-fig.org/[PHP-FIG]
+* https://pear.php.net/manual/en/standards.php[Pear Coding Standards]
+* https://phpbestpractices.org/[phpbestpractices.org]
+
+== Reference
+
+* https://php.watch/[PHP Watch]
+* https://www.php.net/[PHP]
+
+=== Books
+
+* https://en.wikibooks.org/wiki/PHP_Programming[PHP Programming]
+
+=== Blogs and Posts
+
+* https://www.phpinternalsbook.com/[PHP Internals Book]
+* http://www.hackingwithphp.com/[Hacking with PHP]
+* https://phptherightway.com/[PHP: The Right Way]
+* https://web.archive.org/web/20240618032444/https://www.phpthewrongway.com/[PHP: The Wrong Way (archive)]
+* https://web.archive.org/web/20240704060409/https://phpsadness.com/[PHP Sadness (archive)]
+* https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/[PHP: A Fractal of Bad Design]

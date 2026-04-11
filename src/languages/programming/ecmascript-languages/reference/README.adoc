@@ -1,0 +1,15 @@
+= Reference
+
+* https://javascript.info/[JavaScript.info]
+* https://github.com/trekhleb/javascript-algorithms[JavaScript Algorithms]
+* https://github.com/myshov/history-of-javascript[History of JavaScript]
+* https://github.com/leonardomso/33-js-concepts[33 JavaScript Concepts]
+* https://github.com/lydiahallie/javascript-questions[JavaScript Questions]
+* http://bit.ly/wtfjavascript[wtfjs by Denys Dovhan]
+
+== Books
+
+* https://effectivejs.com/[Effective JavaScript - David Herman]
+* https://eloquentjavascript.net/[Eloquent JavaScript - Marijn Haverbeke]
+* https://exploringjs.com/[Exploring JS - Dr. Axel Rauschmayer]
+* https://addyosmani.com/largescalejavascript/[Patterns For Large-Scale JavaScript Application Architecture - Addy Osmani]

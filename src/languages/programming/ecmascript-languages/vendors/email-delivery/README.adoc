@@ -1,0 +1,6 @@
+= Email Delivery
+
+* https://github.com/guileen/node-sendmail[node-sendmail]
+* https://github.com/eleith/emailjs[emailjs]
+* https://nodemailer.com/[nodemailer]
+* https://upyo.org/[Upyo]

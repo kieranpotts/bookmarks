@@ -1,0 +1,9 @@
+= Language specifications
+
+* https://jakarta.ee/[Jakarta EE (formerly Java Platform Enterprise Edition, Java EE, J2EE)]
+* https://www.oracle.com/java/technologies/java-se-glance.html[Java Platform Standard Edition (Java SE, formerly J2SE)]
+* https://www.oracle.com/java/technologies/javameoverview.html[Java Platform Micro Edition (Java ME, formerly J2ME)]
+* https://www.oracle.com/java/java-card/[Java Card (for smart cards)]
+* https://openjfx.io/[JavaFX]
+* https://www.jcp.org/en/home/index[Java Community Process (JCP)]
+* https://www.jcp.org/en/jsr/overview[Java Specification Requests (JSR)]

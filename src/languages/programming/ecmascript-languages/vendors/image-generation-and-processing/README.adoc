@@ -1,0 +1,10 @@
+= Image Generation and Processing
+
+* https://docs.image-js.org/[ImageJS]
+* https://github.com/Yuriy-Svetlov/compress-images[compress-images]
+* https://github.com/rsms/node-imagemagick[node-imagemagick]
+* https://github.com/imagemin/imagemin[imagemin]
+* https://github.com/aheckmann/gm[gm]
+* http://jimp-dev.github.io/jimp/[jimp]
+* https://sharp.pixelplumbing.com/[sharp]
+* https://github.com/frinyvonnick/node-html-to-image[node-html-to-image]

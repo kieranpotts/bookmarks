@@ -1,0 +1,6 @@
+= Testing Frameworks and Mocking Libraries
+
+* https://junit.org/junit5/[JUnit]
+* https://testng.org/[TestNG]
+* https://www.archunit.org/[ArchUnit]
+* https://site.mockito.org/[Mockito]

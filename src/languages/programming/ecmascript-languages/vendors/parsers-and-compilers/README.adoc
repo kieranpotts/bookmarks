@@ -1,0 +1,57 @@
+= Parsers and Compilers
+
+* https://peggyjs.org/[Peggy]
+* https://github.com/beaugunderson/ip-address[ip-address]
+
+== JS
+
+* https://ericsmekens.github.io/jsep/[jsep]
+
+== BSON
+
+* https://github.com/mongodb/js-bson[js-bson]
+
+== CSV and Spreadsheets
+
+* https://github.com/zurmokeeper/officecrypto-tool[officecrypto-tool]
+* https://github.com/mgcrea/node-xlsx[node-xlsx]
+* https://github.com/exceljs/exceljs[exceljs]
+* https://sheetjs.com/[SheetJS]
+* https://github.com/flash-oss/lil-csv[lil-csv]
+* https://d3js.org/d3-dsv[d3-dsv]
+* https://github.com/mafintosh/csv-parser[csv-parser]
+* https://c2fo.github.io/fast-csv/[Fast-CSV]
+* https://github.com/Keyang/node-csvtojson[node-csvtojson]
+* https://csv.js.org/parse/[CSV Parser for Node.js]
+* https://www.papaparse.com/[Papa Parse]
+
+== DOCX etc
+
+* https://docx.js.org/[DOCX]
+
+== HTML
+
+* https://github.com/taoqf/node-html-parser[node-html-parser]
+* https://github.com/mozilla/readability[readability.js]
+* https://cheerio.js.org/[cheerio]
+
+== RDF
+
+* https://github.com/rdfjs/N3.js[N3.js]
+
+== Markdown
+
+* https://marked.js.org/[Marked]
+
+== JSON / BSON
+
+* https://github.com/tinyhttp/milliparsec[milliparsec]
+
+== XML
+
+* https://github.com/rgrove/parse-xml[parse-xml]
+* https://github.com/oozcitak/xmlbuilder2[xmlbuilder2]
+
+== INI
+
+* https://github.com/npm/ini[ini]

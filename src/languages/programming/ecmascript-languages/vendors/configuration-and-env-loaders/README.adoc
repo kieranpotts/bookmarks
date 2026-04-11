@@ -1,0 +1,9 @@
+= Configuration and Env Loaders
+
+* https://dotenvx.com/[dotenvx]
+* https://github.com/mozilla/node-convict[node-convict]
+* https://github.com/indexzero/nconf[nconf]
+* https://github.com/node-config/node-config[node-config]
+* https://github.com/dominictarr/rc[rc]
+* https://github.com/cosmiconfig/cosmiconfig[cosmicconfig]
+* https://github.com/evanshortiss/env-var[env-var]

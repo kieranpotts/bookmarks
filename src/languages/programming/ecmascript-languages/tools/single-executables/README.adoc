@@ -1,0 +1,5 @@
+= Single Executables
+
+* https://github.com/vercel/ncc[vercel/ncc]
+* https://github.com/nexe/nexe[nexe]
+* https://github.com/vercel/pkg[vercel/pkg]

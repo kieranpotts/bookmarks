@@ -1,0 +1,5 @@
+= Z shell (Zsh)
+
+* https://www.zsh.org/[Zsh]
+* https://ohmyz.sh/[Oh My ZSH!]
+* https://github.com/sorin-ionescu/prezto[Prezto]

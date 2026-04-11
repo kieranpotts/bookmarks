@@ -1,0 +1,12 @@
+= Tools
+
+== Runtime Testing
+
+* https://github.com/Checksum/critic.sh[critic.sh]
+* https://github.com/bach-sh/bach[Bach]
+
+== Static Analysis
+
+* https://linux.die.net/man/1/checkbashisms[checkbashisms]
+* https://github.com/koalaman/shellcheck[ShellCheck (CLI)]
+* https://www.shellcheck.net/[ShellCheck (online)]

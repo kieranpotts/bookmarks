@@ -1,0 +1,11 @@
+= Dependency Analysis
+
+* https://github.com/lirantal/npq[npq]
+* https://github.com/silverwind/updates[updates]
+* https://github.com/upgradejs/depngn[depngn]
+* https://github.com/depcheck/depcheck[depcheck]
+* https://github.com/dylang/npm-check[npm-check]
+* https://github.com/raineorshine/npm-check-updates[npm-check-updates]
+* https://www.mend.io/renovate/[Mend Renovate]
+* https://github.com/pahen/madge[madge]
+* https://github.com/sverweij/dependency-cruiser[dependency-cruiser]

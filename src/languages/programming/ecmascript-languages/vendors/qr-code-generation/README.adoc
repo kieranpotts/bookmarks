@@ -1,0 +1,8 @@
+= QR Code Generation
+
+* https://github.com/Short-io/qr-image[Short-io/qr-image (deprecated)]
+* https://github.com/Rich-Harris/headless-qr[Rich-Harris/headless-qr]
+* https://github.com/alexeyten/qr-image[alexeyten/qr-image]
+* https://github.com/gtanner/qrcode-terminal[gtanner/qrcode-terminal]
+* https://github.com/kazuhikoarase/qrcode-generator[kazuhikoarase/qrcode-generator]
+* https://github.com/soldair/node-qrcode[soldair/node-qrcode]

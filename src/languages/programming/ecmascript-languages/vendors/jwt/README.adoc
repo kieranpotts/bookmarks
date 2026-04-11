@@ -1,0 +1,7 @@
+= JWT
+
+* https://nearform.github.io/fast-jwt/[fast-jwt]
+* https://github.com/cisco/node-jose[node-jose]
+* https://github.com/auth0/jwt-decode[jwt-decode]
+* https://github.com/panva/jose[jose]
+* https://github.com/auth0/node-jsonwebtoken[node-jsonwebtoken]

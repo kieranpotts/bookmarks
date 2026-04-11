@@ -1,0 +1,7 @@
+= Python
+
+* *link:./standards/[Standards]*
+* *link:./implementations/[Implementations]*
+* *link:./tools/[Tools]*
+* *link:./vendors/[Vendors]*
+* *link:./reference/[Reference]*

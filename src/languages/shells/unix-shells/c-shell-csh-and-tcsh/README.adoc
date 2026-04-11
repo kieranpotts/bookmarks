@@ -1,0 +1,5 @@
+= C Shell (csh and tsch)
+
+* https://github.com/freebsd/freebsd-src/tree/main/bin/csh[C Shell Repository]
+* https://docs-archive.freebsd.org/44doc/usd/04.csh/paper.html[An Introduction to the C Shell by WIlliam Joy]
+* https://www.tcsh.org/[TCSH ("tee-shell")]

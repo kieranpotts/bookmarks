@@ -1,0 +1,7 @@
+= Tools
+
+* *link:./build-automation-dependency-management/[Build Automation & Dependency Management]*
+* *link:./package-registries/[Package Registries]*
+* *link:./java-version-managers/[Java Version Managers]*
+* *link:./testing-frameworks-and-mocking-libraries/[Testing Frameworks and Mocking Libraries]*
+* *link:./annotation-libraries/[Annotation Libraries]*

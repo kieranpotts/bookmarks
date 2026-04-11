@@ -1,0 +1,4 @@
+= Cookie Abstractions
+
+* https://github.com/jshttp/cookie[cookie]
+* https://github.com/salesforce/tough-cookie[tough-cookie]

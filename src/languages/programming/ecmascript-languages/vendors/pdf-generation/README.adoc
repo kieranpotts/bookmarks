@@ -1,0 +1,8 @@
+= PDF Generation
+
+* https://pdfme.com/[pdfme]
+* https://pdf-lib.js.org/[PDF-Lib]
+* http://pdfkit.org/[PDFKit]
+* http://pdfmake.org/#/[pdfmake]
+* https://parall.ax/products/jspdf[jsPDF]
+* https://github.com/foliojs/pdfkit[pdfkit]

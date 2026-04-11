@@ -1,0 +1,4 @@
+= Cryptography and Hashing
+
+* https://github.com/entronad/crypto-es[crypto-es]
+* https://github.com/lovell/farmhash[farmhash]

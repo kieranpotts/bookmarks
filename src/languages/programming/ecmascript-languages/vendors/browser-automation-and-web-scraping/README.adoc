@@ -1,0 +1,6 @@
+= Browser Automation and Web Scraping
+
+* https://pptr.dev/[Puppeteer]
+* https://playwright.dev/[Playwright]
+* https://crawlee.dev/[Crawlee]
+* https://github.com/matthewmueller/x-ray[x-ray]

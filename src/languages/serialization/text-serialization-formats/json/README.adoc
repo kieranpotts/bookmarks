@@ -1,0 +1,23 @@
+= JSON
+
+* https://www.json.org/[JSON]
+
+== JSON-Based Serialization Formats
+
+* https://github.com/bevry/cson[CSON]
+* https://json5.org/[JSON5]
+* https://github.com/muhammadmuzzammil1998/jsonc[jsonc]
+* https://hjson.github.io/[Hjson]
+* https://github.com/lightbend/config/blob/master/HOCON.md[HOCON]
+
+== JSON Schema
+
+* https://datatracker.ietf.org/doc/html/rfc7517[JSON Web Key (JWK)]
+* https://datatracker.ietf.org/doc/html/rfc7516[JSON Web Encryption (JWE)]
+* https://datatracker.ietf.org/doc/html/rfc7515[JSON Web Signature (JWS)]
+* https://datatracker.ietf.org/doc/html/rfc7519[JSON Web Token (JWT)]
+
+== JSON Tools
+
+* https://jsonformatter.com/[JSON Formatter]
+* https://jsoneditoronline.org/[JSON Editor]

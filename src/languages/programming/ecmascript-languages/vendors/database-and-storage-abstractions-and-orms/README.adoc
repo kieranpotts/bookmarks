@@ -1,0 +1,13 @@
+= Database and Storage Abstractions and ORMs
+
+* https://mikro-orm.io/[Mikro ORM]
+* https://sequelize.org/[Sequelize]
+* https://github.com/porsager/postgres[Postgres.js]
+* https://github.com/vitaly-t/pg-promise[pg-promise]
+* https://orm.drizzle.team/[Drizzle]
+* https://github.com/mikro-orm/mikro-orm[Mikro ORM]
+* https://github.com/thebinarysearchtree/flyweight[Flyweight]
+* https://mongoosejs.com/[Mongoose]
+* https://www.prisma.io/[Prisma]
+* https://orange-orm.io/[Orange ORM]
+* https://vincit.github.io/objection.js/[Objection.js]

@@ -1,0 +1,4 @@
+= POSIX
+
+* https://www.grymoire.com/Unix/Sh.html[Sh - the POSIX Shell, by Bruce Barnett]
+* https://github.com/dylanaraps/pure-sh-bible[Pure SH Bible]

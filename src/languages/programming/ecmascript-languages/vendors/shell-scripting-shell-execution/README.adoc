@@ -1,0 +1,7 @@
+= Shell Scripting / Shell Execution
+
+* https://github.com/sindresorhus/nano-spawn[nano-spawn]
+* https://github.com/shelljs/shelljs[shelljs]
+* https://david.deno.dev/posts/dax-node-js/[dax]
+* https://google.github.io/zx/[zx]
+* https://github.com/sindresorhus/execa[Execa]

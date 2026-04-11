@@ -1,0 +1,4 @@
+= Visual Diff and Regression Testing
+
+* https://github.com/rafasofizada/pechkin[Pechkin]
+* https://github.com/dmtrKovalenko/odiff[Odiff]

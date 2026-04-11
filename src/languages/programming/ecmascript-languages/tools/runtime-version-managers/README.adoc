@@ -1,0 +1,10 @@
+= Runtime Version Managers
+
+* https://github.com/jasongin/nvs[nvs - node version switcher - offers easy integration with vs code]
+* https://github.com/tj/n[n - a long-standing nvm alternative that accomplishes the same thing with slightly different commands and is installed via npm rather than a bash script]
+* https://asdf-vm.com/[asdf]
+* https://github.com/nvm-sh/nvm[nvm]
+* https://github.com/coreybutler/nvm-windows[nvm-windows]
+* https://github.com/1111mp/nvm-desktop[Node Version Manager Desktop]
+* https://volta.sh/[Volta - a new version manager from the LinkedIn team that claims improved speed and cross-platform support]
+* https://github.com/Schniz/fnm[Fast Node Manager (FNM)]

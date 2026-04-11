@@ -1,0 +1,7 @@
+= Workspace Management (Monorepos)
+
+* https://github.com/sevifives/bit[bit - git abstraction for mono-repos / multi-root workspaces]
+* https://github.com/guigrpa/oao[oao]
+* https://github.com/boltpkg/bolt[Bolt]
+* https://github.com/changesets/changesets/[Changesets]
+* https://lerna.js.org/[Lerna]

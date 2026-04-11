@@ -1,0 +1,33 @@
+= Go (aka Golang)
+
+* https://go.dev/[Go]
+
+== Tools
+
+=== Code Sandboxes/Playgrounds/REPLs
+
+* https://go.dev/play/[Go Playground]
+
+=== Package Registries
+
+* https://pkg.go.dev/[pkg.go.dev]
+
+== Reference
+
+* https://go.dev/tour/welcome/1[Go Tour]
+* https://go.dev/doc/[Go Documentation]
+* https://go.dev/ref/spec[Go Language Specification]
+* https://gobyexample.com/[Go By Example]
+
+== Vendors
+
+=== Application Frameworks
+
+* https://revel.github.io/[Revel]
+* https://github.com/go-martini/martini[Martini]
+* https://gorilla.github.io/[Gorilla]
+* https://github.com/zenazn/goji[Goji]
+* https://gobot.io/[Gobot]
+* https://echo.labstack.com/[Echo]
+* https://gobuffalo.io/[Buffalo]
+* https://www.goravel.dev/?utm_source=hackernewsletter&utm_medium=email&utm_term=code[Goravel - Laravel-inspired Go application framework]

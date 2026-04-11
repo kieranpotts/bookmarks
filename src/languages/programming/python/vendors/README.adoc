@@ -1,0 +1,12 @@
+= Vendors
+
+== Frameworks
+
+* https://www.djangoproject.com/[Django]
+* https://www.starlette.io/[Starlette]
+
+== Libraries
+
+=== Data Analysis
+
+* https://pandas.pydata.org/[Pandas]

@@ -1,0 +1,7 @@
+= Numbers, Money and Currency Libraries
+
+* https://mathjs.org/[Math.js]
+* https://github.com/sindresorhus/pretty-ms[pretty-ms]
+* https://github.com/rawify/Fraction.js[Fraction.js]
+* https://github.com/EvanHahn/HumanizeDuration.js[HumanizeDuration.js]
+* https://github.com/scurker/currency.js[currency.js]

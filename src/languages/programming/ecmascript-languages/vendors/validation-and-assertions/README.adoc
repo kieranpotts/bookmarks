@@ -1,0 +1,17 @@
+= Validation and Assertions
+
+* https://osom.js.org/[osom]
+* https://github.com/ajv-validator/ajv[ajv]
+* https://vinejs.dev/[VineJS]
+* https://www.chaijs.com/[Chai]
+* https://gajus.github.io/flow-runtime/#/[Flow Runtime]
+* https://github.com/enricomarino/is/[is]
+* http://is.js.org/[is.js]
+* https://joi.dev/api/[Joi]
+* https://github.com/gcanti/tcomb-validation[tcomb-validation]
+* https://github.com/imbrn/v8n/[v8n]
+* https://github.com/dleitee/valid.js[valid.js]
+* https://validatejs.org/[validate.js]
+* http://rickharrison.github.io/validate.js/[validate.js]
+* https://github.com/validatorjs/validator.js[validator.js]
+* https://github.com/af/envalid[af/envalid - Environment variable validation]

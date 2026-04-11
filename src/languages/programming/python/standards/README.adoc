@@ -1,0 +1,3 @@
+= Standards
+
+* https://peps.python.org/pep-0008/[PEP 8]

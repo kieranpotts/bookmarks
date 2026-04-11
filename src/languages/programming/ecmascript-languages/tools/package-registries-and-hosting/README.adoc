@@ -1,0 +1,6 @@
+= Package Registries and Hosting
+
+* https://github.com/cnpm/cnpm[cnpm - client for China mirror of NPM]
+* https://www.vlt.sh/serverless-registry[vlt serverless registry]
+* https://jsr.io/[JSR (JavaScript Registry)]
+* https://js.org/[js.org]

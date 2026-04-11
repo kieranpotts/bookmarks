@@ -1,0 +1,15 @@
+= Language Dialects and Extensions, Compile-to-JS Languages
+
+* https://www.typescriptlang.org/[TypeScript]
+* https://elm-lang.org/[Elm]
+* https://nginx.org/en/docs/njs/[njs]
+* https://github.com/leontrolski/dnjs[dnjs]
+* https://dart.dev/[Dart]
+* https://www.daklang.com/[Dak]
+* https://civet.dev/[Civet]
+* https://www.purescript.org/[PureScript]
+* http://mbebenita.github.io/LLJS/[LLJS]
+* https://facebook.github.io/jsx/[JSX]
+* https://flow.org/[Flow]
+* https://rescript-lang.org/[ReScript]
+* https://small-js.org/[SmallJS]

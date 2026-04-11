@@ -1,0 +1,10 @@
+= Task/Job Queues
+
+* https://node-resque.actionherojs.com/[node-resque]
+* https://github.com/timgit/pg-boss[pg-boss]
+* https://github.com/bee-queue/bee-queue[Bee Queue]
+* https://github.com/agenda/agenda[Agenda]
+* http://automattic.github.io/kue/[Kue]
+* https://github.com/OptimalBits/bull[Bull]
+* https://github.com/breejs/bree[Bree]
+* https://bullmq.io/[BullMQ]

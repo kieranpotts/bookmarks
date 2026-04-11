@@ -1,0 +1,11 @@
+= Frameworks
+
+* https://helidon.io/[Helidon]
+* https://micronaut.io/[Micronaut]
+* https://github.com/byronka/minum[Minum]
+* https://quarkus.io/[Quarkus]
+
+== Spring
+
+* https://spring.io/[Spring]
+* https://spring.io/projects/spring-boot[Spring Boot]

@@ -1,0 +1,6 @@
+= Feature Detection and UserAgent/Browser/Runtime Detection
+
+* https://uaparser.dev/[uaparser]
+* https://github.com/sindresorhus/get-windows[get-windows]
+* https://www.npmjs.com/package/browser-or-node[browser-or-node]
+* https://github.com/Modernizr/Modernizr[Modernizr]

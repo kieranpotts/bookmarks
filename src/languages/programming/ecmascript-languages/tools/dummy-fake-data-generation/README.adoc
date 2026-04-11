@@ -1,0 +1,7 @@
+= Dummy/Fake Data Generation
+
+* https://ngneat.github.io/falso/[falso]
+* https://github.com/boo1ean/casual[casual]
+* https://github.com/json-schema-faker/json-schema-faker[json-schema-faker]
+* http://chancejs.com/[chance]
+* https://fakerjs.dev/[faker]

@@ -1,0 +1,8 @@
+= JSON Schema Validation
+
+* https://ajv.js.org/[ajv]
+* https://github.com/tdegrunt/jsonschema[jsonschema]
+* https://github.com/mafintosh/is-my-json-valid[is-my-json-valid]
+* https://github.com/ExodusMovement/schemasafe[schemasafe]
+* https://github.com/korzio/djv[djv]
+* https://github.com/sagold/json-schema-library[json-schema-library]

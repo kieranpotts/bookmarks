@@ -1,0 +1,13 @@
+= Reference
+
+== Documentation
+
+* https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/[JDBC API]
+* https://docs.oracle.com/en/java/[Java Documentation]
+* https://docs.oracle.com/javase/tutorial/[Oracle: The Java Tutorials]
+
+== Learning
+
+* https://www.baeldung.com/[Baeldung]
+* https://dev.java/[Dev.java]
+* https://www.w3schools.com/java/default.asp[W3 Schools - Java]

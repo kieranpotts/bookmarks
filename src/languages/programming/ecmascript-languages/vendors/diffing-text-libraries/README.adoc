@@ -1,0 +1,3 @@
+= Diffing (Text) Libraries
+
+* https://github.com/kpdecker/jsdiff[jsdiff]

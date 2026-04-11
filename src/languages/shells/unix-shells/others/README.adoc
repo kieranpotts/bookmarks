@@ -1,0 +1,4 @@
+= Others...
+
+* https://elv.sh/[Elvish]
+* https://github.com/liljencrantz/crush[Crush]

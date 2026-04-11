@@ -1,0 +1,8 @@
+= Schedulers (In-Process)
+
+* https://croner.56k.guru/[Croner]
+* https://github.com/kibertoad/toad-scheduler[toad-scheduler]
+* https://github.com/merencia/node-cron[merencia/node-cron]
+* https://github.com/kelektiv/node-cron[kelektiv/node-cron]
+* https://github.com/node-schedule/node-schedule[Node Schedule]
+* https://github.com/P4sca1/cron-schedule[cron-schedule]

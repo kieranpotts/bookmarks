@@ -1,0 +1,9 @@
+= Bash
+
+* https://github.com/dylanaraps/pure-bash-bible[Pure Bash Bible]
+* https://guide.bash.academy/[The Bash Guide]
+* https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html[Bash Reference Manual]
+* https://en.wikibooks.org/wiki/Bash_Shell_Scripting[Bash Shell Scripting - Wiki Book]
+* https://www.gnu.org/software/bash/[Bash]
+* https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html[BASH Programming - Introduction HOW-TO]
+* https://tldp.org/LDP/abs/html/index.html[Advanced Bash-Scripting Guide]

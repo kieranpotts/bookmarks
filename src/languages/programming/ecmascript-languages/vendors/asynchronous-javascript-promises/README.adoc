@@ -1,0 +1,4 @@
+= Asynchronous JavaScript (Promises)
+
+* https://github.com/nodeshift/opossum[Opossum]
+* https://effect.website/[Effect]

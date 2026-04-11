@@ -1,0 +1,6 @@
+= Object / Schema Validation
+
+* https://valibot.dev/[Valibot]
+* https://github.com/jquense/yup[Yup]
+* https://github.com/hapijs/joi[Joi]
+* https://zod.dev/[Zod]
