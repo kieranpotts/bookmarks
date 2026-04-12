@@ -1,12 +1,12 @@
 = Applications
 
-== Ecommerce Systems
+== Ecommerce systems
 
 * https://evershop.io/[EverShop]
 
-== Model-Driven Data Administration Interfaces
+== Model-driven data administration interfaces
 
 * https://github.com/SoftwareBrothers/adminjs[AdminJS]
 
-== Content Management Systems
+== Content management systems
 

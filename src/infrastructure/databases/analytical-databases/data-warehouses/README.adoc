@@ -1,4 +1,4 @@
-= Data Warehouses (structured)
+= Data warehouses (structured)
 
 * https://www.teradata.com/[Teradata]
 * https://www.snowflake.com/en/data-cloud/workloads/data-warehouse/[Snowflake Data Warehouse]

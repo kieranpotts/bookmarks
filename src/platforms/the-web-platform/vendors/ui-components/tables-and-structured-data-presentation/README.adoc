@@ -1,4 +1,4 @@
-= Tables and Structured Data Presentation
+= Tables and structured data presentation
 
 * https://www.william-troup.com/jsontree-js/[JSONTree.js]
 

@@ -1,6 +1,6 @@
-= Client-Side
+= Client-side
 
 * https://perf-track.web.app/[Perf Track]
 
-* *link:./component-based/[Component-Based]*
-* *link:./html-based/[HTML-Based]*
+* *link:./component-based/[Component-based]*
+* *link:./html-based/[HTML-based]*

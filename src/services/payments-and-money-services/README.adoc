@@ -1,13 +1,13 @@
-= Payments & Money Services
+= Payments and money services
 
-== Payments Processing Services
+== Payments processing services
 
 * https://fastspring.com/[FastSpring]
 * https://gumroad.com/[Gumroad]
 * https://www.paddle.com/[Paddle]
 * https://stripe.com/gb[Stripe]
 
-== Currency / Exchange-Rate Conversion
+== Currency / exchange-rate conversion
 
 * https://1forge.com/[1forge]
 * https://currencylayer.com/[CurrencyLayer]

@@ -1,4 +1,4 @@
-= Browser Automation and Simulation
+= Browser automation and simulation
 
 * https://w3c.github.io/webdriver/[W3C WebDriver Specification]
 * https://developer.chrome.com/docs/chromedriver[ChromeDriver]

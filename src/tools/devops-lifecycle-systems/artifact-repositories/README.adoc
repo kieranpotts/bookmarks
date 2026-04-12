@@ -1,4 +1,4 @@
-= Artifact Repositories
+= Artifact repositories
 
 * https://jfrog.com/[JFrog]
 

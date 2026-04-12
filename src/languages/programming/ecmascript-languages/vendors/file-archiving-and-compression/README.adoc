@@ -1,4 +1,4 @@
-= File Archiving and Compression
+= File archiving and compression
 
 * https://github.com/thejoshwolfe/yauzl[yauzl]
 * https://github.com/thejoshwolfe/yazl[yazl]

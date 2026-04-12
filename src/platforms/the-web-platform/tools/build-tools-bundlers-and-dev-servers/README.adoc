@@ -1,4 +1,4 @@
-= Build Tools, Bundlers and Dev Servers
+= Build tools, bundlers and dev servers
 
 * https://github.com/bevry-archive/buildr[Buildr]
 * https://brunch.io/[Brunch]

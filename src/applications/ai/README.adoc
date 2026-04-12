@@ -4,7 +4,7 @@
 
 * https://lmstudio.ai/[LM Studio]
 
-== AI Agents
+== Ai agents
 
 * https://www.deepseek.com/[DeepSeek]
 * https://www.perplexity.ai/[Perplexity]
@@ -12,7 +12,7 @@
 * https://claude.ai/[Claude]
 * https://gemini.google.com/[Gemini]
 
-== AI Models
+== Ai models
 
 * https://ollama.com/[Ollama]
 * https://www.ibm.com/granite[IBM Granite]
@@ -21,7 +21,7 @@
 * https://www.anthropic.com/claude/opus[Claude Opus 4]
 * https://www.anthropic.com/claude/sonnet[Claude Sonnet 4]
 
-== Front-Ends
+== Front-ends
 
 * https://docs.openwebui.com/[OpenWebUI]
 * https://www.kaibanjs.com/[KaibanJS]

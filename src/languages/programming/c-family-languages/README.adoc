@@ -1,4 +1,4 @@
-= C Family Languages
+= C family languages
 
 == C
 

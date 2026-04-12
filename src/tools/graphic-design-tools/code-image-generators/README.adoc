@@ -1,4 +1,4 @@
-= Code Image Generators
+= Code image generators
 
 * https://carbon.now.sh/[Carbon]
 * https://ray.so/[ray.so]

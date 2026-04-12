@@ -1,4 +1,4 @@
-= Domain Name Valuation
+= Domain name valuation
 
 * https://domainvaluator.net/[Domain Valuator]
 * https://pc.domains/[Domain Price Checker]

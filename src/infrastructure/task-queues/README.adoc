@@ -1,4 +1,4 @@
-= Task Queues (aka Job Queues)
+= Task queues (aka. job queues)
 
 * https://beanstalkd.github.io/[Beanstalkd]
 * https://hatchet.run/[Hatchet]

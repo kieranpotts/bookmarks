@@ -1,4 +1,4 @@
-= Code Sandboxes/Playgrounds/REPLs (Language-Agnostic)
+= Code sandboxes/playgrounds/REPLs (language-agnostic)
 
 * https://codepen.io/[CodePen]
 * https://pastebin.com/[Pastebin]

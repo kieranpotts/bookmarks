@@ -1,4 +1,4 @@
-= CSS Color Manipulation
+= CSS color manipulation
 
 * https://www.vis4.net/chromajs/[chroma.js]
 

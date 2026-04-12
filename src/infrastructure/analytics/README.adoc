@@ -1,6 +1,6 @@
-= Big Data Analytics, Search Engines, Logging and Observability
+= Big data analytics, search engines, logging and observability
 
 * https://yacy.net/[YaCy]
 * https://www.honeycomb.io/[Honeycomb]
-* https://logz.io/[Logz.io: Cloud Observability & Security Powered by Open Source]
+* https://logz.io/[Logz.io: Cloud Observability and Security Powered by Open Source]
 * https://coralogix.com/[Coralogix]

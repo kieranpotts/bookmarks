@@ -1,4 +1,4 @@
-= CSS Utility Class Libraries
+= CSS utility class libraries
 
 * https://open-props.style/[Open Props]
 * https://animista.net/[Animista]

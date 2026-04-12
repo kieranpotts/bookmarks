@@ -1,4 +1,4 @@
-= Forums / Social
+= Forums / social
 
 * https://www.codeproject.com/[Code Project]
 * https://dev.to/[DEV.to]

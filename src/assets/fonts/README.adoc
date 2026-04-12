@@ -1,4 +1,4 @@
-= Fonts and Type Foundries
+= Fonts and type foundries
 
 * https://www.cufonfonts.com/[Cufon Fonts]
 * https://fontsource.org/[Fontsource]
@@ -31,7 +31,7 @@
 * https://a2-type.co.uk/[A2-TYPE]
 * https://fontlibrary.org/[Font Library]
 
-== Programming and Terminal Fonts
+== Programming and terminal fonts
 
 * https://github.com/subframe7536/maple-font[Maple Font]
 * https://github.com/powerline/fonts[Powerline Fonts]

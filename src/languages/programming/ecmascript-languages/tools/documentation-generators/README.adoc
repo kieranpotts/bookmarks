@@ -1,4 +1,4 @@
-= Documentation Generators
+= Documentation generators
 
 * https://documentjs.com/[documentjs]
 * https://jsdoc.app/[JSDoc]

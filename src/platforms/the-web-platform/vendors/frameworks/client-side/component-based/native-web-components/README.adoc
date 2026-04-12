@@ -1,4 +1,4 @@
-= Native Web Components
+= Native web components
 
 * https://lwc.dev/[Lightning Web Components]
 

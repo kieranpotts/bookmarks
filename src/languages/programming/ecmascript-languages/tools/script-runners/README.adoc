@@ -1,4 +1,4 @@
-= Script Runners
+= Script runners
 
 * https://www.npmjs.com/package/npx[npx]
 * https://github.com/sezna/nps[nps]

@@ -1,7 +1,7 @@
-= Modelling & Diagramming Tools
+= Modelling and diagramming tools
 
 * https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool[Microsoft Threat Modeling Tool]
 
-* *link:./diagramming-tools/[Diagramming Tools]*
-* *link:./visual-modeling-tools/[Visual Modeling Tools]*
-* *link:./text-to-diagram-diagrams-as-code/[Text-to-Diagram / Diagrams-as-Code]*
+* *link:./diagramming-tools/[Diagramming tools]*
+* *link:./visual-modeling-tools/[Visual modeling tools]*
+* *link:./text-to-diagram-diagrams-as-code/[Text-to-diagram / diagrams-as-code]*

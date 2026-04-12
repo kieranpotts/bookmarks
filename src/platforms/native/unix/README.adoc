@@ -10,4 +10,4 @@
 * https://unix.org/what_is_unix/single_unix_specification.html[The Single UNIX Specification]
 * https://refspecs.linuxfoundation.org/fhs.shtml[Filesystem Hierarchy Standard]
 
-== Package Repositories
+== Package repositories

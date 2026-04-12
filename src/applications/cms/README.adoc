@@ -1,10 +1,10 @@
-= Content Management Systems (CMS)
+= Content management systems (CMS)
 
-* *link:./blogging-and-personal-publishing-platforms/[Blogging and Personal Publishing Platforms]*
-* *link:./book-publishing/[Book Publishing]*
-* *link:./database-cms-and-web-frontend/[Database CMS + Web Frontend]*
-* *link:./flat-file-and-git-based-cmses/[Flat-File and Git-Based CMSes]*
+* *link:./blogging-and-personal-publishing-platforms/[Blogging and personal publishing platforms]*
+* *link:./book-publishing/[Book publishing]*
+* *link:./database-cms-and-web-frontend/[Database CMS + web front-ends]*
+* *link:./flat-file-and-git-based-cmses/[Flat-file and Git-based CMSes]*
 * *link:./visual-cmses/[Visual CMSes]*
 * *link:./headless-cmses/[Headless CMSes]*
-* *link:./static-site-generation-only/[Static-Site Generation Only]*
-* *link:./translation-management/[Translation Management]*
+* *link:./static-site-generation-only/[Static-site generation only]*
+* *link:./translation-management/[Translation management]*

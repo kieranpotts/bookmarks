@@ -1,4 +1,4 @@
-= Text Editors (CLI)
+= Text editors (CLI)
 
 * https://ex-vi.sourceforge.net/[Vi]
 * https://www.vim.org/[Vim]

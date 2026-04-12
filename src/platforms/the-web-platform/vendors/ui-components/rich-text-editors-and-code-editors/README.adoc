@@ -1,4 +1,4 @@
-= Rich-Text Editors (RTEs) and Code Editors
+= Rich-text editors (RTEs) and code editors
 
 * https://lexical.dev/[Lexical]
 * https://tiptap.dev/[TipTap]

@@ -7,6 +7,6 @@
 
 == Libraries
 
-=== Data Analysis
+=== Data analysis
 
 * https://pandas.pydata.org/[Pandas]

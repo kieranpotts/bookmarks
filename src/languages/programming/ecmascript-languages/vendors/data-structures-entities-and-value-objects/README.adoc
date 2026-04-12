@@ -1,4 +1,4 @@
-= Data Structures, Entities and Value Objects
+= Data structures, entities and value objects
 
 * https://github.com/true-myth/true-myth[True Myth]
 * https://tydel.js.org/[tydel]

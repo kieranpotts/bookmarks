@@ -1,4 +1,4 @@
-= Package Managers
+= Package managers
 
 * https://nixos.org/[Nix]
 * https://rpm.org/[RPM]

@@ -1,4 +1,4 @@
-= DNS Lookup
+= DNS lookup
 
 * https://dns.google/[Google DNS]
 * https://dns-lookup.jvns.ca/[jvns.ca - DNS Lookup]

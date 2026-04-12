@@ -1,4 +1,4 @@
-= DOM Implementations & Fakes
+= DOM implementations and fakes
 
 * https://github.com/jsdom/jsdom[jsdom]
 * https://github.com/capricorn86/happy-dom[happy-dom]

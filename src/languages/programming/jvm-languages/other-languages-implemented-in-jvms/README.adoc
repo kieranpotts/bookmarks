@@ -1,4 +1,4 @@
-= Other Languages Implemented in JVMs
+= Other languages implemented in JVMs
 
 * https://eta-lang.org/[Eta (Haskell JVM implementation)]
 * https://github.com/thomasmodeneis/jgo[JGo (Go implementation)]

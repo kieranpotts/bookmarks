@@ -1,4 +1,4 @@
-= Issue Trackers and Project Management
+= Issue trackers and project management
 
 * https://www.tegon.ai/[Tegon]
 * https://www.shortcut.com/[Shortcut]

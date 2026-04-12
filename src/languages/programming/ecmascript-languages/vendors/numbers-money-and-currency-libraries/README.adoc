@@ -1,4 +1,4 @@
-= Numbers, Money and Currency Libraries
+= Numbers, money and currency libraries
 
 * https://mathjs.org/[Math.js]
 * https://github.com/sindresorhus/pretty-ms[pretty-ms]

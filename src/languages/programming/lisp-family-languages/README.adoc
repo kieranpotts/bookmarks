@@ -1,4 +1,4 @@
-= Lisp Family Languages
+= Lisp family languages
 
 * https://common-lisp.net/[Common Lisp]
 * https://www.scheme.org/[Scheme]

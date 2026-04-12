@@ -1,3 +1,3 @@
-= Dual (Text + Binary) Serialization Formats
+= Dual (text + binary) serialization formats
 
 * https://amazon-ion.github.io/ion-docs/index.html[Amazon Ion]

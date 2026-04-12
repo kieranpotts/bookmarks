@@ -1,1 +1,1 @@
-= Text-to-Diagram / Diagrams-as-Code
+= Text-to-diagram / diagrams-as-code

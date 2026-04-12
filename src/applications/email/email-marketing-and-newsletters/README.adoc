@@ -1,4 +1,4 @@
-= Email Marketing and Newsletters
+= Email marketing and newsletters
 
 * https://www.benchmarkemail.com/[Benchmark]
 * https://buttondown.email/[Buttondown]

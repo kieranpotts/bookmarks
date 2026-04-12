@@ -1,4 +1,4 @@
-= Photo Lightboxes, Image Carousels, etc.
+= Photo lightboxes, image carousels, etc.
 
 * https://github.com/deoostfrees/Parvus[Parvus]
 

@@ -2,17 +2,17 @@
 
 * https://vuejs.org/[Vue.js]
 
-== Project Skeletons, Starter Kits and Generators
+== Project skeletons, starter kits and generators
 
 * https://vuesion.github.io/docs/en/v5/[Vuesion]
 
-== Testing Tools
+== Testing tools
 
 * https://v1.test-utils.vuejs.org/[Vue Test Utils v1 (for Vue 2)]
 * https://test-utils.vuejs.org/[Vue Test Utils v2 (for Vue 3)]
 * https://testing-library.com/docs/vue-testing-library/intro/[Vue Testing Library]
 
-== IDE Extensions
+== IDE extensions
 
 * https://github.com/vuejs/vetur[Vetur]
 

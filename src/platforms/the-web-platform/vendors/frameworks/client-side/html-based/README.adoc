@@ -1,4 +1,4 @@
-= HTML-Based
+= HTML-based
 
 * https://tallstack.dev/[The TALL Stack]
 * https://alpinejs.dev/[Alpine.js]
@@ -11,7 +11,7 @@
 * https://markojs.com/[Marko (by ebay)]
 * https://mavo.io/[Mavo]
 
-== MV*-Style Frameworks (Legacy)
+== MV*-style frameworks (legacy)
 
 * https://knockoutjs.com/[Knockout]
 * https://sproutcore.com/[SproutCore]

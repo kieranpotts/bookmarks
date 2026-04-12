@@ -1,4 +1,4 @@
-= IDE Plugins
+= IDE plugins
 
 * https://editorconfig.org/[EditorConfig]
 * https://sourcegraph.com/[Sourcegraph]

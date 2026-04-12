@@ -1,4 +1,4 @@
-= Shell Scripting / Shell Execution
+= Shell scripting / shell execution
 
 * https://github.com/sindresorhus/nano-spawn[nano-spawn]
 * https://github.com/shelljs/shelljs[shelljs]

@@ -1,3 +1,3 @@
-= Static-Site Generation Only
+= Static-site generation only
 
 * https://getpublii.com/[Publii]

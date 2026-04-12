@@ -1,4 +1,4 @@
-= Relational Databases
+= Relational databases
 
 * https://www.postgresql.org/[PostgreSQL]
 * https://www.microsoft.com/en-us/sql-server[MSSQL (aka SQL Server)]

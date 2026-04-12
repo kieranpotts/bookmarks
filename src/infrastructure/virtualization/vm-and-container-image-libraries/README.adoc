@@ -1,4 +1,4 @@
-= VM and Container Image Libraries
+= VM and container image libraries
 
 * https://portal.cloud.hashicorp.com/[HashiCorp Cloud Platform (HCP)]
 * https://app.vagrantup.com/[Vagrant Cloud]

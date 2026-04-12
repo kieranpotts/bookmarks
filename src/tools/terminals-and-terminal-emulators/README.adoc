@@ -1,4 +1,4 @@
-= Terminals and Terminal Emulators
+= Terminals and terminal emulators
 
 * https://gnome-terminator.readthedocs.io/en/latest/[Terminator]
 * https://hyper.is/[Hyper]

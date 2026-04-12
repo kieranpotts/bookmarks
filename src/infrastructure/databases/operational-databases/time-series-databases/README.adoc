@@ -1,4 +1,4 @@
-= Time Series Databases
+= Time series databases
 
 * https://oss.oetiker.ch/rrdtool/[RRDtool]
 * https://prometheus.io/[Prometheus]

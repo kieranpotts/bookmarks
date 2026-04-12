@@ -1,4 +1,4 @@
-= CI/CD Integrations (Automation Tools and Services)
+= CI/CD integrations (automation tools and services)
 
 * https://devfactory.com/codefix-3/[DevFactory CodeFix]
 

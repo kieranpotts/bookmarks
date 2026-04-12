@@ -1,4 +1,4 @@
-= Package Registries and Hosting
+= Package registries and hosting
 
 * https://github.com/cnpm/cnpm[cnpm - client for China mirror of NPM]
 * https://www.vlt.sh/serverless-registry[vlt serverless registry]

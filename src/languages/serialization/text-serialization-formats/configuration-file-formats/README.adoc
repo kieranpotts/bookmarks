@@ -1,4 +1,4 @@
-= Configuration File Formats
+= Configuration file formats
 
 * https://toml.io/en/[TOML]
 * https://ne-on.org/[Neon]

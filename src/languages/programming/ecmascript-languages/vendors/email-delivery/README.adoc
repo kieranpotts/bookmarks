@@ -1,4 +1,4 @@
-= Email Delivery
+= Email delivery
 
 * https://github.com/guileen/node-sendmail[node-sendmail]
 * https://github.com/eleith/emailjs[emailjs]

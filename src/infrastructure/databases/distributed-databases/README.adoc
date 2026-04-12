@@ -1,4 +1,4 @@
-= Distributed Databases
+= Distributed databases
 
 * https://www.couchbase.com/[Couchbase]
 * https://cloud.google.com/bigtable[Google BigTable]

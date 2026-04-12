@@ -1,4 +1,4 @@
-= Schema Languages
+= Schema languages
 
 * https://cuelang.org/[CUE]
 * https://schema.org/[Schema.org]

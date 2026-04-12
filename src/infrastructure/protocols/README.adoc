@@ -1,4 +1,4 @@
-= Communication Protocols
+= Communication protocols
 
 * https://www.amqp.org/[AMQP]
 

@@ -1,4 +1,4 @@
-= Machine Learning
+= Machine learning
 
 * https://github.com/frost-beta/node-mlx[node-mlx]
 * https://github.com/eduardoleao052/js-pytorch[JS-PyTorch]

@@ -1,4 +1,4 @@
-= Logs & Search Databases
+= Logs and search databases
 
 * https://www.elastic.co/[Elastic Stack, formerly ELK Stack - Elasticsearch, Logstash, Kibana]
 * https://solr.apache.org/[Solr]

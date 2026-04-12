@@ -1,4 +1,4 @@
-= Digital Asset Management
+= Digital asset management
 
 * https://portingo.com/[Portingo]
 * https://cloudinary.com/[Cloudinary]

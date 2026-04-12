@@ -1,4 +1,4 @@
-= Remote Access and Secure Tunnels
+= Remote access and secure tunnels
 
 * https://www.flexihub.com/[Flexihub]
 * https://expose.dev/[Expose]

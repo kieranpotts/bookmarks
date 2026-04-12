@@ -1,4 +1,4 @@
-= Online/Cloud Development Environments
+= Online/cloud development environments
 
 * https://github.com/codespaces/[GitHub Codespaces]
 * https://github.dev/[github.dev]

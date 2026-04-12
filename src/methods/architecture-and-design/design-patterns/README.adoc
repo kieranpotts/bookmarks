@@ -1,4 +1,4 @@
-= Design Patterns
+= Design patterns
 
 * https://c2.com/ppr/[Portland Pattern Repository (on the WikiWikiWeb)]
 * https://www.thoughtworks.com/insights/topic/architecture[Thoughtworks - Architecture]

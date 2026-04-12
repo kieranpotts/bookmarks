@@ -1,4 +1,4 @@
-= Mail Servers
+= Mail servers
 
 * http://www.postfix.org/[Postfix]
 * https://www.sendmail.org/[Sendmail]

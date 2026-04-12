@@ -1,4 +1,4 @@
-= Productivity Measurement Frameworks
+= Productivity measurement frameworks
 
 * https://www.youtube.com/watch?v=OFKv8vVQeZM[GSM Goals/Signals/Metrics]
 * https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance[DORA Four Key Metrics]

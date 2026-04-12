@@ -1,4 +1,4 @@
-= Typesetting Systems and Heavyweight Markup
+= Typesetting systems and heavyweight markup
 
 * https://www.lyx.org/[Lyx - Tex/LaTex WYSIWM editor]
 * https://www.tug.org/texworks/[TexWorks - LaTeX client]

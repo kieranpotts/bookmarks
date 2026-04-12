@@ -1,9 +1,9 @@
-= DevOps Lifecycle Systems
+= DevOps lifecycle systems
 
-* *link:./all-in-one-devops-systems/[All-in-One DevOps Systems]*
-* *link:./code-repository-hosting/[Code Repository Hosting]*
-* *link:./artifact-repositories/[Artifact Repositories]*
-* *link:./code-search/[Code Search]*
-* *link:./ci-cd-systems/[CI/CD Systems (Automation Servers)]*
-* *link:./ci-cd-integrations/[CI/CD Integrations (Automation Tools and Services)]*
-* *link:./readme-integrations/[README Integrations]*
+* *link:./all-in-one-devops-systems/[All-in-one DevOps systems]*
+* *link:./code-repository-hosting/[Code repository hosting]*
+* *link:./artifact-repositories/[Artifact repositories]*
+* *link:./code-search/[Code search]*
+* *link:./ci-cd-systems/[CI/CD systems (automation servers)]*
+* *link:./ci-cd-integrations/[CI/CD integrations (automation tools and services)]*
+* *link:./readme-integrations/[README integrations]*

@@ -1,11 +1,11 @@
 = Certification
 
-== Broad, Foundational Certifications
+== Broad, foundational certifications
 
 * https://www.comptia.org/[CompTIA]
 * https://www.examcompass.com/[Exam Compass - CompTIA practice tests]
 
-== Specialist Certifications
+== Specialist certifications
 
 === Applications
 
@@ -51,17 +51,17 @@ Analogy:
 * Software architects design individual buildings.
 ****
 
-=== Computer Science
+=== Computer science
 
 * https://www.edx.org/cs50[CS50 (Stanford)]
 * https://www.edx.org/learn/computer-science/stanford-university-computer-science-101[CS101 (Stanford)]
 * https://www.coursera.org/learn/comparch[Computer Architecture (Princeton)]
-* https://www.coursera.org/specializations/data-structures-algorithms[Data Structures & Algorithms (UC San Diego)]
+* https://www.coursera.org/specializations/data-structures-algorithms[Data Structures and Algorithms (UC San Diego)]
 
 === Infrastructure
 
 * https://aws.amazon.com/certification/[AWS Certification]
-* https://digitalcloud.training/udemy-aws-coupon-neal-davis/?utm_source=udemy&utm_medium=bonus&utm_campaign=coupons[AWS Udemy course coupons from Neal Davis]
+* https://digitalcloud.training/udemy-aws-coupon-neal-davis/[AWS Udemy course coupons from Neal Davis]
 * https://examregistration.github.com/[GitHub Certifications]
 * https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/[Certified Kubernetes Application Developer (CKAD)]
 * https://developers.google.com/certification[Google Developers Certification]
@@ -69,7 +69,7 @@ Analogy:
 * https://www.hashicorp.com/en/certification[HashiCorp Certification]
 * https://training.mirantis.com/certification/dca-certification-exam/[Docker Certification | Mirantis]
 
-=== Project Management
+=== Project management
 
 * https://www.prince2.com/uk[Prince2]
 * https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1[ITIL 4 Foundation - PeopleCert]
@@ -88,6 +88,6 @@ Analogy:
 * https://www.cisco.com/site/us/en/learn/training-certifications/certifications/security/ccnp-security/index.html[Cisco CCNP Security]
 * Systems Security Certified Practitioner (SSCP) – Security administration.
 
-=== Languages & Runtimes
+=== Languages and runtimes
 
 * https://education.oracle.com/oracle-certification-path/pFamily_48[Oracle: Java certification paths]

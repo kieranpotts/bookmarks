@@ -1,4 +1,4 @@
-= Object / Schema Validation
+= Object / schema validation
 
 * https://valibot.dev/[Valibot]
 * https://github.com/jquense/yup[Yup]

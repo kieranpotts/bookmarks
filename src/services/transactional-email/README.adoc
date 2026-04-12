@@ -1,4 +1,4 @@
-= Transactional Email
+= Transactional email
 
 * https://aws.amazon.com/ses/[AWS Simple Email Service (SES)]
 * https://www.authmailer.com/[AuthMailer]

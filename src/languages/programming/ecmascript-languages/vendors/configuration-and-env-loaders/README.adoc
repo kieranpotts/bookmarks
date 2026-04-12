@@ -1,4 +1,4 @@
-= Configuration and Env Loaders
+= Configuration and env loaders
 
 * https://dotenvx.com/[dotenvx]
 * https://github.com/mozilla/node-convict[node-convict]

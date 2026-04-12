@@ -1,4 +1,4 @@
-= Form Hosting and Capture
+= Form hosting and capture
 
 * https://airform.io/[Airform]
 * https://www.typeform.com/[Typeform]

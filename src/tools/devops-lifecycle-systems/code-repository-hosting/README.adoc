@@ -1,4 +1,4 @@
-= Code Repository Hosting
+= Code repository hosting
 
 * https://bitbucket.org/[Bitbucket]
 * https://codeberg.org/[Codeberg]

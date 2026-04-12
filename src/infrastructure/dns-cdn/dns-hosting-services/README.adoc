@@ -1,4 +1,4 @@
-= DNS Hosting Services
+= DNS hosting services
 
 * https://dnsmadeeasy.com/[DNS Made Easy - DigiCert]
 * https://www.oracle.com/cloud/networking/dns/[Oracle OCI DNS]

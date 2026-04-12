@@ -1,4 +1,4 @@
-= Database CMS + Web Frontend
+= Database CMS + web front-ends
 
 * https://www.fork-cms.com/[Fork]
 * https://wordpress.org/[WordPress]

@@ -1,4 +1,4 @@
-= Image Compression and Optimization
+= Image compression and optimization
 
 * https://svgo.dev/[SVGO]
 * https://jakearchibald.github.io/svgomg/[SVGOMG]

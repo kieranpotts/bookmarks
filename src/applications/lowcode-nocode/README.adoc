@@ -1,4 +1,4 @@
-= Low-Code/No-Code Application Development
+= Low-code/no-code application development
 
 * https://bubble.io/[Bubble]
 * https://backendless.com/[Backendless]

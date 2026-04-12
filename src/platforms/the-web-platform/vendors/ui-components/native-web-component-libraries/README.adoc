@@ -1,4 +1,4 @@
-= Native Web Component Libraries
+= Native web component libraries
 
 * https://www.webcomponents.org/[WebComponents.org]
 * https://www.duetds.com/[Duet]

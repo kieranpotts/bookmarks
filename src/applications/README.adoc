@@ -1,37 +1,37 @@
 = Applications
 
-* *link:./chatops/[ChatOps and IRC Clients]*
+* *link:./chatops/[ChatOps and IRC clients]*
 * *link:./email/[Email]*
-* *link:./lowcode-nocode/[Low-Code/No-Code Application Development]*
-* *link:./workflow/[Task/Workflow Automation]*
+* *link:./lowcode-nocode/[Low-code/no-code application development]*
+* *link:./workflow/[Task/workflow automation]*
 * *link:./ai/[AI]*
-* *link:./bookmarks/[Bookmarks and Web Clipping Applications]*
-* *link:./brainstorming/[Brainstorming and Collaborative Planning]*
-* *link:./recruitment-tests/[Coding Tests for Tech Recruitment]*
-* *link:./cms/[Content Management Systems (CMS)]*
-* *link:./crm/[Customer Relationship Management (CRM)]*
-* *link:./disk-imaging/[Disk Imaging / Bootable Media Creation]*
-* *link:./dam/[Digital Asset Management]*
-* *link:./ebooks/[E-Book Readers and Managers]*
-* *link:./ecommerce/[E-Commerce Platforms]*
-* *link:./file-storage/[File Storage, Syncing and Sharing]*
-* *link:./home-automation/[Home Automation]*
-* *link:./idv/[Identity Verification (IDV) and Know Your Customer (KYC) services]*
-* *link:./image-optimization/[Image Optimization / Compression]*
-* *link:./i18n/[Internationalization and Localization / Translation]*
-* *link:./project-management/[Issue Trackers and Project Management]*
-* *link:./lms/[Learning Management Systems (LMS)]*
-* *link:./payments/[Money Transfer]*
-* *link:./passwords/[Password and Secrets Management/Sharing]*
-* *link:./pdf/[PDF Generation and Editing]*
-* *link:./media/[Photo and Video Management]*
-* *link:./productivity/[Productivity Applications]*
-* *link:./ats/[Recruitment Software and Applicant Tracking Software (ATS)]*
-* *link:./rss/[RSS Feed Readers and News Aggregators]*
-* *link:./time-tracking/[Time Tracking]*
-* *link:./marketing/[Online Marketing & SEO]*
-* *link:./helpdesk/[Service Desk / Help Desk and ITSM]*
-* *link:./ssh/[SSH Clients]*
-* *link:./wikis/[Wikis and Knowledgebases]*
-* *link:./writing/[Writing and Research]*
+* *link:./bookmarks/[Bookmarks and web clipping applications]*
+* *link:./brainstorming/[Brainstorming and collaborative planning]*
+* *link:./recruitment-tests/[Coding tests for tech recruitment]*
+* *link:./cms/[Content management systems (CMS)]*
+* *link:./crm/[Customer relationship management (CRM)]*
+* *link:./disk-imaging/[Disk imaging / bootable media creation]*
+* *link:./dam/[Digital asset management]*
+* *link:./ebooks/[E-book readers and managers]*
+* *link:./ecommerce/[E-commerce platforms]*
+* *link:./file-storage/[File storage, syncing and sharing]*
+* *link:./home-automation/[Home automation]*
+* *link:./idv/[Identity verification (IDV) and know your customer (KYC) services]*
+* *link:./image-optimization/[Image optimization / compression]*
+* *link:./i18n/[Internationalization and localization / translation]*
+* *link:./project-management/[Issue trackers and project management]*
+* *link:./lms/[Learning management systems (LMS)]*
+* *link:./payments/[Money transfer]*
+* *link:./passwords/[Password and secrets management/sharing]*
+* *link:./pdf/[PDF generation and editing]*
+* *link:./media/[Photo and video management]*
+* *link:./productivity/[Productivity applications]*
+* *link:./ats/[Recruitment software and applicant tracking software (ATS)]*
+* *link:./rss/[RSS feed readers and news aggregators]*
+* *link:./time-tracking/[Time tracking]*
+* *link:./marketing/[Online marketing and SEO]*
+* *link:./helpdesk/[Service desk / help desk and ITSM]*
+* *link:./ssh/[SSH clients]*
+* *link:./wikis/[Wikis and knowledgebases]*
+* *link:./writing/[Writing and research]*
 

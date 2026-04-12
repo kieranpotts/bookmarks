@@ -1,10 +1,10 @@
-= Code/Text Editors
+= Code/text editors
 
-== Terminal Code/Text Editors
+== Terminal code/text editors
 
 * https://nano-editor.org/[nano]
 
-== GUI Code/Text Editors
+== GUI code/text editors
 
 * https://asciidocfx.com/[AsciidocFX]
 * https://github.com/dail8859/NotepadNext[NotepadNext]

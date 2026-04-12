@@ -1,4 +1,4 @@
-= Open Source
+= Open source
 
 * https://opensource.guide/[Open Source Guides]
 * https://sfconservancy.org/[Software Freedom Conservancy]

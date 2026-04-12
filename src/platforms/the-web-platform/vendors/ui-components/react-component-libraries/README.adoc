@@ -1,4 +1,4 @@
-= React Component Libraries
+= React component libraries
 
 * https://ant.design/[Ant Design]
 * https://blueprintjs.com/[Blueprint]

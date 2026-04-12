@@ -1,3 +1,3 @@
-= File Transfer Utilities
+= File transfer utilities
 
 * https://rclone.org/[Rclone]

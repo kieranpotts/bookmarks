@@ -1,4 +1,4 @@
-= PostgreSQL Clients
+= PostgreSQL clients
 
 * https://vitaly-t.github.io/pg-promise/[pg-promise]
 * https://github.com/gajus/slonik[slonik]

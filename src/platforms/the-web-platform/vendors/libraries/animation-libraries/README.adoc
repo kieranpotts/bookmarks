@@ -1,4 +1,4 @@
-= Animation Libraries
+= Animation libraries
 
 * https://tweenjs.github.io/tween.js/[tween.js]
 

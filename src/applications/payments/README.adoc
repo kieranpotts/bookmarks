@@ -1,4 +1,4 @@
-= Money Transfer
+= Money transfer
 
 * https://www.escrow.com/[Escrow.com]
 * https://www.payoneer.com/[Payoneer]

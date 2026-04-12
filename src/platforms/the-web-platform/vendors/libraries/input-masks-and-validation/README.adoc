@@ -1,4 +1,4 @@
-= Input Masks and Validation
+= Input masks and validation
 
 * https://imask.js.org/[imask.js]
 

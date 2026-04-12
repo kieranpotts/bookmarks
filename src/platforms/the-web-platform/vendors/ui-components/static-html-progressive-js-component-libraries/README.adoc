@@ -1,4 +1,4 @@
-= Static HTML + Progressive JS Component Libraries
+= Static HTML + progressive JS component libraries
 
 * https://denali.design/[Denali]
 * https://coreui.io/[Core UI]

@@ -1,4 +1,4 @@
-= Code Editors, IDEs and REPLs
+= Code editors, IDEs and REPLs
 
 * https://www.val.town/[Val Town]
 * https://webcomponents.dev/[WebComponents.dev - Online IDE for Web Components]

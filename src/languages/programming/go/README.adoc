@@ -4,11 +4,11 @@
 
 == Tools
 
-=== Code Sandboxes/Playgrounds/REPLs
+=== Code sandboxes/playgrounds/REPLs
 
 * https://go.dev/play/[Go Playground]
 
-=== Package Registries
+=== Package registries
 
 * https://pkg.go.dev/[pkg.go.dev]
 
@@ -21,7 +21,7 @@
 
 == Vendors
 
-=== Application Frameworks
+=== Application frameworks
 
 * https://revel.github.io/[Revel]
 * https://github.com/go-martini/martini[Martini]
@@ -30,4 +30,4 @@
 * https://gobot.io/[Gobot]
 * https://echo.labstack.com/[Echo]
 * https://gobuffalo.io/[Buffalo]
-* https://www.goravel.dev/?utm_source=hackernewsletter&utm_medium=email&utm_term=code[Goravel - Laravel-inspired Go application framework]
+* https://www.goravel.dev/[Goravel - Laravel-inspired Go application framework]

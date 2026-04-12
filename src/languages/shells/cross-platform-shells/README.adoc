@@ -1,4 +1,4 @@
-= Cross-Platform Shells
+= Cross-platform shells
 
 == Nushell
 

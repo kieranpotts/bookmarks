@@ -1,6 +1,6 @@
 = Monitoring
 
-== Infrastructure and Application (Performance) Monitoring (APM)
+== Infrastructure and application (performance) monitoring (APM)
 
 * https://www.solarwinds.com/appoptics[AppOptics (formerly Librato)]
 * https://www.bugsnag.com/[Bugsnag]
@@ -24,7 +24,7 @@
 * https://www.uptrends.com/[UpTrends]
 * https://www.wormly.com/[Wormly]
 
-== System Monitoring
+== System monitoring
 
 * https://github.com/aristocratos/bashtop[bashtop]
 * https://oss.oetiker.ch/mrtg/[MRTG]
@@ -34,6 +34,6 @@
 * https://htop.dev/[htop]
 * https://github.com/tariqbuilds/linux-dash[Linux Dash]
 
-== Service Status Dashboards
+== Service status dashboards
 
 * https://statushub.com/[StatusHub]

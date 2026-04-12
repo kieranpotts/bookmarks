@@ -1,4 +1,4 @@
-= Icon Libraries
+= Icon libraries
 
 * https://monicon-docs.vercel.app/[Monicon]
 

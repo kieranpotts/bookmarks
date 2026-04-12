@@ -1,14 +1,14 @@
 = Languages
 
-* *link:./data-formats/[Data Interchange Formats]*
-* *link:./interface-definitions/[Interface Definition Languages]*
-* *link:./programming/[Programming & Scripting Languages]*
-* *link:./shells/[Shells and Command Languages]*
-* *link:./domain-specific/[Domain-Specific Scripting Languages]*
-* *link:./visual/[Visual Programming Languages and Tools]*
-* *link:./schema/[Schema Languages]*
-* *link:./serialization/[Serialization Languages]*
-* *link:./stylesheets/[Style Sheet Languages]*
-* *link:./encoding/[Text Encoding Systems]*
-* *link:./markup/[Text Markup Languages]*
-* *link:./query/[Query Languages]*
+* *link:./data-formats/[Data interchange formats]*
+* *link:./interface-definitions/[Interface definition languages]*
+* *link:./programming/[Programming and scripting languages]*
+* *link:./shells/[Shells and command languages]*
+* *link:./domain-specific/[Domain-specific scripting languages]*
+* *link:./visual/[Visual programming languages and tools]*
+* *link:./schema/[Schema languages]*
+* *link:./serialization/[Serialization languages]*
+* *link:./stylesheets/[Style sheet languages]*
+* *link:./encoding/[Text encoding systems]*
+* *link:./markup/[Text markup languages]*
+* *link:./query/[Query languages]*

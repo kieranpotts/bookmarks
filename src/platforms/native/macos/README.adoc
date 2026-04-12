@@ -2,8 +2,8 @@
 
 == Tools
 
-=== Package Managers
+=== Package managers
 
-=== Code Editors and IDEs
+=== Code editors and IDEs
 
 * https://developer.apple.com/xcode/[Xcode]

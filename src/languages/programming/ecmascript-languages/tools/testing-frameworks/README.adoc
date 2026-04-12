@@ -1,4 +1,4 @@
-= Testing Frameworks
+= Testing frameworks
 
 * https://mochajs.org/[Mocha]
 * https://poku.io/[Poku]

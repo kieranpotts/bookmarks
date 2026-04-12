@@ -1,4 +1,4 @@
-= Backend-as-a-Service (BaaS)
+= Backend-as-a-service (BaaS)
 
 * https://pusher.com/[Pusher]
 * https://firebase.google.com/[Firebase]

@@ -1,6 +1,6 @@
 = Contracting
 
-== Umbrella Companies
+== Umbrella companies
 
 * https://www.nasagroup.co.uk/umbrella[Nasa]
 * https://www.paystream.co.uk/umbrella/[PayStream]

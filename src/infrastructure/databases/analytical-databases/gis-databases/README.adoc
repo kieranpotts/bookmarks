@@ -1,4 +1,4 @@
-= GIS Databases
+= GIS databases
 
 * https://www.kinetica.com/[Kinetica]
 * https://postgis.net/[PostGIS]

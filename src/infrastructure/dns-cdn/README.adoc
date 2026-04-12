@@ -1,15 +1,15 @@
-= DNS, CDNs, Reverse Proxies
+= Dns, cdns, reverse proxies
 
 * https://www.cloudflare.com/en-gb/[Cloudflare]
 * https://www.iana.org/domains/root/db[Root Zone Database]
 
-* *link:./cdns-and-static-site-hosting/[CDNs and Static Site Hosting]*
-* *link:./reverse-proxies/[Reverse Proxies]*
-* *link:./dns-hosting-services/[DNS Hosting Services]*
-* *link:./secondary-dns-replication-services/[Secondary DNS (Replication) Services]*
-* *link:./dns-lookup/[DNS Lookup]*
-* *link:./dns-registrars-and-marketplaces/[DNS Registrars and Marketplaces]*
-* *link:./domain-name-generators/[Domain Name Generators]*
-* *link:./expired-domains-and-backorders/[Expired Domains & Backorders]*
-* *link:./domain-name-valuation/[Domain Name Valuation]*
-* *link:./dns-tools/[DNS Tools]*
+* *link:./cdns-and-static-site-hosting/[CDNs and static site hosting]*
+* *link:./reverse-proxies/[Reverse proxies]*
+* *link:./dns-hosting-services/[DNS hosting services]*
+* *link:./secondary-dns-replication-services/[Secondary DNS (replication) services]*
+* *link:./dns-lookup/[DNS lookup]*
+* *link:./dns-registrars-and-marketplaces/[DNS registrars and marketplaces]*
+* *link:./domain-name-generators/[Domain name generators]*
+* *link:./expired-domains-and-backorders/[Expired domains and backorders]*
+* *link:./domain-name-valuation/[Domain name valuation]*
+* *link:./dns-tools/[DNS tools]*

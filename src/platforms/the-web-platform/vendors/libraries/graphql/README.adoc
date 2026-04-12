@@ -1,6 +1,6 @@
 = GraphQL
 
-= GraphQL Clients
+= GraphQL clients
 
 * https://www.apollographql.com/docs/react/[Apollo]
 * https://relay.dev/[Relay]

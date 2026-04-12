@@ -1,4 +1,4 @@
-= Static Analysis and Linting
+= Static analysis and linting
 
 * https://github.com/philbooth/complexity-report[complexity-report (deprecated)]
 * http://dsheiko.github.io/jscodesniffer/[JSCodeSniffer (online, deprecated)]

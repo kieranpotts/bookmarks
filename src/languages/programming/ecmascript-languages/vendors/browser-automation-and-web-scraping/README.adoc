@@ -1,4 +1,4 @@
-= Browser Automation and Web Scraping
+= Browser automation and web scraping
 
 * https://pptr.dev/[Puppeteer]
 * https://playwright.dev/[Playwright]

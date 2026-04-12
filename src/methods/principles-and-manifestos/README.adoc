@@ -1,4 +1,4 @@
-= Principles and Manifestos
+= Principles and manifestos
 
 * https://malleable.systems/[Malleable Systems Collective]
 * https://agilemanifesto.org/[Manifesto for Agile Software Development]

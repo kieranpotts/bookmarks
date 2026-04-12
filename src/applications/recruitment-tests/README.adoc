@@ -1,4 +1,4 @@
-= Coding Tests for Tech Recruitment
+= Coding tests for tech recruitment
 
 * https://www.classmarker.com/[ClassMarker]
 * https://www.imocha.io/[iMocha]

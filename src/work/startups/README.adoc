@@ -1,6 +1,6 @@
 = Startups
 
-== Incubators and Venture Capital
+== Incubators and venture capital
 
 * https://www.ycombinator.com/[Y Combinator]
 * https://www.startupschool.org/[Startup School]

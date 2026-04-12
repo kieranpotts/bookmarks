@@ -1,4 +1,4 @@
-= Mailing List Systems
+= Mailing list systems
 
 * https://www.phplist.org/[phpList]
 * https://www.list.org/[GNU Mailman]

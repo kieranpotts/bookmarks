@@ -1,4 +1,4 @@
-= Email Capture
+= Email capture
 
 * https://debugmail.io/[DebugMail]
 * https://mailcatcher.me/[MailCatcher]

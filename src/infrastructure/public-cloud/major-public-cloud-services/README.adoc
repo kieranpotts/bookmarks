@@ -1,4 +1,4 @@
-= Major Public Cloud Services
+= Major public cloud services
 
 == AWS
 

@@ -1,4 +1,4 @@
-= Data Serialization Systems
+= Data serialization systems
 
 * https://avro.apache.org/[Apache Avro]
 * https://thrift.apache.org/[Apache Thrift]

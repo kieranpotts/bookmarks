@@ -1,4 +1,4 @@
-= Diagram Generation (including Diagrams as Code)
+= Diagram generation (including diagrams-as-code)
 
 * https://diagrams.mingrammer.com/[diagrams (python)]
 * https://bramp.github.io/js-sequence-diagrams/[js-sequence-diagrams]

@@ -1,4 +1,4 @@
-= Audio, Video, and Image Processing
+= Audio, video, and image processing
 
 * https://mediabunny.dev/[Mediabunny]
 

@@ -1,3 +1,3 @@
-= Text Processing
+= Text processing
 
 * https://github.com/onetrueawk/awk[awk]

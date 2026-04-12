@@ -1,4 +1,4 @@
-= Text Encoding Systems
+= Text encoding systems
 
 == Unicode
 

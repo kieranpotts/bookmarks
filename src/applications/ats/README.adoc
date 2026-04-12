@@ -1,4 +1,4 @@
-= Recruitment Software and Applicant Tracking Software (ATS)
+= Recruitment software and applicant tracking software (ATS)
 
 * https://www.greenhouse.com/uk[Greenhouse]
 * https://www.ashbyhq.com/[Ashby]

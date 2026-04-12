@@ -1,4 +1,4 @@
-= Dependency Injection + Service Locator (IoC)
+= Dependency injection + service locator (IoC)
 
 * https://github.com/jeffijoe/awilix[Awilix]
 * https://github.com/zheksoon/dioma[Dioma]

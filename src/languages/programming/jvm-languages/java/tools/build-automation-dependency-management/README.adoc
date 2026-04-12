@@ -1,4 +1,4 @@
-= Build Automation & Dependency Management
+= Build automation and dependency management
 
 * https://ant.apache.org/[Ant]
 * https://maven.apache.org/[Maven]

@@ -1,10 +1,10 @@
-= Code Generators
+= Code generators
 
-== Animations and Transitions
+== Animations and transitions
 
 * https://cubic-bezier.com/[cubic-bezier]
 
-== Borders and Fills
+== Borders and fills
 
 * https://9elements.github.io/fancy-border-radius/[fancy-border-radius]
 
@@ -14,7 +14,7 @@
 * https://favicon.io/[favicon.io]
 * https://faven.netlify.app/[Faven]
 
-== Grids and Flexbox
+== Grids and flexbox
 
 * https://grid.layoutit.com/[Layoutit!]
 * https://griddy.io/[Griddy]

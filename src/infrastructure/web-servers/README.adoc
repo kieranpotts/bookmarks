@@ -1,4 +1,4 @@
-= Web/HTTP Servers
+= Web/HTTP servers
 
 * https://tomcat.apache.org/[Tomcat]
 * https://httpd.apache.org/[Apache HTTP Server]

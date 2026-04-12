@@ -1,4 +1,4 @@
-= Graph Databases
+= Graph databases
 
 * https://spark.apache.org/[Apache Spark]
 * https://arangodb.com/[ArrangoDB]

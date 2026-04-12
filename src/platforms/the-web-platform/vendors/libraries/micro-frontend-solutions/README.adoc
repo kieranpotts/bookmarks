@@ -1,4 +1,4 @@
-= Micro-Frontend Solutions
+= Micro-frontend solutions
 
 * https://single-spa.js.org/[single-spa]
 

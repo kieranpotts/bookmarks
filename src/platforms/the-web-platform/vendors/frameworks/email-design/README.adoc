@@ -1,4 +1,4 @@
-= Email Design
+= Email design
 
 * https://mjml.io/[mjml]
 * https://emailframe.work/[Email Framework]

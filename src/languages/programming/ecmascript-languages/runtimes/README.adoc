@@ -1,6 +1,6 @@
 = Runtimes
 
-== JS Compilers & Runtime Environments
+== JS compilers and runtime environments
 
 * https://tryandromeda.dev/[Andromeda]
 * https://bun.sh/[Bun]
@@ -13,7 +13,7 @@
 * https://www.thenodebook.com/[NodeBook]
 * https://nodejs.org/en/[Node.js]
 
-== Compatibility Tables
+== Compatibility tables
 
 * https://test262.fyi/[test262.fyi]
 * https://node.green/[node.green]

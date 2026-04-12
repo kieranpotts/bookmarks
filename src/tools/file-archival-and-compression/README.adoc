@@ -1,4 +1,4 @@
-= File Archival and Compression
+= File archival and compression
 
 * https://peazip.github.io/[PeaZip]
 * https://www.7-zip.org/[7zip]

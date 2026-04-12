@@ -1,4 +1,4 @@
-= Data Fetching
+= Data fetching
 
 * https://netflix.github.io/falcor/[Falcor]
 * https://tanstack.com/query/latest[TanStack Query (formerly React Query)]

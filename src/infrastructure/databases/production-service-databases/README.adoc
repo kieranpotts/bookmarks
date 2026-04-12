@@ -1,5 +1,5 @@
-= Production Service Databases
+= Production service databases
 
-* *link:./relational-databases/[Relational Databases]*
-* *link:./document-oriented-nosql-databases/[Document-Oriented (NoSQL) Databases]*
-* *link:./graph-databases/[Graph Databases]*
+* *link:./relational-databases/[Relational databases]*
+* *link:./document-oriented-nosql-databases/[Document-oriented (NoSQL) databases]*
+* *link:./graph-databases/[Graph databases]*

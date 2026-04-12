@@ -1,4 +1,4 @@
-= VPS, Dedicated, and Managed Hosting
+= VPS, dedicated, and managed hosting
 
 * https://www.hetzner.com/[Hetzner]
 * https://ramnode.com/[RamNode]

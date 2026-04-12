@@ -1,4 +1,4 @@
-= Trends and Surveys
+= Trends and surveys
 
 * https://www.thoughtworks.com/radar[Thoughtworks Technology Radar]
 * https://www.tiobe.com/tiobe-index/[TIOBE Index]

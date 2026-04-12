@@ -1,4 +1,4 @@
-= Vector Graphics Editors
+= Vector graphics editors
 
 * https://svg-path-visualizer.netlify.app/[SVG Path Visualizer]
 * https://yqnn.github.io/svg-path-editor/[svg-path-editor]

@@ -1,7 +1,7 @@
-= Code Editors, IDEs and REPLs
+= Code editors, IDEs and REPLs
 
-* *link:./desktop-ides-and-code-editors/[Desktop IDEs and Code Editors]*
-* *link:./online-cloud-development-environments/[Online/Cloud Development Environments]*
-* *link:./code-sandboxes-playgrounds-and-repls/[Code Sandboxes/Playgrounds/REPLs]*
-* *link:./ide-plugins/[IDE Plugins]*
-* *link:./code-text-editors/[Code/Text Editors]*
+* *link:./desktop-ides-and-code-editors/[Desktop IDEs and code editors]*
+* *link:./online-cloud-development-environments/[Online/cloud development environments]*
+* *link:./code-sandboxes-playgrounds-and-repls/[Code sandboxes/playgrounds/REPLs]*
+* *link:./ide-plugins/[IDE plugins]*
+* *link:./code-text-editors/[Code/text editors]*

@@ -1,4 +1,4 @@
-= Private Cloud Solutions
+= Private cloud solutions
 
 * https://www.openstack.org/[OpenStack]
 * https://cloudstack.apache.org/[Apache CloudStack]

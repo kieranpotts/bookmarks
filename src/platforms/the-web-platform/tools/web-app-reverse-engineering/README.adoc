@@ -1,4 +1,4 @@
-= Web App Reverse Engineering
+= Web app reverse engineering
 
 * https://builtwith.com/[BuiltWith]
 * https://www.wappalyzer.com/[Wappalyzer]

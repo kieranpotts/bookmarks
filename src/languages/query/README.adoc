@@ -1,4 +1,4 @@
-= Query Languages
+= Query languages
 
 * https://graphql.org/[GraphQL]
 * https://codeql.github.com/docs/[CodeQL]

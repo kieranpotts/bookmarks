@@ -1,4 +1,4 @@
-= Tailwind Tools
+= Tailwind tools
 
 * https://fluid.tw/[fluid.tw]
 * https://www.tints.dev/purple/A855F7[tints.dev]

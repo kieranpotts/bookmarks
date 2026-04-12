@@ -1,4 +1,4 @@
-= Development Lifecycle Automation
+= Development lifecycle automation
 
 * https://semantic-release.gitbook.io/semantic-release[semantic-release]
 * https://github.com/release-it/release-it[release-it]

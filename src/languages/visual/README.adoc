@@ -1,4 +1,4 @@
-= Visual Programming Languages and Tools
+= Visual programming languages and tools
 
 * https://rete.js.org/[Rete.js]
 * https://snap.berkeley.edu/[Snap!]

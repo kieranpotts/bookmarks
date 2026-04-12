@@ -1,6 +1,6 @@
 = Standards
 
-== Compatibility Lookup
+== Compatibility lookup
 
 * https://wpt.fyi/[web-platform-tests]
 * https://caniuse.com/[Can I Use...?]

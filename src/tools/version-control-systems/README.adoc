@@ -1,4 +1,4 @@
-= Version Control Systems (VCS)
+= Version control systems (VCS)
 
 * https://mercurial-scm.org/[Mercurial]
 * https://subversion.apache.org/[Subversion (SVN)]

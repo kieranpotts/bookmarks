@@ -1,4 +1,4 @@
-= Ascii Art Tools
+= ASCII art tools
 
 * https://www.kammerl.de/ascii/AsciiSignature.php[ASCII Text Signature]
 * https://asciiflow.com/[asciiflow]

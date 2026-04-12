@@ -1,4 +1,4 @@
-= Java Version Managers
+= Java version managers
 
 * https://github.com/shyiko/jabba[Jabba]
 * https://sdkman.io/[SDKMAN!]

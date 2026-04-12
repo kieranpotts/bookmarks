@@ -1,4 +1,4 @@
-= The Web Platform
+= The web platform
 
 * *link:./runtimes-web-browsers/[Runtimes (Web Browsers)]*
 * *link:./vendors/[Vendors]*

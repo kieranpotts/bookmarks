@@ -1,4 +1,4 @@
-= Lightweight Text Markup
+= Lightweight text markup
 
 * http://www.wikicreole.org/[Creole]
 * https://leanpub.com/markua/read[Markua (by LeanPub)]

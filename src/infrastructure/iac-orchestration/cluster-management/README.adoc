@@ -1,4 +1,4 @@
-= Cluster Management
+= Cluster management
 
 == Kubernetes
 

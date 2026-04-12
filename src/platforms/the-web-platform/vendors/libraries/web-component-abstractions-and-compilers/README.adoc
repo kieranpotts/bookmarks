@@ -1,4 +1,4 @@
-= Web Component Abstractions and Compilers
+= Web component abstractions and compilers
 
 * https://atomicojs.dev/[Atomico]
 * https://bayjs.org/[Bay.js]

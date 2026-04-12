@@ -1,4 +1,4 @@
-= Tailwind-Based Component Libraries
+= Tailwind-based component libraries
 
 * https://konstaui.com/[Konsta UI]
 * https://sailboatui.com/[Sailboat UI]

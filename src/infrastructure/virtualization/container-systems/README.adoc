@@ -1,4 +1,4 @@
-= Container Systems
+= Container systems
 
 * https://www.packer.io/[Packer]
 * https://podman.io/[Podman]

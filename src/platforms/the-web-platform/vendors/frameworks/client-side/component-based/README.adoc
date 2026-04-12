@@ -1,4 +1,4 @@
-= Component-Based
+= Component-based
 
 * https://qwik.dev/[Qwik]
 * https://www.solidjs.com/[SolidJS]
@@ -26,4 +26,4 @@
 * *link:./react/[React]*
 * *link:./vue/[Vue]*
 * *link:./svelte/[Svelte]*
-* *link:./native-web-components/[Native Web Components]*
+* *link:./native-web-components/[Native web components]*

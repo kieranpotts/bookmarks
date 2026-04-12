@@ -1,4 +1,4 @@
-= Social News
+= Social news
 
 * https://news.ycombinator.com/[Hacker News]
 * https://lobste.rs/[Lobsters]

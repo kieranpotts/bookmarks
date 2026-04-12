@@ -1,21 +1,21 @@
 = Media
 
-* *link:./professional-bodies/[Professional Bodies]*
+* *link:./professional-bodies/[Professional bodies]*
 * *link:./blogs/[Blogs]*
 * *link:./books/[Books]*
 * *link:./bootcamps/[Bootcamps]*
-* *link:./cheat-sheets/[Cheat Sheets]*
+* *link:./cheat-sheets/[Cheat sheets]*
 * *link:./comics/[Comics]*
 * *link:./courses/[Courses]*
-* *link:./conferences/[Conferences and Events]*
-* *link:./forums/[Forums / Social]*
-* *link:./journals/[Journals / Research]*
+* *link:./conferences/[Conferences and events]*
+* *link:./forums/[Forums / social]*
+* *link:./journals/[Journals / research]*
 * *link:./magazines/[Magazines]*
 * *link:./meetups/[Meetups]*
 * *link:./podcasts/[Podcasts]*
-* *link:./product-launches/[Product Launches]*
-* *link:./social-news/[Social News]*
-* *link:./trends/[Trends and Surveys]*
-* *link:./user-groups/[User Groups]*
-* *link:./wikis/[Wikis and Bodies of Knowledge]*
+* *link:./product-launches/[Product launches]*
+* *link:./social-news/[Social news]*
+* *link:./trends/[Trends and surveys]*
+* *link:./user-groups/[User groups]*
+* *link:./wikis/[Wikis and bodies of knowledge]*
 * *link:./archives/[Archives]*

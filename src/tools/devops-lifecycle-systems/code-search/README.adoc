@@ -1,4 +1,4 @@
-= Code Search
+= Code search
 
 * https://grep.app/[grep.app]
 

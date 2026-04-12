@@ -1,5 +1,5 @@
-= Text Serialization Formats
+= Text serialization formats
 
 * *link:./yaml/[YAML]*
-* *link:./configuration-file-formats/[Configuration File Formats]*
+* *link:./configuration-file-formats/[Configuration file formats]*
 * *link:./json/[JSON]*

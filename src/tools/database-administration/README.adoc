@@ -1,4 +1,4 @@
-= Database Administration
+= Database administration
 
 * https://azure.microsoft.com/en-us/products/data-studio[Azure Data Studio]
 * https://dbeaver.io/[DBeaver]

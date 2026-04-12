@@ -1,4 +1,4 @@
-= Form and File Upload Processing
+= Form and file upload processing
 
 * https://github.com/pillarjs/multiparty[multiparty]
 * https://github.com/richardgirges/express-fileupload[express-fileupload]

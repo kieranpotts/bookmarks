@@ -1,12 +1,12 @@
-= Conferences and Events
+= Conferences and events
 
 * https://confs.tech/[confs.tech]
 
-== Major Global Events
+== Major global events
 
 * https://websummit.com/[Web Summit]
 * https://saastock-europe.com/[SaaStock]
 
-== South West UK Events
+== South West UK events
 
 * https://dddsouthwest.com/[DDD South West]

@@ -1,4 +1,4 @@
-= CI/CD Systems (Automation Servers)
+= CI/CD systems (automation servers)
 
 * https://semaphoreci.com/[Semaphor]
 * https://spinnaker.io/[Spinnaker]

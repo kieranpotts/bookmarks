@@ -1,33 +1,33 @@
 = Libraries
 
-* *link:./animation-libraries/[Animation Libraries]*
-* *link:./audio-video-and-image-processing/[Audio, Video, and Image Processing]*
-* *link:./browser-extension-api-abstractions-and-sdks/[Browser Extension API Abstractions and SDKs]*
-* *link:./canvas-and-svg-abstractions/[Canvas and SVG Abstractions]*
-* *link:./css-libraries/[CSS Libraries]*
-* *link:./css-themes/[CSS Themes]*
-* *link:./css-utility-class-libraries/[CSS Utility Class Libraries]*
+* *link:./animation-libraries/[Animation libraries]*
+* *link:./audio-video-and-image-processing/[Audio, video, and image processing]*
+* *link:./browser-extension-api-abstractions-and-sdks/[Browser extension API abstractions and sdks]*
+* *link:./canvas-and-svg-abstractions/[Canvas and SVG abstractions]*
+* *link:./css-libraries/[CSS libraries]*
+* *link:./css-themes/[CSS themes]*
+* *link:./css-utility-class-libraries/[CSS utility class libraries]*
 * *link:./tailwind-css/[Tailwind CSS]*
-* *link:./tailwind-tools/[Tailwind Tools]*
-* *link:./css-in-js-libraries/[CSS-in-JS Libraries]*
-* *link:./css-resets-and-baseline-stylesheets/[CSS Resets and Baseline Stylesheets]*
-* *link:./css-color-manipulation/[CSS Color Manipulation]*
-* *link:./other-css-libraries-and-tools/[Other CSS Libraries & Tools]*
-* *link:./data-fetching/[Data Fetching]*
+* *link:./tailwind-tools/[Tailwind tools]*
+* *link:./css-in-js-libraries/[CSS-in-JS libraries]*
+* *link:./css-resets-and-baseline-stylesheets/[CSS resets and baseline stylesheets]*
+* *link:./css-color-manipulation/[CSS color manipulation]*
+* *link:./other-css-libraries-and-tools/[Other CSS libraries and tools]*
+* *link:./data-fetching/[Data fetching]*
 * *link:./graphql/[GraphQL]*
-* *link:./dom-abstractions/[DOM Abstractions]*
-* *link:./data-storage-local/[Data Storage (Local)]*
-* *link:./data-visualization/[Data Visualization]*
-* *link:./diagram-generation/[Diagram Generation]*
-* *link:./favicon-manipulation/[Favicon Manipulation]*
-* *link:./form-validation/[Form Validation]*
-* *link:./input-masks-and-validation/[Input Masks and Validation]*
-* *link:./micro-frontend-solutions/[Micro-Frontend Solutions]*
-* *link:./popup-element-management/[Popup Element Management]*
+* *link:./dom-abstractions/[DOM abstractions]*
+* *link:./data-storage-local/[Data storage (local)]*
+* *link:./data-visualization/[Data visualization]*
+* *link:./diagram-generation/[Diagram generation]*
+* *link:./favicon-manipulation/[Favicon manipulation]*
+* *link:./form-validation/[Form validation]*
+* *link:./input-masks-and-validation/[Input masks and validation]*
+* *link:./micro-frontend-solutions/[Micro-frontend solutions]*
+* *link:./popup-element-management/[Popup element management]*
 * *link:./routing/[Routing]*
-* *link:./server-sent-events-sse/[Server Sent Events (SSE)]*
-* *link:./state-management/[State Management]*
-* *link:./template-engines/[Template Engines]*
-* *link:./web-component-abstractions-and-compilers/[Web Component Abstractions and Compilers]*
-* *link:./web-component-wrappers/[Web Component Wrappers]*
+* *link:./server-sent-events-sse/[Server sent events (SSE)]*
+* *link:./state-management/[State management]*
+* *link:./template-engines/[Template engines]*
+* *link:./web-component-abstractions-and-compilers/[Web component abstractions and compilers]*
+* *link:./web-component-wrappers/[Web component wrappers]*
 * *link:./polyfills/[Polyfills]*

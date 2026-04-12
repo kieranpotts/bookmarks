@@ -1,4 +1,4 @@
-= CSS Resets and Baseline Stylesheets
+= CSS resets and baseline stylesheets
 
 * https://www.joshwcomeau.com/css/custom-css-reset/[Josh Comeau's Modern CSS Reset]
 * https://jakelazaroff.com/words/my-modern-css-reset/[Jake Lazaroff's Modern CSS Reset]

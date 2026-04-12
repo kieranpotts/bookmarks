@@ -1,6 +1,6 @@
-= Abstracted/Interpreted (VMs)
+= Abstracted/interpreted (VMs)
 
-== Java Platform - JDKs and JVMs
+== Java platform - JDKs and JVMs
 
 == React Native
 
@@ -8,7 +8,7 @@
 * https://reactnative.dev/[React Native]
 * https://www.decoide.org/[Deco IDE]
 
-== Web Containers
+== Web containers
 
 * https://wasmer.io/[Wasmer]
 * https://v2.tauri.app/[Tauri]

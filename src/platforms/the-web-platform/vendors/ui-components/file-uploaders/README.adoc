@@ -1,4 +1,4 @@
-= File Uploaders
+= File uploaders
 
 * https://uppy.io/[Uppy]
 

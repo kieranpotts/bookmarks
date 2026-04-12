@@ -1,4 +1,4 @@
-= Service Desk / Help Desk and ITSM
+= Service desk / help desk and ITSM
 
 * https://www.atlassian.com/software/jira/service-management[Jira Service Management]
 * https://www.zendesk.co.uk/[ZenDesk]

@@ -1,4 +1,4 @@
-= Animation Tools
+= Animation tools
 
 * https://www.synfig.org/[Synfig Studio]
 * https://www.pencil2d.org/[Pencil2D Animation]

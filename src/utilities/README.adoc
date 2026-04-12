@@ -1,14 +1,14 @@
 = Utilities
 
-* *link:./password-and-secrets-management/[Password and Secrets Management]*
+* *link:./password-and-secrets-management/[Password and secrets management]*
 * *link:./pagers/[Pagers]*
-* *link:./prompt-theme-engines/[Prompt Theme Engines (Multi-Shell)]*
-* *link:./terminal-multiplexers/[Terminal Multiplexers]*
-* *link:./file-transfer-utilities/[File Transfer Utilities]*
-* *link:./text-editors-cli/[Text Editors (CLI)]*
+* *link:./prompt-theme-engines/[Prompt theme engines (multi-shell)]*
+* *link:./terminal-multiplexers/[Terminal multiplexers]*
+* *link:./file-transfer-utilities/[File transfer utilities]*
+* *link:./text-editors-cli/[Text editors (CLI)]*
 * *link:./parsers/[Parsers]*
-* *link:./web-http-clients/[Web/HTTP Clients]*
+* *link:./web-http-clients/[Web/HTTP clients]*
 * *link:./regex/[Regex]*
-* *link:./spelling-and-grammar-checkers/[Spelling and Grammar Checkers]*
-* *link:./text-processing/[Text Processing]*
-* *link:./image-multimedia-processing/[Image Multimedia Processing]*
+* *link:./spelling-and-grammar-checkers/[Spelling and grammar checkers]*
+* *link:./text-processing/[Text processing]*
+* *link:./image-multimedia-processing/[Image multimedia processing]*

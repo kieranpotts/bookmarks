@@ -1,6 +1,6 @@
-= Web UI/UX Design Tools
+= Web UI/UX design tools
 
-== CSS Architecture / Conventions
+== CSS architecture / conventions
 
 * https://cssguidelin.es/[CSS Guidelines]
 * https://github.com/anthonyshort/idiomatic-sass[Idiomatic Sass]
@@ -18,7 +18,7 @@
 * https://smacss.com/[SMACSS]
 * https://suitcss.github.io/[SUIT CSS]
 
-== UI Design System Documentation
+== UI design system documentation
 
 * https://www.docz.site/[Docz]
 * https://fractal.build/[Fractal]

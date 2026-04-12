@@ -1,4 +1,4 @@
-= Photo Libraries and Digital Asset Management
+= Photo libraries and digital asset management
 
 * https://svgx.app/[SVGX]
 * https://iconset.io/[Iconset]

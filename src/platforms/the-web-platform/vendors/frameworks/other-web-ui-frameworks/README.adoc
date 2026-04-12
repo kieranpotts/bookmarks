@@ -1,4 +1,4 @@
-= Other Web UI Frameworks
+= Other web UI frameworks
 
 * https://www.gwtproject.org/[Google Web Toolkit (Java)]
 * https://www.hibikihtml.com/[Hikibi HTML]

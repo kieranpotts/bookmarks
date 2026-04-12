@@ -1,5 +1,5 @@
-= Text Markup Languages
+= Text markup languages
 
 * *link:./html/[HTML]*
-* *link:./lightweight-text-markup/[Lightweight Text Markup]*
-* *link:./typesetting-systems-and-heavyweight-markup/[Typesetting Systems and Heavyweight Markup]*
+* *link:./lightweight-text-markup/[Lightweight text markup]*
+* *link:./typesetting-systems-and-heavyweight-markup/[Typesetting systems and heavyweight markup]*

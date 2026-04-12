@@ -1,4 +1,4 @@
-= Technical Documentation
+= Technical documentation
 
 * https://www.eventcatalog.dev/[Event Catalog]
 * https://quanos.com/en/products/schema-st4/[SCHEMA ST4]

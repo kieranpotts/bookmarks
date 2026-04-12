@@ -1,8 +1,8 @@
-= Development Environments & Stacks
+= Development environments and stacks
 
 * https://containers.dev/[Dev Containers]
 
-== LAMP-Like Stacks
+== LAMP-like stacks
 
 * https://ampps.com/[AMPPS]
 * https://www.apachefriends.org/[XAMPP - Apache Friends]

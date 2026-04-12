@@ -1,4 +1,4 @@
-= Ways of Working Frameworks
+= Ways of working frameworks
 
 * https://www.pmi.org/standards/pmbok[PMBOK]
 * https://kanbanguides.org/[Kanban]

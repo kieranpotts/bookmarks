@@ -1,4 +1,4 @@
-= SSH Abstractions and Implementations
+= SSH abstractions and implementations
 
 * https://github.com/mscdex/ssh2[ssh2]
 * https://github.com/steelbrain/node-ssh[Node-SSH]

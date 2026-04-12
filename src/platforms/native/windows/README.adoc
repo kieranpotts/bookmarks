@@ -2,12 +2,12 @@
 
 == Tools
 
-=== Package Managers
+=== Package managers
 
 * https://chocolatey.org/[Chocolatey]
 * https://www.nuget.org/[NuGet]
 
-=== Virtual Machines and Emulators
+=== Virtual machines and emulators
 
 * https://learn.microsoft.com/en-us/windows/wsl/[Windows Subsystem for Linux]
 * https://gitforwindows.org/[Git Bash for Windows]

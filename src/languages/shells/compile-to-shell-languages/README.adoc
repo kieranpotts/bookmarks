@@ -1,3 +1,3 @@
-= Compile-to-Shell Languages
+= Compile-to-shell languages
 
 * https://amber-lang.com/[Amber]

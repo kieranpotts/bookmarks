@@ -1,4 +1,4 @@
-= Diffing and Merging Tools
+= Diffing and merging tools
 
 * https://www.araxis.com/merge/[AraxisMerge]
 * https://www.scootersoftware.com/[BeyondCompare]

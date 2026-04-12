@@ -1,6 +1,6 @@
 = PHP
 
-== Dialects and Runtimes
+== Dialects and runtimes
 
 * https://roadrunner.dev/[RoadRunner]
 * https://hacklang.org/[Hack]
@@ -8,7 +8,7 @@
 
 == Vendors
 
-=== Application Frameworks
+=== Application frameworks
 
 * https://www.codeigniter.com/[CodeIgniter]
 * https://cakephp.org/[CakePHP]
@@ -28,7 +28,7 @@
 * https://symfony.com/doc/5.x/frontend/ux.html[Symfony UX]
 * https://symfony.com/[Symfony]
 
-=== Concurrency Frameworks
+=== Concurrency frameworks
 
 * https://reactphp.org/[ReactPHP]
 * https://amphp.org/[AMPHP]
@@ -37,43 +37,43 @@
 
 === Libraries
 
-==== Validation and Filtering
+==== Validation and filtering
 
 * https://github.com/ircmaxell/filterus[Filterus]
 * https://github.com/siriusphp/validation[Sirius Validation]
 
-==== Dates and Times
+==== Dates and times
 
 * https://carbon.nesbot.com/[Carbon]
 
-==== CLI Execution
+==== CLI execution
 
 * http://ncuesta.github.io/Clinner/[Clinner]
 
-==== Utility Libraries (General Purpose)
+==== Utility libraries (General Purpose)
 
 * https://github.com/spatie[Spatie]
 
 == Tools
 
-=== Code Sandboxes/Playgrounds/REPLs
+=== Code sandboxes/playgrounds/REPLs
 
 * https://psysh.org/[psysh]
 * https://3v4l.org/[3v4l.org]
 * https://onlinephp.io/[OnlinePHP.io]
 
-=== Code Editors and IDEs
+=== Code editors and IDEs
 
 * https://www.jetbrains.com/phpstorm/[PhpStorm]
 * https://www.zend.com/products/zend-studio[Zend Studio]
 
-=== Debugging and Profiling
+=== Debugging and profiling
 
 * http://phpdebugbar.com/[PHP Debug Bar]
 
-=== Testing Tools
+=== Testing tools
 
-==== Testing Frameworks
+==== Testing frameworks
 
 * https://atoum.org/[Atoum]
 * https://docs.behat.org/[Behat]
@@ -87,44 +87,44 @@
 * https://infection.github.io/[Infection]
 * https://pestphp.com/[Pest]
 
-==== Contract Testing
+==== Contract testing
 
 * https://github.com/hotmeteor/spectator[Spectator]
 
-==== Debugging and Profiling
+==== Debugging and profiling
 
 * https://github.com/leonardovilarinho/insphptor[insphptor]
 * https://github.com/phacility/xhprof[xhprof]
 
-==== Documentation Generation
+==== Documentation generation
 
 * https://docs.phpdoc.org/[phpDocumentor]
 * https://github.com/appertly/hphpdoc[hphpdoc]
 
-==== Package Registries
+==== Package registries
 
 * https://packagist.org/[Packagist]
 
-==== Package Management
+==== Package management
 
 * https://getcomposer.org/[Composer]
 * https://pear.php.net/manual/en/pyrus.php[Pyrus]
 * https://pear.php.net/[PEAR]
 
-==== Linters and Static Analysis
+==== Linters and static analysis
 
 * https://phpstan.org/[PHPstan]
 * https://github.com/phan/phan[phan]
 * https://psalm.dev/[psalm]
 
-==== PHP Version Managers
+==== Php version managers
 
 * https://github.com/hjbdev/pvm[PVM for Windows]
 * https://github.com/wilmoore/php-version[php-version]
 * https://github.com/phpenv/phpenv[phpenv]
 * https://phpbrew.github.io/phpbrew/[phpbrew]
 
-==== PHP Runtime Builders/Compilers
+==== Php runtime builders/compilers
 
 * https://www.php.net/manual/en/install.windows.building.php[PHP docs: building from source]
 * https://github.com/php-build/php-build[php-build]
@@ -146,7 +146,7 @@
 
 * https://en.wikibooks.org/wiki/PHP_Programming[PHP Programming]
 
-=== Blogs and Posts
+=== Blogs and posts
 
 * https://www.phpinternalsbook.com/[PHP Internals Book]
 * http://www.hackingwithphp.com/[Hacking with PHP]

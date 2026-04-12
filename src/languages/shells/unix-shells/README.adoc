@@ -1,9 +1,9 @@
-= Unix Shells
+= Unix shells
 
 * *link:./posix/[POSIX]*
 * *link:./bash/[Bash]*
 * *link:./z-shell-zsh/[Z shell (Zsh)]*
-* *link:./c-shell-csh-and-tcsh/[C Shell (csh and tsch)]*
+* *link:./c-shell-csh-and-tcsh/[C shell (csh and tsch)]*
 * *link:./fish/[Fish]*
 * *link:./kornshell/[KornShell]*
 * *link:./qshell-qsh/[Qshell (qsh)]*

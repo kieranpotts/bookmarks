@@ -1,4 +1,4 @@
-= Data Lakes (unstructured)
+= Data lakes (unstructured)
 
 * https://aws.amazon.com/s3/[Amazon S3]
 * https://www.databricks.com/[Databricks]

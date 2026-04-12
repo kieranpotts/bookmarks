@@ -1,4 +1,4 @@
-= Temporary Email Addresses
+= Temporary email addresses
 
 * https://temp-mail.org/en/[TempMail]
 * https://email.ml/[Email.ml]

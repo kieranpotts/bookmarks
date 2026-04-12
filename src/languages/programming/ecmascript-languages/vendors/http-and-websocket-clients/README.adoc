@@ -1,4 +1,4 @@
-= HTTP and WebSocket Clients
+= HTTP and WebSocket clients
 
 * https://axios-http.com/[Axios]
 * https://github.com/googleapis/gaxios[gaxios]

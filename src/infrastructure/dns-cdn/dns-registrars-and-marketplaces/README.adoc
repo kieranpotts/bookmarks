@@ -1,4 +1,4 @@
-= DNS Registrars and Marketplaces
+= DNS registrars and marketplaces
 
 * https://www.namecheap.com/[Namecheap]
 * https://sedo.com/uk/[Sedo]

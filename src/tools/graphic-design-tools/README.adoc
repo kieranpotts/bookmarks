@@ -1,15 +1,15 @@
-= Graphic Design Tools
+= Graphic design tools
 
 * https://www.canva.com/draw/[Canva Draw]
 
-* *link:./accessibility-tools/[Accessibility Tools]*
-* *link:./photo-libraries-and-digital-asset-management/[Photo Libraries and Digital Asset Management]*
-* *link:./animation-tools/[Animation Tools]*
-* *link:./color-scheme-and-gradient-generators/[Color Scheme and Gradient Generators]*
-* *link:./image-compression-and-optimization/[Image Compression and Optimization]*
-* *link:./mockups-and-prototyping/[Mockups and Prototyping]*
-* *link:./code-image-generators/[Code Image Generators]*
-* *link:./ascii-art-tools/[Ascii Art Tools]*
-* *link:./typography-tools-and-font-design/[Typography Tools and Font Design]*
-* *link:./photo-editing/[Photo Editing]*
-* *link:./vector-graphics-editors/[Vector Graphics Editors]*
+* *link:./accessibility-tools/[Accessibility tools]*
+* *link:./photo-libraries-and-digital-asset-management/[Photo libraries and digital asset management]*
+* *link:./animation-tools/[Animation tools]*
+* *link:./color-scheme-and-gradient-generators/[Color scheme and gradient generators]*
+* *link:./image-compression-and-optimization/[Image compression and optimization]*
+* *link:./mockups-and-prototyping/[Mockups and prototyping]*
+* *link:./code-image-generators/[Code image generators]*
+* *link:./ascii-art-tools/[ASCII art tools]*
+* *link:./typography-tools-and-font-design/[Typography tools and font design]*
+* *link:./photo-editing/[Photo editing]*
+* *link:./vector-graphics-editors/[Vector graphics editors]*

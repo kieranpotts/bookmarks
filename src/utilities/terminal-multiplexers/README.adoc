@@ -1,4 +1,4 @@
-= Terminal Multiplexers
+= Terminal multiplexers
 
 * https://www.gnu.org/software/screen/[GNU Screen]
 * https://github.com/tmux/tmux/wiki[tmux]

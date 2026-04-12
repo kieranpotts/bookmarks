@@ -1,4 +1,4 @@
-= Dummy/Fake Data Generation
+= Dummy/fake data generation
 
 * https://ngneat.github.io/falso/[falso]
 * https://github.com/boo1ean/casual[casual]

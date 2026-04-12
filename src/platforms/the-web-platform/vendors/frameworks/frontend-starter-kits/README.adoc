@@ -1,4 +1,4 @@
-= Frontend Starter Kits (Framework Agnostic)
+= Frontend starter kits (framework agnostic)
 
 * https://html5bones.com/[HTML5 Bones]
 * https://github.com/h5bp[H5BP]

@@ -1,4 +1,4 @@
-= Standalone React Components
+= Standalone React components
 
 * https://docs.nlkit.com/nlux[nlUX]
 * https://github.com/wojtekmaj/react-pdf[react-pdf]

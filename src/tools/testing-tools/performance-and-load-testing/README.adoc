@@ -1,4 +1,4 @@
-= Performance and Load Testing
+= Performance and load testing
 
 * https://github.com/sharkdp/hyperfine[Hyperfine - CLI benchmarking utility]
 * https://gatling.io/[Gatling]

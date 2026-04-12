@@ -1,4 +1,4 @@
-= Accessibility Tools
+= Accessibility tools
 
 * https://www.learnui.design/tools/accessible-color-generator.html[Accessible Color Generator - Learn UI Design]
 

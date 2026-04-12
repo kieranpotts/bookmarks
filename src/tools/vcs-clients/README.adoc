@@ -1,4 +1,4 @@
-= VCS Clients
+= VCS clients
 
 * https://www.sublimemerge.com/[SublimeMerge]
 * https://tortoisesvn.net/[TortoiseSVN]

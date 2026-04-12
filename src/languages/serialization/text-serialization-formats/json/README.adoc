@@ -2,7 +2,7 @@
 
 * https://www.json.org/[JSON]
 
-== JSON-Based Serialization Formats
+== JSON-based serialization formats
 
 * https://github.com/bevry/cson[CSON]
 * https://json5.org/[JSON5]
@@ -17,7 +17,7 @@
 * https://datatracker.ietf.org/doc/html/rfc7515[JSON Web Signature (JWS)]
 * https://datatracker.ietf.org/doc/html/rfc7519[JSON Web Token (JWT)]
 
-== JSON Tools
+== JSON tools
 
 * https://jsonformatter.com/[JSON Formatter]
 * https://jsoneditoronline.org/[JSON Editor]

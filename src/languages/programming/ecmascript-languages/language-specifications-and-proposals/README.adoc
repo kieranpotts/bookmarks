@@ -1,4 +1,4 @@
-= Language Specifications and Proposals
+= Language specifications and proposals
 
 * https://github.com/tc39/proposals[tc39/proposals]
 * https://tc39.es/[tc39.es]

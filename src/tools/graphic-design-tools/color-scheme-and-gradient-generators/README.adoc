@@ -1,4 +1,4 @@
-= Color Scheme and Gradient Generators
+= Color scheme and gradient generators
 
 * https://hslpicker.com/[HSL Color Picker]
 * https://www.adobe.com/express/learn/blog/101-brilliant-color-combinations[101 Brilliant Color Combinations - Adobe Express Blog]

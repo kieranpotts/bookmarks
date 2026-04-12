@@ -1,4 +1,4 @@
-= Photo Editing
+= Photo editing
 
 * https://playground.com/[Playground]
 

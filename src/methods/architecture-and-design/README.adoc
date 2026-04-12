@@ -1,10 +1,10 @@
-= Architecture and Design
+= Architecture and design
 
 * https://martinfowler.com/architecture/[Software Architecture Guide - Martin Fowler]
 * https://pubs.opengroup.org/architecture/togaf8-doc/arch/toc.html[TOGAF - The Open Group Architecture Framework]
 * https://iasaglobal.org/[IASA - Association for IT Architects]
 
 * *link:./algorithms/[Algorithms]*
-* *link:./data-structures/[Data Structures]*
-* *link:./design-patterns/[Design Patterns]*
-* *link:./complexity-metrics/[Complexity Metrics]*
+* *link:./data-structures/[Data structures]*
+* *link:./design-patterns/[Design patterns]*
+* *link:./complexity-metrics/[Complexity metrics]*

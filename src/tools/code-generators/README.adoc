@@ -1,11 +1,11 @@
-= Code Generators
+= Code generators
 
 * https://www.random.org/[Random.org]
 
-== Cron Expressions
+== Cron expressions
 
 * https://crontab.cronhub.io/[Cron expression generator by Cronhub]
 
-== UUID Generators
+== UUID generators
 
 * https://www.uuidgenerator.net/[uuidgenerator.net]

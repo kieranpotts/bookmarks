@@ -1,4 +1,4 @@
-= Component Libraries and Design Systems
+= Component libraries and design systems
 
 * https://designsystems.surf/[Design Systems Database]
 * https://git.io/design-systems[Awesome Design Systems]

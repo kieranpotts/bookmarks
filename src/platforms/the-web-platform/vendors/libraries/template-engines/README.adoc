@@ -1,4 +1,4 @@
-= Template Engines (Client-Side + Server-Side)
+= Template engines (client-side + server-side)
 
 * https://github.com/hmpl-language/hmpl[HMPL]
 * https://eta.js.org/[Eta]

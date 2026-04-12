@@ -1,4 +1,4 @@
-= File Storage, Syncing and Sharing (inc. Encryption)
+= File storage, syncing and sharing (including encryption)
 
 * https://cryptomator.org/[Cryptomator]
 * https://syncthing.net/[Syncthing]

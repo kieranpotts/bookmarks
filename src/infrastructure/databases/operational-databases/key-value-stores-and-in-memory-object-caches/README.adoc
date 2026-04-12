@@ -1,4 +1,4 @@
-= Key-Value Stores and In-Memory Object Caches
+= Key-value stores and in-memory object caches
 
 * https://redis.io/[Redis]
 * https://www.singlestore.com/[SingleStore (formerly MemSQL)]

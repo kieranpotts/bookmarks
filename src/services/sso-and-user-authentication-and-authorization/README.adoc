@@ -1,4 +1,4 @@
-= SSO and User Authentication and Authorization
+= Sso and user authentication and authorization
 
 * https://fusionauth.io/[FusionAuth]
 * https://auth0.com/[Auth0]

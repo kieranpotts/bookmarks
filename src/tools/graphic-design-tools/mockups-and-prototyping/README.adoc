@@ -1,4 +1,4 @@
-= Mockups and Prototyping
+= Mockups and prototyping
 
 * https://helpx.adobe.com/in/support/xd.html[Adobe XD (deprecated)]
 * https://balsamiq.com/[Balsamiq]

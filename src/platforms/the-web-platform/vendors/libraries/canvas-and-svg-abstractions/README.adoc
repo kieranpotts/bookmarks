@@ -1,4 +1,4 @@
-= Canvas and SVG Abstractions
+= Canvas and SVG abstractions
 
 * https://svgjs.dev/[SVG.js]
 * https://roughjs.com/[Rough.js]

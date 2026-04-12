@@ -1,4 +1,4 @@
-= Binary Serialization Formats
+= Binary serialization formats
 
 * https://ubjson.org/[UBJSON]
 * http://bjson.org/[BJSON]

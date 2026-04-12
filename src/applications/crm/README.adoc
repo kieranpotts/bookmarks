@@ -1,4 +1,4 @@
-= Customer Relationship Management (CRM)
+= Customer relationship management (CRM)
 
 * https://capsulecrm.com/[Capsule]
 * https://www.close.com/[Close]

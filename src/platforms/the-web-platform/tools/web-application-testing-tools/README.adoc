@@ -1,11 +1,11 @@
-= Web Application Testing Tools
+= Web application testing tools
 
-== Runtime and Static Analysis
+== Runtime and static analysis
 
 * https://developer.chrome.com/docs/lighthouse[Lighthouse]
 * https://webhint.io/[webhint]
 
-== Accessibility Testing
+== Accessibility testing
 
 * https://open-indy.github.io/Koa11y/[Koa11y]
 * https://www.whocanuse.com/?[whocanuse]
@@ -16,7 +16,7 @@
 * https://www.powermapper.com/products/sortsite/checks/accessibility-checks/[PowerMapper Accessibility Checker]
 * https://pa11y.org/[Pa11y]
 
-== Performance Analysis
+== Performance analysis
 
 * https://yellowlab.tools/[Yellow Lab Tools]
 * https://web-check.xyz/[Web Check]
@@ -26,13 +26,13 @@
 * https://screpy.com/[Screpy]
 * https://tools.keycdn.com/speed[keycdn Website Speed Test]
 
-== Security Analysis
+== Security analysis
 
 * https://badssl.com/[Bad SSL]
 * https://securityheaders.com/[Security Headers]
 * https://observatory.mozilla.org/[Mozilla Observatory]
 
-== Web Page Code Analysis
+== Web page code analysis
 
 * https://cssstats.com/[CSS Stats]
 * https://isellsoap.github.io/specificity-visualizer/[CSS Specificity Analyzer]
@@ -44,18 +44,18 @@
 
 * https://stylelint.io/[Stylelint]
 
-== Rendering Analysis
+== Rendering analysis
 
 * https://react-scan.million.dev/[React Scan]
 
-== HTTP Clients and Proxies, and API Testing
+== HTTP clients and proxies, and API testing
 
 * https://tweak-extension.com/[Tweak]
 * https://insomnia.rest/[Insomnia]
 * https://www.postman.com/[Postman]
 * https://www.telerik.com/fiddler[Fiddler]
 
-== HTTP Mocking
+== HTTP mocking
 
 * https://ladjs.github.io/superagent/[SuperAgent]
 * https://mswjs.io/[mswjs - Mock Service Worker]

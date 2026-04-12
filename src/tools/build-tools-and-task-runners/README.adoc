@@ -1,4 +1,4 @@
-= Build Tools and Task Runners (Language-Agnostic)
+= Build tools and task runners (language-agnostic)
 
 * https://www.gnu.org/software/make/[GNU Make]
 * https://just.systems/man/en/[Just]

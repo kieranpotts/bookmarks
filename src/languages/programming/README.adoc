@@ -1,12 +1,12 @@
-= Programming & Scripting Languages
+= Programming and scripting languages
 
-* *link:./ecmascript-languages/[ECMAScript Languages]*
-* *link:./jvm-languages/[JVM Languages]*
-* *link:./c-family-languages/[C Family Languages]*
-* *link:./lisp-family-languages/[Lisp Family Languages]*
+* *link:./ecmascript-languages/[ECMAScript languages]*
+* *link:./jvm-languages/[JVM languages]*
+* *link:./c-family-languages/[C family languages]*
+* *link:./lisp-family-languages/[Lisp family languages]*
 * *link:./go/[Go (aka Golang)]*
 * *link:./perl/[Perl]*
 * *link:./php/[PHP]*
 * *link:./python/[Python]*
 * *link:./tcl/[Tcl ("tickle")]*
-* *link:./data-centric-programming-languages/[Data-Centric Programming Languages]*
+* *link:./data-centric-programming-languages/[Data-centric programming languages]*

@@ -1,6 +1,6 @@
-= Interface Definition Languages
+= Interface definition languages
 
-== Web Service APIs
+== Web service APIs
 
 * https://www.openapis.org/[OpenAPI Initiative]
 * https://swagger.io/specification/[OpenAPI Specification]

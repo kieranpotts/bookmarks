@@ -1,6 +1,6 @@
-= Meta Frameworks
+= Meta frameworks
 
-== React-Based
+== React-based
 
 * https://blitzjs.com/[Blitz]
 * https://craft.js.org/[Craft.js]
@@ -19,11 +19,11 @@
 * https://vitepress.dev/[VitePress]
 * https://quasar.dev/[Quasar Framework]
 
-== Angular-Based
+== Angular-based
 
 * https://scully.io/[Scully]
 
-== Component Framework-Agnostic
+== Component framework-agnostic
 
 * https://astro.build/[Astro]
 

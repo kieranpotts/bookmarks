@@ -2,27 +2,27 @@
 
 * https://emojipedia.org/[📙 Emojipedia]
 
-* *link:./build-tools-and-task-runners/[Build Tools and Task Runners (Language-Agnostic)]*
-* *link:./code-editors-ides-and-repls/[Code Editors, IDEs and REPLs]*
-* *link:./database-administration/[Database Administration]*
-* *link:./devops-lifecycle-systems/[DevOps Lifecycle Systems]*
-* *link:./file-archival-and-compression/[File Archival and Compression]*
-* *link:./testing-tools/[Testing Tools (Static and Dynamic - Platform Agnostic)]*
-* *link:./version-control-systems/[Version Control Systems (VCS)]*
-* *link:./vcs-clients/[VCS Clients]*
-* *link:./graphic-design-tools/[Graphic Design Tools]*
-* *link:./modelling-and-diagramming-tools/[Modelling & Diagramming Tools]*
-* *link:./code-generators/[Code Generators]*
-* *link:./development-environments-and-stacks/[Development Environments & Stacks]*
-* *link:./diffing-and-merging-tools/[Diffing and Merging Tools]*
-* *link:./document-conversion-tools/[Document Conversion Tools]*
-* *link:./email-capture/[Email Capture]*
-* *link:./regex-tools/[Regex Tools]*
-* *link:./remote-access-and-secure-tunnels/[Remote Access and Secure Tunnels]*
-* *link:./runtime-version-managers/[Runtime Version Managers (Multi-Platform)]*
-* *link:./security-tools-and-data-breach-analysis/[Security Tools & Data Breach Analysis]*
-* *link:./sharing-and-screen-capture/[Sharing and Screen Capture]*
-* *link:./ssh-and-ftp-clients/[SSH + FTP Clients]*
-* *link:./technical-documentation/[Technical Documentation]*
-* *link:./terminals-and-terminal-emulators/[Terminals and Terminal Emulators]*
+* *link:./build-tools-and-task-runners/[Build tools and task runners (language-agnostic)]*
+* *link:./code-editors-ides-and-repls/[Code editors, IDEs and REPLs]*
+* *link:./database-administration/[Database administration]*
+* *link:./devops-lifecycle-systems/[DevOps lifecycle systems]*
+* *link:./file-archival-and-compression/[File archival and compression]*
+* *link:./testing-tools/[Testing tools (static and dynamic - platform agnostic)]*
+* *link:./version-control-systems/[Version control systems (VCS)]*
+* *link:./vcs-clients/[VCS clients]*
+* *link:./graphic-design-tools/[Graphic design tools]*
+* *link:./modelling-and-diagramming-tools/[Modelling and diagramming tools]*
+* *link:./code-generators/[Code generators]*
+* *link:./development-environments-and-stacks/[Development environments and stacks]*
+* *link:./diffing-and-merging-tools/[Diffing and merging tools]*
+* *link:./document-conversion-tools/[Document conversion tools]*
+* *link:./email-capture/[Email capture]*
+* *link:./regex-tools/[Regex tools]*
+* *link:./remote-access-and-secure-tunnels/[Remote access and secure tunnels]*
+* *link:./runtime-version-managers/[Runtime version managers (multi-platform)]*
+* *link:./security-tools-and-data-breach-analysis/[Security tools and data breach analysis]*
+* *link:./sharing-and-screen-capture/[Sharing and screen capture]*
+* *link:./ssh-and-ftp-clients/[SSH + FTP clients]*
+* *link:./technical-documentation/[Technical documentation]*
+* *link:./terminals-and-terminal-emulators/[Terminals and terminal emulators]*
 * *link:./vpns/[VPNs]*

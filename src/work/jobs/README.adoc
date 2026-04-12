@@ -1,6 +1,6 @@
 = Jobs
 
-== Contract/Freelance
+== Contract/freelance
 
 * https://catalant.com/[Catalant ★]
 * https://contra.com/[Contra ★]
@@ -31,7 +31,7 @@
 * https://www.behance.net/joblist[Behance Jobs]
 * https://dribbble.com/jobs[Dribbble Jobs]
 
-== General Search
+== General search
 
 * https://www.jobsite.co.uk/[jobsite ★]
 * https://www.jobserve.com/gb/en/[jobserve ★]
@@ -87,7 +87,7 @@
 * https://workwanderers.com/[Work Wanderers]
 * https://themincave.com/[themincave]
 
-== Tech & Startups
+== Tech and startups
 
 * https://otta.com/[Otta ★]
 * https://news.ycombinator.com/submitted?id=whoishiring[Hacker News - Ask HN: Who is hiring?]
@@ -113,7 +113,7 @@
 
 * https://monzo.com/careers[Monzo]
 
-== Job Search Tools
+== Job search tools
 
 * https://www.tealhq.com/[Teal]
 * https://www.rampedcareers.com/[Ramped]
@@ -126,7 +126,7 @@
 * https://www.jobscan.co/[Jobscan]
 * https://www.hays.co.uk/jobs/career-hub[Hayes - Career Hub]
 
-== Salary Data
+== Salary data
 
 * https://www.workforce.ai/[Workforce.ai]
 * https://www.itjobswatch.co.uk/[IT Jobs Watch]

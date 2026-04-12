@@ -1,4 +1,4 @@
-= Multi-Platform Design Systems
+= Multi-platform design systems
 
 * https://www.agnosticui.com/[Agnostic UI]
 * https://www.telerik.com/kendo-ui[Kendo UI from Telerik (commercial)]

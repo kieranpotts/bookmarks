@@ -1,4 +1,4 @@
-= Benchmarking and Runtime Analysis
+= Benchmarking and runtime analysis
 
 * https://caderek.github.io/benny/[Benny]
 * https://github.com/mcollina/autocannon[autocannon]

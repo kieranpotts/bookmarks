@@ -1,4 +1,4 @@
-= Favicon Manipulation
+= Favicon manipulation
 
 * http://lab.ejci.net/favico.js/[favico.js]
 

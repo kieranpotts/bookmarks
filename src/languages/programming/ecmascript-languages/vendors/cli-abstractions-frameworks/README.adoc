@@ -1,4 +1,4 @@
-= CLI Abstractions/Frameworks
+= CLI abstractions/frameworks
 
 * https://github.com/leo/args[args]
 * https://github.com/infinitered/gluegun[gluegun]

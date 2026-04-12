@@ -1,4 +1,4 @@
-= Version Control Methodologies
+= Version control methodologies
 
 * https://nvie.com/posts/a-successful-git-branching-model/[GitFlow]
 * https://docs.github.com/en/get-started/using-github/github-flow[GitHub Flow]

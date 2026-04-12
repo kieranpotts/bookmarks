@@ -1,16 +1,16 @@
 = Services
 
-* *link:./backend-as-a-service/[Backend-as-a-Service (BaaS)]*
-* *link:./application-usage-analytics/[Application Usage Analytics]*
-* *link:./avatar-services/[Avatar Services]*
-* *link:./event-gateways-and-webhook-services/[Event Gateways and Webhook Services]*
-* *link:./feature-flag-management/[Feature Flag Management]*
-* *link:./form-hosting-and-capture/[Form Hosting and Capture]*
-* *link:./live-chat-systems/[Live Chat Systems]*
-* *link:./payments-and-money-services/[Payments & Money Services]*
-* *link:./push-notifications-services/[Push Notifications Services]*
-* *link:./text-messaging-services/[Text Messaging (SMS) Services]*
-* *link:./transactional-email/[Transactional Email]*
-* *link:./sso-and-user-authentication-and-authorization/[SSO and User Authentication and Authorization]*
-* *link:./two-factor-authentication/[Two-Factor Authentication]*
-* *link:./validation-and-verification-services/[Validation and Verification Services]*
+* *link:./backend-as-a-service/[Backend-as-a-service (BaaS)]*
+* *link:./application-usage-analytics/[Application usage analytics]*
+* *link:./avatar-services/[Avatar services]*
+* *link:./event-gateways-and-webhook-services/[Event gateways and webhook services]*
+* *link:./feature-flag-management/[Feature flag management]*
+* *link:./form-hosting-and-capture/[Form hosting and capture]*
+* *link:./live-chat-systems/[Live chat systems]*
+* *link:./payments-and-money-services/[Payments and money services]*
+* *link:./push-notifications-services/[Push notifications services]*
+* *link:./text-messaging-services/[Text messaging (SMS) services]*
+* *link:./transactional-email/[Transactional email]*
+* *link:./sso-and-user-authentication-and-authorization/[Sso and user authentication and authorization]*
+* *link:./two-factor-authentication/[Two-factor authentication]*
+* *link:./validation-and-verification-services/[Validation and verification services]*

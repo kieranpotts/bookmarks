@@ -1,4 +1,4 @@
-= Query Builders
+= Query builders
 
 * https://kysely.dev/[kysely]
 * https://knex.github.io/documentation/[knex]

@@ -1,7 +1,7 @@
 = Assets
 
-* *link:./fonts/[Fonts and Type Foundries]*
-* *link:./icons/[Icons and Illustrations]*
+* *link:./fonts/[Fonts and type foundries]*
+* *link:./icons/[Icons and illustrations]*
 * *link:./photos/[Photos]*
 * *link:./video/[Video]*
-* *link:./audio/[Audio and Music]*
+* *link:./audio/[Audio and music]*

@@ -1,4 +1,4 @@
-= Package Managers
+= Package managers
 
 * https://www.vlt.sh/[vlt]
 * https://github.com/antfu-collective/ni[ni]

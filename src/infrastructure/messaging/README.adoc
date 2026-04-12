@@ -1,4 +1,4 @@
-= Message Brokers (aka Message Queues)
+= Message brokers (aka. message queues)
 
 * https://aws.amazon.com/sqs/[Amazon SQS]
 * https://zeromq.org/[ZeroMQ]

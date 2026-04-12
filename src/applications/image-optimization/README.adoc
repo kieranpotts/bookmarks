@@ -1,4 +1,4 @@
-= Image Optimization / Compression
+= Image optimization / compression
 
 * https://www.jpeg.io/[jpeg.io]
 * https://www.jpegmini.com/[JPEGmini]

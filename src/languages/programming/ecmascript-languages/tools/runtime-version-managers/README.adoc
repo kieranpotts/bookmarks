@@ -1,4 +1,4 @@
-= Runtime Version Managers
+= Runtime version managers
 
 * https://github.com/jasongin/nvs[nvs - node version switcher - offers easy integration with vs code]
 * https://github.com/tj/n[n - a long-standing nvm alternative that accomplishes the same thing with slightly different commands and is installed via npm rather than a bash script]

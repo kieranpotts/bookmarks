@@ -1,4 +1,4 @@
-= Wikis and Bodies of Knowledge
+= Wikis and bodies of knowledge
 
 * https://folklore.org/[Folklore]
 * https://www.computer.org/education/bodies-of-knowledge/software-engineering[SWEBOK]

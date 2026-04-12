@@ -1,4 +1,4 @@
-= Typography Tools and Font Design
+= Typography tools and font design
 
 * https://v-fonts.com/[Variable Fonts]
 * https://fontforge.org/en-US/[FontForge]

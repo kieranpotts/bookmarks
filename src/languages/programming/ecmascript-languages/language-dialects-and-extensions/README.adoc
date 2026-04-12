@@ -1,4 +1,4 @@
-= Language Dialects and Extensions, Compile-to-JS Languages
+= Language dialects and extensions, compile-to-JS languages
 
 * https://www.typescriptlang.org/[TypeScript]
 * https://elm-lang.org/[Elm]

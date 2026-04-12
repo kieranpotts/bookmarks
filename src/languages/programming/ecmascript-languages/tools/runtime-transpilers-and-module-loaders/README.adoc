@@ -1,4 +1,4 @@
-= Runtime Transpilers and Module Loaders
+= Runtime transpilers and module loaders
 
 * https://github.com/unjs/jiti[jiti]
 * https://www.npmjs.com/package/esm[esm]

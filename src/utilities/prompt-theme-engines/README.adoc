@@ -1,4 +1,4 @@
-= Prompt Theme Engines (Multi-Shell)
+= Prompt theme engines (multi-shell)
 
 * https://spaceship-prompt.sh/[Spaceship]
 * https://starship.rs/[Starship]

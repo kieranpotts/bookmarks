@@ -1,4 +1,4 @@
-= Compilers/Transpilers and Parsers
+= Compilers/transpilers and parsers
 
 * https://bloomberg.github.io/ts-blank-space/[ts-blank-space]
 * https://jscodeshift.com/[jscodeshift - by Meta]

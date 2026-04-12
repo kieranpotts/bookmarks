@@ -1,9 +1,9 @@
-= HTTP and WebSocket Servers
+= HTTP and WebSocket servers
 
 * https://github.com/caolan/dispatch[Dispatch]
 * https://github.com/senchalabs/connect[Connect]
 
-== Static Servers
+== Static servers
 
 * https://github.com/lukeed/sirv[sirv-cli]
 * https://github.com/JacksonTian/anywhere[anywhere]

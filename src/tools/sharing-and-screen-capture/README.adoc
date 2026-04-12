@@ -1,4 +1,4 @@
-= Sharing and Screen Capture
+= Sharing and screen capture
 
 * https://www.screentogif.com/[ScreenToGif]
 * https://www.loom.com/[Loom]

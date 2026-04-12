@@ -1,4 +1,4 @@
-= JSON Schema Validation
+= JSON Schema validation
 
 * https://ajv.js.org/[ajv]
 * https://github.com/tdegrunt/jsonschema[jsonschema]

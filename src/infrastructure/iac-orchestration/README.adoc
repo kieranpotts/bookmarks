@@ -1,4 +1,4 @@
-= IaC, Cloud Automation and Orchestration
+= IaC, cloud automation and orchestration
 
 * https://www.ansible.com/[Ansible]
 * https://docs.aws.amazon.com/cdk/v2/guide/home.html[AWS CDK]
@@ -18,6 +18,6 @@
 * https://stackstorm.com/[StackStorm]
 * https://developer.hashicorp.com/vagrant[Vagrant]
 
-* *link:./cluster-management/[Cluster Management]*
+* *link:./cluster-management/[Cluster management]*
 * *link:./iac/[IaC]*
-* *link:./service-mesh/[Service Mesh]*
+* *link:./service-mesh/[Service mesh]*

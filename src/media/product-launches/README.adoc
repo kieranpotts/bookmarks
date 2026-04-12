@@ -1,4 +1,4 @@
-= Product Launches
+= Product launches
 
 * https://www.producthunt.com/[Product Hunt]
 * https://www.indiehackers.com/[Indie Hackers]

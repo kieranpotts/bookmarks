@@ -1,1 +1,1 @@
-= Runtime Version Managers (Multi-Platform)
+= Runtime version managers (multi-platform)

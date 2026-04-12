@@ -1,4 +1,4 @@
-= DB Drivers
+= DB drivers
 
 * https://sidorares.github.io/node-mysql2/docs[MySQL2]
 * https://github.com/mysqljs/mysql[mysql]

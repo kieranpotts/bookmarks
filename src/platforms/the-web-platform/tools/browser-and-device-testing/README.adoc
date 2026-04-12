@@ -1,4 +1,4 @@
-= Browser and Device Testing
+= Browser and device testing
 
 * https://browsershots.org/[BrowserShots (offline?)]
 * https://aws.amazon.com/device-farm/[AWS Device Farm]

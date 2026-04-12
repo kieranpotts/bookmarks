@@ -1,4 +1,4 @@
-= Password and Secrets Management/Sharing
+= Password and secrets management/sharing
 
 * https://1password.com/[1Password]
 * https://www.keepersecurity.com/[Keeper]

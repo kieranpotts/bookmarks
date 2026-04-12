@@ -1,4 +1,4 @@
-= Feature Detection and UserAgent/Browser/Runtime Detection
+= Feature detection and useragent/browser/runtime detection
 
 * https://uaparser.dev/[uaparser]
 * https://github.com/sindresorhus/get-windows[get-windows]

@@ -2,7 +2,7 @@
 
 * https://svelte.dev/[Svelte]
 
-== Project Skeletons, Starter Kits and Generators
+== Project skeletons, starter kits and generators
 
 * https://github.com/Elderjs/elderjs[ElderJS]
 * https://www.junglejs.org/[JungleJS]

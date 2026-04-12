@@ -1,4 +1,4 @@
-= General Utility and Functional Programming Libraries
+= General utility and functional programming libraries
 
 * https://lodash.com/[Lodash]
 * https://github.com/lodash/lodash/wiki/FP-Guide[Lodash FP]

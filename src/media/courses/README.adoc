@@ -14,7 +14,7 @@
 * https://www.freecodecamp.org/[freeCodeCamp]
 * https://frontendmasters.com/[Frontend Masters]
 * https://www.linkedin.com/learning/[LinkedIn Learning (formerly Lynda)]
-* https://training.linuxfoundation.org/[Linux Foundation Training & Certifications]
+* https://training.linuxfoundation.org/[Linux Foundation Training and Certifications]
 * https://learn.microsoft.com/en-us/[Microsoft Learn]
 * https://github.com/ossu/computer-science[Open Source Society University - OSSU]
 * https://www.oreilly.com/[O'Reilly]

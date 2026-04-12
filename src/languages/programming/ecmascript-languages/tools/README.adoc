@@ -1,24 +1,24 @@
 = Tools
 
-* *link:./benchmarking-and-runtime-analysis/[Benchmarking and Runtime Analysis]*
-* *link:./build-tools-and-task-runners/[Build Tools and Task Runners]*
-* *link:./single-executables/[Single Executables]*
-* *link:./code-editors-and-ides/[Code Editors and IDEs]*
-* *link:./code-sandboxes-playgrounds-repls/[Code Sandboxes/Playgrounds/REPLs]*
-* *link:./compilers-transpilers-and-parsers/[Compilers/Transpilers and Parsers]*
-* *link:./runtime-transpilers-and-module-loaders/[Runtime Transpilers and Module Loaders]*
-* *link:./development-lifecycle-automation/[Development Lifecycle Automation]*
-* *link:./documentation-generators/[Documentation Generators]*
-* *link:./dummy-fake-data-generation/[Dummy/Fake Data Generation]*
-* *link:./hot-js-module-reloading/[Hot JS Module Reloading]*
-* *link:./module-systems-legacy/[Module Systems (Legacy)]*
-* *link:./package-managers/[Package Managers]*
-* *link:./package-registries-and-hosting/[Package Registries and Hosting]*
-* *link:./runtime-version-managers/[Runtime Version Managers]*
-* *link:./runtime-process-managers/[Runtime Process Managers]*
-* *link:./script-runners/[Script Runners]*
-* *link:./static-analysis-and-linting/[Static Analysis and Linting]*
-* *link:./testing-frameworks/[Testing Frameworks]*
-* *link:./workspace-management-monorepos/[Workspace Management (Monorepos)]*
-* *link:./dependency-analysis/[Dependency Analysis]*
-* *link:./file-watching-and-hot-reloading/[File Watching and Hot Reloading]*
+* *link:./benchmarking-and-runtime-analysis/[Benchmarking and runtime analysis]*
+* *link:./build-tools-and-task-runners/[Build tools and task runners]*
+* *link:./single-executables/[Single executables]*
+* *link:./code-editors-and-ides/[Code editors and IDEs]*
+* *link:./code-sandboxes-playgrounds-repls/[Code sandboxes/playgrounds/REPLs]*
+* *link:./compilers-transpilers-and-parsers/[Compilers/transpilers and parsers]*
+* *link:./runtime-transpilers-and-module-loaders/[Runtime transpilers and module loaders]*
+* *link:./development-lifecycle-automation/[Development lifecycle automation]*
+* *link:./documentation-generators/[Documentation generators]*
+* *link:./dummy-fake-data-generation/[Dummy/fake data generation]*
+* *link:./hot-js-module-reloading/[Hot JS module reloading]*
+* *link:./module-systems-legacy/[Module systems (legacy)]*
+* *link:./package-managers/[Package managers]*
+* *link:./package-registries-and-hosting/[Package registries and hosting]*
+* *link:./runtime-version-managers/[Runtime version managers]*
+* *link:./runtime-process-managers/[Runtime process managers]*
+* *link:./script-runners/[Script runners]*
+* *link:./static-analysis-and-linting/[Static analysis and linting]*
+* *link:./testing-frameworks/[Testing frameworks]*
+* *link:./workspace-management-monorepos/[Workspace management (monorepos)]*
+* *link:./dependency-analysis/[Dependency analysis]*
+* *link:./file-watching-and-hot-reloading/[File watching and hot reloading]*

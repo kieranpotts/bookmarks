@@ -1,4 +1,4 @@
-= UI Tours
+= UI tours
 
 * https://www.william-troup.com/journey-js/[Journey.js]
 

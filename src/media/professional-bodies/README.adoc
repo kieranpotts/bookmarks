@@ -1,4 +1,4 @@
-= Professional Bodies
+= Professional bodies
 
 * https://www.acm.org/[ACM - The Association for Computing Machinery]
 * https://www.computer.org/[IEEE Computer Society (computer.org)]

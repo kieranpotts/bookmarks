@@ -1,4 +1,4 @@
-= Other CSS Libraries & Tools
+= Other CSS libraries and tools
 
 * https://github.com/ritterim/skellyCSS[SkellyCSS]
 * https://acss.io/[Atomizer]

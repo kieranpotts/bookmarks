@@ -1,4 +1,4 @@
-= Data Visualization
+= Data visualization
 
 * https://vue-data-ui.graphieros.com/[Vue Data UI]
 * https://lib.vizzuhq.com/[Vizzu]
@@ -8,7 +8,7 @@
 * https://plotly.com/javascript/[Plotly]
 * https://deck.gl/[Deck.gl]
 
-= D3-Based
+= D3-based
 
 * https://c3js.org/[C3.js]
 * https://naver.github.io/billboard.js/[billboard.js]

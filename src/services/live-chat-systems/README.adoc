@@ -1,4 +1,4 @@
-= Live Chat Systems
+= Live chat systems
 
 * https://github.com/chatwoot/chatwoot[Chatwood]
 * https://crisp.chat/en/[Crisp]

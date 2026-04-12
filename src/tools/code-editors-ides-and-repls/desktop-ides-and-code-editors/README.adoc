@@ -1,4 +1,4 @@
-= Desktop IDEs and Code Editors (Language-Agnostic)
+= Desktop IDEs and code editors (language-agnostic)
 
 * https://www.activestate.com/products/komodo-ide/[Komodo]
 * https://www.cursor.com/en[Cursor]

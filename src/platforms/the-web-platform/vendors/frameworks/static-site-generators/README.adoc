@@ -1,4 +1,4 @@
-= Static-Site Generators (Not Component-Based)
+= Static-site generators (not component-based)
 
 * https://staticsitegenerators.net/[staticsitegenerators.net]
 * https://jamstack.org/generators/[Jamstack: List of Static Site Generators]
@@ -14,7 +14,7 @@
 * https://github.com/sculpin/sculpin[Sculpin]
 * https://gohugo.io/[Hugo]
 
-== Technical Documentation and Book Generators
+== Technical documentation and book generators
 
 * https://asciidoctor.org/[Asciidoctor]
 * https://antora.org/[Antora]

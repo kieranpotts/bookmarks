@@ -1,4 +1,4 @@
-= All-in-One DevOps Systems
+= All-in-one DevOps systems
 
 * https://about.gitlab.com/[GitLab]
 * https://azure.microsoft.com/en-us/products/devops/server/[Azure DevOps Server]

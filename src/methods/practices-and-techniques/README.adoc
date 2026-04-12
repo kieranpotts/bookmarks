@@ -1,5 +1,5 @@
-= Practices and Techniques
+= Practices and techniques
 
 * *link:./refactoring/[Refactoring]*
-* *link:./test-driven-development/[Test-Driven Development]*
-* *link:./version-control-methodologies/[Version Control Methodologies]*
+* *link:./test-driven-development/[Test-driven development]*
+* *link:./version-control-methodologies/[Version control methodologies]*

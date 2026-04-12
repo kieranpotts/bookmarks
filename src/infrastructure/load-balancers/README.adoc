@@ -1,4 +1,4 @@
-= Load Balancers, Reverse Proxies, Service Routing
+= Load balancers, reverse proxies, service routing
 
 * https://github.com/OptimalBits/redbird[Redbird]
 * https://www.haproxy.org/[HAProxy]

@@ -1,4 +1,4 @@
-= Terminal Emulator Interfaces
+= Terminal emulator interfaces
 
 * https://github.com/MarketingPipeline/Termino.js[Termino]
 * http://xtermjs.org/[xterm.js]

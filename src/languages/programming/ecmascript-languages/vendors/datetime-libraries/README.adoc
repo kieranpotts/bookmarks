@@ -1,4 +1,4 @@
-= Datetime Libraries
+= Datetime libraries
 
 * https://moment.github.io/luxon/#/[Luxon]
 * https://date-fns.org/[date-fns]

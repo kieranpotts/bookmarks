@@ -1,4 +1,4 @@
-= Other Web UI Component Libraries
+= Other web UI component libraries
 
 * https://wiredjs.com/[Wired Elements]
 * https://github.com/CaptainCodeman/svelte-headlessui[svelte-headlessui]

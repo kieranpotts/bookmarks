@@ -1,4 +1,4 @@
-= Tag Inputs
+= Tag inputs
 
 * https://yaireo.github.io/tagify/[Tagify]
 

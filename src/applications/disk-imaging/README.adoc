@@ -1,3 +1,3 @@
-= Disk Imaging / Bootable Media Creation
+= Disk imaging / bootable media creation
 
 * https://etcher.balena.io/[Etcher]

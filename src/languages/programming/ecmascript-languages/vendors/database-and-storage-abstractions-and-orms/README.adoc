@@ -1,4 +1,4 @@
-= Database and Storage Abstractions and ORMs
+= Database and storage abstractions and ORMs
 
 * https://mikro-orm.io/[Mikro ORM]
 * https://sequelize.org/[Sequelize]

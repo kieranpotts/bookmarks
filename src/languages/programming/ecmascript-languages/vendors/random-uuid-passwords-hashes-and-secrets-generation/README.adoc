@@ -1,4 +1,4 @@
-= Random, UUID, Passwords, Hashes and Secrets Generation
+= Random, UUID, passwords, hashes and secrets generation
 
 * https://github.com/uuidjs/uuid[uuid]
 * https://antonz.org/uuidv7/[UUIDv7 Generator in 29 Languages]

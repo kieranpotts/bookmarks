@@ -1,4 +1,4 @@
-= PDF Generation
+= PDF generation
 
 * https://pdfme.com/[pdfme]
 * https://pdf-lib.js.org/[PDF-Lib]

@@ -1,26 +1,26 @@
-= UI Components
+= UI components
 
-* *link:./component-libraries-and-design-systems/[Component Libraries and Design Systems]*
-* *link:./multi-platform-design-systems/[Multi-Platform Design Systems]*
-* *link:./react-component-libraries/[React Component Libraries]*
-* *link:./standalone-react-components/[Standalone React Components]*
-* *link:./vue-component-libraries/[Vue Component Libraries]*
-* *link:./standalone-vue-components/[Standalone Vue Components]*
-* *link:./solidjs-component-libraries/[SolidJS Component Libraries]*
-* *link:./native-web-component-libraries/[Native Web Component Libraries]*
-* *link:./static-html-progressive-js-component-libraries/[Static HTML + Progressive JS Component Libraries]*
-* *link:./tailwind-based-component-libraries/[Tailwind-Based Component Libraries]*
-* *link:./other-web-ui-component-libraries/[Other Web UI Component Libraries]*
+* *link:./component-libraries-and-design-systems/[Component libraries and design systems]*
+* *link:./multi-platform-design-systems/[Multi-platform design systems]*
+* *link:./react-component-libraries/[React component libraries]*
+* *link:./standalone-react-components/[Standalone React components]*
+* *link:./vue-component-libraries/[Vue component libraries]*
+* *link:./standalone-vue-components/[Standalone Vue components]*
+* *link:./solidjs-component-libraries/[SolidJS component libraries]*
+* *link:./native-web-component-libraries/[Native web component libraries]*
+* *link:./static-html-progressive-js-component-libraries/[Static HTML + progressive JS component libraries]*
+* *link:./tailwind-based-component-libraries/[Tailwind-based component libraries]*
+* *link:./other-web-ui-component-libraries/[Other web UI component libraries]*
 * *link:./calendars/[Calendars]*
-* *link:./file-uploaders/[File Uploaders]*
-* *link:./date-and-time-pickers/[Date and Time Pickers]*
-* *link:./emoji-pickers/[Emoji Pickers]*
-* *link:./tag-inputs/[Tag Inputs]*
-* *link:./rich-text-editors-and-code-editors/[Rich-Text Editors (RTEs) and Code Editors]*
-* *link:./photo-lightboxes-image-carousels/[Photo Lightboxes, Image Carousels, etc.]*
-* *link:./tables-and-structured-data-presentation/[Tables and Structured Data Presentation]*
-* *link:./ui-tours/[UI Tours]*
-* *link:./terminal-emulator-interfaces/[Terminal Emulator Interfaces]*
-* *link:./icon-libraries/[Icon Libraries]*
-* *link:./svg-spinners-loading-icons-skeletons/[SVG Spinners / Loading Icons / Skeletons]*
+* *link:./file-uploaders/[File uploaders]*
+* *link:./date-and-time-pickers/[Date and time pickers]*
+* *link:./emoji-pickers/[Emoji pickers]*
+* *link:./tag-inputs/[Tag inputs]*
+* *link:./rich-text-editors-and-code-editors/[Rich-text editors (RTEs) and code editors]*
+* *link:./photo-lightboxes-image-carousels/[Photo lightboxes, image carousels, etc.]*
+* *link:./tables-and-structured-data-presentation/[Tables and structured data presentation]*
+* *link:./ui-tours/[UI tours]*
+* *link:./terminal-emulator-interfaces/[Terminal emulator interfaces]*
+* *link:./icon-libraries/[Icon libraries]*
+* *link:./svg-spinners-loading-icons-skeletons/[SVG spinners / loading icons / skeletons]*
 * *link:./miscellaneous/[Miscellaneous]*

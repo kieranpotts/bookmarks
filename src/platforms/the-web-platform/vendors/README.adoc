@@ -2,5 +2,5 @@
 
 * *link:./applications/[Applications]*
 * *link:./frameworks/[Frameworks]*
-* *link:./ui-components/[UI Components]*
+* *link:./ui-components/[UI components]*
 * *link:./libraries/[Libraries]*

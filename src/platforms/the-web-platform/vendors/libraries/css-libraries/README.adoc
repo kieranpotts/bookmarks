@@ -1,2 +1,2 @@
-= CSS Libraries
+= CSS libraries
 

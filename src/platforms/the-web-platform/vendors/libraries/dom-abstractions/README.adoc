@@ -1,13 +1,13 @@
-= DOM Abstractions
+= DOM abstractions
 
-= DOM API Abstractions
+= DOM API abstractions
 
 * https://github.com/victorqribeiro/TinyJS[TinyJS]
 * https://github.com/jquery/sizzle[Sizzle]
 * https://jquery.com/[jQuery]
 * https://jquerypp.com/[jQuery++]
 
-= Virtual DOM Implementations
+= Virtual DOM implementations
 
 * https://github.com/WebReflection/hyperHTML[hyperHTML]
 

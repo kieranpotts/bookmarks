@@ -1,4 +1,4 @@
-= Reactive Programming Libraries
+= Reactive programming libraries
 
 * https://reactivex.io/[ReactiveX]
 * https://cycle.js.org/[Cycle.js]

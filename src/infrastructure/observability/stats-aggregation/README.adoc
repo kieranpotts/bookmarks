@@ -1,4 +1,4 @@
-= Stats Aggregation
+= Stats aggregation
 
 * https://github.com/statsd/statsd[statsd]
 * https://github.com/sivy/node-statsd[node-statsd]

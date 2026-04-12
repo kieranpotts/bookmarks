@@ -1,4 +1,4 @@
-= Build Tools and Task Runners
+= Build tools and task runners
 
 * https://codekitapp.com/[CodeKit]
 * https://gulpjs.com/[Gulp]

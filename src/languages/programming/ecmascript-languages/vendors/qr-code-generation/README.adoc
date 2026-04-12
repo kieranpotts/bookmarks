@@ -1,4 +1,4 @@
-= QR Code Generation
+= QR code generation
 
 * https://github.com/Short-io/qr-image[Short-io/qr-image (deprecated)]
 * https://github.com/Rich-Harris/headless-qr[Rich-Harris/headless-qr]

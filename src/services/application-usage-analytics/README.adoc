@@ -1,4 +1,4 @@
-= Application Usage Analytics
+= Application usage analytics
 
 * https://umami.is/[unami]
 * https://mixpanel.com/[Mixpanel]

@@ -1,6 +1,6 @@
 = Photos
 
-== Free Stock Photos
+== Free stock photos
 
 * https://unsplash.com/[Unsplash]
 * https://pixabay.com/[Pixabay]
@@ -19,7 +19,7 @@
 * https://www.shopify.com/stock-photos[Shopify Burst]
 * https://www.123rf.com/[123rf]
 
-== Commercial Stock Photos
+== Commercial stock photos
 
 * https://www.stocksy.com/[Stocksy]
 * https://www.shutterstock.com/[Shutterstock]

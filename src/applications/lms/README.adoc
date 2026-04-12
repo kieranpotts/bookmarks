@@ -1,3 +1,3 @@
-= Learning Management Systems (LMS)
+= Learning management systems (LMS)
 
 * https://www.skillcast.com/[Skillcast]

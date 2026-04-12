@@ -1,4 +1,4 @@
-= Text Messaging (SMS) Services
+= Text messaging (SMS) services
 
 * https://www.textanywhere.com/[Text Anywhere]
 * https://www.twilio.com/en-us/messaging[Twilio Messaging]

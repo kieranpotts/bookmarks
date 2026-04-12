@@ -1,4 +1,4 @@
-= Data-Centric Programming Languages
+= Data-centric programming languages
 
 * https://hpccsystems.com/training/documentation/learning-ecl/[ECL - Enterprise Control Language by HPCC Systems]
 * https://odin-lang.org/[Odin]

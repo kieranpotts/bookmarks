@@ -1,4 +1,4 @@
-= Image Multimedia Processing
+= Image multimedia processing
 
 * https://imagemagick.org/[ImageMagick]
 * https://ffmpeg.org/[FFmpeg]

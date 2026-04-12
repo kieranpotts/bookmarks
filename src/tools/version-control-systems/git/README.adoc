@@ -2,27 +2,27 @@
 
 * https://git-scm.com/[Git]
 
-== Reference Resources
+== Reference resources
 
 * https://git-scm.com/docs[Git Reference Manual]
 * https://git-scm.com/book/en/v2[Pro Git (book)]
 * https://blog.brachiosoft.com/en/posts/git/[A Git Story - Brachiosoft Blog (2024)]
 
-== Git Tools and Extensions
+== Git tools and extensions
 
 * https://github.com/tj/git-extras/tree/main[git-extras]
 
-=== Git Secrets
+=== Git secrets
 
 * https://medium.com/@slimm609/securely-storing-secrets-in-git-542771d3ed8c[Securely storing secrets in Git. Secrets management and secure storage… | by Brian Davis | Medium]
 * https://opensource.com/article/19/2/secrets-management-tools-git[4 secrets management tools for Git encryption | Opensource.com]
 * https://github.com/AGWA/git-crypt[AGWA/git-crypt]
 
-=== Git Servers (Self-Hosted)
+=== Git servers (Self-Hosted)
 
 * https://gitolite.com/gitolite/index.html[Gitolite]
 
-=== Git Hook Frameworks
+=== Git hook frameworks
 
 * https://typicode.github.io/husky/get-started.html[Husky]
 * https://pre-commit.com/[pre-commit]

@@ -1,4 +1,4 @@
-= Code Sandboxes/Playgrounds/REPLs
+= Code sandboxes/playgrounds/REPLs
 
 * https://srcbook.com/[Srcbook]
 * https://jsbin.com/[JS Bin]

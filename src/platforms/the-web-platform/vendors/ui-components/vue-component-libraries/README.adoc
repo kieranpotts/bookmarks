@@ -1,4 +1,4 @@
-= Vue Component Libraries
+= Vue component libraries
 
 * https://camome.net/[Camome UI]
 * https://primevue.org/[PrimeVue]

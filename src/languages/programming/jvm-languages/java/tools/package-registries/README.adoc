@@ -1,3 +1,3 @@
-= Package Registries
+= Package registries
 
 * https://mvnrepository.com/[Maven Repository]

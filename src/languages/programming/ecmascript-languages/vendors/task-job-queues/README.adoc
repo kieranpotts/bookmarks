@@ -1,4 +1,4 @@
-= Task/Job Queues
+= Task/job queues
 
 * https://node-resque.actionherojs.com/[node-resque]
 * https://github.com/timgit/pg-boss[pg-boss]

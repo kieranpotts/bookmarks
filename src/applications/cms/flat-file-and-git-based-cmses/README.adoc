@@ -1,4 +1,4 @@
-= Flat-File and Git-Based CMSes
+= Flat-file and Git-based CMSes
 
 * https://getkirby.com/[Kirby]
 * https://spinalcms.com/[Spinal CMS]

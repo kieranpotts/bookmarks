@@ -1,4 +1,4 @@
-= CSS-in-JS Libraries
+= CSS-in-JS libraries
 
 * https://stitches.dev/[Stitches]
 * https://typicode.github.io/mistcss/[MistCSS]

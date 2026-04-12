@@ -1,4 +1,4 @@
-= CSS Themes
+= CSS themes
 
 * https://creativedesignsguru.com/[Creative Designs Guru]
 

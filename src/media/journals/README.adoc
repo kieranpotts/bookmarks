@@ -1,4 +1,4 @@
-= Journals / Research
+= Journals / research
 
 * https://www.similarweb.com/[SimilarWeb - Digital market research/intelligence]
 * https://www.worldscientific.com/worldscinet/ijseke[International Journal of Software Engineering and Knowledge Engineering]

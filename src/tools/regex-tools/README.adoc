@@ -1,4 +1,4 @@
-= Regex Tools
+= Regex tools
 
 * https://regexr.com/[Regexr]
 * https://ihateregex.io/[iHateRegex]

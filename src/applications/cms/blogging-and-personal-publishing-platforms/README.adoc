@@ -1,4 +1,4 @@
-= Blogging and Personal Publishing Platforms
+= Blogging and personal publishing platforms
 
 * https://substack.com/[Substack]
 * https://bearblog.dev/[Bear Blog]

@@ -1,4 +1,4 @@
-= Event Emitters and PubSub
+= Event emitters and pubsub
 
 * https://github.com/mroderick/PubSubJS[PubSubJS]
 * https://github.com/ai/nanoevents[Nano Events]

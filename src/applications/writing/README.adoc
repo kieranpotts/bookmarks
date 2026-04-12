@@ -1,15 +1,15 @@
-= Writing and Research
+= Writing and research
 
-== Writing Assistants
+== Writing assistants
 
 * https://www.grammarly.com/[Grammarly]
 * https://hemingwayapp.com/[Hemingway Editor]
 
-== Publishing Tools
+== Publishing tools
 
 * https://www.zettlr.com/[Zettlr]
 
-== Text Editors
+== Text editors
 
 * https://obsidian.md/[Obsidian]
 * https://writefreely.org/[Write Freely]
@@ -20,7 +20,7 @@
 * https://zenpen.io/[ZenPen]
 * https://ghostwriter.kde.org/[Ghostwriter]
 
-== Note Taking and Research Management
+== Note taking and research management
 
 * https://evernote.com/[Evernote]
 * https://orgmode.org/[Org Mode]

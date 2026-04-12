@@ -1,4 +1,4 @@
-= Server-Side
+= Server-side
 
 * https://fresh.deno.dev/[Fresh]
 * https://nestjs.com/[NestJS]

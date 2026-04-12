@@ -1,4 +1,4 @@
-= Testing Frameworks and Mocking Libraries
+= Testing frameworks and mocking libraries
 
 * https://junit.org/junit5/[JUnit]
 * https://testng.org/[TestNG]

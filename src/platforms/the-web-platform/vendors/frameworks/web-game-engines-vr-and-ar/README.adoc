@@ -1,4 +1,4 @@
-= Web Game Engines, VR and AR
+= Web game engines, VR and AR
 
 * https://straker.github.io/kontra/[Kontra]
 * https://phaser.io/[Phaser]

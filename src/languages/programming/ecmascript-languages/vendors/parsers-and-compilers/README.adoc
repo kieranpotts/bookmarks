@@ -1,4 +1,4 @@
-= Parsers and Compilers
+= Parsers and compilers
 
 * https://peggyjs.org/[Peggy]
 * https://github.com/beaugunderson/ip-address[ip-address]
@@ -11,7 +11,7 @@
 
 * https://github.com/mongodb/js-bson[js-bson]
 
-== CSV and Spreadsheets
+== CSV and spreadsheets
 
 * https://github.com/zurmokeeper/officecrypto-tool[officecrypto-tool]
 * https://github.com/mgcrea/node-xlsx[node-xlsx]

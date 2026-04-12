@@ -1,4 +1,4 @@
-= Visual Modeling Tools
+= Visual modeling tools
 
 * https://eclipse.dev/emf/index.html[Eclipse Modeling Framework]
 * https://www.modelio.org/index.htm[Modelio]

@@ -1,4 +1,4 @@
-= PDF Generation and Editing
+= PDF generation and editing
 
 * https://www.pdf24.org/en/[PDF24]
 * https://www.adobe.com/uk/acrobat/online.html[Adobe PDF Tools]

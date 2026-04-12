@@ -1,4 +1,4 @@
-= Hybrid Web Apps (ie using native Web Views)
+= Hybrid web apps (ie using native Web Views)
 
 == Cordova (formerly PhoneGap)
 
