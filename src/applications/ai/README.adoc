@@ -12,6 +12,10 @@
 * https://claude.ai/[Claude]
 * https://gemini.google.com/[Gemini]
 
+== Agent skills, instructions, custom prompts, etc.
+
+* https://github.com/JuliusBrussee/caveman/[Caveman]
+
 == Ai models
 
 * https://ollama.com/[Ollama]
