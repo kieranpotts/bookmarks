@@ -101,6 +101,7 @@
 * https://larajobs.com/[LaraJobs]
 * https://startups.gallery/[startups.gallery]
 * https://posthog.com/cool-tech-jobs[PostHog: Cool Tech Jobs]
+* https://www.workatastartup.com/[Y Combinator: Work at a Startup]
 * https://jobs.sequoiacap.com/jobs[Sequoia Jobs]
 * https://jobs.a16z.com/jobs[a16z Jobs]
 
