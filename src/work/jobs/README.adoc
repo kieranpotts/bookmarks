@@ -90,8 +90,8 @@
 == Tech and startups
 
 * https://otta.com/[Otta ★]
-* https://news.ycombinator.com/submitted?id=whoishiring[Hacker News - Ask HN: Who is hiring?]
 * https://betalist.com/[BetaList]
+* https://briansjobsearch.com/[Brian's Job Search]
 * https://devitjobs.uk/[DevITjobs.uk]
 * https://www.dice.com/[Dice]
 * https://www.trueup.io/[TrueUp]
@@ -100,6 +100,21 @@
 * https://techworkersclub.com/[Tech Workers Club]
 * https://larajobs.com/[LaraJobs]
 * https://startups.gallery/[startups.gallery]
+* https://posthog.com/cool-tech-jobs[PostHog: Cool Tech Jobs]
+* https://jobs.sequoiacap.com/jobs[Sequoia Jobs]
+* https://jobs.a16z.com/jobs[a16z Jobs]
+
+Other sources:
+
+* https://news.ycombinator.com/submitted?id=whoishiring[Hacker News - Ask HN: Who is hiring?]
+* https://news.ycombinator.com/launches[Hacker News: Launches]
+* https://github.com/trending[GitHub Trending]
+
+[TIP]
+======
+Use LinkedIn's AI-powered search, eg.
+https://www.linkedin.com/jobs/search-results/?currentJobId=4245439263&eBP=NON_CHARGEABLE_CHANNEL&keywords=jobs%20for%20product-minded%20engineers%20at%20startups%20and%20scaleups["jobs for product-minded engineers at startups and scaleups"].
+======
 
 == Companies
 
