@@ -1,31 +1,7 @@
 = AI
 
-== General AI
-
-* https://lmstudio.ai/[LM Studio]
-
-== Ai agents
-
-* https://www.deepseek.com/[DeepSeek]
-* https://www.perplexity.ai/[Perplexity]
-* https://replit.com/[Replit]
-* https://claude.ai/[Claude]
-* https://gemini.google.com/[Gemini]
-
-== Agent skills, instructions, custom prompts, etc.
-
-* https://github.com/JuliusBrussee/caveman/[Caveman]
-
-== Ai models
-
-* https://ollama.com/[Ollama]
-* https://www.ibm.com/granite[IBM Granite]
-* https://platform.openai.com/docs/api-reference/introduction[OpenAPI GPT-4]
-* https://x.ai/news/grok-4[Grok 4]
-* https://www.anthropic.com/claude/opus[Claude Opus 4]
-* https://www.anthropic.com/claude/sonnet[Claude Sonnet 4]
-
-== Front-ends
-
-* https://docs.openwebui.com/[OpenWebUI]
-* https://www.kaibanjs.com/[KaibanJS]
+* *link:./managers/[Model Managers]*
+* *link:./agents/[AI Agents]*
+* *link:./skills/[Agent Skills, Instructions, Custom Prompts, etc.]*
+* *link:./models/[AI Models]*
+* *link:./front-ends/[Front-ends]*

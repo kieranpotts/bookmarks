@@ -1,0 +1,6 @@
+= Model Managers
+
+Model managers are runtime environments for running and managing large language models locally. They provide tooling for model management, deployment, configuration, and inference optimization—allowing you to run open-source models on your own hardware with ease.
+
+* https://ollama.com/[Ollama]
+* https://lmstudio.ai/[LM Studio]

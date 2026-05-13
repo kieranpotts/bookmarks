@@ -1,0 +1,7 @@
+= AI Agents
+
+* https://www.deepseek.com/[DeepSeek]
+* https://www.perplexity.ai/[Perplexity]
+* https://replit.com/[Replit]
+* https://claude.ai/[Claude]
+* https://gemini.google.com/[Gemini]

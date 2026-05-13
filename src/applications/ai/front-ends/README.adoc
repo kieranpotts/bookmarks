@@ -1,0 +1,4 @@
+= Front-ends
+
+* https://docs.openwebui.com/[OpenWebUI]
+* https://www.kaibanjs.com/[KaibanJS]

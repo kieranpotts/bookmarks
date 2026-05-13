@@ -1,0 +1,7 @@
+= AI Models
+
+* https://www.ibm.com/granite[IBM Granite]
+* https://platform.openai.com/docs/api-reference/introduction[OpenAPI GPT-4]
+* https://x.ai/news/grok-4[Grok 4]
+* https://www.anthropic.com/claude/opus[Claude Opus 4]
+* https://www.anthropic.com/claude/sonnet[Claude Sonnet 4]
