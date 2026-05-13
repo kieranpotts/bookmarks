@@ -5,7 +5,7 @@
 * https://racket-lang.org/[Racket]
 
 ****
-* https://planet.lisp.org/[Planet Lisp] — Commnunity wiki for all things Lisp.
+* https://planet.lisp.org/[Planet Lisp]: Commnunity wiki for all things Lisp.
 ****
 
 == Clojure
