@@ -54,6 +54,8 @@
 * https://insomnia.rest/[Insomnia]
 * https://www.postman.com/[Postman]
 * https://www.telerik.com/fiddler[Fiddler]
+* https://karatelabs.io/[Karata]: Gherkin-based HTTP API testing framework.
+* https://rest-assured.io/[REST Assured]: HTTP API testing using a fluent Java API.
 
 == HTTP mocking
 

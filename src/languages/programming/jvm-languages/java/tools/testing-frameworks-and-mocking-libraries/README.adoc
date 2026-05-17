@@ -4,3 +4,4 @@
 * https://testng.org/[TestNG]
 * https://www.archunit.org/[ArchUnit]
 * https://site.mockito.org/[Mockito]
+* https://rest-assured.io/[REST Assured] for e2e HTTP API testing.
