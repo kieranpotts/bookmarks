@@ -1,7 +1,43 @@
 {
+
+  /* Vertical guidelines for line wrapping – off! */
   "editor.rulers": [],
 
+  /* By default, wrap long lines at the viewport or 120 characters,
+  whichever is narrowest. */
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 120,
+
   "[asciidoc]": {
-    "editor.wordWrap":"off",
+    /* Fully disable word wrap for AsciiDoc files */
+    "editor.wordWrap": "off",
+    "editor.wordWrapColumn": 0, /* no-op*/
+
+    /* Enable auto-formatting for Asciidoc files. */
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+
+    /* Enable auto-fixes for Asciidoc files. */
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always",
+    },
   },
+
+  "[markdown]": {
+    /* Wrap Markdown files at 72 characters. */
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 72,
+
+    /* Enable auto-formatting for Markdown files. */
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+
+    /* Enable auto-fixes for Markdown files. */
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always",
+    },
+  },
+
 }
