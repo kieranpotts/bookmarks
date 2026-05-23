@@ -1,5 +1,7 @@
 = Terminals and terminal emulators
 
+* https://cmux.com/[cmux] – macOS only, based on Ghostty.
+* https://ghostty.org/[Ghostty]
 * https://gnome-terminator.readthedocs.io/en/latest/[Terminator]
 * https://hyper.is/[Hyper]
 * https://www.warp.dev/[Warp]
