@@ -1,0 +1,8 @@
+= Work
+
+* *xref:work/jobs/index.adoc[Jobs]*
+* *xref:work/interviewing/index.adoc[Interviewing]*
+* *xref:work/contracting/index.adoc[Contracting]*
+* *xref:work/certification/index.adoc[Certification]*
+* *xref:work/coworking/index.adoc[Coworking]*
+* *xref:work/startups/index.adoc[Startups]*

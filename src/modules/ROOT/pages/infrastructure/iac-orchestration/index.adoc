@@ -1,0 +1,23 @@
+= IaC, cloud automation and orchestration
+
+* https://www.ansible.com/[Ansible]
+* https://docs.aws.amazon.com/cdk/v2/guide/home.html[AWS CDK]
+* https://aws.amazon.com/cloudformation/[AWS CloudFormation]
+* http://aws.amazon.com/elasticbeanstalk/[AWS Elastic Beanstalk]
+* https://www.cdi.st/[cdist]
+* https://cfengine.com/[CFEngine]
+* https://cloud-init.io/[cloud-init]
+* https://www.chef.io/[Chef]
+* https://wiki.openstack.org/wiki/Heat[Heat (OpenStack)]
+* https://juju.is/[Juju]
+* https://moss.sh/[Moss]
+* https://inedo.com/otter[Otter]
+* https://www.pulumi.com/[Pulumi]
+* https://www.puppet.com/[Puppet]
+* https://saltproject.io/[Salt]
+* https://stackstorm.com/[StackStorm]
+* https://developer.hashicorp.com/vagrant[Vagrant]
+
+* *xref:infrastructure/iac-orchestration/cluster-management/index.adoc[Cluster management]*
+* *xref:infrastructure/iac-orchestration/iac/index.adoc[IaC]*
+* *xref:infrastructure/iac-orchestration/service-mesh/index.adoc[Service mesh]*

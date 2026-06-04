@@ -1,5 +1,0 @@
-= Serialization languages
-
-* *link:./text-serialization-formats/[Text serialization formats]*
-* *link:./binary-serialization-formats/[Binary serialization formats]*
-* *link:./dual-text-and-binary-serialization-formats/[Dual (text + binary) serialization formats]*

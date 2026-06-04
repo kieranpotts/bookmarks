@@ -1,0 +1,7 @@
+= AI
+
+* *xref:applications/ai/managers/index.adoc[Model Managers]*
+* *xref:applications/ai/agents/index.adoc[AI Agents]*
+* *xref:applications/ai/skills/index.adoc[Agent Skills, Instructions, Custom Prompts, etc.]*
+* *xref:applications/ai/models/index.adoc[AI Models]*
+* *xref:applications/ai/front-ends/index.adoc[Front-ends]*

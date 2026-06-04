@@ -1,5 +1,0 @@
-= Operational databases
-
-* *link:./key-value-stores-and-in-memory-object-caches/[Key-value stores and in-memory object caches]*
-* *link:./time-series-databases/[Time series databases]*
-* *link:./logs-and-search-databases/[Logs and search databases]*

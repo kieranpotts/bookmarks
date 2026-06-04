@@ -1,8 +1,0 @@
-= Public cloud services
-
-* *link:./major-public-cloud-services/[Major public cloud services]*
-* *link:./vps-dedicated-and-managed-hosting/[VPS, dedicated, and managed hosting]*
-* *link:./platform-as-a-service/[Platform-as-a-service]*
-* *link:./function-as-a-service/[Function-as-a-service (aka. serverless)]*
-* *link:./cloud-storage-and-data-backup-services/[Cloud storage and data backup services]*
-* *link:./static-site-hosting/[Static site hosting]*

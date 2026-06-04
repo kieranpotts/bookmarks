@@ -1,0 +1,6 @@
+= Shells and command languages
+
+* *xref:languages/shells/unix-shells/index.adoc[Unix shells]*
+* *xref:languages/shells/tools/index.adoc[Tools]*
+* *xref:languages/shells/cross-platform-shells/index.adoc[Cross-platform shells]*
+* *xref:languages/shells/compile-to-shell-languages/index.adoc[Compile-to-shell languages]*

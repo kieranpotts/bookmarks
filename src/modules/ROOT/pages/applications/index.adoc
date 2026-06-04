@@ -1,0 +1,37 @@
+= Applications
+
+* *xref:applications/chatops/index.adoc[ChatOps and IRC clients]*
+* *xref:applications/email/index.adoc[Email]*
+* *xref:applications/lowcode-nocode/index.adoc[Low-code/no-code application development]*
+* *xref:applications/workflow/index.adoc[Task/workflow automation]*
+* *xref:applications/ai/index.adoc[AI]*
+* *xref:applications/bookmarks/index.adoc[Bookmarks and web clipping applications]*
+* *xref:applications/brainstorming/index.adoc[Brainstorming and collaborative planning]*
+* *xref:applications/recruitment-tests/index.adoc[Coding tests for tech recruitment]*
+* *xref:applications/cms/index.adoc[Content management systems (CMS)]*
+* *xref:applications/crm/index.adoc[Customer relationship management (CRM)]*
+* *xref:applications/disk-imaging/index.adoc[Disk imaging / bootable media creation]*
+* *xref:applications/dam/index.adoc[Digital asset management]*
+* *xref:applications/ebooks/index.adoc[E-book readers and managers]*
+* *xref:applications/ecommerce/index.adoc[E-commerce platforms]*
+* *xref:applications/file-storage/index.adoc[File storage, syncing and sharing]*
+* *xref:applications/home-automation/index.adoc[Home automation]*
+* *xref:applications/idv/index.adoc[Identity verification (IDV) and know your customer (KYC) services]*
+* *xref:applications/image-optimization/index.adoc[Image optimization / compression]*
+* *xref:applications/i18n/index.adoc[Internationalization and localization / translation]*
+* *xref:applications/project-management/index.adoc[Issue trackers and project management]*
+* *xref:applications/lms/index.adoc[Learning management systems (LMS)]*
+* *xref:applications/payments/index.adoc[Money transfer]*
+* *xref:applications/passwords/index.adoc[Password and secrets management/sharing]*
+* *xref:applications/pdf/index.adoc[PDF generation and editing]*
+* *xref:applications/media/index.adoc[Photo and video management]*
+* *xref:applications/productivity/index.adoc[Productivity applications]*
+* *xref:applications/ats/index.adoc[Recruitment software and applicant tracking software (ATS)]*
+* *xref:applications/rss/index.adoc[RSS feed readers and news aggregators]*
+* *xref:applications/time-tracking/index.adoc[Time tracking]*
+* *xref:applications/marketing/index.adoc[Online marketing and SEO]*
+* *xref:applications/helpdesk/index.adoc[Service desk / help desk and ITSM]*
+* *xref:applications/ssh/index.adoc[SSH clients]*
+* *xref:applications/wikis/index.adoc[Wikis and knowledgebases]*
+* *xref:applications/writing/index.adoc[Writing and research]*
+

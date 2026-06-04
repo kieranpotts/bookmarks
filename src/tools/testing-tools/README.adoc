@@ -1,4 +1,0 @@
-= Testing tools (Static and Dynamic - Platform Agnostic)
-
-* *link:./performance-and-load-testing/[Performance and load testing]*
-* *link:./static-and-dynamic-application-security-testing/[Static and dynamic application security testing (SAST, DAST)]*

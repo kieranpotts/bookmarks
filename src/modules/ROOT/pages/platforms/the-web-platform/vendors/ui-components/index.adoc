@@ -1,0 +1,26 @@
+= UI components
+
+* *xref:platforms/the-web-platform/vendors/ui-components/component-libraries-and-design-systems/index.adoc[Component libraries and design systems]*
+* *xref:platforms/the-web-platform/vendors/ui-components/multi-platform-design-systems/index.adoc[Multi-platform design systems]*
+* *xref:platforms/the-web-platform/vendors/ui-components/react-component-libraries/index.adoc[React component libraries]*
+* *xref:platforms/the-web-platform/vendors/ui-components/standalone-react-components/index.adoc[Standalone React components]*
+* *xref:platforms/the-web-platform/vendors/ui-components/vue-component-libraries/index.adoc[Vue component libraries]*
+* *xref:platforms/the-web-platform/vendors/ui-components/standalone-vue-components/index.adoc[Standalone Vue components]*
+* *xref:platforms/the-web-platform/vendors/ui-components/solidjs-component-libraries/index.adoc[SolidJS component libraries]*
+* *xref:platforms/the-web-platform/vendors/ui-components/native-web-component-libraries/index.adoc[Native web component libraries]*
+* *xref:platforms/the-web-platform/vendors/ui-components/static-html-progressive-js-component-libraries/index.adoc[Static HTML + progressive JS component libraries]*
+* *xref:platforms/the-web-platform/vendors/ui-components/tailwind-based-component-libraries/index.adoc[Tailwind-based component libraries]*
+* *xref:platforms/the-web-platform/vendors/ui-components/other-web-ui-component-libraries/index.adoc[Other web UI component libraries]*
+* *xref:platforms/the-web-platform/vendors/ui-components/calendars/index.adoc[Calendars]*
+* *xref:platforms/the-web-platform/vendors/ui-components/file-uploaders/index.adoc[File uploaders]*
+* *xref:platforms/the-web-platform/vendors/ui-components/date-and-time-pickers/index.adoc[Date and time pickers]*
+* *xref:platforms/the-web-platform/vendors/ui-components/emoji-pickers/index.adoc[Emoji pickers]*
+* *xref:platforms/the-web-platform/vendors/ui-components/tag-inputs/index.adoc[Tag inputs]*
+* *xref:platforms/the-web-platform/vendors/ui-components/rich-text-editors-and-code-editors/index.adoc[Rich-text editors (RTEs) and code editors]*
+* *xref:platforms/the-web-platform/vendors/ui-components/photo-lightboxes-image-carousels/index.adoc[Photo lightboxes, image carousels, etc.]*
+* *xref:platforms/the-web-platform/vendors/ui-components/tables-and-structured-data-presentation/index.adoc[Tables and structured data presentation]*
+* *xref:platforms/the-web-platform/vendors/ui-components/ui-tours/index.adoc[UI tours]*
+* *xref:platforms/the-web-platform/vendors/ui-components/terminal-emulator-interfaces/index.adoc[Terminal emulator interfaces]*
+* *xref:platforms/the-web-platform/vendors/ui-components/icon-libraries/index.adoc[Icon libraries]*
+* *xref:platforms/the-web-platform/vendors/ui-components/svg-spinners-loading-icons-skeletons/index.adoc[SVG spinners / loading icons / skeletons]*
+* *xref:platforms/the-web-platform/vendors/ui-components/miscellaneous/index.adoc[Miscellaneous]*

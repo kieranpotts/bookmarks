@@ -1,5 +1,0 @@
-= Virtualization and containerization
-
-* *link:./container-systems/[Container systems]*
-* *link:./virtualization-systems/[Virtualization systems]*
-* *link:./vm-and-container-image-libraries/[VM and container image libraries]*

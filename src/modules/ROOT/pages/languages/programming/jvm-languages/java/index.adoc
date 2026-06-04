@@ -1,0 +1,7 @@
+= Java
+
+* *xref:languages/programming/jvm-languages/java/jvms-and-jdks/index.adoc[JVMs and JDKs]*
+* *xref:languages/programming/jvm-languages/java/tools/index.adoc[Tools]*
+* *xref:languages/programming/jvm-languages/java/vendors/index.adoc[Vendors]*
+* *xref:languages/programming/jvm-languages/java/language-specifications/index.adoc[Language specifications]*
+* *xref:languages/programming/jvm-languages/java/reference/index.adoc[Reference]*

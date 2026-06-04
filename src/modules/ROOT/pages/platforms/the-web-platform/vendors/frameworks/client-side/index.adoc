@@ -1,0 +1,6 @@
+= Client-side
+
+* https://perf-track.web.app/[Perf Track]
+
+* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/index.adoc[Component-based]*
+* *xref:platforms/the-web-platform/vendors/frameworks/client-side/html-based/index.adoc[HTML-based]*

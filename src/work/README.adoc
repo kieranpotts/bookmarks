@@ -1,8 +1,0 @@
-= Work
-
-* *link:./jobs/[Jobs]*
-* *link:./interviewing/[Interviewing]*
-* *link:./contracting/[Contracting]*
-* *link:./certification/[Certification]*
-* *link:./coworking/[Coworking]*
-* *link:./startups/[Startups]*

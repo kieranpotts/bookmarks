@@ -1,8 +1,0 @@
-= Databases and caching systems
-
-* https://db-engines.com/en/[DB-Engines]
-
-* *link:./production-service-databases/[Production service databases]*
-* *link:./operational-databases/[Operational databases]*
-* *link:./analytical-databases/[Analytical databases]*
-* *link:./distributed-databases/[Distributed databases]*

@@ -1,0 +1,5 @@
+= Analytical databases
+
+* *xref:infrastructure/databases/analytical-databases/data-warehouses/index.adoc[Data warehouses (structured)]*
+* *xref:infrastructure/databases/analytical-databases/data-lakes/index.adoc[Data lakes (unstructured)]*
+* *xref:infrastructure/databases/analytical-databases/gis-databases/index.adoc[GIS databases]*

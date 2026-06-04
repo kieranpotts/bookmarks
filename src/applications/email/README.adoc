@@ -1,7 +1,0 @@
-= Email
-
-* *link:./mailboxes/[Mailboxes]*
-* *link:./temporary-email-addresses/[Temporary email addresses]*
-* *link:./email-marketing-and-newsletters/[Email marketing and newsletters]*
-* *link:./mailing-list-systems/[Mailing list systems]*
-* *link:./mail-servers/[Mail servers]*

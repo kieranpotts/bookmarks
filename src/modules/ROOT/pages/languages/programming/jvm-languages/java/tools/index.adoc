@@ -1,0 +1,7 @@
+= Tools
+
+* *xref:languages/programming/jvm-languages/java/tools/build-automation-dependency-management/index.adoc[Build automation and dependency management]*
+* *xref:languages/programming/jvm-languages/java/tools/package-registries/index.adoc[Package registries]*
+* *xref:languages/programming/jvm-languages/java/tools/java-version-managers/index.adoc[Java version managers]*
+* *xref:languages/programming/jvm-languages/java/tools/testing-frameworks-and-mocking-libraries/index.adoc[Testing frameworks and mocking libraries]*
+* *xref:languages/programming/jvm-languages/java/tools/annotation-libraries/index.adoc[Annotation libraries]*

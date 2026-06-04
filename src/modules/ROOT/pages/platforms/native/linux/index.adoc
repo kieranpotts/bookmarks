@@ -1,0 +1,7 @@
+= Linux
+
+* *xref:platforms/native/linux/distributions/index.adoc[Distributions]*
+* *xref:platforms/native/linux/package-managers/index.adoc[Package managers]*
+* *xref:platforms/native/linux/package-repositories/index.adoc[Package repositories]*
+* *xref:platforms/native/linux/system-and-service-managers/index.adoc[System and service managers]*
+* *xref:platforms/native/linux/reference/index.adoc[Reference]*

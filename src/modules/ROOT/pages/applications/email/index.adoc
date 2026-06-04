@@ -1,0 +1,7 @@
+= Email
+
+* *xref:applications/email/mailboxes/index.adoc[Mailboxes]*
+* *xref:applications/email/temporary-email-addresses/index.adoc[Temporary email addresses]*
+* *xref:applications/email/email-marketing-and-newsletters/index.adoc[Email marketing and newsletters]*
+* *xref:applications/email/mailing-list-systems/index.adoc[Mailing list systems]*
+* *xref:applications/email/mail-servers/index.adoc[Mail servers]*

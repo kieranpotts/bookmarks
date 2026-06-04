@@ -1,0 +1,8 @@
+= JVM languages
+
+* *xref:languages/programming/jvm-languages/java/index.adoc[Java]*
+* *xref:languages/programming/jvm-languages/kotlin/index.adoc[Kotlin]*
+* *xref:languages/programming/jvm-languages/scala/index.adoc[Scala]*
+* *xref:languages/programming/jvm-languages/groovy/index.adoc[Groovy]*
+* *xref:languages/programming/jvm-languages/clojure/index.adoc[Clojure]*
+* *xref:languages/programming/jvm-languages/other-languages-implemented-in-jvms/index.adoc[Other languages implemented in JVMs]*

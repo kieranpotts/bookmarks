@@ -1,8 +1,0 @@
-= JVM languages
-
-* *link:./java/[Java]*
-* *link:./kotlin/[Kotlin]*
-* *link:./scala/[Scala]*
-* *link:./groovy/[Groovy]*
-* *link:./clojure/[Clojure]*
-* *link:./other-languages-implemented-in-jvms/[Other languages implemented in JVMs]*

@@ -1,0 +1,10 @@
+= Unix shells
+
+* *xref:languages/shells/unix-shells/posix/index.adoc[POSIX]*
+* *xref:languages/shells/unix-shells/bash/index.adoc[Bash]*
+* *xref:languages/shells/unix-shells/z-shell-zsh/index.adoc[Z shell (Zsh)]*
+* *xref:languages/shells/unix-shells/c-shell-csh-and-tcsh/index.adoc[C shell (csh and tsch)]*
+* *xref:languages/shells/unix-shells/fish/index.adoc[Fish]*
+* *xref:languages/shells/unix-shells/kornshell/index.adoc[KornShell]*
+* *xref:languages/shells/unix-shells/qshell-qsh/index.adoc[Qshell (qsh)]*
+* *xref:languages/shells/unix-shells/others/index.adoc[Others...]*

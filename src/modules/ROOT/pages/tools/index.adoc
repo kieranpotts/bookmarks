@@ -1,0 +1,28 @@
+= Tools
+
+* https://emojipedia.org/[📙 Emojipedia]
+
+* *xref:tools/build-tools-and-task-runners/index.adoc[Build tools and task runners (language-agnostic)]*
+* *xref:tools/code-editors-ides-and-repls/index.adoc[Code editors, IDEs and REPLs]*
+* *xref:tools/database-administration/index.adoc[Database administration]*
+* *xref:tools/devops-lifecycle-systems/index.adoc[DevOps lifecycle systems]*
+* *xref:tools/file-archival-and-compression/index.adoc[File archival and compression]*
+* *xref:tools/testing-tools/index.adoc[Testing tools (static and dynamic - platform agnostic)]*
+* *xref:tools/version-control-systems/index.adoc[Version control systems (VCS)]*
+* *xref:tools/vcs-clients/index.adoc[VCS clients]*
+* *xref:tools/graphic-design-tools/index.adoc[Graphic design tools]*
+* *xref:tools/modelling-and-diagramming-tools/index.adoc[Modelling and diagramming tools]*
+* *xref:tools/code-generators/index.adoc[Code generators]*
+* *xref:tools/development-environments-and-stacks/index.adoc[Development environments and stacks]*
+* *xref:tools/diffing-and-merging-tools/index.adoc[Diffing and merging tools]*
+* *xref:tools/document-conversion-tools/index.adoc[Document conversion tools]*
+* *xref:tools/email-capture/index.adoc[Email capture]*
+* *xref:tools/regex-tools/index.adoc[Regex tools]*
+* *xref:tools/remote-access-and-secure-tunnels/index.adoc[Remote access and secure tunnels]*
+* *xref:tools/runtime-version-managers/index.adoc[Runtime version managers (multi-platform)]*
+* *xref:tools/security-tools-and-data-breach-analysis/index.adoc[Security tools and data breach analysis]*
+* *xref:tools/sharing-and-screen-capture/index.adoc[Sharing and screen capture]*
+* *xref:tools/ssh-and-ftp-clients/index.adoc[SSH + FTP clients]*
+* *xref:tools/technical-documentation/index.adoc[Technical documentation]*
+* *xref:tools/terminals-and-terminal-emulators/index.adoc[Terminals and terminal emulators]*
+* *xref:tools/vpns/index.adoc[VPNs]*

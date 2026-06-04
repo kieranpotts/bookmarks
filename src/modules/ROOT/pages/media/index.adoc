@@ -1,0 +1,21 @@
+= Media
+
+* *xref:media/professional-bodies/index.adoc[Professional bodies]*
+* *xref:media/blogs/index.adoc[Blogs]*
+* *xref:media/books/index.adoc[Books]*
+* *xref:media/bootcamps/index.adoc[Bootcamps]*
+* *xref:media/cheat-sheets/index.adoc[Cheat sheets]*
+* *xref:media/comics/index.adoc[Comics]*
+* *xref:media/courses/index.adoc[Courses]*
+* *xref:media/conferences/index.adoc[Conferences and events]*
+* *xref:media/forums/index.adoc[Forums / social]*
+* *xref:media/journals/index.adoc[Journals / research]*
+* *xref:media/magazines/index.adoc[Magazines]*
+* *xref:media/meetups/index.adoc[Meetups]*
+* *xref:media/podcasts/index.adoc[Podcasts]*
+* *xref:media/product-launches/index.adoc[Product launches]*
+* *xref:media/social-news/index.adoc[Social news]*
+* *xref:media/trends/index.adoc[Trends and surveys]*
+* *xref:media/user-groups/index.adoc[User groups]*
+* *xref:media/wikis/index.adoc[Wikis and bodies of knowledge]*
+* *xref:media/archives/index.adoc[Archives]*

@@ -1,0 +1,7 @@
+= Code editors, IDEs and REPLs
+
+* *xref:tools/code-editors-ides-and-repls/desktop-ides-and-code-editors/index.adoc[Desktop IDEs and code editors]*
+* *xref:tools/code-editors-ides-and-repls/online-cloud-development-environments/index.adoc[Online/cloud development environments]*
+* *xref:tools/code-editors-ides-and-repls/code-sandboxes-playgrounds-and-repls/index.adoc[Code sandboxes/playgrounds/REPLs]*
+* *xref:tools/code-editors-ides-and-repls/ide-plugins/index.adoc[IDE plugins]*
+* *xref:tools/code-editors-ides-and-repls/code-text-editors/index.adoc[Code/text editors]*

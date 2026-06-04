@@ -1,7 +1,0 @@
-= The web platform
-
-* *link:./runtimes-web-browsers/[Runtimes (Web Browsers)]*
-* *link:./vendors/[Vendors]*
-* *link:./tools/[Tools]*
-* *link:./standards/[Standards]*
-* *link:./reference/[Reference]*

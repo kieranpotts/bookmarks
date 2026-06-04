@@ -1,8 +1,0 @@
-= Visibility (Observability and Monitoring)
-
-* *link:./stats-aggregation/[Stats aggregation]*
-* *link:./monitoring/[Monitoring]*
-* *link:./observability/[Observability]*
-* *link:./tracing/[Tracing]*
-* *link:./logging/[Logging]*
-* *link:./data-analysis-tools/[Data analysis tools]*

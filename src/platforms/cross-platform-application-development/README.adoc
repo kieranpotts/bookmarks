@@ -1,5 +1,0 @@
-= Cross-platform application development
-
-* *link:./compiled/[Compiled]*
-* *link:./abstracted-interpreted-vms/[Abstracted/interpreted (VMs)]*
-* *link:./hybrid-web-apps/[Hybrid web apps (ie. using native Web Views)]*

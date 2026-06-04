@@ -1,7 +1,0 @@
-= Assets
-
-* *link:./fonts/[Fonts and type foundries]*
-* *link:./icons/[Icons and illustrations]*
-* *link:./photos/[Photos]*
-* *link:./video/[Video]*
-* *link:./audio/[Audio and music]*

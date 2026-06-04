@@ -1,0 +1,65 @@
+= Vendors (pure ES/TS + server-side runtimes)
+
+* https://nodejstoolbox.com/[Node.js Toolbox]
+
+* *xref:languages/programming/ecmascript-languages/vendors/general-utility-and-functional-programming-libraries/index.adoc[General utility and functional programming libraries]*
+* *xref:languages/programming/ecmascript-languages/vendors/polyfills-and-shims/index.adoc[Polyfills and shims]*
+* *xref:languages/programming/ecmascript-languages/vendors/asynchronous-javascript-promises/index.adoc[Asynchronous JavaScript (Promises)]*
+* *xref:languages/programming/ecmascript-languages/vendors/authentication/index.adoc[Authentication]*
+* *xref:languages/programming/ecmascript-languages/vendors/authorization/index.adoc[Authorization]*
+* *xref:languages/programming/ecmascript-languages/vendors/browser-automation-and-web-scraping/index.adoc[Browser automation and web scraping]*
+* *xref:languages/programming/ecmascript-languages/vendors/cli-abstractions-frameworks/index.adoc[CLI abstractions/frameworks]*
+* *xref:languages/programming/ecmascript-languages/vendors/color-manipulation/index.adoc[Color manipulation]*
+* *xref:languages/programming/ecmascript-languages/vendors/parallelism-worker-threads/index.adoc[Parallelism (Worker Threads)]*
+* *xref:languages/programming/ecmascript-languages/vendors/configuration-and-env-loaders/index.adoc[Configuration and env loaders]*
+* *xref:languages/programming/ecmascript-languages/vendors/cookie-abstractions/index.adoc[Cookie abstractions]*
+* *xref:languages/programming/ecmascript-languages/vendors/data-structures-entities-and-value-objects/index.adoc[Data structures, entities and value objects]*
+* *xref:languages/programming/ecmascript-languages/vendors/database-and-storage-abstractions-and-orms/index.adoc[Database and storage abstractions and ORMs]*
+* *xref:languages/programming/ecmascript-languages/vendors/postgresql-clients/index.adoc[PostgreSQL clients]*
+* *xref:languages/programming/ecmascript-languages/vendors/object-relational-mapping-orm/index.adoc[Object-relational mapping (ORM)]*
+* *xref:languages/programming/ecmascript-languages/vendors/query-builders/index.adoc[Query builders]*
+* *xref:languages/programming/ecmascript-languages/vendors/redis-clients/index.adoc[Redis clients]*
+* *xref:languages/programming/ecmascript-languages/vendors/sqlite-clients/index.adoc[SQLite clients]*
+* *xref:languages/programming/ecmascript-languages/vendors/db-drivers/index.adoc[DB drivers]*
+* *xref:languages/programming/ecmascript-languages/vendors/datetime-libraries/index.adoc[Datetime libraries]*
+* *xref:languages/programming/ecmascript-languages/vendors/dependency-injection-service-locator-ioc/index.adoc[Dependency injection + service locator (IoC)]*
+* *xref:languages/programming/ecmascript-languages/vendors/diffing-text-libraries/index.adoc[Diffing (Text) libraries]*
+* *xref:languages/programming/ecmascript-languages/vendors/dom-implementations-fakes/index.adoc[DOM implementations and fakes]*
+* *xref:languages/programming/ecmascript-languages/vendors/email-delivery/index.adoc[Email delivery]*
+* *xref:languages/programming/ecmascript-languages/vendors/event-emitters-and-pubsub/index.adoc[Event emitters and pubsub]*
+* *xref:languages/programming/ecmascript-languages/vendors/feature-detection-useragent-browser-runtime-detection/index.adoc[Feature detection and useragent/browser/runtime detection]*
+* *xref:languages/programming/ecmascript-languages/vendors/file-archiving-and-compression/index.adoc[File archiving and compression]*
+* *xref:languages/programming/ecmascript-languages/vendors/file-type-mimetype-detection/index.adoc[File type / mimetype detection]*
+* *xref:languages/programming/ecmascript-languages/vendors/form-and-file-upload-processing/index.adoc[Form and file upload processing]*
+* *xref:languages/programming/ecmascript-languages/vendors/geospatial-analysis/index.adoc[Geospatial analysis]*
+* *xref:languages/programming/ecmascript-languages/vendors/graphics/index.adoc[Graphics]*
+* *xref:languages/programming/ecmascript-languages/vendors/cryptography-and-hashing/index.adoc[Cryptography and hashing]*
+* *xref:languages/programming/ecmascript-languages/vendors/hot-module-reloading/index.adoc[Hot module reloading]*
+* *xref:languages/programming/ecmascript-languages/vendors/http-and-websocket-clients/index.adoc[HTTP and WebSocket clients]*
+* *xref:languages/programming/ecmascript-languages/vendors/http-and-websocket-servers/index.adoc[HTTP and WebSocket servers]*
+* *xref:languages/programming/ecmascript-languages/vendors/image-generation-and-processing/index.adoc[Image generation and processing]*
+* *xref:languages/programming/ecmascript-languages/vendors/internationalization-and-localization/index.adoc[Internationalization and localization]*
+* *xref:languages/programming/ecmascript-languages/vendors/jsx-implementations/index.adoc[JSX implementations]*
+* *xref:languages/programming/ecmascript-languages/vendors/jwt/index.adoc[JWT]*
+* *xref:languages/programming/ecmascript-languages/vendors/logging/index.adoc[Logging]*
+* *xref:languages/programming/ecmascript-languages/vendors/machine-learning/index.adoc[Machine learning]*
+* *xref:languages/programming/ecmascript-languages/vendors/numbers-money-and-currency-libraries/index.adoc[Numbers, money and currency libraries]*
+* *xref:languages/programming/ecmascript-languages/vendors/parsers-and-compilers/index.adoc[Parsers and compilers]*
+* *xref:languages/programming/ecmascript-languages/vendors/pdf-generation/index.adoc[PDF generation]*
+* *xref:languages/programming/ecmascript-languages/vendors/queues/index.adoc[Queues]*
+* *xref:languages/programming/ecmascript-languages/vendors/qr-code-generation/index.adoc[QR code generation]*
+* *xref:languages/programming/ecmascript-languages/vendors/random-uuid-passwords-hashes-and-secrets-generation/index.adoc[Random, UUID, passwords, hashes and secrets generation]*
+* *xref:languages/programming/ecmascript-languages/vendors/reactive-programming-libraries/index.adoc[Reactive programming libraries]*
+* *xref:languages/programming/ecmascript-languages/vendors/schedulers-in-process/index.adoc[Schedulers (In-Process)]*
+* *xref:languages/programming/ecmascript-languages/vendors/screen-capture/index.adoc[Screen capture]*
+* *xref:languages/programming/ecmascript-languages/vendors/security-input-sanitization/index.adoc[Security - input sanitization, etc.]*
+* *xref:languages/programming/ecmascript-languages/vendors/server-sent-events/index.adoc[Server-sent events]*
+* *xref:languages/programming/ecmascript-languages/vendors/shell-scripting-shell-execution/index.adoc[Shell scripting / shell execution]*
+* *xref:languages/programming/ecmascript-languages/vendors/ssh-abstractions-and-implementations/index.adoc[SSH abstractions and implementations]*
+* *xref:languages/programming/ecmascript-languages/vendors/syntax-parsing-and-highlighting/index.adoc[Syntax parsing and highlighting]*
+* *xref:languages/programming/ecmascript-languages/vendors/task-job-queues/index.adoc[Task/job queues]*
+* *xref:languages/programming/ecmascript-languages/vendors/validation-and-assertions/index.adoc[Validation and assertions]*
+* *xref:languages/programming/ecmascript-languages/vendors/object-schema-validation/index.adoc[Object / schema validation]*
+* *xref:languages/programming/ecmascript-languages/vendors/json-schema-validation/index.adoc[JSON schema validation]*
+* *xref:languages/programming/ecmascript-languages/vendors/visual-diff-and-regression-testing/index.adoc[Visual diff and regression testing]*
+* *xref:languages/programming/ecmascript-languages/vendors/middleware-systems/index.adoc[Middleware systems]*

@@ -1,6 +1,0 @@
-= Platforms
-
-* *link:./cross-platform-application-development/[Cross-platform application development]*
-* *link:./native/[Native (Operating Systems)]*
-* *link:./the-web-platform/[The web platform]*
-* *link:./machine-learning-platforms/[Machine learning platforms]*

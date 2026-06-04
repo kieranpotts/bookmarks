@@ -1,9 +1,0 @@
-= Methods
-
-* *link:./architecture-and-design/[Architecture and design]*
-* *link:./principles-and-manifestos/[Principles and manifestos]*
-* *link:./ways-of-working-frameworks/[Ways of working frameworks]*
-* *link:./practices-and-techniques/[Practices and techniques]*
-* *link:./productivity-measurement-frameworks/[Productivity measurement frameworks]*
-* *link:./surveys-and-research/[Surveys and research]*
-* *link:./open-source/[Open source]*

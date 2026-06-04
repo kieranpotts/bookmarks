@@ -1,6 +1,0 @@
-= Shells and command languages
-
-* *link:./unix-shells/[Unix shells]*
-* *link:./tools/[Tools]*
-* *link:./cross-platform-shells/[Cross-platform shells]*
-* *link:./compile-to-shell-languages/[Compile-to-shell languages]*

@@ -1,0 +1,5 @@
+= Production service databases
+
+* *xref:infrastructure/databases/production-service-databases/relational-databases/index.adoc[Relational databases]*
+* *xref:infrastructure/databases/production-service-databases/document-oriented-nosql-databases/index.adoc[Document-oriented (NoSQL) databases]*
+* *xref:infrastructure/databases/production-service-databases/graph-databases/index.adoc[Graph databases]*

@@ -1,0 +1,14 @@
+= Languages
+
+* *xref:languages/data-formats/index.adoc[Data interchange formats]*
+* *xref:languages/interface-definitions/index.adoc[Interface definition languages]*
+* *xref:languages/programming/index.adoc[Programming and scripting languages]*
+* *xref:languages/shells/index.adoc[Shells and command languages]*
+* *xref:languages/domain-specific/index.adoc[Domain-specific scripting languages]*
+* *xref:languages/visual/index.adoc[Visual programming languages and tools]*
+* *xref:languages/schema/index.adoc[Schema languages]*
+* *xref:languages/serialization/index.adoc[Serialization languages]*
+* *xref:languages/stylesheets/index.adoc[Style sheet languages]*
+* *xref:languages/encoding/index.adoc[Text encoding systems]*
+* *xref:languages/markup/index.adoc[Text markup languages]*
+* *xref:languages/query/index.adoc[Query languages]*

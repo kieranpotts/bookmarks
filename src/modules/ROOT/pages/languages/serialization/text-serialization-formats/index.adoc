@@ -1,0 +1,5 @@
+= Text serialization formats
+
+* *xref:languages/serialization/text-serialization-formats/yaml/index.adoc[YAML]*
+* *xref:languages/serialization/text-serialization-formats/configuration-file-formats/index.adoc[Configuration file formats]*
+* *xref:languages/serialization/text-serialization-formats/json/index.adoc[JSON]*

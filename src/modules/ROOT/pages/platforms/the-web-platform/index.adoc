@@ -1,0 +1,7 @@
+= The web platform
+
+* *xref:platforms/the-web-platform/runtimes-web-browsers/index.adoc[Runtimes (Web Browsers)]*
+* *xref:platforms/the-web-platform/vendors/index.adoc[Vendors]*
+* *xref:platforms/the-web-platform/tools/index.adoc[Tools]*
+* *xref:platforms/the-web-platform/standards/index.adoc[Standards]*
+* *xref:platforms/the-web-platform/reference/index.adoc[Reference]*

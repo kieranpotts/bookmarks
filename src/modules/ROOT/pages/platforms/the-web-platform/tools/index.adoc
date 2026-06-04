@@ -1,0 +1,16 @@
+= Tools
+
+* *xref:platforms/the-web-platform/tools/browser-devtools/index.adoc[Browser devtools]*
+* *xref:platforms/the-web-platform/tools/browser-and-device-testing/index.adoc[Browser and device testing]*
+* *xref:platforms/the-web-platform/tools/browser-automation-and-simulation/index.adoc[Browser automation and simulation]*
+* *xref:platforms/the-web-platform/tools/build-tools-bundlers-and-dev-servers/index.adoc[Build tools, bundlers and dev servers]*
+* *xref:platforms/the-web-platform/tools/cdns-for-open-source-web-assets/index.adoc[CDNs for open source web assets]*
+* *xref:platforms/the-web-platform/tools/css-parsers-and-transformers/index.adoc[CSS parsers and transformers]*
+* *xref:platforms/the-web-platform/tools/code-generators/index.adoc[Code generators]*
+* *xref:platforms/the-web-platform/tools/code-editors-ides-and-repls/index.adoc[Code editors, IDEs and REPLs]*
+* *xref:platforms/the-web-platform/tools/search-engine-optimization/index.adoc[Search engine optimization]*
+* *xref:platforms/the-web-platform/tools/web-app-reverse-engineering/index.adoc[Web app reverse engineering]*
+* *xref:platforms/the-web-platform/tools/web-ui-ux-design-tools/index.adoc[Web UI/UX design tools]*
+* *xref:platforms/the-web-platform/tools/web-application-testing-tools/index.adoc[Web application testing tools]*
+
+* https://chromedevtools.github.io/devtools-protocol/[Chrome DevTools Protocol]

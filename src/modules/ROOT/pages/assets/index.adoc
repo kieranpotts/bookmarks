@@ -1,0 +1,7 @@
+= Assets
+
+* *xref:assets/fonts/index.adoc[Fonts and type foundries]*
+* *xref:assets/icons/index.adoc[Icons and illustrations]*
+* *xref:assets/photos/index.adoc[Photos]*
+* *xref:assets/video/index.adoc[Video]*
+* *xref:assets/audio/index.adoc[Audio and music]*

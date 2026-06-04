@@ -1,0 +1,14 @@
+= Utilities
+
+* *xref:utilities/password-and-secrets-management/index.adoc[Password and secrets management]*
+* *xref:utilities/pagers/index.adoc[Pagers]*
+* *xref:utilities/prompt-theme-engines/index.adoc[Prompt theme engines (multi-shell)]*
+* *xref:utilities/terminal-multiplexers/index.adoc[Terminal multiplexers]*
+* *xref:utilities/file-transfer-utilities/index.adoc[File transfer utilities]*
+* *xref:utilities/text-editors-cli/index.adoc[Text editors (CLI)]*
+* *xref:utilities/parsers/index.adoc[Parsers]*
+* *xref:utilities/web-http-clients/index.adoc[Web/HTTP clients]*
+* *xref:utilities/regex/index.adoc[Regex]*
+* *xref:utilities/spelling-and-grammar-checkers/index.adoc[Spelling and grammar checkers]*
+* *xref:utilities/text-processing/index.adoc[Text processing]*
+* *xref:utilities/image-multimedia-processing/index.adoc[Image multimedia processing]*

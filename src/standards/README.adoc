@@ -1,3 +1,0 @@
-= Standards
-
-* *link:./messages/[Standards for messages, events, and webhooks]*

@@ -1,0 +1,24 @@
+= Tools
+
+* *xref:languages/programming/ecmascript-languages/tools/benchmarking-and-runtime-analysis/index.adoc[Benchmarking and runtime analysis]*
+* *xref:languages/programming/ecmascript-languages/tools/build-tools-and-task-runners/index.adoc[Build tools and task runners]*
+* *xref:languages/programming/ecmascript-languages/tools/single-executables/index.adoc[Single executables]*
+* *xref:languages/programming/ecmascript-languages/tools/code-editors-and-ides/index.adoc[Code editors and IDEs]*
+* *xref:languages/programming/ecmascript-languages/tools/code-sandboxes-playgrounds-repls/index.adoc[Code sandboxes/playgrounds/REPLs]*
+* *xref:languages/programming/ecmascript-languages/tools/compilers-transpilers-and-parsers/index.adoc[Compilers/transpilers and parsers]*
+* *xref:languages/programming/ecmascript-languages/tools/runtime-transpilers-and-module-loaders/index.adoc[Runtime transpilers and module loaders]*
+* *xref:languages/programming/ecmascript-languages/tools/development-lifecycle-automation/index.adoc[Development lifecycle automation]*
+* *xref:languages/programming/ecmascript-languages/tools/documentation-generators/index.adoc[Documentation generators]*
+* *xref:languages/programming/ecmascript-languages/tools/dummy-fake-data-generation/index.adoc[Dummy/fake data generation]*
+* *xref:languages/programming/ecmascript-languages/tools/hot-js-module-reloading/index.adoc[Hot JS module reloading]*
+* *xref:languages/programming/ecmascript-languages/tools/module-systems-legacy/index.adoc[Module systems (legacy)]*
+* *xref:languages/programming/ecmascript-languages/tools/package-managers/index.adoc[Package managers]*
+* *xref:languages/programming/ecmascript-languages/tools/package-registries-and-hosting/index.adoc[Package registries and hosting]*
+* *xref:languages/programming/ecmascript-languages/tools/runtime-version-managers/index.adoc[Runtime version managers]*
+* *xref:languages/programming/ecmascript-languages/tools/runtime-process-managers/index.adoc[Runtime process managers]*
+* *xref:languages/programming/ecmascript-languages/tools/script-runners/index.adoc[Script runners]*
+* *xref:languages/programming/ecmascript-languages/tools/static-analysis-and-linting/index.adoc[Static analysis and linting]*
+* *xref:languages/programming/ecmascript-languages/tools/testing-frameworks/index.adoc[Testing frameworks]*
+* *xref:languages/programming/ecmascript-languages/tools/workspace-management-monorepos/index.adoc[Workspace management (monorepos)]*
+* *xref:languages/programming/ecmascript-languages/tools/dependency-analysis/index.adoc[Dependency analysis]*
+* *xref:languages/programming/ecmascript-languages/tools/file-watching-and-hot-reloading/index.adoc[File watching and hot reloading]*

@@ -1,5 +1,0 @@
-= Analytical databases
-
-* *link:./data-warehouses/[Data warehouses (structured)]*
-* *link:./data-lakes/[Data lakes (unstructured)]*
-* *link:./gis-databases/[GIS databases]*

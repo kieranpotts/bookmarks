@@ -1,0 +1,15 @@
+= Dns, cdns, reverse proxies
+
+* https://www.cloudflare.com/en-gb/[Cloudflare]
+* https://www.iana.org/domains/root/db[Root Zone Database]
+
+* *xref:infrastructure/dns-cdn/cdns-and-static-site-hosting/index.adoc[CDNs and static site hosting]*
+* *xref:infrastructure/dns-cdn/reverse-proxies/index.adoc[Reverse proxies]*
+* *xref:infrastructure/dns-cdn/dns-hosting-services/index.adoc[DNS hosting services]*
+* *xref:infrastructure/dns-cdn/secondary-dns-replication-services/index.adoc[Secondary DNS (replication) services]*
+* *xref:infrastructure/dns-cdn/dns-lookup/index.adoc[DNS lookup]*
+* *xref:infrastructure/dns-cdn/dns-registrars-and-marketplaces/index.adoc[DNS registrars and marketplaces]*
+* *xref:infrastructure/dns-cdn/domain-name-generators/index.adoc[Domain name generators]*
+* *xref:infrastructure/dns-cdn/expired-domains-and-backorders/index.adoc[Expired domains and backorders]*
+* *xref:infrastructure/dns-cdn/domain-name-valuation/index.adoc[Domain name valuation]*
+* *xref:infrastructure/dns-cdn/dns-tools/index.adoc[DNS tools]*

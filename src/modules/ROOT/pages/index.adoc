@@ -1,0 +1,14 @@
+= Bookmarks
+
+* *xref:languages/index.adoc[Languages]*
+* *xref:standards/index.adoc[Standards]*
+* *xref:platforms/index.adoc[Platforms]*
+* *xref:infrastructure/index.adoc[Infrastructure]*
+* *xref:applications/index.adoc[Applications]*
+* *xref:services/index.adoc[Services]*
+* *xref:utilities/index.adoc[Utilities]*
+* *xref:tools/index.adoc[Tools]*
+* *xref:methods/index.adoc[Methods]*
+* *xref:assets/index.adoc[Assets]*
+* *xref:work/index.adoc[Work]*
+* *xref:media/index.adoc[Media]*

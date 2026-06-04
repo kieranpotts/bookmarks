@@ -1,7 +1,0 @@
-= Linux
-
-* *link:./distributions/[Distributions]*
-* *link:./package-managers/[Package managers]*
-* *link:./package-repositories/[Package repositories]*
-* *link:./system-and-service-managers/[System and service managers]*
-* *link:./reference/[Reference]*

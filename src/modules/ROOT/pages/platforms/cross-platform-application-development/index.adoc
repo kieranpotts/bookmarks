@@ -1,0 +1,5 @@
+= Cross-platform application development
+
+* *xref:platforms/cross-platform-application-development/compiled/index.adoc[Compiled]*
+* *xref:platforms/cross-platform-application-development/abstracted-interpreted-vms/index.adoc[Abstracted/interpreted (VMs)]*
+* *xref:platforms/cross-platform-application-development/hybrid-web-apps/index.adoc[Hybrid web apps (ie. using native Web Views)]*

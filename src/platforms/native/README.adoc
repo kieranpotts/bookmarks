@@ -1,8 +1,0 @@
-= Native (Operating Systems)
-
-* *link:./android/[Android]*
-* *link:./bsd/[BSD]*
-* *link:./linux/[Linux]*
-* *link:./windows/[Windows]*
-* *link:./macos/[macOS]*
-* *link:./unix/[Unix]*

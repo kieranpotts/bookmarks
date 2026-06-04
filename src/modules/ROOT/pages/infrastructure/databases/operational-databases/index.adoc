@@ -1,0 +1,5 @@
+= Operational databases
+
+* *xref:infrastructure/databases/operational-databases/key-value-stores-and-in-memory-object-caches/index.adoc[Key-value stores and in-memory object caches]*
+* *xref:infrastructure/databases/operational-databases/time-series-databases/index.adoc[Time series databases]*
+* *xref:infrastructure/databases/operational-databases/logs-and-search-databases/index.adoc[Logs and search databases]*

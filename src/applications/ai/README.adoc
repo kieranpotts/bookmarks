@@ -1,7 +1,0 @@
-= AI
-
-* *link:./managers/[Model Managers]*
-* *link:./agents/[AI Agents]*
-* *link:./skills/[Agent Skills, Instructions, Custom Prompts, etc.]*
-* *link:./models/[AI Models]*
-* *link:./front-ends/[Front-ends]*

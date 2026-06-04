@@ -1,7 +1,0 @@
-= Java
-
-* *link:./jvms-and-jdks/[JVMs and JDKs]*
-* *link:./tools/[Tools]*
-* *link:./vendors/[Vendors]*
-* *link:./language-specifications/[Language specifications]*
-* *link:./reference/[Reference]*

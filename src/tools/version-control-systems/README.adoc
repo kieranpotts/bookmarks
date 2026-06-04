@@ -1,8 +1,0 @@
-= Version control systems (VCS)
-
-* https://mercurial-scm.org/[Mercurial]
-* https://subversion.apache.org/[Subversion (SVN)]
-* https://www.perforce.com/products/helix-core[Perforce Helix (formerly Perforce)]
-* https://fossil-scm.org/[Fossil]
-
-* *link:./git/[Git]*

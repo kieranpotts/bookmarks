@@ -1,0 +1,12 @@
+= Programming and scripting languages
+
+* *xref:languages/programming/ecmascript-languages/index.adoc[ECMAScript languages]*
+* *xref:languages/programming/jvm-languages/index.adoc[JVM languages]*
+* *xref:languages/programming/c-family-languages/index.adoc[C family languages]*
+* *xref:languages/programming/lisp-family-languages/index.adoc[Lisp family languages]*
+* *xref:languages/programming/go/index.adoc[Go (aka Golang)]*
+* *xref:languages/programming/perl/index.adoc[Perl]*
+* *xref:languages/programming/php/index.adoc[PHP]*
+* *xref:languages/programming/python/index.adoc[Python]*
+* *xref:languages/programming/tcl/index.adoc[Tcl ("tickle")]*
+* *xref:languages/programming/data-centric-programming-languages/index.adoc[Data-centric programming languages]*

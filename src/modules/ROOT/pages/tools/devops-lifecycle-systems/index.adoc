@@ -1,0 +1,9 @@
+= DevOps lifecycle systems
+
+* *xref:tools/devops-lifecycle-systems/all-in-one-devops-systems/index.adoc[All-in-one DevOps systems]*
+* *xref:tools/devops-lifecycle-systems/code-repository-hosting/index.adoc[Code repository hosting]*
+* *xref:tools/devops-lifecycle-systems/artifact-repositories/index.adoc[Artifact repositories]*
+* *xref:tools/devops-lifecycle-systems/code-search/index.adoc[Code search]*
+* *xref:tools/devops-lifecycle-systems/ci-cd-systems/index.adoc[CI/CD systems (automation servers)]*
+* *xref:tools/devops-lifecycle-systems/ci-cd-integrations/index.adoc[CI/CD integrations (automation tools and services)]*
+* *xref:tools/devops-lifecycle-systems/readme-integrations/index.adoc[README integrations]*

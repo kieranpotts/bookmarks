@@ -1,0 +1,23 @@
+= Infrastructure
+
+* *xref:infrastructure/public-cloud/index.adoc[Public cloud services]*
+* *xref:infrastructure/private-cloud/index.adoc[Private cloud solutions]*
+* *xref:infrastructure/dns-cdn/index.adoc[DNS, CDNs, reverse proxies]*
+* *xref:infrastructure/iac-orchestration/index.adoc[IaC, cloud automation and orchestration]*
+* *xref:infrastructure/virtualization/index.adoc[Virtualization and containerization]*
+* *xref:infrastructure/applications/index.adoc[Pre-packaged application catalogs]*
+* *xref:infrastructure/data-serialization/index.adoc[Data serialization systems]*
+* *xref:infrastructure/protocols/index.adoc[Communication protocols]*
+* *xref:infrastructure/databases/index.adoc[Databases and caching systems]*
+* *xref:infrastructure/analytics/index.adoc[Big data analytics, search engines, logging and observability]*
+* *xref:infrastructure/filesystem/index.adoc[Distributed file systems]*
+* *xref:infrastructure/load-balancers/index.adoc[Load balancers, reverse proxies, service routing]*
+* *xref:infrastructure/tls/index.adoc[TLS/SSL certificate authorities]*
+* *xref:infrastructure/events/index.adoc[Event-driven systems]*
+* *xref:infrastructure/messaging/index.adoc[Message brokers (aka. message queues)]*
+* *xref:infrastructure/observability/index.adoc[Visibility (Observability and Monitoring)]*
+* *xref:infrastructure/service-communication/index.adoc[Service communication protocols]*
+* *xref:infrastructure/service-mesh/index.adoc[Service mesh and service discovery]*
+* *xref:infrastructure/task-queues/index.adoc[Task queues (aka. job queues)]*
+* *xref:infrastructure/web-servers/index.adoc[Web/HTTP servers]*
+* *xref:infrastructure/testing/index.adoc[Infrastructure testing]*

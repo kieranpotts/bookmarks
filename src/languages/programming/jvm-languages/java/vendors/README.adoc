@@ -1,5 +1,0 @@
-= Vendors
-
-* *link:./frameworks/[Frameworks]*
-* *link:./project-skeletons-starter-kits-and-generators/[Project skeletons, starter kits and generators]*
-* *link:./libraries/[Libraries]*

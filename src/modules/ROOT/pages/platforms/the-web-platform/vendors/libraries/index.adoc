@@ -1,0 +1,33 @@
+= Libraries
+
+* *xref:platforms/the-web-platform/vendors/libraries/animation-libraries/index.adoc[Animation libraries]*
+* *xref:platforms/the-web-platform/vendors/libraries/audio-video-and-image-processing/index.adoc[Audio, video, and image processing]*
+* *xref:platforms/the-web-platform/vendors/libraries/browser-extension-api-abstractions-and-sdks/index.adoc[Browser extension API abstractions and sdks]*
+* *xref:platforms/the-web-platform/vendors/libraries/canvas-and-svg-abstractions/index.adoc[Canvas and SVG abstractions]*
+* *xref:platforms/the-web-platform/vendors/libraries/css-libraries/index.adoc[CSS libraries]*
+* *xref:platforms/the-web-platform/vendors/libraries/css-themes/index.adoc[CSS themes]*
+* *xref:platforms/the-web-platform/vendors/libraries/css-utility-class-libraries/index.adoc[CSS utility class libraries]*
+* *xref:platforms/the-web-platform/vendors/libraries/tailwind-css/index.adoc[Tailwind CSS]*
+* *xref:platforms/the-web-platform/vendors/libraries/tailwind-tools/index.adoc[Tailwind tools]*
+* *xref:platforms/the-web-platform/vendors/libraries/css-in-js-libraries/index.adoc[CSS-in-JS libraries]*
+* *xref:platforms/the-web-platform/vendors/libraries/css-resets-and-baseline-stylesheets/index.adoc[CSS resets and baseline stylesheets]*
+* *xref:platforms/the-web-platform/vendors/libraries/css-color-manipulation/index.adoc[CSS color manipulation]*
+* *xref:platforms/the-web-platform/vendors/libraries/other-css-libraries-and-tools/index.adoc[Other CSS libraries and tools]*
+* *xref:platforms/the-web-platform/vendors/libraries/data-fetching/index.adoc[Data fetching]*
+* *xref:platforms/the-web-platform/vendors/libraries/graphql/index.adoc[GraphQL]*
+* *xref:platforms/the-web-platform/vendors/libraries/dom-abstractions/index.adoc[DOM abstractions]*
+* *xref:platforms/the-web-platform/vendors/libraries/data-storage-local/index.adoc[Data storage (local)]*
+* *xref:platforms/the-web-platform/vendors/libraries/data-visualization/index.adoc[Data visualization]*
+* *xref:platforms/the-web-platform/vendors/libraries/diagram-generation/index.adoc[Diagram generation]*
+* *xref:platforms/the-web-platform/vendors/libraries/favicon-manipulation/index.adoc[Favicon manipulation]*
+* *xref:platforms/the-web-platform/vendors/libraries/form-validation/index.adoc[Form validation]*
+* *xref:platforms/the-web-platform/vendors/libraries/input-masks-and-validation/index.adoc[Input masks and validation]*
+* *xref:platforms/the-web-platform/vendors/libraries/micro-frontend-solutions/index.adoc[Micro-frontend solutions]*
+* *xref:platforms/the-web-platform/vendors/libraries/popup-element-management/index.adoc[Popup element management]*
+* *xref:platforms/the-web-platform/vendors/libraries/routing/index.adoc[Routing]*
+* *xref:platforms/the-web-platform/vendors/libraries/server-sent-events-sse/index.adoc[Server sent events (SSE)]*
+* *xref:platforms/the-web-platform/vendors/libraries/state-management/index.adoc[State management]*
+* *xref:platforms/the-web-platform/vendors/libraries/template-engines/index.adoc[Template engines]*
+* *xref:platforms/the-web-platform/vendors/libraries/web-component-abstractions-and-compilers/index.adoc[Web component abstractions and compilers]*
+* *xref:platforms/the-web-platform/vendors/libraries/web-component-wrappers/index.adoc[Web component wrappers]*
+* *xref:platforms/the-web-platform/vendors/libraries/polyfills/index.adoc[Polyfills]*

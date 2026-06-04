@@ -1,0 +1,15 @@
+= Graphic design tools
+
+* https://www.canva.com/draw/[Canva Draw]
+
+* *xref:tools/graphic-design-tools/accessibility-tools/index.adoc[Accessibility tools]*
+* *xref:tools/graphic-design-tools/photo-libraries-and-digital-asset-management/index.adoc[Photo libraries and digital asset management]*
+* *xref:tools/graphic-design-tools/animation-tools/index.adoc[Animation tools]*
+* *xref:tools/graphic-design-tools/color-scheme-and-gradient-generators/index.adoc[Color scheme and gradient generators]*
+* *xref:tools/graphic-design-tools/image-compression-and-optimization/index.adoc[Image compression and optimization]*
+* *xref:tools/graphic-design-tools/mockups-and-prototyping/index.adoc[Mockups and prototyping]*
+* *xref:tools/graphic-design-tools/code-image-generators/index.adoc[Code image generators]*
+* *xref:tools/graphic-design-tools/ascii-art-tools/index.adoc[ASCII art tools]*
+* *xref:tools/graphic-design-tools/typography-tools-and-font-design/index.adoc[Typography tools and font design]*
+* *xref:tools/graphic-design-tools/photo-editing/index.adoc[Photo editing]*
+* *xref:tools/graphic-design-tools/vector-graphics-editors/index.adoc[Vector graphics editors]*
