@@ -90,6 +90,7 @@
 == Tech and startups
 
 * https://otta.com/[Otta ★]
+* https://cord.com/[Cord ★]
 * https://betalist.com/[BetaList]
 * https://briansjobsearch.com/[Brian's Job Search]
 * https://devitjobs.uk/[DevITjobs.uk]
