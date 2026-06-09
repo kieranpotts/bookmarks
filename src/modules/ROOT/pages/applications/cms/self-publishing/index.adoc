@@ -1,0 +1,4 @@
+= Self-publishing
+
+* https://www.ingramspark.com/[IngramSpark]
+* https://leanpub.com/[Leanpub]

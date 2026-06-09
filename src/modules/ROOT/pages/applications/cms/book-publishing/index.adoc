@@ -1,3 +1,0 @@
-= Book publishing
-
-* https://leanpub.com/[Leanpub]

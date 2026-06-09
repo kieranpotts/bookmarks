@@ -1,10 +1,10 @@
 = Content management systems (CMS)
 
 * *xref:applications/cms/blogging-and-personal-publishing-platforms/index.adoc[Blogging and personal publishing platforms]*
-* *xref:applications/cms/book-publishing/index.adoc[Book publishing]*
 * *xref:applications/cms/database-cms-and-web-frontend/index.adoc[Database CMS + web front-ends]*
 * *xref:applications/cms/flat-file-and-git-based-cmses/index.adoc[Flat-file and Git-based CMSes]*
 * *xref:applications/cms/visual-cmses/index.adoc[Visual CMSes]*
 * *xref:applications/cms/headless-cmses/index.adoc[Headless CMSes]*
+* *xref:applications/cms/self-publishing/index.adoc[Self-publishing]*
 * *xref:applications/cms/static-site-generation-only/index.adoc[Static-site generation only]*
 * *xref:applications/cms/translation-management/index.adoc[Translation management]*
