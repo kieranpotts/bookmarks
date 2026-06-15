@@ -1,6 +1,9 @@
 = Git
 
+== Implementations
+
 * https://git-scm.com/[Git]
+* https://isomorphic-git.org/[isomorphic-git] — JavaScript implementation.
 
 == Reference resources
 
