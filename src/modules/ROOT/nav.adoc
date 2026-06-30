@@ -1,3 +1,12 @@
+// This nav file declares the page hierarchy for the "bookmarks"
+// component. Antora uses it to compute each page's ancestry
+// (`page.breadcrumbs`), which drives the breadcrumb trail rendered
+// by `website/default/src/ui/partials/breadcrumbs.hbs`.
+//
+// Without this file, every page in this component has no ancestors
+// and no breadcrumb trail is shown.
+
+
 * xref:index.adoc[Bookmarks]
 ** xref:applications/index.adoc[Applications]
 *** xref:applications/ai/index.adoc[AI]
