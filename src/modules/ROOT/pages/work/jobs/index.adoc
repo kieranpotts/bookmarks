@@ -61,6 +61,7 @@
 == Remote
 
 * https://allremote.jobs/[All Remote (formerly Outsourcely)]
+* https://hiddenjobs.dev/[Hidden Jobs]
 * https://www.crossover.com/[Crossover]
 * https://dynamitejobs.com/[Dynamite Jobs]
 * https://www.findasync.com/[FindAsync]
@@ -97,6 +98,7 @@
 * https://www.dice.com/[Dice]
 * https://www.trueup.io/[TrueUp]
 * https://wellfound.com/[Wellfound - formerly AngelList Talent]
+* https://www.topgenaijobs.com/[TopGenAIJobs]
 * https://stillhiring.today/[Who's Still Hiring?]
 * https://techworkersclub.com/[Tech Workers Club]
 * https://larajobs.com/[LaraJobs]
