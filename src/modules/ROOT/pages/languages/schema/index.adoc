@@ -1,6 +1,7 @@
 = Schema languages
 
 * https://cuelang.org/[CUE]
+* https://linkml.io/[LinkML]
 * https://schema.org/[Schema.org]
 * https://www.w3.org/TR/xmlschema-1/[XML Schema]
 
