@@ -11,7 +11,7 @@
   "[asciidoc]": {
     /* Fully disable word wrap for AsciiDoc files */
     "editor.wordWrap": "off",
-    "editor.wordWrapColumn": 0, /* no-op*/
+    "editor.wordWrapColumn": 100, /* n/a */
 
     /* Enable auto-formatting for Asciidoc files. */
     "editor.formatOnPaste": true,
@@ -25,9 +25,9 @@
   },
 
   "[markdown]": {
-    /* Wrap Markdown files at 72 characters. */
+    /* Wrap Markdown files at 100 characters. */
     "editor.wordWrap": "bounded",
-    "editor.wordWrapColumn": 72,
+    "editor.wordWrapColumn": 100,
 
     /* Enable auto-formatting for Markdown files. */
     "editor.formatOnPaste": true,
