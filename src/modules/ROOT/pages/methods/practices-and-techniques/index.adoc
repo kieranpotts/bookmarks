@@ -2,6 +2,7 @@
 
 Development practices and techniques, organized by topic.
 
+* *xref:methods/practices-and-techniques/code-katas/index.adoc[Code katas]*
 * *xref:methods/practices-and-techniques/refactoring/index.adoc[Refactoring]*
 * *xref:methods/practices-and-techniques/test-driven-development/index.adoc[Test-driven development]*
 * *xref:methods/practices-and-techniques/version-control-methodologies/index.adoc[Version control methodologies]*

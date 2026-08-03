@@ -1,0 +1,7 @@
+= Code katas
+
+Short, repeatable coding exercises for practicing technique and problem-solving.
+
+* https://github.com/gamontal/awesome-katas?tab=readme-ov-file#codekata[Awesome Katas]
+* https://curiousprogrammer.dev/blog/code-katas[Code Katas - Curious Programmer]
+* http://codekata.com/kata/kata01-supermarket-pricing/[Code Kata - Supermarket Pricing]
