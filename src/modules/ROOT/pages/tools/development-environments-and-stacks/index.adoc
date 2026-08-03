@@ -5,6 +5,10 @@ setups and LAMP-like bundles.
 
 * https://containers.dev/[Dev Containers]
 
+== Local cloud emulators
+
+* https://github.com/floci-io/floci[Floci] – A free, open-source local AWS emulator for development, testing, and CI. Point AWS SDKs, CLI, Terraform, CDK, or OpenTofu at http://localhost:4566 with no account, auth token, or paid feature gates; a drop-in alternative to LocalStack Community.
+
 == LAMP-like stacks
 
 * https://ampps.com/[AMPPS]
