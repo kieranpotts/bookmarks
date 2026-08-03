@@ -1,7 +1,6 @@
 = Form and file upload processing
 
-Libraries for parsing multipart form data and handling file uploads in
-Node.js.
+Libraries for parsing multipart form data and handling file uploads in Node.js.
 
 * https://github.com/pillarjs/multiparty[multiparty]
 * https://github.com/richardgirges/express-fileupload[express-fileupload]

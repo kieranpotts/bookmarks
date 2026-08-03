@@ -1,7 +1,6 @@
 = Validation and verification services
 
-Services for validating and verifying data such as email addresses and
-language.
+Services for validating and verifying data such as email addresses and language.
 
 == Email
 

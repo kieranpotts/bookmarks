@@ -1,6 +1,5 @@
 = Color manipulation
 
-Libraries for parsing, converting, and manipulating colour values in
-JavaScript.
+Libraries for parsing, converting, and manipulating colour values in JavaScript.
 
 * https://github.com/color-js/color.js[color.js]

@@ -1,7 +1,6 @@
 = Major public cloud services
 
-The major public cloud providers and their training and certification
-resources.
+The major public cloud providers and their training and certification resources.
 
 == AWS
 

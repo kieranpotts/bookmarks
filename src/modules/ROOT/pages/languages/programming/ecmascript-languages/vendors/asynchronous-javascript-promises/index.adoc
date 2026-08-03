@@ -1,7 +1,7 @@
 = Asynchronous JavaScript (promises)
 
-Libraries for managing asynchronous control flow and promise-based patterns
-in JavaScript, including circuit breakers and effect systems.
+Libraries for managing asynchronous control flow and promise-based patterns in
+JavaScript, including circuit breakers and effect systems.
 
 * https://github.com/nodeshift/opossum[Opossum]
 * https://effect.website/[Effect]

@@ -1,7 +1,7 @@
 = File archiving and compression
 
-Libraries for creating, reading, and compressing archive files such as zip,
-in JavaScript.
+Libraries for creating, reading, and compressing archive files such as zip, in
+JavaScript.
 
 * https://github.com/thejoshwolfe/yauzl[yauzl]
 * https://github.com/thejoshwolfe/yazl[yazl]

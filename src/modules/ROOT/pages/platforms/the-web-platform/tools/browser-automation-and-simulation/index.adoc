@@ -1,7 +1,7 @@
 = Browser automation and simulation
 
-Tools and frameworks for automating and simulating browser interactions,
-mostly for testing.
+Tools and frameworks for automating and simulating browser interactions, mostly
+for testing.
 
 * https://w3c.github.io/webdriver/[W3C WebDriver Specification]
 * https://developer.chrome.com/docs/chromedriver[ChromeDriver]

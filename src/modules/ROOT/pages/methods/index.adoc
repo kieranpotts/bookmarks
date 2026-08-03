@@ -1,7 +1,7 @@
 = Methods
 
-Approaches, principles, and frameworks for how software is designed, built,
-and measured, organized by type.
+Approaches, principles, and frameworks for how software is designed, built, and
+measured, organized by type.
 
 * *xref:methods/architecture-and-design/index.adoc[Architecture and design]*
 * *xref:methods/principles-and-manifestos/index.adoc[Principles and manifestos]*

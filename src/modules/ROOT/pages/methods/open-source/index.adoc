@@ -1,7 +1,6 @@
 = Open source
 
-Guides, organizations, and license references relating to open source
-software.
+Guides, organizations, and license references relating to open source software.
 
 * https://opensource.guide/[Open Source Guides]
 * https://sfconservancy.org/[Software Freedom Conservancy]

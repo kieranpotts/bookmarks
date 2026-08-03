@@ -1,7 +1,6 @@
 = CSS parsers and transformers
 
-CSS preprocessors, parsers, and transformers, including PostCSS and its
-plugins.
+CSS preprocessors, parsers, and transformers, including PostCSS and its plugins.
 
 * https://lesscss.org/[Less]
 * https://sass-lang.com/[Sass]

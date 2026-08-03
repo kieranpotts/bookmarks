@@ -23,29 +23,51 @@ Two main certifications:
 
 ==== CPSA-F
 
-*Certified Professional for Software Architecture - Foundational Level* by iSAQB (International Software Architecture Qualification Board).
+*Certified Professional for Software Architecture - Foundational Level* by iSAQB
+(International Software Architecture Qualification Board).
 
-This certificate is regarded as being difficult to obtain, but at least it never expires once you've earned it!
+This certificate is regarded as being difficult to obtain, but at least it never
+expires once you've earned it!
 
-The focus of this certification is *software architecture*. This is about being hands-on with system design, handling code-level design and component structures, and working closely with application developers and even being a bit hands-on with coding yourself. A software architect makes technology choices, sets standards to ensure quality, and does technical designs through artifacts such as UML. Software architects are expected to have substantial development experience.
+The focus of this certification is *software architecture*. This is about being
+hands-on with system design, handling code-level design and component
+structures, and working closely with application developers and even being a bit
+hands-on with coding yourself. A software architect makes technology choices,
+sets standards to ensure quality, and does technical designs through artifacts
+such as UML. Software architects are expected to have substantial development
+experience.
 
-Software architects work mostly with other technicians, rather than business folk.
+Software architects work mostly with other technicians, rather than business
+folk.
 
-This role is for people who enjoy shaping technical foundations for products, and collaborating with other technical stakeholders including QA and ops, as well as product managers. The focus of the role is delivering software that meets specific user requirements.
+This role is for people who enjoy shaping technical foundations for products,
+and collaborating with other technical stakeholders including QA and ops, as
+well as product managers. The focus of the role is delivering software that
+meets specific user requirements.
 
-This role is a good choice for people who are good as solving complex technical challenges, setting standards, choosing technologies and design patterns, and so on.
+This role is a good choice for people who are good as solving complex technical
+challenges, setting standards, choosing technologies and design patterns, and so
+on.
 
 ==== TOGAF
 
 *The Open Group Architecture Framework* by The Open Group.
 
-This certificate is focused more on *enterprise architecture*, ie. focusing on high-level business strategy and aligning IT infrastructure with broader business goals. Enterprise architects engage in planning, governance, and alignment of technology with business strategy.
+This certificate is focused more on *enterprise architecture*, ie. focusing on
+high-level business strategy and aligning IT infrastructure with broader
+business goals. Enterprise architects engage in planning, governance, and
+alignment of technology with business strategy.
 
-Enterprise architects spend more time collaborating with senior leadership than technical folk - but ultimately they are the glue between the two. They set the technical strategy from a business perspective, rather than a user/customer one.
+Enterprise architects spend more time collaborating with senior leadership than
+technical folk - but ultimately they are the glue between the two. They set the
+technical strategy from a business perspective, rather than a user/customer one.
 
-Enterprise architects do not get so involved in things like code-level design patterns, application performance tuning, database optimization, or choosing software frameworks for individual projects, etc.
+Enterprise architects do not get so involved in things like code-level design
+patterns, application performance tuning, database optimization, or choosing
+software frameworks for individual projects, etc.
 
-This role is for people who enjoy strategic planning and working at management levels.
+This role is for people who enjoy strategic planning and working at management
+levels.
 
 ****
 Analogy:

@@ -1,6 +1,5 @@
 = Module systems (legacy)
 
-Legacy JavaScript module systems and loaders, largely superseded by ES
-modules.
+Legacy JavaScript module systems and loaders, largely superseded by ES modules.
 
 * https://requirejs.org/[Require.js]

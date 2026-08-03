@@ -1,7 +1,6 @@
 = Configuration file formats
 
-Text-based formats designed specifically for application configuration
-files.
+Text-based formats designed specifically for application configuration files.
 
 * https://toml.io/en/[TOML]
 * https://ne-on.org/[Neon]

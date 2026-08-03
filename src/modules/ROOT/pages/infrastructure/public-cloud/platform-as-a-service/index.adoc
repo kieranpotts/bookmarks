@@ -1,7 +1,7 @@
 = Platform-as-a-service
 
-Platform-as-a-service providers for deploying applications without
-managing infrastructure.
+Platform-as-a-service providers for deploying applications without managing
+infrastructure.
 
 * https://railway.app/[Railway.app]
 * https://www.pythonanywhere.com/[PythonAnywhere]

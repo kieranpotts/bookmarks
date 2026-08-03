@@ -1,7 +1,7 @@
 = Schedulers (In-Process)
 
-Libraries for scheduling recurring in-process tasks using cron-like syntax
-in Node.js.
+Libraries for scheduling recurring in-process tasks using cron-like syntax in
+Node.js.
 
 * https://croner.56k.guru/[Croner]
 * https://github.com/kibertoad/toad-scheduler[toad-scheduler]

@@ -1,7 +1,7 @@
 = JVMs and JDKs
 
-Java Virtual Machine implementations and Java Development Kit distributions
-from Oracle and other vendors.
+Java Virtual Machine implementations and Java Development Kit distributions from
+Oracle and other vendors.
 
 * https://en.wikipedia.org/wiki/OpenJDK[OpenJDK - Wikipedia]
 * https://en.wikipedia.org/wiki/Java_virtual_machine#JVM_languages[Java virtual machine - Wikipedia]

@@ -1,6 +1,6 @@
 = Security - input sanitization, etc.
 
-Libraries for sanitizing untrusted input and mitigating security
-vulnerabilities such as XSS in JavaScript.
+Libraries for sanitizing untrusted input and mitigating security vulnerabilities
+such as XSS in JavaScript.
 
 * https://github.com/cure53/DOMPurify[DOMPurify]

@@ -1,7 +1,7 @@
 = State management
 
-Libraries for managing application state, including the Redux, Vuex, and
-Pinia ecosystems.
+Libraries for managing application state, including the Redux, Vuex, and Pinia
+ecosystems.
 
 * https://github.com/sindresorhus/electron-store[electron-store]
 * https://jotai.org/[Jotai]

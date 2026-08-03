@@ -1,7 +1,6 @@
 = Container systems
 
-Tools for building, running, and managing containers and container
-images.
+Tools for building, running, and managing containers and container images.
 
 * https://www.packer.io/[Packer]
 * https://podman.io/[Podman]

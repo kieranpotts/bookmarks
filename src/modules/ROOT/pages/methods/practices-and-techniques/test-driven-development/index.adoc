@@ -1,6 +1,5 @@
 = Test-driven development
 
-Resources on test-driven development as a software design and testing
-practice.
+Resources on test-driven development as a software design and testing practice.
 
 * https://martinfowler.com/bliki/TestDrivenDevelopment.html[Martin Fowler: Test Driven Development]

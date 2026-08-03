@@ -1,7 +1,6 @@
 = Analytical databases
 
-Databases and storage systems built for analytical workloads, organized by
-type.
+Databases and storage systems built for analytical workloads, organized by type.
 
 * *xref:infrastructure/databases/analytical-databases/data-warehouses/index.adoc[Data warehouses (structured)]*
 * *xref:infrastructure/databases/analytical-databases/data-lakes/index.adoc[Data lakes (unstructured)]*

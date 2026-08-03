@@ -1,6 +1,5 @@
 = Function-as-a-service (aka. serverless)
 
-Serverless compute platforms for running functions without managing
-servers.
+Serverless compute platforms for running functions without managing servers.
 
 * https://aws.amazon.com/lambda/[AWS Lambda]

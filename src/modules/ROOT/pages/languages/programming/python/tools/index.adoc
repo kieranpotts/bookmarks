@@ -1,7 +1,7 @@
 = Tools
 
-Testing frameworks, package registries, editors, linters, and version
-managers for Python.
+Testing frameworks, package registries, editors, linters, and version managers
+for Python.
 
 == Testing frameworks
 

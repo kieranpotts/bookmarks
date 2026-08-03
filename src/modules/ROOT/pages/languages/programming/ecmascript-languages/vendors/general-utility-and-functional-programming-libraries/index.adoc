@@ -1,8 +1,7 @@
 = General utility and functional programming libraries
 
-General-purpose utility and functional programming libraries for
-JavaScript, covering common data manipulation, composition, and functional
-helpers.
+General-purpose utility and functional programming libraries for JavaScript,
+covering common data manipulation, composition, and functional helpers.
 
 * https://lodash.com/[Lodash]
 * https://github.com/lodash/lodash/wiki/FP-Guide[Lodash FP]

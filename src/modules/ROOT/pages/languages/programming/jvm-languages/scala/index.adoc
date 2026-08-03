@@ -1,6 +1,6 @@
 = Scala
 
-Scala, a statically typed language for the JVM that blends object-oriented
-and functional programming.
+Scala, a statically typed language for the JVM that blends object-oriented and
+functional programming.
 
 * https://www.scala-lang.org/[Scala]

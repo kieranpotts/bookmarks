@@ -1,6 +1,6 @@
 = Service mesh
 
-Service mesh tools for managing traffic, security, and observability
-between services.
+Service mesh tools for managing traffic, security, and observability between
+services.
 
 * https://istio.io/[Istio]

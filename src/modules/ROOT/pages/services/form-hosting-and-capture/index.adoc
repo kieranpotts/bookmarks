@@ -1,7 +1,6 @@
 = Form hosting and capture
 
-Services for hosting forms and capturing submissions without building a
-backend.
+Services for hosting forms and capturing submissions without building a backend.
 
 * https://airform.io/[Airform]
 * https://www.typeform.com/[Typeform]

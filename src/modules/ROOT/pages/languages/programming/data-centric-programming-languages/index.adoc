@@ -1,7 +1,7 @@
 = Data-centric programming languages
 
-Languages built specifically for data processing and transformation, such as
-ECL and Odin.
+Languages built specifically for data processing and transformation, such as ECL
+and Odin.
 
 * https://hpccsystems.com/training/documentation/learning-ecl/[ECL - Enterprise Control Language by HPCC Systems]
 * https://odin-lang.org/[Odin]

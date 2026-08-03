@@ -1,7 +1,7 @@
 = Wikis and bodies of knowledge
 
-Wikis and reference works documenting software engineering knowledge,
-folklore, and terminology.
+Wikis and reference works documenting software engineering knowledge, folklore,
+and terminology.
 
 * https://folklore.org/[Folklore]
 * https://www.computer.org/education/bodies-of-knowledge/software-engineering[SWEBOK]

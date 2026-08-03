@@ -1,7 +1,6 @@
 = Load balancers, reverse proxies, service routing
 
-Load balancers and ingress controllers for routing and distributing
-traffic.
+Load balancers and ingress controllers for routing and distributing traffic.
 
 * https://github.com/OptimalBits/redbird[Redbird]
 * https://www.haproxy.org/[HAProxy]

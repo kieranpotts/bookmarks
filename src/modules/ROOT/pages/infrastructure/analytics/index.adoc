@@ -1,7 +1,7 @@
 = Big data analytics, search engines, logging and observability
 
-Search engines and observability platforms for analyzing large volumes of
-data, logs, and telemetry.
+Search engines and observability platforms for analyzing large volumes of data,
+logs, and telemetry.
 
 * https://yacy.net/[YaCy]
 * https://www.honeycomb.io/[Honeycomb]

@@ -1,7 +1,7 @@
 = Tools
 
-Tools for building, running, and maintaining JavaScript and TypeScript
-projects, organized by category.
+Tools for building, running, and maintaining JavaScript and TypeScript projects,
+organized by category.
 
 * *xref:languages/programming/ecmascript-languages/tools/benchmarking-and-runtime-analysis/index.adoc[Benchmarking and runtime analysis]*
 * *xref:languages/programming/ecmascript-languages/tools/build-tools-and-task-runners/index.adoc[Build tools and task runners]*

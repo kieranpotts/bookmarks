@@ -1,7 +1,7 @@
 = Shells and command languages
 
-Command shells and scripting languages for interacting with an operating
-system, organized by platform and type.
+Command shells and scripting languages for interacting with an operating system,
+organized by platform and type.
 
 * *xref:languages/shells/unix-shells/index.adoc[Unix shells]*
 * *xref:languages/shells/tools/index.adoc[Tools]*

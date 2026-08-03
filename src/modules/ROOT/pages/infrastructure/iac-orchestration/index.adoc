@@ -1,7 +1,7 @@
 = IaC, cloud automation and orchestration
 
-Tools and platforms for automating infrastructure provisioning and
-configuration management, organized by category.
+Tools and platforms for automating infrastructure provisioning and configuration
+management, organized by category.
 
 * https://www.ansible.com/[Ansible]
 * https://docs.aws.amazon.com/cdk/v2/guide/home.html[AWS CDK]

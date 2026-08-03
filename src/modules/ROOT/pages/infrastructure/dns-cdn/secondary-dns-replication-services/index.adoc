@@ -1,6 +1,5 @@
 = Secondary DNS (replication) services
 
-Services for replicating DNS zones across secondary providers for
-redundancy.
+Services for replicating DNS zones across secondary providers for redundancy.
 
 * https://www.buddyns.com/[BuddyDNS]

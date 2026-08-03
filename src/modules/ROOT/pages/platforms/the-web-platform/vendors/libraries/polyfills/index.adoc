@@ -1,7 +1,7 @@
 = Polyfills
 
-Polyfills and shims for adding missing or newer JavaScript and browser
-features to older environments.
+Polyfills and shims for adding missing or newer JavaScript and browser features
+to older environments.
 
 * https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills[Modernizr: List of Cross-Browser-Polyfills]
 * https://olivernn.github.io/augment.js/[augment.js]

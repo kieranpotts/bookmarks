@@ -1,7 +1,7 @@
 = DNS registrars and marketplaces
 
-Domain registrars and marketplaces for buying, selling, and registering
-domain names.
+Domain registrars and marketplaces for buying, selling, and registering domain
+names.
 
 * https://www.namecheap.com/[Namecheap]
 * https://sedo.com/uk/[Sedo]

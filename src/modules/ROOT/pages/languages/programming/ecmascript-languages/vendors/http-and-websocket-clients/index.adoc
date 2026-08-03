@@ -1,7 +1,7 @@
 = HTTP and WebSocket clients
 
-HTTP and WebSocket client libraries for making network requests from
-JavaScript and Node.js.
+HTTP and WebSocket client libraries for making network requests from JavaScript
+and Node.js.
 
 * https://axios-http.com/[Axios]
 * https://github.com/googleapis/gaxios[gaxios]

@@ -1,7 +1,7 @@
 = HTTP and WebSocket servers
 
-Libraries and tools for running HTTP and WebSocket servers in Node.js,
-including lightweight static file servers.
+Libraries and tools for running HTTP and WebSocket servers in Node.js, including
+lightweight static file servers.
 
 * https://github.com/caolan/dispatch[Dispatch]
 * https://github.com/senchalabs/connect[Connect]

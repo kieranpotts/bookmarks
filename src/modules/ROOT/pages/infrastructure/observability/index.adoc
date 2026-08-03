@@ -1,7 +1,7 @@
 = Visibility (Observability and Monitoring)
 
-Tools and platforms for monitoring, logging, and tracing systems, organized
-by category.
+Tools and platforms for monitoring, logging, and tracing systems, organized by
+category.
 
 * *xref:infrastructure/observability/stats-aggregation/index.adoc[Stats aggregation]*
 * *xref:infrastructure/observability/monitoring/index.adoc[Monitoring]*

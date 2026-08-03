@@ -1,7 +1,7 @@
 = Authorization
 
-Libraries for implementing authorization, permissions, and access control
-rules in JavaScript applications.
+Libraries for implementing authorization, permissions, and access control rules
+in JavaScript applications.
 
 * https://casl.js.org/v6/en/[CASL]
 * https://www.osohq.com/docs/oss[Oso]

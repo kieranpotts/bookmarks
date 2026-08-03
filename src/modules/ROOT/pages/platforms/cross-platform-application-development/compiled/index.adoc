@@ -1,7 +1,7 @@
 = Compiled
 
-Cross-platform frameworks that compile applications down to native code for
-each target platform.
+Cross-platform frameworks that compile applications down to native code for each
+target platform.
 
 * https://flutter.dev/[Flutter]
 * https://nativescript.org/[NativeScript]

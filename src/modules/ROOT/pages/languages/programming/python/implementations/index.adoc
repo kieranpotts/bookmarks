@@ -1,6 +1,5 @@
 = Implementations
 
-Alternative implementations of Python, such as MicroPython for
-microcontrollers.
+Alternative implementations of Python, such as MicroPython for microcontrollers.
 
 * https://micropython.org/[MicroPython]

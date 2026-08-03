@@ -1,7 +1,6 @@
 = Backend-as-a-service (BaaS)
 
-Backend-as-a-service platforms providing hosted infrastructure for
-applications.
+Backend-as-a-service platforms providing hosted infrastructure for applications.
 
 * https://pusher.com/[Pusher]
 * https://firebase.google.com/[Firebase]

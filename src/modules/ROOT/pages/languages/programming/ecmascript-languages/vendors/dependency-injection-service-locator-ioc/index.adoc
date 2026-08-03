@@ -1,7 +1,7 @@
 = Dependency injection + service locator (IoC)
 
-Libraries implementing dependency injection, service locator, and inversion
-of control patterns in JavaScript.
+Libraries implementing dependency injection, service locator, and inversion of
+control patterns in JavaScript.
 
 * https://github.com/jeffijoe/awilix[Awilix]
 * https://github.com/zheksoon/dioma[Dioma]
