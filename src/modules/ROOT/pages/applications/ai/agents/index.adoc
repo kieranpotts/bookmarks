@@ -8,3 +8,4 @@ purpose tasks.
 * https://replit.com/[Replit]
 * https://claude.ai/[Claude]
 * https://gemini.google.com/[Gemini]
+* https://github.com/mattpocock/sandcastle[Sandcastle] – A TypeScript library for orchestrating AI coding agents in isolated sandboxes.
