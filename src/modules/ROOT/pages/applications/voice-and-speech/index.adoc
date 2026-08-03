@@ -1,0 +1,18 @@
+= Voice and speech tools
+
+Applications for working with text by voice, including voice-to-text dictation,
+text-to-speech readers, and text-to-speech engines.
+
+== Voice-to-text dictation
+
+* https://wisprflow.ai/[Wispr Flow] – Voice-to-text AI that turns speech into clear, polished writing in any application, across Mac, Windows, iOS, and Android.
+
+== Text-to-speech readers
+
+* https://speechify.com/[Speechify] – Text-to-speech and Voice AI assistant that reads documents aloud, transcribes speech to text, and creates podcasts across web, desktop, and mobile.
+* https://www.naturalreaders.com/[NaturalReader] – AI-powered text-to-speech for personal reading, commercial voiceovers, and education, with content-aware multilingual voices and voice cloning.
+
+== Text-to-speech engines
+
+* https://github.com/OHF-Voice/piper1-gpl[Piper] – A fast, local neural text-to-speech engine that embeds espeak-ng for phonemization. Runs offline via CLI, web server, Python, or C/C++ APIs, and is used by Home Assistant, NVDA, and others.
+* https://pied.mikeasoft.com/[Pied] – A graphical installer and manager for Piper neural TTS voices, integrating Piper with Speech Dispatcher for use with screen readers such as Orca.
