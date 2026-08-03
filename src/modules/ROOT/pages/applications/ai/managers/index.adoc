@@ -7,3 +7,4 @@ on your own hardware with ease.
 
 * https://ollama.com/[Ollama]
 * https://lmstudio.ai/[LM Studio]
+* https://unsloth.ai/[Unsloth] – Run and fine-tune LLMs locally with optimized custom kernels (2× faster training, ~90% less memory). Supports 500+ text, vision, audio, and embedding models; export to GGUF/Safetensors for llama.cpp, vLLM, and Ollama.
