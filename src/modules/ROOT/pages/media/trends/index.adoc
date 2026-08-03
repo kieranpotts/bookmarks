@@ -8,3 +8,4 @@ adoption.
 * https://survey.devographics.com/en-US/survey/state-of-js/2024[State of JS]
 * https://2024.stateofhtml.com/en-US[State of HTML]
 * https://insights.stackoverflow.com/survey/[Stack Overflow Insights]
+* https://tools.sdtimes.com/landscape[SD Times Landscape] – A curated, categorized map of the software development tools ecosystem, organized by category and vendor.
