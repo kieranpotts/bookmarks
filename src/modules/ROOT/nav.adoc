@@ -53,6 +53,7 @@
 *** xref:applications/pdf/index.adoc[PDF generation and editing]
 *** xref:applications/media/index.adoc[Photo and video management]
 *** xref:applications/productivity/index.adoc[Productivity applications]
+*** xref:applications/voice-and-speech/index.adoc[Voice and speech tools]
 *** xref:applications/ats/index.adoc[Recruitment software and applicant tracking software (ATS)]
 *** xref:applications/rss/index.adoc[RSS feed readers and news aggregators]
 *** xref:applications/helpdesk/index.adoc[Service desk / help desk and ITSM]
