@@ -1,9 +1,13 @@
 = Development environments and stacks
 
-Pre-packaged local development environments and stacks, including containerized
-setups and LAMP-like bundles.
+Pre-packaged local and cloud development environments and stacks, including
+containerized setups, cloud sandboxes, and LAMP-like bundles.
 
 * https://containers.dev/[Dev Containers]
+
+== Cloud development sandboxes
+
+* https://exe.dev/[exe.dev] – Durable, fast, secure, and shareable cloud VMs for developers and AI agents. Buy a pool of CPU, RAM, and disk, spin up as many root VMs as you like over SSH, with a built-in web coding agent (Shelley) and IAM-based sharing.
 
 == Local cloud emulators
 
