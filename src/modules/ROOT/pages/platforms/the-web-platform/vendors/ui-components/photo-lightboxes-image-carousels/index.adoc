@@ -1,4 +1,6 @@
 = Photo lightboxes, image carousels, etc.
 
+Lightbox and image carousel components for displaying photos.
+
 * https://github.com/deoostfrees/Parvus[Parvus]
 

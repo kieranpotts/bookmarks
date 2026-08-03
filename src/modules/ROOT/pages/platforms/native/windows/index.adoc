@@ -1,5 +1,7 @@
 = Windows
 
+Tools and resources for developing on and working with Windows.
+
 == Tools
 
 === Package managers

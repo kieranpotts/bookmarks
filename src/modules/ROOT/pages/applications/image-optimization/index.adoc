@@ -1,5 +1,7 @@
 = Image optimization / compression
 
+Tools for optimizing and compressing images.
+
 * https://www.jpeg.io/[jpeg.io]
 * https://www.jpegmini.com/[JPEGmini]
 * https://kraken.io/[Kraken]

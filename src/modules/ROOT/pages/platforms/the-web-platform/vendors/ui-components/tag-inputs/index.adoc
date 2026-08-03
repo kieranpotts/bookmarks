@@ -1,4 +1,6 @@
 = Tag inputs
 
+Tag and token input components.
+
 * https://yaireo.github.io/tagify/[Tagify]
 

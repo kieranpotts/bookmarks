@@ -1,5 +1,7 @@
 = Tracing
 
+Tools and standards for distributed tracing across services.
+
 * https://opencensus.io/[OpenCensus]
 * https://opentracing.io/[OpenTracing]
 * https://www.jaegertracing.io/[Jaeger]

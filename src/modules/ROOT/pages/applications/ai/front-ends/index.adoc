@@ -1,4 +1,7 @@
 = Front-ends
 
+Front-end applications for interacting with large language models, providing a
+chat interface on top of one or more model backends.
+
 * https://docs.openwebui.com/[OpenWebUI]
 * https://www.kaibanjs.com/[KaibanJS]

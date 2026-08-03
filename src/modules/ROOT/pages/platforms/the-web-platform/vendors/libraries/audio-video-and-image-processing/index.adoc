@@ -1,4 +1,7 @@
 = Audio, video, and image processing
 
+Libraries for processing, converting, and manipulating audio, video, and
+image files.
+
 * https://mediabunny.dev/[Mediabunny]
 

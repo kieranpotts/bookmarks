@@ -1,3 +1,5 @@
 = Home automation
 
+Home automation platforms.
+
 * https://www.home-assistant.io/[Home Assistant]

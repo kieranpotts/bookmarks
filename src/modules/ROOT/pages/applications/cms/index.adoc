@@ -1,5 +1,7 @@
 = Content management systems (CMS)
 
+Content management systems (CMS), organized by category.
+
 * *xref:applications/cms/blogging-and-personal-publishing-platforms/index.adoc[Blogging and personal publishing platforms]*
 * *xref:applications/cms/database-cms-and-web-frontend/index.adoc[Database CMS + web front-ends]*
 * *xref:applications/cms/flat-file-and-git-based-cmses/index.adoc[Flat-file and Git-based CMSes]*

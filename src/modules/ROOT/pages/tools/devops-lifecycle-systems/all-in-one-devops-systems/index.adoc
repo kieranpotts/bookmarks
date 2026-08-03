@@ -1,5 +1,8 @@
 = All-in-one DevOps systems
 
+Platforms that bundle source control, CI/CD, and project management into a
+single DevOps system.
+
 * https://about.gitlab.com/[GitLab]
 * https://azure.microsoft.com/en-us/products/devops/server/[Azure DevOps Server]
 * https://unity.com/products/unity-devops[Unity DevOps]

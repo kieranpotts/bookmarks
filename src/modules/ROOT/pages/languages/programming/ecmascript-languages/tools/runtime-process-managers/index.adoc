@@ -1,3 +1,5 @@
 = Runtime process managers
 
+Process managers for keeping Node.js applications running in production.
+
 * https://pm2.keymetrics.io/[PM2]

@@ -1,5 +1,8 @@
 = JSON
 
+JSON itself, plus the related formats, token standards, and tools built
+around it.
+
 * https://www.json.org/[JSON]
 
 == JSON-based serialization formats

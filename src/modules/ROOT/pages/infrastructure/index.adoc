@@ -1,5 +1,8 @@
 = Infrastructure
 
+Cloud platforms, networking, data stores, and operational tooling for building
+and running infrastructure, organized by category.
+
 * *xref:infrastructure/public-cloud/index.adoc[Public cloud services]*
 * *xref:infrastructure/private-cloud/index.adoc[Private cloud solutions]*
 * *xref:infrastructure/dns-cdn/index.adoc[DNS, CDNs, reverse proxies]*

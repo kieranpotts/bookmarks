@@ -1,5 +1,8 @@
 = Static and dynamic application security testing (SAST, DAST)
 
+Tools for finding security vulnerabilities in code and running applications,
+including pen testing and secrets scanning.
+
 * https://checkmarx.com/[Checkmarx]
 * https://www.mend.io/[Mend.io]
 * https://sandworm.dev/[Sandworm]

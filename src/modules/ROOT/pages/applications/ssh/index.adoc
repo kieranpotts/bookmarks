@@ -1,4 +1,6 @@
 = SSH clients
 
+SSH client applications.
+
 * https://www.9bis.net/kitty/[KiTTY]
 * https://www.putty.org/[PuTTY]

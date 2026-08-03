@@ -1,5 +1,8 @@
 = IDE plugins
 
+Plugins, extensions, and integrations that add functionality to code editors and
+IDEs.
+
 * https://editorconfig.org/[EditorConfig]
 * https://sourcegraph.com/[Sourcegraph]
 

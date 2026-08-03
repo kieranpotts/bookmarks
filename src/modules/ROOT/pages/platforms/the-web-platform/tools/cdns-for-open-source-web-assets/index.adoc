@@ -1,5 +1,8 @@
 = CDNs for open source web assets
 
+Content delivery networks that host common open source web assets and
+libraries.
+
 * https://unpkg.com/[UNPKG]
 * https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview[Microsoft Ajax CDN]
 * https://developers.google.com/speed/libraries/?csw=1[Google Hosted Libraries]

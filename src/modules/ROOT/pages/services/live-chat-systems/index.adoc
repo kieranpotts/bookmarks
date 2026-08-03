@@ -1,5 +1,7 @@
 = Live chat systems
 
+Live chat and customer messaging platforms for websites and applications.
+
 * https://github.com/chatwoot/chatwoot[Chatwood]
 * https://crisp.chat/en/[Crisp]
 * https://www.drift.com/[Drift]

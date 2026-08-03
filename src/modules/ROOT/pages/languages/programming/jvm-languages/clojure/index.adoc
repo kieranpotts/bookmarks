@@ -1,1 +1,3 @@
 = Clojure
+
+Clojure, a Lisp dialect that runs on the JVM.

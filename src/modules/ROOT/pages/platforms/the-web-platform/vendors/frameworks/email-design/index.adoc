@@ -1,5 +1,8 @@
 = Email design
 
+Frameworks and tools for building HTML emails that render consistently across
+email clients.
+
 * https://mjml.io/[mjml]
 * https://emailframe.work/[Email Framework]
 * https://www.goodemailcode.com/[Good Email Code]

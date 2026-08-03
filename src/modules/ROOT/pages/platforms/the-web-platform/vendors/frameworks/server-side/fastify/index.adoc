@@ -1,5 +1,8 @@
 = Fastify
 
+Fastify, the fast and low-overhead Node.js web framework, and its official
+starter kit generator.
+
 * https://fastify.dev/[Fastify]
 * https://github.com/fastify/create-fastify[create-fastify]
 

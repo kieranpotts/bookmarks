@@ -1,5 +1,7 @@
 = Mailing list systems
 
+Software for running mailing lists and discussion groups.
+
 * https://www.phplist.org/[phpList]
 * https://www.list.org/[GNU Mailman]
 * https://www.mailmanlists.net/[MailmanLists]

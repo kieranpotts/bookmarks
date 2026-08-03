@@ -1,5 +1,7 @@
 = Code image generators
 
+Tools for turning code snippets into shareable, styled images.
+
 * https://carbon.now.sh/[Carbon]
 * https://ray.so/[ray.so]
 

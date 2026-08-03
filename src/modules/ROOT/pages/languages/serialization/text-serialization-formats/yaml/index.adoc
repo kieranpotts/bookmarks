@@ -1,3 +1,5 @@
 = YAML
 
+The YAML data serialization format.
+
 * https://yaml.org/[YAML]

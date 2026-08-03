@@ -1,4 +1,6 @@
 = Audio and music
 
+Stock audio and music marketplaces for sound effects and background music.
+
 * https://www.soundsnap.com/[Soundsnap]
 * https://audiojungle.net/[AudioJungle]

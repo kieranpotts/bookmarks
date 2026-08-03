@@ -1,5 +1,8 @@
 = Data structures, entities and value objects
 
+Libraries for defining data structures, entities, and value objects in
+JavaScript, including immutable data, enums, and typed models.
+
 * https://github.com/true-myth/true-myth[True Myth]
 * https://tydel.js.org/[tydel]
 * https://github.com/arktypeio/arktype[arktype]

@@ -1,5 +1,7 @@
 = Applications
 
+Applications and software platforms, organized by category.
+
 == Ecommerce systems
 
 * https://evershop.io/[EverShop]

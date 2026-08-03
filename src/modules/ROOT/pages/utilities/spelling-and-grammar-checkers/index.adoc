@@ -1,3 +1,5 @@
 = Spelling and grammar checkers
 
+Spelling and grammar checking tools.
+
 * https://writewithharper.com/[Harper]

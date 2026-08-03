@@ -1,5 +1,7 @@
 = Bash
 
+Reference material and guides for Bash.
+
 * https://github.com/dylanaraps/pure-bash-bible[Pure Bash Bible]
 * https://guide.bash.academy/[The Bash Guide]
 * https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html[Bash Reference Manual]

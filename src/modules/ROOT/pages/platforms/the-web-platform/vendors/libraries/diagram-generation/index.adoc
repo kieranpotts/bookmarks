@@ -1,5 +1,8 @@
 = Diagram generation (including diagrams-as-code)
 
+Tools for generating diagrams programmatically, including diagrams-as-code
+approaches.
+
 * https://diagrams.mingrammer.com/[diagrams (python)]
 * https://bramp.github.io/js-sequence-diagrams/[js-sequence-diagrams]
 * http://flowchart.js.org/[flowchart.js]

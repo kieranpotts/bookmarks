@@ -1,5 +1,7 @@
 = Programming and scripting languages
 
+Programming and scripting languages, grouped by family or ecosystem.
+
 * *xref:languages/programming/ecmascript-languages/index.adoc[ECMAScript languages]*
 * *xref:languages/programming/jvm-languages/index.adoc[JVM languages]*
 * *xref:languages/programming/c-family-languages/index.adoc[C family languages]*

@@ -1,5 +1,7 @@
 = Conferences and events
 
+Conferences and events in software engineering and technology.
+
 * https://confs.tech/[confs.tech]
 
 == Major global events

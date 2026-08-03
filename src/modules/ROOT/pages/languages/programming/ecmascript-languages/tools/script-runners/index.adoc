@@ -1,4 +1,7 @@
 = Script runners
 
+Tools for running npm package scripts and one-off packages from the command
+line.
+
 * https://www.npmjs.com/package/npx[npx]
 * https://github.com/sezna/nps[nps]

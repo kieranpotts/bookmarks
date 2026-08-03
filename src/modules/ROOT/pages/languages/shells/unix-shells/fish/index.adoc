@@ -1,3 +1,5 @@
 = Fish
 
+The friendly interactive shell (fish).
+
 * https://fishshell.com/[fish shell]

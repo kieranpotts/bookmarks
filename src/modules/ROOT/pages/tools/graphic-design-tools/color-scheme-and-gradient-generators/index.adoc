@@ -1,5 +1,7 @@
 = Color scheme and gradient generators
 
+Generators for color palettes, schemes, and gradients for use in design work.
+
 * https://hslpicker.com/[HSL Color Picker]
 * https://www.adobe.com/express/learn/blog/101-brilliant-color-combinations[101 Brilliant Color Combinations - Adobe Express Blog]
 * https://picture-palette.web.app/[Picture Palette]

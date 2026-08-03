@@ -1,4 +1,6 @@
 = CSS color manipulation
 
+Libraries for parsing, converting, and manipulating CSS colors in JavaScript.
+
 * https://www.vis4.net/chromajs/[chroma.js]
 

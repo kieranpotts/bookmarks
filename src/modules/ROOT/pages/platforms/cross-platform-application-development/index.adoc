@@ -1,5 +1,8 @@
 = Cross-platform application development
 
+Frameworks and tools for building applications that run on multiple platforms
+from a single codebase, organized by how they execute.
+
 * *xref:platforms/cross-platform-application-development/compiled/index.adoc[Compiled]*
 * *xref:platforms/cross-platform-application-development/abstracted-interpreted-vms/index.adoc[Abstracted/interpreted (VMs)]*
 * *xref:platforms/cross-platform-application-development/hybrid-web-apps/index.adoc[Hybrid web apps (ie. using native Web Views)]*

@@ -1,3 +1,5 @@
 = Regex
 
+Regular expression engines and libraries.
+
 * https://github.com/google/re2[RE2]

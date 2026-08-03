@@ -1,5 +1,8 @@
 = Hybrid web apps (ie using native Web Views)
 
+Frameworks for building cross-platform apps as web content wrapped in a native
+Web View.
+
 == Cordova (formerly PhoneGap)
 
 * https://cordova.apache.org/[Apache Cordova]

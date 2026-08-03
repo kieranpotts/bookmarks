@@ -1,4 +1,6 @@
 = Animation libraries
 
+JavaScript libraries for animating values, tweening, and easing over time.
+
 * https://tweenjs.github.io/tween.js/[tween.js]
 

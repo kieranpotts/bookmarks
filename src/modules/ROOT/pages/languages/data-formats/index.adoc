@@ -1,5 +1,8 @@
 = Data interchange formats
 
+Formats and specifications for exchanging structured data between systems,
+including linked data and RDF-based standards.
+
 * https://json-ld.org/[JSON-LD]
 * https://jsonapi.org/[JSON:API]
 * https://www.jsonrpc.org/[JSON-RPC]

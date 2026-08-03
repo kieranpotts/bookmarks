@@ -1,5 +1,7 @@
 = Applications
 
+Software applications and services, organized by category.
+
 * *xref:applications/chatops/index.adoc[ChatOps and IRC clients]*
 * *xref:applications/email/index.adoc[Email]*
 * *xref:applications/lowcode-nocode/index.adoc[Low-code/no-code application development]*

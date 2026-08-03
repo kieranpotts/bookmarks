@@ -1,5 +1,7 @@
 = Parallelism (Worker Threads)
 
+Libraries for running parallel work using worker threads in JavaScript.
+
 * https://github.com/bitair-org/concurrent.js[concurrent.js]
 * https://github.com/BuilderIO/partytown[Partytown]
 * https://github.com/piscinajs/piscina[Piscina]

@@ -1,4 +1,6 @@
 = E-book readers and managers
 
+E-book readers and library managers.
+
 * https://github.com/janeczku/calibre-web[Calibre Web]
 * https://calibre-ebook.com/[Calibre]

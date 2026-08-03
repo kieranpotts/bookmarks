@@ -1,5 +1,8 @@
 = Object / schema validation
 
+Libraries for validating and parsing object shapes and schemas in
+JavaScript.
+
 * https://valibot.dev/[Valibot]
 * https://github.com/jquense/yup[Yup]
 * https://github.com/hapijs/joi[Joi]

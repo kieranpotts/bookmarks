@@ -1,5 +1,7 @@
 = Payments and money services
 
+Services for processing payments and working with currency exchange rates.
+
 == Payments processing services
 
 * https://fastspring.com/[FastSpring]

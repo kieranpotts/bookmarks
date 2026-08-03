@@ -1,3 +1,5 @@
 = Logging
 
+Tools for collecting, processing, and shipping log data.
+
 * https://www.elastic.co/logstash[Logstash]

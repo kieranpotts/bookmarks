@@ -1,5 +1,8 @@
 = Abstracted/interpreted (VMs)
 
+Cross-platform frameworks that run applications inside a managed runtime or
+virtual machine rather than compiling straight to native code.
+
 == Java platform - JDKs and JVMs
 
 == React Native

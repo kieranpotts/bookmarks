@@ -1,5 +1,8 @@
 = ECMAScript languages
 
+JavaScript and TypeScript, and the engines, runtimes, tools, and specifications
+around them, organized by category.
+
 * https://github.com/voodootikigod/logo.js[logo.js - A community logo for JS]
 
 * *xref:languages/programming/ecmascript-languages/engines/index.adoc[Engines]*

@@ -1,3 +1,6 @@
 = Hot module reloading
 
+Libraries that add hot module reloading to Node.js applications during
+development.
+
 * https://github.com/julien-R44/hot-hook[hot-hook]

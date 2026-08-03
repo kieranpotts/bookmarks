@@ -1,4 +1,6 @@
 = Forums / social
 
+Forums and community sites for developer discussion.
+
 * https://www.codeproject.com/[Code Project]
 * https://dev.to/[DEV.to]

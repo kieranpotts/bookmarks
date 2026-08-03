@@ -1,5 +1,8 @@
 = Jobs
 
+Job boards and job-search resources, covering contract and freelance work,
+remote roles, tech and startup positions, and salary data.
+
 == Contract/freelance
 
 * https://catalant.com/[Catalant ★]

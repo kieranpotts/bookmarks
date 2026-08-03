@@ -1,4 +1,6 @@
 = Artifact repositories
 
+Repositories for storing and versioning build artifacts and binary packages.
+
 * https://jfrog.com/[JFrog]
 

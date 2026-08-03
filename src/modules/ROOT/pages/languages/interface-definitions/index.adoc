@@ -1,5 +1,8 @@
 = Interface definition languages
 
+Languages and specifications for describing the interfaces of web service
+APIs.
+
 == Web service APIs
 
 * https://www.openapis.org/[OpenAPI Initiative]

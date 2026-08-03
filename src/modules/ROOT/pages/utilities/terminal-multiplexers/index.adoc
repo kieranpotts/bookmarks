@@ -1,5 +1,7 @@
 = Terminal multiplexers
 
+Terminal multiplexers for managing multiple terminal sessions.
+
 * https://www.gnu.org/software/screen/[GNU Screen]
 * https://github.com/tmux/tmux/wiki[tmux]
 * https://zellij.dev/[Zellij]

@@ -1,1 +1,4 @@
 = Text-to-diagram / diagrams-as-code
+
+Tools and formats for describing diagrams as text and rendering them as code,
+rather than drawing them by hand.

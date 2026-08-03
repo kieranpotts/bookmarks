@@ -1,5 +1,7 @@
 = Sso and user authentication and authorization
 
+Services for single sign-on, authentication, and authorization.
+
 * https://fusionauth.io/[FusionAuth]
 * https://auth0.com/[Auth0]
 * https://www.okta.com/[Okta]

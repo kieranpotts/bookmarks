@@ -1,5 +1,7 @@
 = Key-value stores and in-memory object caches
 
+Key-value stores and in-memory caches for fast reads and writes.
+
 * https://redis.io/[Redis]
 * https://www.singlestore.com/[SingleStore (formerly MemSQL)]
 * https://github.com/techfort/LokiJS[LokiJS]

@@ -1,5 +1,7 @@
 = ASCII art tools
 
+Tools for generating ASCII art, text banners, and diagrams.
+
 * https://www.kammerl.de/ascii/AsciiSignature.php[ASCII Text Signature]
 * https://asciiflow.com/[asciiflow]
 * https://textik.com/[Testik]

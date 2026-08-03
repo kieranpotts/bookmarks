@@ -1,5 +1,7 @@
 = Dns, cdns, reverse proxies
 
+DNS, CDN, and domain-related services and tools, organized by category.
+
 * https://www.cloudflare.com/en-gb/[Cloudflare]
 * https://www.iana.org/domains/root/db[Root Zone Database]
 

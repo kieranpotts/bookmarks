@@ -1,4 +1,7 @@
 = Micro-frontend solutions
 
+Frameworks and tools for composing micro-frontends from independently
+deployed applications.
+
 * https://single-spa.js.org/[single-spa]
 

@@ -1,3 +1,5 @@
 = Graphics
 
+Libraries for rendering 2D graphics in JavaScript.
+
 * https://skia-canvas.org/[Skia Canvas]

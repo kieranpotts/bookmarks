@@ -1,5 +1,7 @@
 = Database CMS + web front-ends
 
+CMSes that pair a database back-end with a bundled web front-end.
+
 * https://www.fork-cms.com/[Fork]
 * https://wordpress.org/[WordPress]
 * https://umbraco.com/[Umbraco CMS]

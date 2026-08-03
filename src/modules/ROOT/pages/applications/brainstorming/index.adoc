@@ -1,4 +1,6 @@
 = Brainstorming and collaborative planning
 
+Tools for brainstorming, mind-mapping, and collaborative planning.
+
 * https://xmind.app/[Xmind]
 * https://miro.com/[Miro]

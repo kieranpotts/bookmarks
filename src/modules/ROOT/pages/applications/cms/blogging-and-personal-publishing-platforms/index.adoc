@@ -1,5 +1,7 @@
 = Blogging and personal publishing platforms
 
+Hosted platforms for blogging and personal publishing.
+
 * https://substack.com/[Substack]
 * https://bearblog.dev/[Bear Blog]
 * https://medium.com/[Medium]

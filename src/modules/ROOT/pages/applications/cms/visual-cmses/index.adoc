@@ -1,5 +1,7 @@
 = Visual CMSes
 
+Visual, drag-and-drop CMSes for building pages without writing code.
+
 * https://shorthand.com/[Shorthand]
 * https://apostrophecms.com/[Apostrophe CMS]
 * https://www.builder.io/[Builder.io]

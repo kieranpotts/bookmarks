@@ -1,5 +1,8 @@
 = Graphic design tools
 
+Tools for graphic design, illustration, and visual asset creation, organized by
+category.
+
 * https://www.canva.com/draw/[Canva Draw]
 
 * *xref:tools/graphic-design-tools/accessibility-tools/index.adoc[Accessibility tools]*

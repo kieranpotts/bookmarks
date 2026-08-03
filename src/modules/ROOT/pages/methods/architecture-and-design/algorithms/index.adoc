@@ -1,1 +1,3 @@
 = Algorithms
+
+Algorithms and algorithmic thinking resources for problem-solving.

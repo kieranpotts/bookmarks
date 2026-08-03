@@ -1,3 +1,5 @@
 = Diffing (text) libraries
 
+Libraries for computing and rendering differences between text content.
+
 * https://github.com/kpdecker/jsdiff[jsdiff]

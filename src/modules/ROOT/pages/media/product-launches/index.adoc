@@ -1,4 +1,6 @@
 = Product launches
 
+Sites for discovering and tracking new product and tool launches.
+
 * https://www.producthunt.com/[Product Hunt]
 * https://www.indiehackers.com/[Indie Hackers]

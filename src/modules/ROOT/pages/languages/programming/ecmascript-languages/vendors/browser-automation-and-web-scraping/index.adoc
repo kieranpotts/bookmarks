@@ -1,5 +1,8 @@
 = Browser automation and web scraping
 
+Tools for automating browsers and scraping web pages, from full browser
+automation frameworks to lightweight HTML scrapers.
+
 * https://pptr.dev/[Puppeteer]
 * https://playwright.dev/[Playwright]
 * https://crawlee.dev/[Crawlee]

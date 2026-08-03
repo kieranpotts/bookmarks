@@ -1,4 +1,7 @@
 = Web app reverse engineering
 
+Tools for identifying the technologies and frameworks used to build a
+website.
+
 * https://builtwith.com/[BuiltWith]
 * https://www.wappalyzer.com/[Wappalyzer]

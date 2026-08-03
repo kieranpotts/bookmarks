@@ -1,5 +1,7 @@
 = Z shell (Zsh)
 
+The Z shell (Zsh) and its popular configuration frameworks.
+
 * https://www.zsh.org/[Zsh]
 * https://ohmyz.sh/[Oh My ZSH!]
 * https://github.com/sorin-ionescu/prezto[Prezto]

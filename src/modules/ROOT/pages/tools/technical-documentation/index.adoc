@@ -1,4 +1,6 @@
 = Technical documentation
 
+Tools for authoring and publishing technical documentation.
+
 * https://www.eventcatalog.dev/[Event Catalog]
 * https://quanos.com/en/products/schema-st4/[SCHEMA ST4]

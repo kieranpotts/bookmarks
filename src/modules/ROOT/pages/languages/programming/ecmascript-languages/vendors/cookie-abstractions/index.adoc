@@ -1,4 +1,6 @@
 = Cookie abstractions
 
+Libraries for parsing, serializing, and managing HTTP cookies in JavaScript.
+
 * https://github.com/jshttp/cookie[cookie]
 * https://github.com/salesforce/tough-cookie[tough-cookie]

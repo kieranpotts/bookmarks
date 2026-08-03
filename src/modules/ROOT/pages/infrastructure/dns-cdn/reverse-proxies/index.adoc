@@ -1,3 +1,5 @@
 = Reverse proxies
 
+Reverse proxy and caching servers for sitting in front of web applications.
+
 * https://varnish-cache.org/[Varnish]

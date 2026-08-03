@@ -1,5 +1,8 @@
 = Online/cloud development environments
 
+Cloud-hosted development environments that run in the browser, for coding
+without a local setup.
+
 * https://github.com/codespaces/[GitHub Codespaces]
 * https://github.dev/[github.dev]
 * https://vscode.dev/[vscode.dev]

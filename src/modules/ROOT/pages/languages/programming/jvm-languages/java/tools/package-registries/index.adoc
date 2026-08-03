@@ -1,3 +1,5 @@
 = Package registries
 
+Registries for publishing and discovering Java packages.
+
 * https://mvnrepository.com/[Maven Repository]

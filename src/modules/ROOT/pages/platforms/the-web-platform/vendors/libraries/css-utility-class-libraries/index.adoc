@@ -1,5 +1,8 @@
 = CSS utility class libraries
 
+Utility-class and atomic CSS frameworks, plus a few full component and design
+systems.
+
 * https://open-props.style/[Open Props]
 * https://animista.net/[Animista]
 * https://bulma.io/[Bulma]

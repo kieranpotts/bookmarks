@@ -1,4 +1,6 @@
 = Tables and structured data presentation
 
+Components for presenting tables and other structured data.
+
 * https://www.william-troup.com/jsontree-js/[JSONTree.js]
 

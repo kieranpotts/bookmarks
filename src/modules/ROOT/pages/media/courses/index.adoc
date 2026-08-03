@@ -1,5 +1,7 @@
 = Courses
 
+Online courses and learning platforms for building skills.
+
 * https://code.org/en-US[CODE.org]
 * https://www.baeldung.com/courses/[Baeldung Courses (Java)]
 * https://www.boot.dev/[Boot.dev]

@@ -1,4 +1,6 @@
 = Runtime transpilers and module loaders
 
+Tools for transpiling and loading modules on the fly at runtime.
+
 * https://github.com/unjs/jiti[jiti]
 * https://www.npmjs.com/package/esm[esm]

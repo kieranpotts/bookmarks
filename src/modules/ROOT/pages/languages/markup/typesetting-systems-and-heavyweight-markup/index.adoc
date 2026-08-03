@@ -1,5 +1,8 @@
 = Typesetting systems and heavyweight markup
 
+Typesetting systems and heavyweight markup languages for producing complex
+technical and print-quality documents.
+
 * https://www.lyx.org/[Lyx - Tex/LaTex WYSIWM editor]
 * https://www.tug.org/texworks/[TexWorks - LaTeX client]
 * https://www.latex-project.org/[LaTeX]

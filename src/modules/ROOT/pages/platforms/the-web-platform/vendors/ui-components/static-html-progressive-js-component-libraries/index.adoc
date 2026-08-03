@@ -1,5 +1,8 @@
 = Static HTML + progressive JS component libraries
 
+Component libraries built with static HTML and progressively enhanced with
+JavaScript, rather than requiring a full framework.
+
 * https://denali.design/[Denali]
 * https://coreui.io/[Core UI]
 * https://jqueryui.com/[jQueryUI]

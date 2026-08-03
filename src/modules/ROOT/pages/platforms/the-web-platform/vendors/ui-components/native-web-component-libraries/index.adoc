@@ -1,5 +1,8 @@
 = Native web component libraries
 
+Component libraries built on native web components, usable with any framework or
+none at all.
+
 * https://www.webcomponents.org/[WebComponents.org]
 * https://www.duetds.com/[Duet]
 * https://www.fast.design/[FAST (from Microsoft)]

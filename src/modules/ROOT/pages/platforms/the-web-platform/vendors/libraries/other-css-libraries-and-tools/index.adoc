@@ -1,5 +1,7 @@
 = Other CSS libraries and tools
 
+CSS libraries and tools that don't fit into the other categories.
+
 * https://github.com/ritterim/skellyCSS[SkellyCSS]
 * https://acss.io/[Atomizer]
 * https://www.cssformalize.com/[CSS Formalize]

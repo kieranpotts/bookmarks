@@ -1,5 +1,8 @@
 = CSS-in-JS libraries
 
+Libraries for writing CSS directly in JavaScript or JSX, usually with
+zero-runtime or near-zero-runtime output.
+
 * https://stitches.dev/[Stitches]
 * https://typicode.github.io/mistcss/[MistCSS]
 * https://linaria.dev/[Linaria]

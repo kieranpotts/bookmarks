@@ -1,5 +1,8 @@
 = Architecture and design
 
+Frameworks, guides, and associations for software architecture and design,
+organized by topic.
+
 * https://martinfowler.com/architecture/[Software Architecture Guide - Martin Fowler]
 * https://pubs.opengroup.org/architecture/togaf8-doc/arch/toc.html[TOGAF - The Open Group Architecture Framework]
 * https://iasaglobal.org/[IASA - Association for IT Architects]

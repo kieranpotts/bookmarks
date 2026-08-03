@@ -1,5 +1,7 @@
 = Time series databases
 
+Databases optimized for storing and querying time-stamped metrics.
+
 * https://oss.oetiker.ch/rrdtool/[RRDtool]
 * https://prometheus.io/[Prometheus]
 * https://www.timescale.com/[Timescale]

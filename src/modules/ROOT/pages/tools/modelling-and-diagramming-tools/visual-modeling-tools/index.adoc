@@ -1,5 +1,7 @@
 = Visual modeling tools
 
+Tools for visually modelling systems, architectures, and infrastructure.
+
 * https://eclipse.dev/emf/index.html[Eclipse Modeling Framework]
 * https://www.modelio.org/index.htm[Modelio]
 * https://staruml.io/[StarUML]

@@ -1,5 +1,7 @@
 = Professional bodies
 
+Professional bodies and associations for standards and community.
+
 * https://www.acm.org/[ACM - The Association for Computing Machinery]
 * https://www.computer.org/[IEEE Computer Society (computer.org)]
 * https://www.ieee.org/[IEEE - Institute of Electrical and Electronics Engineers]

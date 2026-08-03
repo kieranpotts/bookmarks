@@ -1,5 +1,8 @@
 = Python
 
+Python, with links to language standards, alternative implementations,
+tools, vendors, and reference material.
+
 * *xref:languages/programming/python/standards/index.adoc[Standards]*
 * *xref:languages/programming/python/implementations/index.adoc[Implementations]*
 * *xref:languages/programming/python/tools/index.adoc[Tools]*

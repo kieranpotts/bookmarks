@@ -1,4 +1,6 @@
 = Service desk / help desk and ITSM
 
+Service desk and help desk software for IT service management (ITSM).
+
 * https://www.atlassian.com/software/jira/service-management[Jira Service Management]
 * https://www.zendesk.co.uk/[ZenDesk]

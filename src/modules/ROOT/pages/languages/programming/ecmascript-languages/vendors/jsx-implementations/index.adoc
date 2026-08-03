@@ -1,3 +1,5 @@
 = JSX implementations
 
+Alternative implementations of JSX outside the React ecosystem.
+
 * https://nanojsx.io/[Nano JSX]

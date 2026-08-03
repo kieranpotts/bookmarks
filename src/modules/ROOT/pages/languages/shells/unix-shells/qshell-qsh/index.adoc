@@ -1,3 +1,5 @@
 = Qshell (qsh)
 
+IBM i's Qshell (qsh).
+
 * https://www.ibm.com/docs/en/i/7.4?topic=languages-qshell[Qshell]

@@ -1,5 +1,7 @@
 = QR code generation
 
+Libraries for generating QR codes in JavaScript.
+
 * https://github.com/Short-io/qr-image[Short-io/qr-image (deprecated)]
 * https://github.com/Rich-Harris/headless-qr[Rich-Harris/headless-qr]
 * https://github.com/alexeyten/qr-image[alexeyten/qr-image]

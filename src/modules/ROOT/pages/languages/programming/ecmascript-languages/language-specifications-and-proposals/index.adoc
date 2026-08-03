@@ -1,5 +1,8 @@
 = Language specifications and proposals
 
+Specifications, proposals, and tracking resources for the evolution of the
+ECMAScript language.
+
 * https://github.com/tc39/proposals[tc39/proposals]
 * https://tc39.es/[tc39.es]
 * https://github.com/tc39[TC39]

@@ -1,5 +1,7 @@
 = Interviewing
 
+Resources for preparing for technical job interviews.
+
 * https://www.techinterviewhandbook.org/[Tech Interview Handbook]
 * https://github.com/kdn251/interviews[kdn251/interviews]
 * https://github.com/jwasham/coding-interview-university[Coding Interview University]

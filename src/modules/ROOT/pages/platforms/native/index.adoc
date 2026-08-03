@@ -1,5 +1,7 @@
 = Native (Operating Systems)
 
+Native operating systems, organized by platform.
+
 * *xref:platforms/native/android/index.adoc[Android]*
 * *xref:platforms/native/bsd/index.adoc[BSD]*
 * *xref:platforms/native/linux/index.adoc[Linux]*

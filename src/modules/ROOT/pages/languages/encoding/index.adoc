@@ -1,5 +1,7 @@
 = Text encoding systems
 
+Character encoding standards and tools for working with Unicode and text data.
+
 == Unicode
 
 * https://home.unicode.org/[Unicode - Official Website]

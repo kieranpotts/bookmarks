@@ -1,4 +1,6 @@
 = Miscellaneous
 
+UI components that don't fit into the other categories.
+
 * https://www.mathjax.org/[MathJax]
 

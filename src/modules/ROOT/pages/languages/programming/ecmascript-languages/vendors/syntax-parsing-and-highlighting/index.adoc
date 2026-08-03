@@ -1,3 +1,5 @@
 = Syntax parsing and highlighting
 
+Libraries for parsing and syntax-highlighting code in JavaScript.
+
 * https://shiki.style/[Shiki]

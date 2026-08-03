@@ -1,5 +1,8 @@
 = JWT
 
+Libraries for creating, signing, and verifying JSON Web Tokens (JWT) in
+JavaScript.
+
 * https://nearform.github.io/fast-jwt/[fast-jwt]
 * https://github.com/cisco/node-jose[node-jose]
 * https://github.com/auth0/jwt-decode[jwt-decode]

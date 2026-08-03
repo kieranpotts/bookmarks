@@ -1,5 +1,7 @@
 = Private cloud solutions
 
+Platforms for running private, self-hosted cloud infrastructure.
+
 * https://www.openstack.org/[OpenStack]
 * https://cloudstack.apache.org/[Apache CloudStack]
 * https://www.redhat.com/en/technologies/cloud-computing/openshift[OpenShift]

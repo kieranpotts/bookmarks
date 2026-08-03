@@ -1,3 +1,5 @@
 = Accessibility
 
+Accessibility frameworks and practices for building accessible web experiences.
+
 * https://blog.pope.tech/2024/01/17/the-web-accessibility-framework/[The Web Accessibility Framework]

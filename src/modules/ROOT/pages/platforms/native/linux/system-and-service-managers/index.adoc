@@ -1,3 +1,5 @@
 = System and service managers
 
+Init systems and service managers used to manage processes on Linux.
+
 * https://systemd.io/[systemd]

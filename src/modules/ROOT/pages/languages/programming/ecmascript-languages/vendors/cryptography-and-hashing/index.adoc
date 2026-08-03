@@ -1,4 +1,6 @@
 = Cryptography and hashing
 
+Libraries for cryptographic operations and hashing in JavaScript.
+
 * https://github.com/entronad/crypto-es[crypto-es]
 * https://github.com/lovell/farmhash[farmhash]

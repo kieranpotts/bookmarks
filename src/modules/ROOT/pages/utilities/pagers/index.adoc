@@ -1,4 +1,6 @@
 = Pagers
 
+Command-line pagers for viewing diffs and paginated output.
+
 * https://dandavison.github.io/delta/[Delta]
 * https://github.com/noborus/ov[ov]

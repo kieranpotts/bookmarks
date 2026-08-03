@@ -1,5 +1,8 @@
 = Recruitment software and applicant tracking software (ATS)
 
+Recruitment software and applicant tracking systems (ATS) for managing hiring
+pipelines.
+
 * https://www.greenhouse.com/uk[Greenhouse]
 * https://www.ashbyhq.com/[Ashby]
 * https://www.lever.co/[Lever]

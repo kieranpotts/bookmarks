@@ -1,5 +1,7 @@
 = Feature flag management
 
+Services for managing feature flags and controlled rollouts.
+
 * https://www.flagsmith.com/[Flagsmith]
 * https://www.flipt.io/[Flipt]
 * https://www.getunleash.io/[Unleash]

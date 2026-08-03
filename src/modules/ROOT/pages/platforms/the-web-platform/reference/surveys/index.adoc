@@ -1,3 +1,5 @@
 = Surveys
 
+Industry surveys on web development trends and tools.
+
 * https://stateofjs.com/en-US[State of JavaScript]

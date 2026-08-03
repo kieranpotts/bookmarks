@@ -1,5 +1,7 @@
 = Style sheet languages
 
+Languages for controlling the presentation of documents, principally CSS.
+
 == CSS
 
 * https://github.com/CSS-Next/logo.css[logo.css - An official logo for CSS]

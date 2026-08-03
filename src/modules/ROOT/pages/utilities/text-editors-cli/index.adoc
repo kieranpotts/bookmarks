@@ -1,5 +1,7 @@
 = Text editors (CLI)
 
+Command-line text editors.
+
 * https://ex-vi.sourceforge.net/[Vi]
 * https://www.vim.org/[Vim]
 * https://neovim.io/[NeoVim]

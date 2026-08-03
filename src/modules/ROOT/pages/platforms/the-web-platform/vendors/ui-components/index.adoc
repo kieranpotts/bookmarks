@@ -1,5 +1,7 @@
 = UI components
 
+UI component libraries and individual widgets, organized by category.
+
 * *xref:platforms/the-web-platform/vendors/ui-components/component-libraries-and-design-systems/index.adoc[Component libraries and design systems]*
 * *xref:platforms/the-web-platform/vendors/ui-components/multi-platform-design-systems/index.adoc[Multi-platform design systems]*
 * *xref:platforms/the-web-platform/vendors/ui-components/react-component-libraries/index.adoc[React component libraries]*

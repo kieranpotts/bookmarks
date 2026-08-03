@@ -1,4 +1,6 @@
 = Coworking
 
+Coworking space providers.
+
 * https://andco.life/[AndCo]
 * https://work.life/[Work.Life]

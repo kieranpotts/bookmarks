@@ -1,5 +1,7 @@
 = Application usage analytics
 
+Services for tracking and analyzing how users interact with applications.
+
 * https://umami.is/[unami]
 * https://mixpanel.com/[Mixpanel]
 * https://amplitude.com/[Amplitude]

@@ -1,5 +1,8 @@
 = Task/job queues
 
+Libraries for running background task and job queues in Node.js, typically
+backed by Redis or a database.
+
 * https://node-resque.actionherojs.com/[node-resque]
 * https://github.com/timgit/pg-boss[pg-boss]
 * https://github.com/bee-queue/bee-queue[Bee Queue]

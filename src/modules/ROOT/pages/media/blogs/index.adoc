@@ -1,5 +1,7 @@
 = Blogs
 
+Corporate and individual blogs covering engineering insight and commentary.
+
 * https://www.devreading.com/[/dev/reading]
 * https://substack.com/home[Substack]
 

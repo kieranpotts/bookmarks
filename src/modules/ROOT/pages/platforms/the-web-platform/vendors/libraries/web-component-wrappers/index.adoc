@@ -1,5 +1,8 @@
 = Web component wrappers (for Vue, React... Components)
 
+Libraries for wrapping web components so they integrate cleanly with
+frameworks like Vue and React.
+
 * https://github.com/vuejs/vue-web-component-wrapper[Vue Web Component Wrapper]
 * https://github.com/rstacruz/remount[Remount]
 

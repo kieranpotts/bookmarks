@@ -1,5 +1,7 @@
 = Standalone Vue components
 
+Individual Vue components, as opposed to full component libraries.
+
 * https://github.com/alexjoverm/v-lazy-image[v-lazy-image]
 * https://palerdot.in/vue-speedometer/[vue-speedometer]
 * https://vee-validate.logaretm.com/v4/[VeeValidate]

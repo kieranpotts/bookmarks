@@ -1,5 +1,8 @@
 = Flat-file and Git-based CMSes
 
+CMSes that store content as flat files, often version-controlled in Git, rather
+than in a database.
+
 * https://getkirby.com/[Kirby]
 * https://spinalcms.com/[Spinal CMS]
 * https://decapcms.org/[Decap CMS (formerly Netlify CMS)]

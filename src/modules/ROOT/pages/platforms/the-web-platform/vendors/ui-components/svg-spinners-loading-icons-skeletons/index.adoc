@@ -1,5 +1,7 @@
 = SVG spinners / loading icons / skeletons
 
+SVG-based loading spinners, icons, and skeleton screens.
+
 * https://github.com/shubhamjain/svg-spinners[github.com/shubhamjain/svg-spinners]
 * https://github.com/mrtrimble/skelly-wc[Skelly-WC]
 

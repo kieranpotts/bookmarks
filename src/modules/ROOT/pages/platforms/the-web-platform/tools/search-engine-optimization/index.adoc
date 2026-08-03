@@ -1,4 +1,6 @@
 = Search engine optimization
 
+Tools for search engine optimization and website analytics.
+
 * https://search.google.com/search-console/about[Google Search Console]
 * https://ahrefs.com/[ahrefs]

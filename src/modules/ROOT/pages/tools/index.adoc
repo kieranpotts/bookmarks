@@ -1,5 +1,7 @@
 = Tools
 
+Software tools, apps, and online services, organized by category.
+
 * https://emojipedia.org/[📙 Emojipedia]
 
 * *xref:tools/build-tools-and-task-runners/index.adoc[Build tools and task runners (language-agnostic)]*

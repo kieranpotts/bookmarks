@@ -1,5 +1,7 @@
 = PostgreSQL clients
 
+Client libraries for connecting to and querying PostgreSQL from Node.js.
+
 * https://vitaly-t.github.io/pg-promise/[pg-promise]
 * https://github.com/gajus/slonik[slonik]
 * https://node-postgres.com/[node-postgres]

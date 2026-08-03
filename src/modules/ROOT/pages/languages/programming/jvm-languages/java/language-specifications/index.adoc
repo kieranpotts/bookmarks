@@ -1,5 +1,8 @@
 = Language specifications
 
+Java platform editions, plus the standards bodies and processes that define
+them.
+
 * https://jakarta.ee/[Jakarta EE (formerly Java Platform Enterprise Edition, Java EE, J2EE)]
 * https://www.oracle.com/java/technologies/java-se-glance.html[Java Platform Standard Edition (Java SE, formerly J2SE)]
 * https://www.oracle.com/java/technologies/javameoverview.html[Java Platform Micro Edition (Java ME, formerly J2ME)]

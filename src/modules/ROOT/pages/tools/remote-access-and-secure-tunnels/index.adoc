@@ -1,5 +1,8 @@
 = Remote access and secure tunnels
 
+Tools for exposing local services to the internet and enabling secure remote
+access.
+
 * https://www.flexihub.com/[Flexihub]
 * https://expose.dev/[Expose]
 * https://github.com/ekzhang/bore[bore]

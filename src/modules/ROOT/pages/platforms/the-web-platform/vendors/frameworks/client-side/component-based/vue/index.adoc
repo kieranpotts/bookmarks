@@ -1,5 +1,8 @@
 = Vue
 
+Vue.js, the progressive JavaScript framework, and related starter kits, testing
+tools, and IDE extensions.
+
 * https://vuejs.org/[Vue.js]
 
 == Project skeletons, starter kits and generators

@@ -1,3 +1,5 @@
 = SSH + FTP clients
 
+Clients for connecting to remote servers over SSH and FTP.
+
 * https://filezilla-project.org/[Filezilla]

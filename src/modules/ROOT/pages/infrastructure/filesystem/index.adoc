@@ -1,3 +1,5 @@
 = Distributed file systems
 
+Distributed file systems for storing data across clusters of machines.
+
 * https://hadoop.apache.org/[Apache Hadoop]

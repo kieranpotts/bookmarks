@@ -1,3 +1,5 @@
 = Screen capture
 
+Libraries for capturing screenshots from Node.js.
+
 * https://github.com/nashaofu/node-screenshots[node-screenshots]

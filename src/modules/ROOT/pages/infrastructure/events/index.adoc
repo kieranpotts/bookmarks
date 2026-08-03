@@ -1,3 +1,5 @@
 = Event-driven systems
 
+Platforms for building event-driven systems that react to data changes.
+
 * https://github.com/drasi-project/drasi-platform[Drasi]

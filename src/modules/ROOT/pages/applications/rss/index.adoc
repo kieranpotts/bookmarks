@@ -1,5 +1,7 @@
 = RSS feed readers and news aggregators
 
+RSS feed readers and news aggregators.
+
 * https://flipboard.com/[Flipboard]
 * https://github.com/0x2E/fusion[Fusion]
 * https://feedly.com/[Feedly]

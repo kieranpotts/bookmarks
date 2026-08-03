@@ -1,5 +1,7 @@
 = Data lakes (unstructured)
 
+Storage systems for unstructured and semi-structured data at scale.
+
 * https://aws.amazon.com/s3/[Amazon S3]
 * https://www.databricks.com/[Databricks]
 * https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html[HDFS]

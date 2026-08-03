@@ -1,5 +1,7 @@
 = Money transfer
 
+Services for transferring money and managing currency exchange.
+
 * https://www.escrow.com/[Escrow.com]
 * https://www.payoneer.com/[Payoneer]
 * https://wise.com/[Wise (formerly TransferWise)]

@@ -1,5 +1,7 @@
 = Message brokers (aka. message queues)
 
+Message brokers for passing messages and events between services.
+
 * https://aws.amazon.com/sqs/[Amazon SQS]
 * https://zeromq.org/[ZeroMQ]
 * https://nsq.io/[NSQ]

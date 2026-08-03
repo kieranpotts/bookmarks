@@ -1,5 +1,7 @@
 = Version control methodologies
 
+Branching models, workflows, and conventions for using version control.
+
 * https://nvie.com/posts/a-successful-git-branching-model/[GitFlow]
 * https://docs.github.com/en/get-started/using-github/github-flow[GitHub Flow]
 * https://martinfowler.com/articles/ship-show-ask.html[Ship/Show/Ask]

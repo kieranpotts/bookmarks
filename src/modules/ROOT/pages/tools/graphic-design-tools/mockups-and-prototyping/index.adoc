@@ -1,5 +1,7 @@
 = Mockups and prototyping
 
+Tools for creating UI mockups, wireframes, and interactive prototypes.
+
 * https://helpx.adobe.com/in/support/xd.html[Adobe XD (deprecated)]
 * https://balsamiq.com/[Balsamiq]
 * https://www.canva.com/en_gb/[Canva]

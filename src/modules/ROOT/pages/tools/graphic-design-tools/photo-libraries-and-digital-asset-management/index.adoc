@@ -1,5 +1,8 @@
 = Photo libraries and digital asset management
 
+Tools and libraries for organizing, storing, and managing digital images and
+assets.
+
 * https://svgx.app/[SVGX]
 * https://iconset.io/[Iconset]
 

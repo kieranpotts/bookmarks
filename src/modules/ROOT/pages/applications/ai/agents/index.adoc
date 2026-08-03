@@ -1,5 +1,8 @@
 = AI Agents
 
+AI agent products and chat-based assistants for research, coding, and general-
+purpose tasks.
+
 * https://www.deepseek.com/[DeepSeek]
 * https://www.perplexity.ai/[Perplexity]
 * https://replit.com/[Replit]

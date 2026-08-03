@@ -1,4 +1,6 @@
 = Code search
 
+Search engines for finding code across public repositories.
+
 * https://grep.app/[grep.app]
 

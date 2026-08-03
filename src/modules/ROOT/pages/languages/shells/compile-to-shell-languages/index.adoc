@@ -1,3 +1,5 @@
 = Compile-to-shell languages
 
+Languages that compile down to shell scripts.
+
 * https://amber-lang.com/[Amber]

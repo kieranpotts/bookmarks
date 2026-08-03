@@ -1,3 +1,5 @@
 = Password and secrets management
 
+Command-line tools for managing passwords and secrets.
+
 * https://www.passwordstore.org/[pass]

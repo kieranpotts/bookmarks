@@ -1,5 +1,8 @@
 = Full-stack
 
+Full-stack frameworks and libraries that blur the line between client and server
+code.
+
 * https://react.dev/reference/rsc/server-components[React Server Components (RSC)]
 * https://feathersjs.com/[Feathers]
 * https://www.totaljs.com/[Total.js]

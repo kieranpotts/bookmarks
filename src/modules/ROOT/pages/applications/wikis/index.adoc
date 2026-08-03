@@ -1,5 +1,7 @@
 = Wikis and knowledgebases
 
+Wikis and knowledgebase platforms.
+
 * https://www.dropbox.com/paper/[Dropbox Paper]
 * https://docmost.com/[Docmost]
 * https://redocly.com/[Redocly]

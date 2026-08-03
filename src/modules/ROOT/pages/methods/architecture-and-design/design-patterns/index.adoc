@@ -1,5 +1,7 @@
 = Design patterns
 
+Design pattern catalogs and resources for designing software.
+
 * https://c2.com/ppr/[Portland Pattern Repository (on the WikiWikiWeb)]
 * https://www.thoughtworks.com/insights/topic/architecture[Thoughtworks - Architecture]
 * https://openlibrary.org/works/OL8021055W/The_Pattern_Almanac_2000[The Pattern Almanac 2000 by Linda Rising]

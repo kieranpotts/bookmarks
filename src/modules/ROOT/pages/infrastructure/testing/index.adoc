@@ -1,3 +1,5 @@
 = Infrastructure testing
 
+Tools for testing infrastructure resilience through chaos engineering.
+
 * https://www.gremlin.com/[Gremlin]

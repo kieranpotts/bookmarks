@@ -1,5 +1,7 @@
 = Mailboxes
 
+Hosted mailbox providers.
+
 * https://tuta.com/[Tuta]
 * https://mailbox.org/[Mailbox]
 * https://proton.me/[Proton]

@@ -1,5 +1,7 @@
 = Benchmarking and runtime analysis
 
+Tools for benchmarking JavaScript code and analyzing runtime performance.
+
 * https://caderek.github.io/benny/[Benny]
 * https://github.com/mcollina/autocannon[autocannon]
 * https://github.com/tinylibs/tinybench[tinylibs/tinybench]

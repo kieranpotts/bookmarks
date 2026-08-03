@@ -1,5 +1,7 @@
 = Expired domains and backorders
 
+Services for catching or bidding on expired and backordered domain names.
+
 * https://www.dropcatch.com/[DropCatch]
 * https://auctions.godaddy.com/beta[GoDaddy Auctions]
 * https://www.expireddomains.net/[ExpiredDomains.net]

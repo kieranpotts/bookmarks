@@ -1,5 +1,8 @@
 = Monitoring
 
+Application performance monitoring, system monitoring, and service status
+dashboard tools.
+
 == Infrastructure and application (performance) monitoring (APM)
 
 * https://www.solarwinds.com/appoptics[AppOptics (formerly Librato)]

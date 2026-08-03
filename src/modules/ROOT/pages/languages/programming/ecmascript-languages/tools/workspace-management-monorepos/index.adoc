@@ -1,5 +1,7 @@
 = Workspace management (Monorepos)
 
+Tools for managing monorepos and multi-package JavaScript workspaces.
+
 * https://github.com/sevifives/bit[bit - git abstraction for mono-repos / multi-root workspaces]
 * https://github.com/guigrpa/oao[oao]
 * https://github.com/boltpkg/bolt[Bolt]

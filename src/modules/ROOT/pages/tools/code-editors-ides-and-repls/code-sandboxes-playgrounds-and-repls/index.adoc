@@ -1,5 +1,8 @@
 = Code sandboxes/playgrounds/REPLs (language-agnostic)
 
+Online sandboxes, playgrounds, and REPLs for writing and running snippets of
+code without setting up a local project.
+
 * https://codepen.io/[CodePen]
 * https://pastebin.com/[Pastebin]
 

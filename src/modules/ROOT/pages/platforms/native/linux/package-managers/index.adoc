@@ -1,5 +1,7 @@
 = Package managers
 
+Package managers used for installing and managing software on Linux.
+
 * https://nixos.org/[Nix]
 * https://rpm.org/[RPM]
 * http://yum.baseurl.org/[Yum]

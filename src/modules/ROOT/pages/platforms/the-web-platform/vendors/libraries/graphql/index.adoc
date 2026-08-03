@@ -1,5 +1,7 @@
 = GraphQL
 
+Tools and clients for working with GraphQL APIs.
+
 == GraphQL clients
 
 * https://www.apollographql.com/docs/react/[Apollo]

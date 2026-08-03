@@ -1,5 +1,7 @@
 = Tools
 
+Tools for building, testing, and managing Java projects.
+
 * *xref:languages/programming/jvm-languages/java/tools/build-automation-dependency-management/index.adoc[Build automation and dependency management]*
 * *xref:languages/programming/jvm-languages/java/tools/package-registries/index.adoc[Package registries]*
 * *xref:languages/programming/jvm-languages/java/tools/java-version-managers/index.adoc[Java version managers]*

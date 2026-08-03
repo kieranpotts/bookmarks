@@ -1,4 +1,6 @@
 = SQLite clients
 
+Client libraries for working with SQLite databases in Node.js.
+
 * https://github.com/WiseLibs/better-sqlite3[better-sqlite3 by wise labs]
 * https://github.com/TryGhost/node-sqlite3[sqlite3 by ghost]

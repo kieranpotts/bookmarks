@@ -1,5 +1,7 @@
 = Tools
 
+Tools for testing and statically analyzing shell scripts.
+
 == Runtime testing
 
 * https://github.com/Checksum/critic.sh[critic.sh]

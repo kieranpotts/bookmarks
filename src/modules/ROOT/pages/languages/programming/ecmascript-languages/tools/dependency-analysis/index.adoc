@@ -1,5 +1,7 @@
 = Dependency analysis
 
+Tools for auditing, updating, and analyzing JavaScript project dependencies.
+
 * https://github.com/lirantal/npq[npq]
 * https://github.com/silverwind/updates[updates]
 * https://github.com/upgradejs/depngn[depngn]

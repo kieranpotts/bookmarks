@@ -1,5 +1,8 @@
 = Reference
 
+General web platform reference documentation and resources, organized by
+topic.
+
 * https://developer.mozilla.org/en-US/[MDN Web Docs]
 * https://web.dev/[web.dev]
 

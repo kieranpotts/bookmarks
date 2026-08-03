@@ -1,5 +1,7 @@
 = Animation tools
 
+Tools for creating 2D animations and animated vector graphics.
+
 * https://www.synfig.org/[Synfig Studio]
 * https://www.pencil2d.org/[Pencil2D Animation]
 * https://www.svgator.com/[svgator]

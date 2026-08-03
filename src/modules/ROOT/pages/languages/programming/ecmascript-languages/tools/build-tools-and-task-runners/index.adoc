@@ -1,5 +1,7 @@
 = Build tools and task runners
 
+Build tools and task runners for automating JavaScript project workflows.
+
 * https://codekitapp.com/[CodeKit]
 * https://gulpjs.com/[Gulp]
 * https://gruntjs.com/[Grunt]

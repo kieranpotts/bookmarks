@@ -1,4 +1,6 @@
 = Libraries
 
+Third-party Java libraries.
+
 * https://www.thymeleaf.org/[Thymeleaf]
 * https://github.com/google/guava[Guava - Google's core libraries for its Java projects]

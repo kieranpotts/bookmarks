@@ -1,5 +1,7 @@
 = Compilers/transpilers and parsers
 
+Compilers, transpilers, and parsers for JavaScript and TypeScript source code.
+
 * https://bloomberg.github.io/ts-blank-space/[ts-blank-space]
 * https://jscodeshift.com/[jscodeshift - by Meta]
 * https://github.com/kaleidawave/ezno[ezno]

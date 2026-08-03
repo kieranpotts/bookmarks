@@ -1,3 +1,6 @@
 = Pre-packaged application catalogs
 
+Catalogs of pre-packaged, ready-to-deploy application stacks for quick
+deployment.
+
 * https://bitnami.com/[Bitnami]

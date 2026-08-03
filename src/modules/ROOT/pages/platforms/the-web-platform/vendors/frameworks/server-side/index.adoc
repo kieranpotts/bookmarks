@@ -1,5 +1,8 @@
 = Server-side
 
+Server-side frameworks, mostly for Node.js. Express and Fastify have their own
+dedicated pages.
+
 * https://fresh.deno.dev/[Fresh]
 * https://nestjs.com/[NestJS]
 * https://www.jeasx.dev/[Jeasx]

@@ -1,5 +1,8 @@
 = Angular
 
+Angular, the TypeScript-based component framework from Google, and related
+testing tools.
+
 * https://angularjs.org/[AngularJS (Angular v1)]
 * https://angular.io/[Angular (Angular v2+)]
 

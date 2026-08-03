@@ -1,5 +1,8 @@
 = Frameworks
 
+Application frameworks for Java, including Spring and its lighter-weight
+alternatives.
+
 * https://helidon.io/[Helidon]
 * https://micronaut.io/[Micronaut]
 * https://github.com/byronka/minum[Minum]

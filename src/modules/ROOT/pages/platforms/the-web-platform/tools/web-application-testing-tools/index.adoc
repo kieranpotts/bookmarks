@@ -1,5 +1,8 @@
 = Web application testing tools
 
+Tools for testing, analyzing, and monitoring web applications, covering
+performance, accessibility, security, and more.
+
 == Runtime and static analysis
 
 * https://developer.chrome.com/docs/lighthouse[Lighthouse]

@@ -1,5 +1,7 @@
 = Social news
 
+Social news and link-aggregation sites for technology discussion.
+
 * https://news.ycombinator.com/[Hacker News]
 * https://lobste.rs/[Lobsters]
 * https://www.echojs.com/[Echo JS]

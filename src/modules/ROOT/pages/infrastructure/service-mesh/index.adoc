@@ -1,3 +1,5 @@
 = Service mesh and service discovery
 
+Tools for service discovery and mesh networking between services.
+
 * https://www.consul.io/[Consul]

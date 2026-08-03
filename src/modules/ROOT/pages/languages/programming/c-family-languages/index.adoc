@@ -1,5 +1,8 @@
 = C family languages
 
+C, C++, and C#, languages that share C's core syntax, with links to their
+official standards and documentation.
+
 == C
 
 * https://www.iso.org/standard/74528.html[ISO/IEC 9899:2018]

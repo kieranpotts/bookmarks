@@ -1,5 +1,8 @@
 = Tools
 
+Tools for building, testing, and analyzing web applications, organized by
+category.
+
 * *xref:platforms/the-web-platform/tools/browser-devtools/index.adoc[Browser devtools]*
 * *xref:platforms/the-web-platform/tools/browser-and-device-testing/index.adoc[Browser and device testing]*
 * *xref:platforms/the-web-platform/tools/browser-automation-and-simulation/index.adoc[Browser automation and simulation]*

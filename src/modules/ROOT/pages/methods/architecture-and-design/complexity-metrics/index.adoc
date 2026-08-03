@@ -1,3 +1,6 @@
 = Complexity metrics
 
+Metrics and notations used to reason about the complexity of algorithms and
+code.
+
 * https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/[Big O Notation]

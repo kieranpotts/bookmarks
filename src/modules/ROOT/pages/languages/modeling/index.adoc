@@ -1,5 +1,8 @@
 = Modelling languages
 
+Notations and languages for modelling software architecture and system
+design, including UML.
+
 * https://c4model.com/[C4 Model]
 * https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf[4+1 Model]
 * https://sysml.org/[SysML]

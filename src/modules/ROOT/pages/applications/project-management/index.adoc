@@ -1,5 +1,7 @@
 = Issue trackers and project management
 
+Issue trackers and project management tools.
+
 * https://www.tegon.ai/[Tegon]
 * https://www.shortcut.com/[Shortcut]
 * https://monday.com/[monday.com]

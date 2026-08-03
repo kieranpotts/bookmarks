@@ -1,5 +1,8 @@
 = CI/CD systems (automation servers)
 
+Automation servers for building, testing, and deploying code as part of a CI/CD
+pipeline.
+
 * https://semaphoreci.com/[Semaphor]
 * https://spinnaker.io/[Spinnaker]
 * https://www.jetbrains.com/teamcity/pipelines/[JetBrains Pipelines]

@@ -1,5 +1,8 @@
 = Random, UUID, passwords, hashes and secrets generation
 
+Libraries for generating random values, UUIDs, passwords, hashes, and other
+secrets in JavaScript.
+
 * https://github.com/uuidjs/uuid[uuid]
 * https://antonz.org/uuidv7/[UUIDv7 Generator in 29 Languages]
 * https://github.com/buttercup/buttercup-generator[Buttercup Password Generator]

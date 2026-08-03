@@ -1,5 +1,7 @@
 = Media
 
+Publications, communities, and other sources of information, organized by type.
+
 * *xref:media/professional-bodies/index.adoc[Professional bodies]*
 * *xref:media/blogs/index.adoc[Blogs]*
 * *xref:media/books/index.adoc[Books]*

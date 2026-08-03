@@ -1,3 +1,5 @@
 = Web/HTTP clients
 
+Command-line HTTP clients for making web requests.
+
 * https://curl.se/[curl]

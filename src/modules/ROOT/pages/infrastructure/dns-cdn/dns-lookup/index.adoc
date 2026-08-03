@@ -1,5 +1,7 @@
 = DNS lookup
 
+Tools for looking up DNS records, WHOIS data, and DNS propagation status.
+
 * https://dns.google/[Google DNS]
 * https://dns-lookup.jvns.ca/[jvns.ca - DNS Lookup]
 * https://who.is/[who.is]

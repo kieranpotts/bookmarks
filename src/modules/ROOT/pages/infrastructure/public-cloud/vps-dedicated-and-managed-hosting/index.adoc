@@ -1,5 +1,7 @@
 = VPS, dedicated, and managed hosting
 
+VPS, dedicated server, and managed hosting providers.
+
 * https://www.hetzner.com/[Hetzner]
 * https://ramnode.com/[RamNode]
 * https://www.vultr.com/[Vultr]

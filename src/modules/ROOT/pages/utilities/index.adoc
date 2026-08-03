@@ -1,5 +1,7 @@
 = Utilities
 
+Command-line tools and utilities, organized by category.
+
 * *xref:utilities/password-and-secrets-management/index.adoc[Password and secrets management]*
 * *xref:utilities/pagers/index.adoc[Pagers]*
 * *xref:utilities/prompt-theme-engines/index.adoc[Prompt theme engines (multi-shell)]*

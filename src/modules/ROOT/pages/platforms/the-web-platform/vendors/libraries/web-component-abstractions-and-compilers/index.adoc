@@ -1,5 +1,8 @@
 = Web component abstractions and compilers
 
+Libraries and compilers for building native web components with less
+boilerplate.
+
 * https://atomicojs.dev/[Atomico]
 * https://bayjs.org/[Bay.js]
 * https://hybrids.js.org/#/[hybrids]

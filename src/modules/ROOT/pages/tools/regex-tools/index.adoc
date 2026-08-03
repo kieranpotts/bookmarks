@@ -1,5 +1,7 @@
 = Regex tools
 
+Tools for building, testing, and understanding regular expressions.
+
 * https://regexr.com/[Regexr]
 * https://ihateregex.io/[iHateRegex]
 * https://regexper.com/[Regexpr]

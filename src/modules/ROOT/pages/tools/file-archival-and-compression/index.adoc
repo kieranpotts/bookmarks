@@ -1,4 +1,6 @@
 = File archival and compression
 
+Tools for archiving and compressing files.
+
 * https://peazip.github.io/[PeaZip]
 * https://www.7-zip.org/[7zip]

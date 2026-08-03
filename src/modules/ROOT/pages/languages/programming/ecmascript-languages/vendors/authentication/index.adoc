@@ -1,5 +1,8 @@
 = Authentication
 
+Libraries and frameworks for authenticating users in JavaScript and Node.js
+applications, including session management and OAuth strategies.
+
 * https://next-auth.js.org/[NextAuth.js]
 * https://www.passportjs.org/[Passport.js]
 * https://github.com/expressjs/session[expressjs/session]

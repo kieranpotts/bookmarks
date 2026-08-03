@@ -1,5 +1,8 @@
 = Reactive programming libraries
 
+Libraries implementing reactive programming patterns and observables in
+JavaScript.
+
 * https://reactivex.io/[ReactiveX]
 * https://cycle.js.org/[Cycle.js]
 * https://github.com/cujojs/most[Most]

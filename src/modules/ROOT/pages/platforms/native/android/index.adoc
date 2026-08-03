@@ -1,5 +1,7 @@
 = Android
 
+Tools and resources for developing native Android applications.
+
 == Tools
 
 === Code editors and IDEs

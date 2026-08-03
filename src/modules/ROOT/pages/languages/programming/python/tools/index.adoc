@@ -1,5 +1,8 @@
 = Tools
 
+Testing frameworks, package registries, editors, linters, and version
+managers for Python.
+
 == Testing frameworks
 
 * https://docs.pytest.org/en/7.4.x/[pytest docs]

@@ -1,5 +1,8 @@
 = CLI abstractions/frameworks
 
+Libraries for building command-line interfaces in Node.js, covering argument
+parsing, interactive prompts, and terminal colour output.
+
 * https://github.com/leo/args[args]
 * https://github.com/infinitered/gluegun[gluegun]
 * https://github.com/cacjs/cac[cac]

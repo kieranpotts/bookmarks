@@ -1,5 +1,8 @@
 = Component-based
 
+Component-based JavaScript frameworks. The major frameworks each have their own
+page below; other, less common ones are listed directly.
+
 * https://qwik.dev/[Qwik]
 * https://www.solidjs.com/[SolidJS]
 * https://aurelia.io/[Aurelia]

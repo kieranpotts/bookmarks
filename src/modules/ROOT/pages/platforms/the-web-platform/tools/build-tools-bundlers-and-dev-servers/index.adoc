@@ -1,5 +1,8 @@
 = Build tools, bundlers and dev servers
 
+Build tools, bundlers, and development servers for compiling and serving
+front-end code.
+
 * https://github.com/bevry-archive/buildr[Buildr]
 * https://brunch.io/[Brunch]
 * https://github.com/broccolijs/broccoli[Broccoli]

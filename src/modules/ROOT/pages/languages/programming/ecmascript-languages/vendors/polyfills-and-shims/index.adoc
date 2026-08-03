@@ -1,3 +1,6 @@
 = Polyfills and shims
 
+Polyfills and shims for ECMAScript features not natively supported in all
+environments.
+
 * https://github.com/es-shims[ECMAScript Shims]

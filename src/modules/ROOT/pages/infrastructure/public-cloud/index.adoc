@@ -1,5 +1,7 @@
 = Public cloud services
 
+Public cloud providers and hosting services, organized by category.
+
 * *xref:infrastructure/public-cloud/major-public-cloud-services/index.adoc[Major public cloud services]*
 * *xref:infrastructure/public-cloud/vps-dedicated-and-managed-hosting/index.adoc[VPS, dedicated, and managed hosting]*
 * *xref:infrastructure/public-cloud/platform-as-a-service/index.adoc[Platform-as-a-service]*

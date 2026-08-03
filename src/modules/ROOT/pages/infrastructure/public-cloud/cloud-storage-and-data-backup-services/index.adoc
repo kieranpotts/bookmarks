@@ -1,3 +1,5 @@
 = Cloud storage and data backup services
 
+Cloud storage and backup services for archiving and protecting data.
+
 * https://www.backblaze.com/[Backblaze]

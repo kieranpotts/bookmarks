@@ -1,5 +1,7 @@
 = Engines
 
+JavaScript engines, including embeddable and experimental implementations.
+
 * https://trynova.dev/[Nova]
 * https://boajs.dev/[Boa]
 * https://github.com/facebook/hermes[Hermes]

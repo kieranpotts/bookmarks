@@ -1,5 +1,7 @@
 = Productivity measurement frameworks
 
+Frameworks for measuring developer and team productivity.
+
 * https://www.youtube.com/watch?v=OFKv8vVQeZM[GSM Goals/Signals/Metrics]
 * https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance[DORA Four Key Metrics]
 * https://queue.acm.org/detail.cfm?id=3454124[SPACE]

@@ -1,4 +1,7 @@
 = Organizations
 
+Organizations behind the stewardship and standardization of the ECMAScript
+language and its ecosystem.
+
 * https://openjsf.org/[OpenJS Foundation]
 * https://ecma-international.org/[ECMA International]

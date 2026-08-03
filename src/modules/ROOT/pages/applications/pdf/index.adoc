@@ -1,5 +1,7 @@
 = PDF generation and editing
 
+Tools for generating, editing, and signing PDF documents.
+
 * https://www.pdf24.org/en/[PDF24]
 * https://www.adobe.com/uk/acrobat/online.html[Adobe PDF Tools]
 * https://sign.dropbox.com/[Dropbox Sign]

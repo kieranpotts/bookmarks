@@ -1,5 +1,7 @@
 = Icons and illustrations
 
+Icon and illustration libraries for UI design and general graphic work.
+
 * https://www.streamlinehq.com/[Streamline]
 * https://thenounproject.com/[The Noun Project]
 * https://fontawesome.com/[Font Awesome]

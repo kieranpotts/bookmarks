@@ -1,5 +1,7 @@
 = BSD
 
+BSD operating systems and distributions.
+
 == Distributions
 
 * https://www.freebsd.org/[FreeBSD]

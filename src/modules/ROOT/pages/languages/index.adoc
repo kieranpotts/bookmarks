@@ -1,5 +1,7 @@
 = Languages
 
+Programming, scripting, markup, and other formal languages, organized by type.
+
 * *xref:languages/data-formats/index.adoc[Data interchange formats]*
 * *xref:languages/interface-definitions/index.adoc[Interface definition languages]*
 * *xref:languages/programming/index.adoc[Programming and scripting languages]*

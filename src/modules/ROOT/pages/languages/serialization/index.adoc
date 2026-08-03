@@ -1,5 +1,8 @@
 = Serialization languages
 
+Formats for converting data to and from a storable or transmittable
+representation, organized by encoding type.
+
 * *xref:languages/serialization/text-serialization-formats/index.adoc[Text serialization formats]*
 * *xref:languages/serialization/binary-serialization-formats/index.adoc[Binary serialization formats]*
 * *xref:languages/serialization/dual-text-and-binary-serialization-formats/index.adoc[Dual (text + binary) serialization formats]*

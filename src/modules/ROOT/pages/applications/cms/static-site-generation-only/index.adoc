@@ -1,3 +1,5 @@
 = Static-site generation only
 
+CMSes dedicated to generating static sites, with no server-side runtime.
+
 * https://getpublii.com/[Publii]

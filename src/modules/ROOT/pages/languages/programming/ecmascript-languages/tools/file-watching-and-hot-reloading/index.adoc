@@ -1,3 +1,6 @@
 = File watching and hot reloading
 
+Tools for watching file changes and triggering hot reloads during
+development.
+
 * https://github.com/paulmillr/chokidar[Chokidar]

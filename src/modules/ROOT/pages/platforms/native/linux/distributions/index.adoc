@@ -1,5 +1,7 @@
 = Distributions
 
+Linux distributions.
+
 * https://distrowatch.com/[Distro Watch]
 * https://alpinelinux.org/[Alpine Linux - widely used for container base images]
 * https://voidlinux.org/[Void]

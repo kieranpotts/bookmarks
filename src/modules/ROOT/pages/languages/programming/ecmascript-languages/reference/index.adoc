@@ -1,5 +1,7 @@
 = Reference
 
+Reference material and books on JavaScript.
+
 * https://javascript.info/[JavaScript.info]
 * https://github.com/trekhleb/javascript-algorithms[JavaScript Algorithms]
 * https://github.com/myshov/history-of-javascript[History of JavaScript]

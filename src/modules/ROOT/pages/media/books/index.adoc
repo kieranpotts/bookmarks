@@ -1,5 +1,7 @@
 = Books
 
+Books, book series, and publishers covering software engineering knowledge.
+
 * https://www.craftinginterpreters.com/[Crafting Interpreters]
 * https://pragprog.com/[Pragmatic Bookshelf]
 * https://abseil.io/resources/swe-book[Software Engineering at Google]

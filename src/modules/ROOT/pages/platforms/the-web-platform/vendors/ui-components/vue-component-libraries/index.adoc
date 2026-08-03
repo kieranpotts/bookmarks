@@ -1,5 +1,7 @@
 = Vue component libraries
 
+Component libraries and design systems built for Vue.
+
 * https://camome.net/[Camome UI]
 * https://primevue.org/[PrimeVue]
 * https://vuetifyjs.com/en/[Vuetify]

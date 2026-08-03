@@ -1,5 +1,8 @@
 = Binary serialization formats
 
+Binary data serialization formats for compact, non-human-readable data
+representation.
+
 * https://ubjson.org/[UBJSON]
 * http://bjson.org/[BJSON]
 * https://bsonspec.org/[BSON]

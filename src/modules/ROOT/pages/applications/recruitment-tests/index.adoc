@@ -1,5 +1,7 @@
 = Coding tests for tech recruitment
 
+Platforms for running coding tests as part of technical recruitment.
+
 * https://www.classmarker.com/[ClassMarker]
 * https://www.imocha.io/[iMocha]
 * https://tests4geeks.com/[Tests4Geeks]

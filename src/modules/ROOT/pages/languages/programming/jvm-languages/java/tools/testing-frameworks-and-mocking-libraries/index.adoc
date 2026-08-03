@@ -1,5 +1,7 @@
 = Testing frameworks and mocking libraries
 
+Testing frameworks and mocking libraries for Java.
+
 * https://junit.org/junit5/[JUnit]
 * https://testng.org/[TestNG]
 * https://www.archunit.org/[ArchUnit]

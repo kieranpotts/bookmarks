@@ -1,5 +1,7 @@
 = React component libraries
 
+Component libraries and design systems built for React.
+
 * https://ant.design/[Ant Design]
 * https://blueprintjs.com/[Blueprint]
 * https://v2.chakra-ui.com/[Chakra UI]

@@ -1,4 +1,6 @@
 = Documentation generators
 
+Tools for generating documentation from JavaScript source code and comments.
+
 * https://documentjs.com/[documentjs]
 * https://jsdoc.app/[JSDoc]

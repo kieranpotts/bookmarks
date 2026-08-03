@@ -1,5 +1,8 @@
 = DevOps lifecycle systems
 
+Tools and services that support the software delivery lifecycle, organized by
+category.
+
 * *xref:tools/devops-lifecycle-systems/all-in-one-devops-systems/index.adoc[All-in-one DevOps systems]*
 * *xref:tools/devops-lifecycle-systems/code-repository-hosting/index.adoc[Code repository hosting]*
 * *xref:tools/devops-lifecycle-systems/artifact-repositories/index.adoc[Artifact repositories]*

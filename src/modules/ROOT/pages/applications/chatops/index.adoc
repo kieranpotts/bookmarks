@@ -1,4 +1,6 @@
 = ChatOps and IRC clients
 
+ChatOps platforms and IRC clients for team communication.
+
 * https://github.com/thelounge/thelounge[The Lounge]
 * https://slack.com/intl/en-gb/[Slack]

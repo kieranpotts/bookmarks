@@ -1,5 +1,7 @@
 = Writing and research
 
+Applications for writing and research, organized by category.
+
 == Writing assistants
 
 * https://www.grammarly.com/[Grammarly]

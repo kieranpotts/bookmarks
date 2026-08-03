@@ -1,5 +1,7 @@
 = macOS
 
+Tools and resources for developing native macOS applications.
+
 == Tools
 
 === Package managers

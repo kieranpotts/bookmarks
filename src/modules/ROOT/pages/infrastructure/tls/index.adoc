@@ -1,3 +1,5 @@
 = TLS/SSL certificate authorities
 
+Certificate authorities for issuing TLS/SSL certificates.
+
 * https://letsencrypt.org/[Let's Encrypt]

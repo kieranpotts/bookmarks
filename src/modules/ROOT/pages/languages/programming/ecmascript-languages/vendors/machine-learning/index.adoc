@@ -1,5 +1,7 @@
 = Machine learning
 
+Libraries for machine learning and numerical computation in JavaScript.
+
 * https://github.com/frost-beta/node-mlx[node-mlx]
 * https://github.com/eduardoleao052/js-pytorch[JS-PyTorch]
 * https://github.com/mljs[ml.js]

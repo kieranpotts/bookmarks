@@ -1,5 +1,7 @@
 = Frameworks
 
+Web application frameworks and related tooling, organized by category.
+
 * https://todomvc.com/[TodoMVC]
 
 * *xref:platforms/the-web-platform/vendors/frameworks/server-side/index.adoc[Server-side]*

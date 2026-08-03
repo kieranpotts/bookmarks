@@ -1,5 +1,8 @@
 = Shell scripting / shell execution
 
+Libraries for scripting shell commands and executing child processes from
+JavaScript.
+
 * https://github.com/sindresorhus/nano-spawn[nano-spawn]
 * https://github.com/shelljs/shelljs[shelljs]
 * https://david.deno.dev/posts/dax-node-js/[dax]

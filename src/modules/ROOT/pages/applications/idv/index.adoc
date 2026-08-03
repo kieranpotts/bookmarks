@@ -1,5 +1,7 @@
 = Identity verification (IDV) and know your customer (KYC) services
 
+Identity verification (IDV) and know your customer (KYC) services.
+
 * https://www.yoti.com/[YOTI]
 * https://idverse.com/[IDVerse]
 * https://resistant.ai/[Resistant.ai]

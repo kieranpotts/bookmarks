@@ -1,4 +1,6 @@
 = File uploaders
 
+Standalone file upload components.
+
 * https://uppy.io/[Uppy]
 

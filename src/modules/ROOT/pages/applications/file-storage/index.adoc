@@ -1,5 +1,7 @@
 = File storage, syncing and sharing (including encryption)
 
+Applications for storing, syncing, sharing, and encrypting files.
+
 * https://cryptomator.org/[Cryptomator]
 * https://syncthing.net/[Syncthing]
 * https://www.dropbox.com/[Dropbox]

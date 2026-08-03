@@ -1,5 +1,8 @@
 = Canvas and SVG abstractions
 
+Libraries that simplify working with the Canvas and SVG APIs for drawing and
+graphics.
+
 * https://svgjs.dev/[SVG.js]
 * https://roughjs.com/[Rough.js]
 * https://github.com/fabricjs/fabric.js[fabric.js]

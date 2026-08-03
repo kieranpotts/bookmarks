@@ -1,5 +1,8 @@
 = Sharing and screen capture
 
+Tools for capturing and sharing screenshots, screen recordings, and terminal
+sessions.
+
 * https://www.screentogif.com/[ScreenToGif]
 * https://www.loom.com/[Loom]
 * https://github.com/chjj/ttystudio[ttystudio]

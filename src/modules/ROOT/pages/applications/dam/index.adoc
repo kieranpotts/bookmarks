@@ -1,4 +1,6 @@
 = Digital asset management
 
+Digital asset management (DAM) systems for storing and organizing media assets.
+
 * https://portingo.com/[Portingo]
 * https://cloudinary.com/[Cloudinary]

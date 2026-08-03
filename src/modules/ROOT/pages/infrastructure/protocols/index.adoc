@@ -1,5 +1,7 @@
 = Communication protocols
 
+Specifications and standards for communication protocols.
+
 * https://www.amqp.org/[AMQP]
 
 == HTTP

@@ -1,3 +1,5 @@
 = Domain name generators
 
+Tools for brainstorming and generating available domain names.
+
 * https://www.panabee.com/[Panabee]

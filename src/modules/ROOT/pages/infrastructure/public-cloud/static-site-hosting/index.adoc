@@ -1,5 +1,7 @@
 = Static site hosting
 
+Free and low-cost hosting platforms for static sites.
+
 * https://pages.cloudflare.com/[Cloudflare Pages]
 * https://docs.gitlab.com/ee/user/project/pages/[GitLab Pages]
 * https://pages.github.com/[GitHub Pages]

@@ -1,5 +1,8 @@
 = Static-site generators (not component-based)
 
+Static-site generators that aren't based on a component framework, including
+tools focused on technical documentation and books.
+
 * https://staticsitegenerators.net/[staticsitegenerators.net]
 * https://jamstack.org/generators/[Jamstack: List of Static Site Generators]
 * https://www.11ty.dev/[11ty]

@@ -1,5 +1,7 @@
 = Reference
 
+Documentation and learning resources for Java.
+
 == Documentation
 
 * https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/[JDBC API]

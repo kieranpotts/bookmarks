@@ -1,4 +1,6 @@
 = Self-publishing
 
+Platforms for self-publishing books, independent of a traditional publisher.
+
 * https://www.ingramspark.com/[IngramSpark]
 * https://leanpub.com/[Leanpub]

@@ -1,5 +1,8 @@
 = Configuration and env loaders
 
+Libraries for loading and validating application configuration from
+environment variables and config files.
+
 * https://dotenvx.com/[dotenvx]
 * https://github.com/mozilla/node-convict[node-convict]
 * https://github.com/indexzero/nconf[nconf]

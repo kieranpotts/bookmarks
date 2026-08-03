@@ -1,5 +1,8 @@
 = Development lifecycle automation
 
+Tools for automating versioning, releases, and changelogs in JavaScript
+projects.
+
 * https://semantic-release.gitbook.io/semantic-release[semantic-release]
 * https://github.com/release-it/release-it[release-it]
 * https://github.com/sindresorhus/np[np]

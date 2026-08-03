@@ -1,5 +1,8 @@
 = Code generators
 
+Generators for random values, cron expressions, UUIDs, and other boilerplate
+developers need on demand.
+
 * https://www.random.org/[Random.org]
 
 == Cron expressions

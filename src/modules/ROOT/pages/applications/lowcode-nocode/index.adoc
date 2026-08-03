@@ -1,5 +1,8 @@
 = Low-code/no-code application development
 
+Low-code and no-code platforms for building applications with minimal custom
+code.
+
 * https://bubble.io/[Bubble]
 * https://backendless.com/[Backendless]
 * https://www.airtable.com/[Airtable]

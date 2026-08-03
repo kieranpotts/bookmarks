@@ -1,4 +1,6 @@
 = Form validation
 
+Libraries for validating HTML form input on the client side.
+
 * http://parsleyjs.org/[Parsley]
 

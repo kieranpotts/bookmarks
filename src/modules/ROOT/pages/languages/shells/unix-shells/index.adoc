@@ -1,5 +1,8 @@
 = Unix shells
 
+Command-line shells that originate from, or are closely associated with,
+Unix.
+
 * *xref:languages/shells/unix-shells/posix/index.adoc[POSIX]*
 * *xref:languages/shells/unix-shells/bash/index.adoc[Bash]*
 * *xref:languages/shells/unix-shells/z-shell-zsh/index.adoc[Z shell (Zsh)]*

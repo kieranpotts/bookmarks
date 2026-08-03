@@ -1,5 +1,7 @@
 = Standalone React components
 
+Individual React components, as opposed to full component libraries.
+
 * https://docs.nlkit.com/nlux[nlUX]
 * https://github.com/wojtekmaj/react-pdf[react-pdf]
 * https://reactdatepicker.com/[React Datepicker]

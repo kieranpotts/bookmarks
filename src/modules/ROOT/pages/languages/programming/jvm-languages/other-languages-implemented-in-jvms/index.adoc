@@ -1,5 +1,8 @@
 = Other languages implemented in JVMs
 
+Implementations of other languages that run on the JVM, such as Python
+(Jython), Ruby (JRuby), and JavaScript (Nashorn, Rhino).
+
 * https://eta-lang.org/[Eta (Haskell JVM implementation)]
 * https://github.com/thomasmodeneis/jgo[JGo (Go implementation)]
 * https://www.jython.org/[Jython (Python implementation)]

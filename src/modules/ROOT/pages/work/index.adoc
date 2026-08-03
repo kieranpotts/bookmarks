@@ -1,5 +1,7 @@
 = Work
 
+Career and work-related resources, organized by category.
+
 * *xref:work/jobs/index.adoc[Jobs]*
 * *xref:work/interviewing/index.adoc[Interviewing]*
 * *xref:work/contracting/index.adoc[Contracting]*

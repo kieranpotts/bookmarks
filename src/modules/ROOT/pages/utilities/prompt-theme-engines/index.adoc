@@ -1,5 +1,7 @@
 = Prompt theme engines (multi-shell)
 
+Shell prompt theming engines, most of which work across multiple shells.
+
 * https://spaceship-prompt.sh/[Spaceship]
 * https://starship.rs/[Starship]
 * https://github.com/dahlbyk/posh-git[posh-git]

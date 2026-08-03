@@ -1,3 +1,5 @@
 = Avatar services
 
+Services for generating or resolving user avatar images.
+
 * https://unavatar.io/[Unavatar]

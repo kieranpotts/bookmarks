@@ -1,3 +1,6 @@
 = README integrations
 
+Badges and integrations for enriching README files with build status and other
+metadata.
+
 * https://shields.io/[Shields.io]

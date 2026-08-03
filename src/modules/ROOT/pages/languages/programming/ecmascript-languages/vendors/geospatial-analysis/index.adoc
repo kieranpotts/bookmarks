@@ -1,3 +1,5 @@
 = Geospatial analysis
 
+Libraries for geospatial analysis and geometric calculations in JavaScript.
+
 * https://turfjs.org/[Turf.js]

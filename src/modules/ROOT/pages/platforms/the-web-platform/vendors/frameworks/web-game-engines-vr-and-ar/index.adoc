@@ -1,5 +1,8 @@
 = Web game engines, VR and AR
 
+Game engines and frameworks for building web-based games, VR, and AR
+experiences.
+
 * https://straker.github.io/kontra/[Kontra]
 * https://phaser.io/[Phaser]
 * https://impactjs.com/[Impact]

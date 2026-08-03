@@ -1,5 +1,7 @@
 = Diffing and merging tools
 
+Standalone tools for comparing and merging text, code, and files.
+
 * https://www.araxis.com/merge/[AraxisMerge]
 * https://www.scootersoftware.com/[BeyondCompare]
 * https://www.devart.com/codecompare/[CodeCompare]

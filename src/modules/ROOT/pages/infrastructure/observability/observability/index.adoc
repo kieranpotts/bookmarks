@@ -1,5 +1,8 @@
 = Observability
 
+General-purpose observability platforms for collecting, storing, and
+visualizing metrics.
+
 * https://www.cacti.net/info/cacti[Cacti]
 * https://www.splunk.com/[Splunk]
 * https://grafana.com/[Grafana]

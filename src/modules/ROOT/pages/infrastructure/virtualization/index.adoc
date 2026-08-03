@@ -1,5 +1,7 @@
 = Virtualization and containerization
 
+Virtualization and containerization tools, organized by category.
+
 * *xref:infrastructure/virtualization/container-systems/index.adoc[Container systems]*
 * *xref:infrastructure/virtualization/virtualization-systems/index.adoc[Virtualization systems]*
 * *xref:infrastructure/virtualization/vm-and-container-image-libraries/index.adoc[VM and container image libraries]*

@@ -1,5 +1,8 @@
 = Development environments and stacks
 
+Pre-packaged local development environments and stacks, including containerized
+setups and LAMP-like bundles.
+
 * https://containers.dev/[Dev Containers]
 
 == LAMP-like stacks

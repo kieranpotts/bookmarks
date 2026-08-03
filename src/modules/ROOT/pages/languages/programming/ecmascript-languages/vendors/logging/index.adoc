@@ -1,5 +1,7 @@
 = Logging
 
+Logging libraries and frameworks for Node.js applications.
+
 * https://github.com/iamqitmeer/log-vwer[log-vwer]
 * https://logtape.org/[LogTape]
 * https://github.com/trentm/node-bunyan[node-bunyan]

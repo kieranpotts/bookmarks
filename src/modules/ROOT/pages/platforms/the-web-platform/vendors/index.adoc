@@ -1,5 +1,7 @@
 == Vendors
 
+Software vendors and their products and tools, organized by category.
+
 * *xref:platforms/the-web-platform/vendors/applications/index.adoc[Applications]*
 * *xref:platforms/the-web-platform/vendors/frameworks/index.adoc[Frameworks]*
 * *xref:platforms/the-web-platform/vendors/ui-components/index.adoc[UI components]*

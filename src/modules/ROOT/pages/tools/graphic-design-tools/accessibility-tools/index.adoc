@@ -1,4 +1,7 @@
 = Accessibility tools
 
+Tools for checking color contrast and generating accessible color combinations
+for design work.
+
 * https://www.learnui.design/tools/accessible-color-generator.html[Accessible Color Generator - Learn UI Design]
 

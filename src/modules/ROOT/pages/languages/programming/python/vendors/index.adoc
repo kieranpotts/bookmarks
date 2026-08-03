@@ -1,5 +1,8 @@
 = Vendors
 
+Python frameworks and libraries from third-party vendors, such as Django
+and Pandas.
+
 == Frameworks
 
 * https://www.djangoproject.com/[Django]

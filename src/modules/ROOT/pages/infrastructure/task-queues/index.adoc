@@ -1,4 +1,6 @@
 = Task queues (aka. job queues)
 
+Task queue systems for running background and asynchronous jobs.
+
 * https://beanstalkd.github.io/[Beanstalkd]
 * https://hatchet.run/[Hatchet]

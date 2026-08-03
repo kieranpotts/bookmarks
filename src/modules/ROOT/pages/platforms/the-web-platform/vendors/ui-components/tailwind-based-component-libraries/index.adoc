@@ -1,5 +1,7 @@
 = Tailwind-based component libraries
 
+Component libraries built on top of Tailwind CSS.
+
 * https://konstaui.com/[Konsta UI]
 * https://sailboatui.com/[Sailboat UI]
 * https://tailblocks.cc/[Tailblocks]

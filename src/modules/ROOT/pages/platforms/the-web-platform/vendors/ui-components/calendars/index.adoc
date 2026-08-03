@@ -1,5 +1,7 @@
 = Calendars
 
+Calendar widgets for displaying and selecting dates.
+
 * https://wicky.nillia.ms/cally/[Cally]
 * https://calendar-js.com/[Calendar.js]
 

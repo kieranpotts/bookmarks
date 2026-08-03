@@ -1,5 +1,7 @@
 = Image compression and optimization
 
+Tools for compressing and optimizing images and SVGs for the web.
+
 * https://svgo.dev/[SVGO]
 * https://jakearchibald.github.io/svgomg/[SVGOMG]
 * https://compressor.io/[Compressor.io]

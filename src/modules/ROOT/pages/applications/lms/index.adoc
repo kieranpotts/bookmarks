@@ -1,3 +1,5 @@
 = Learning management systems (LMS)
 
+Learning management systems (LMS) for delivering and tracking training.
+
 * https://www.skillcast.com/[Skillcast]

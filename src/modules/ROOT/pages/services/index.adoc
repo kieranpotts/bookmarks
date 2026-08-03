@@ -1,5 +1,7 @@
 = Services
 
+Third-party services and APIs for software projects, organized by category.
+
 * *xref:services/backend-as-a-service/index.adoc[Backend-as-a-service (BaaS)]*
 * *xref:services/application-usage-analytics/index.adoc[Application usage analytics]*
 * *xref:services/avatar-services/index.adoc[Avatar services]*

@@ -1,3 +1,5 @@
 = Event gateways and webhook services
 
+Services for managing, routing, and debugging webhooks and event delivery.
+
 * https://hookdeck.com/[Hookdeck]

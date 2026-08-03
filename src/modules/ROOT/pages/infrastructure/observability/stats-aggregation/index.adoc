@@ -1,5 +1,7 @@
 = Stats aggregation
 
+Agents and libraries for aggregating and forwarding application metrics.
+
 * https://github.com/statsd/statsd[statsd]
 * https://github.com/sivy/node-statsd[node-statsd]
 * https://github.com/iamcal/Flickr-StatsD[flickr-statsd]

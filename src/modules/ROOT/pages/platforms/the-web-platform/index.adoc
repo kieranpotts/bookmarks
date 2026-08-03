@@ -1,5 +1,8 @@
 = The web platform
 
+Tools, runtimes, standards, and reference material related to the web platform
+itself, organized by category.
+
 * *xref:platforms/the-web-platform/runtimes-web-browsers/index.adoc[Runtimes (Web Browsers)]*
 * *xref:platforms/the-web-platform/vendors/index.adoc[Vendors]*
 * *xref:platforms/the-web-platform/tools/index.adoc[Tools]*

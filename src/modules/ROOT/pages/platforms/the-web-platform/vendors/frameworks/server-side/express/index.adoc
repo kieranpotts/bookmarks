@@ -1,5 +1,8 @@
 = Express
 
+Express, the minimalist Node.js web framework, and related starter kits and
+middleware.
+
 * https://github.com/ghostlexly/ultimate-expressjs-starter-kit[Ultmate Express Starter Kit]
 * https://github.com/CodeGenieApp/serverless-express[serverless-express]
 * https://expressjs.com/[Express]

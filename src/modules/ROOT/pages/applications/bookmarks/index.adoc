@@ -1,3 +1,5 @@
 = Bookmarks and web clipping applications
 
+Applications for saving, organizing, and clipping links from the web.
+
 * https://github.com/sissbruecker/linkding[linkding]

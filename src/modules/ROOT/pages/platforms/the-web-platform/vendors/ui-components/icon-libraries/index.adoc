@@ -1,4 +1,6 @@
 = Icon libraries
 
+Icon libraries and icon components for the web.
+
 * https://monicon-docs.vercel.app/[Monicon]
 

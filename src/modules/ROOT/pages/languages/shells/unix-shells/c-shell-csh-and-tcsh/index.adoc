@@ -1,5 +1,7 @@
 = C shell (csh and tsch)
 
+Resources on the C shell (csh) and its enhanced successor, tcsh.
+
 * https://github.com/freebsd/freebsd-src/tree/main/bin/csh[C Shell Repository]
 * https://docs-archive.freebsd.org/44doc/usd/04.csh/paper.html[An Introduction to the C Shell by WIlliam Joy]
 * https://www.tcsh.org/[TCSH ("tee-shell")]

@@ -1,5 +1,7 @@
 = Unix
 
+Standards, reference material, and resources for Unix and Unix-like systems.
+
 == Reference
 
 * https://archive.org/details/unixtoolbox/[Unix Toolbox by Colin Barschel (archive)]

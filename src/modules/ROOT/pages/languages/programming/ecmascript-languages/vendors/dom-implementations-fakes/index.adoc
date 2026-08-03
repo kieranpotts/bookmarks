@@ -1,4 +1,7 @@
 = DOM implementations and fakes
 
+Libraries that implement or fake the DOM outside a browser, for testing and
+server-side use.
+
 * https://github.com/jsdom/jsdom[jsdom]
 * https://github.com/capricorn86/happy-dom[happy-dom]

@@ -1,4 +1,7 @@
 = Native web components
 
+Frameworks for building native web components on top of the Web Components
+standards.
+
 * https://lwc.dev/[Lightning Web Components]
 * https://github.com/frameable/el/[Frameable's El]

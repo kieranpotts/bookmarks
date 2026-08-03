@@ -1,3 +1,5 @@
 = Middleware systems
 
+Libraries for composing middleware pipelines in Node.js applications.
+
 * https://middy.js.org/[Middy]

@@ -1,5 +1,7 @@
 = PDF generation
 
+Libraries for generating and manipulating PDF documents in JavaScript.
+
 * https://pdfme.com/[pdfme]
 * https://pdf-lib.js.org/[PDF-Lib]
 * http://pdfkit.org/[PDFKit]

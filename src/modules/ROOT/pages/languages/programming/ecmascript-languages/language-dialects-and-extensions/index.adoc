@@ -1,5 +1,7 @@
 = Language dialects and extensions, compile-to-JS languages
 
+Languages and dialects that compile to JavaScript, or extend it.
+
 * https://www.typescriptlang.org/[TypeScript]
 * https://elm-lang.org/[Elm]
 * https://nginx.org/en/docs/njs/[njs]

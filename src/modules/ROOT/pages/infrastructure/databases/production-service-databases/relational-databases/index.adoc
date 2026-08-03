@@ -1,5 +1,7 @@
 = Relational databases
 
+SQL databases that store data in structured tables with defined schemas.
+
 * https://www.postgresql.org/[PostgreSQL]
 * https://www.microsoft.com/en-us/sql-server[MSSQL (aka SQL Server)]
 * https://www.oracle.com/uk/database/[Oracle Database]

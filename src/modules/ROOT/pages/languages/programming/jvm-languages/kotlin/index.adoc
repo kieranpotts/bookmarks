@@ -1,3 +1,6 @@
 = Kotlin
 
+Kotlin, a statically typed language for the JVM that is also the preferred
+language for Android development.
+
 * https://kotlinlang.org/[Kotlin]

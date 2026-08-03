@@ -1,5 +1,7 @@
 = Cross-platform shells
 
+Shells designed to run consistently across multiple operating systems.
+
 == Nushell
 
 * https://www.nushell.sh/[Nushell]

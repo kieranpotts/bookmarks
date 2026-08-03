@@ -1,5 +1,8 @@
 = Customer relationship management (CRM)
 
+Customer relationship management (CRM) systems for tracking contacts and sales
+pipelines.
+
 * https://capsulecrm.com/[Capsule]
 * https://www.close.com/[Close]
 * https://www.hubspot.com/[Hubspot]

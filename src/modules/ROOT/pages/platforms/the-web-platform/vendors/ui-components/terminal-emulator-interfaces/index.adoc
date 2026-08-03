@@ -1,5 +1,8 @@
 = Terminal emulator interfaces
 
+Terminal emulator components for embedding a command-line interface in the
+browser.
+
 * https://github.com/MarketingPipeline/Termino.js[Termino]
 * http://xtermjs.org/[xterm.js]
 

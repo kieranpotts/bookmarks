@@ -1,4 +1,7 @@
 = CI/CD integrations (automation tools and services)
 
+Tools and services that integrate with CI/CD pipelines to automate specific
+tasks.
+
 * https://devfactory.com/codefix-3/[DevFactory CodeFix]
 

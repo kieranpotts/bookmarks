@@ -1,5 +1,8 @@
 = Frontend starter kits (framework agnostic)
 
+Framework-agnostic starter kits and boilerplates for bootstrapping frontend
+projects.
+
 * https://html5bones.com/[HTML5 Bones]
 * https://github.com/h5bp[H5BP]
 * https://html5boilerplate.com/[HTML5 Boilerplate]

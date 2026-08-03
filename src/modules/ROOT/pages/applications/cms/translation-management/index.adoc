@@ -1,3 +1,5 @@
 = Translation management
 
+Translation management systems for localizing content.
+
 * https://phrase.com/[Phrase]

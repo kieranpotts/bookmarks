@@ -1,5 +1,7 @@
 = Desktop IDEs and code editors (language-agnostic)
 
+Desktop IDEs and code editors that aren't tied to a single programming language.
+
 * https://www.activestate.com/products/komodo-ide/[Komodo]
 * https://www.cursor.com/en[Cursor]
 * https://haystackeditor.com/[Haystack]

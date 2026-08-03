@@ -1,3 +1,5 @@
 = Service communication protocols
 
+Protocols and frameworks for communication between services.
+
 * https://grpc.io/[gRPC]

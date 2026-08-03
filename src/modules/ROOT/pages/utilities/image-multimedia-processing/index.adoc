@@ -1,4 +1,6 @@
 = Image multimedia processing
 
+Command-line tools for processing and converting images, audio, and video.
+
 * https://imagemagick.org/[ImageMagick]
 * https://ffmpeg.org/[FFmpeg]

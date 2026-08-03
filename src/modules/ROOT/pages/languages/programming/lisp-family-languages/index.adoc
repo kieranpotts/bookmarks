@@ -1,5 +1,8 @@
 = Lisp family languages
 
+Lisp and its descendants, including Common Lisp, Scheme, Racket, and
+Clojure.
+
 * https://common-lisp.net/[Common Lisp]
 * https://www.scheme.org/[Scheme]
 * https://racket-lang.org/[Racket]

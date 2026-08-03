@@ -1,5 +1,7 @@
 = Dummy/fake data generation
 
+Libraries for generating fake or dummy data for testing and prototyping.
+
 * https://ngneat.github.io/falso/[falso]
 * https://github.com/boo1ean/casual[casual]
 * https://github.com/json-schema-faker/json-schema-faker[json-schema-faker]

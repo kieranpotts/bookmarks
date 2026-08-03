@@ -1,3 +1,5 @@
 = Standards
 
+Technical standards, organized by category.
+
 * *xref:standards/messages/index.adoc[Standards for messages, events, and webhooks]*

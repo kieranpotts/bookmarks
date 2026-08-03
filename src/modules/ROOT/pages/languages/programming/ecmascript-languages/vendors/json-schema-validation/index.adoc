@@ -1,5 +1,7 @@
 = JSON Schema validation
 
+Libraries for validating data against JSON Schema in JavaScript.
+
 * https://ajv.js.org/[ajv]
 * https://github.com/tdegrunt/jsonschema[jsonschema]
 * https://github.com/mafintosh/is-my-json-valid[is-my-json-valid]

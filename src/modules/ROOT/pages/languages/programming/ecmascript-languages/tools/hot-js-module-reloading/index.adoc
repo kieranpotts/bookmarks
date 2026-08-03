@@ -1,3 +1,5 @@
 = Hot JS module reloading
 
+Tools for reloading Node.js processes automatically as source files change.
+
 * https://nodemon.io/[nodemon]

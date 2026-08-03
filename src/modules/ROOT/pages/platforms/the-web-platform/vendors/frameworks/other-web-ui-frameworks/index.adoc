@@ -1,5 +1,8 @@
 = Other web UI frameworks
 
+Web UI frameworks that don't fit the other categories, including Java-based and
+platform-specific toolkits.
+
 * https://www.gwtproject.org/[Google Web Toolkit (Java)]
 * https://www.hibikihtml.com/[Hikibi HTML]
 * https://api.slack.com/block-kit[Block Kit]

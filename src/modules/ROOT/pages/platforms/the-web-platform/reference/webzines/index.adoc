@@ -1,3 +1,5 @@
 = Webzines
 
+Online publications about front-end web development.
+
 * https://frontendmastery.com/[Frontend Mastery]

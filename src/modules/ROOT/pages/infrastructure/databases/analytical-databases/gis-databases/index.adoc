@@ -1,5 +1,7 @@
 = GIS databases
 
+Databases optimized for storing and querying geospatial data.
+
 * https://www.kinetica.com/[Kinetica]
 * https://postgis.net/[PostGIS]
 * https://www.oracle.com/database/spatial/[Oracle Spacial Database]

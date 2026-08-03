@@ -1,3 +1,5 @@
 = Data analysis tools
 
+Tools for exploring and visualizing indexed log and metrics data.
+
 * https://www.elastic.co/kibana[Kibana]

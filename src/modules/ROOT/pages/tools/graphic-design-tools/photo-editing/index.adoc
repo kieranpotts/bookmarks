@@ -1,4 +1,6 @@
 = Photo editing
 
+Tools for editing and retouching photos.
+
 * https://playground.com/[Playground]
 

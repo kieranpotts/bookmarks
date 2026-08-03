@@ -1,5 +1,7 @@
 = Email marketing and newsletters
 
+Email marketing platforms for sending newsletters and campaigns.
+
 * https://www.benchmarkemail.com/[Benchmark]
 * https://buttondown.email/[Buttondown]
 * https://listmonk.app/[listmonk]

@@ -1,5 +1,7 @@
 = Databases and caching systems
 
+Databases and caching systems, organized by category.
+
 * https://db-engines.com/en/[DB-Engines]
 
 * *xref:infrastructure/databases/production-service-databases/index.adoc[Production service databases]*

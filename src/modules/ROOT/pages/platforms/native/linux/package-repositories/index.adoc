@@ -1,4 +1,6 @@
 = Package repositories
 
+Repositories for finding and browsing Linux packages across distributions.
+
 * https://pkgs.org/[pkgs.org]
 * https://ius.io/[IUS]

@@ -1,3 +1,5 @@
 = Meetups
 
+Meetup groups for local networking and events.
+
 * https://local.saastock.com/c/bristol/[SaaStock Local | Bristol]

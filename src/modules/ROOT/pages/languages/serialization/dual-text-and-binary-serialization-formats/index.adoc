@@ -1,3 +1,6 @@
 = Dual (text + binary) serialization formats
 
+Serialization formats that support both a human-readable text encoding and a
+compact binary encoding.
+
 * https://amazon-ion.github.io/ion-docs/index.html[Amazon Ion]

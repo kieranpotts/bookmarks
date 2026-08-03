@@ -1,5 +1,8 @@
 = Tailwind tools
 
+Tools that complement Tailwind CSS, such as fluid typography and color scale
+generators.
+
 * https://fluid.tw/[fluid.tw]
 * https://www.tints.dev/purple/A855F7[tints.dev]
 

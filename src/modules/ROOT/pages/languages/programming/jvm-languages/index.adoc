@@ -1,5 +1,8 @@
 = JVM languages
 
+Languages that compile to and run on the Java Virtual Machine, including
+Java itself and its main alternatives.
+
 * *xref:languages/programming/jvm-languages/java/index.adoc[Java]*
 * *xref:languages/programming/jvm-languages/kotlin/index.adoc[Kotlin]*
 * *xref:languages/programming/jvm-languages/scala/index.adoc[Scala]*

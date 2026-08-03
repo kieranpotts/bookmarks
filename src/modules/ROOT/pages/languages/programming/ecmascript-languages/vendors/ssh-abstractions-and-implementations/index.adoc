@@ -1,4 +1,6 @@
 = SSH abstractions and implementations
 
+Libraries for implementing and abstracting SSH clients in Node.js.
+
 * https://github.com/mscdex/ssh2[ssh2]
 * https://github.com/steelbrain/node-ssh[Node-SSH]

@@ -1,4 +1,6 @@
 = Video
 
+Stock video marketplaces for footage and motion assets.
+
 * https://www.storyblocks.com/video[Stock Media: Vide]
 * https://www.videvo.net/[Videvo]

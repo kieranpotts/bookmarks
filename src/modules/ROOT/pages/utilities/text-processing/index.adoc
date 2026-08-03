@@ -1,3 +1,5 @@
 = Text processing
 
+Command-line tools for processing and transforming text.
+
 * https://github.com/onetrueawk/awk[awk]

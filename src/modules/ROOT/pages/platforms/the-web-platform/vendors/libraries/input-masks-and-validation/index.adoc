@@ -1,4 +1,6 @@
 = Input masks and validation
 
+Libraries for masking and validating text input in form fields.
+
 * https://imask.js.org/[imask.js]
 

@@ -1,5 +1,7 @@
 = Modelling and diagramming tools
 
+Tools for modelling systems and drawing diagrams, organized by category.
+
 * https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool[Microsoft Threat Modeling Tool]
 
 * *xref:tools/modelling-and-diagramming-tools/diagramming-tools/index.adoc[Diagramming tools]*

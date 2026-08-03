@@ -1,5 +1,8 @@
 = Fonts and type foundries
 
+Type foundries, font marketplaces, and free font sources, including a dedicated
+list of programming and terminal fonts.
+
 * https://www.cufonfonts.com/[Cufon Fonts]
 * https://fontsource.org/[Fontsource]
 * https://fonts.google.com/[Google Fonts]

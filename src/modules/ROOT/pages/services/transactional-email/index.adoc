@@ -1,5 +1,7 @@
 = Transactional email
 
+Services for sending transactional emails from applications.
+
 * https://aws.amazon.com/ses/[AWS Simple Email Service (SES)]
 * https://www.authmailer.com/[AuthMailer]
 * https://www.campaignmonitor.com/features/transactional-email/[Campaign Monitor - Transaction Email]

@@ -1,5 +1,7 @@
 = Testing frameworks
 
+Testing frameworks and test runners for JavaScript and TypeScript projects.
+
 * https://mochajs.org/[Mocha]
 * https://poku.io/[Poku]
 * https://wallabyjs.com/[Wallaby]

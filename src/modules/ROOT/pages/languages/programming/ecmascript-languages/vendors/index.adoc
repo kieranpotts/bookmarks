@@ -1,5 +1,8 @@
 = Vendors (pure ES/TS + server-side runtimes)
 
+Third-party JavaScript and TypeScript libraries for server-side runtimes,
+organized by category.
+
 * https://nodejstoolbox.com/[Node.js Toolbox]
 
 * *xref:languages/programming/ecmascript-languages/vendors/general-utility-and-functional-programming-libraries/index.adoc[General utility and functional programming libraries]*

@@ -1,5 +1,7 @@
 = Password and secrets management/sharing
 
+Password managers and secrets management/sharing tools.
+
 * https://1password.com/[1Password]
 * https://www.keepersecurity.com/[Keeper]
 * https://www.lastpass.com/[LastPass]

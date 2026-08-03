@@ -1,5 +1,8 @@
 = Browser extension API abstractions and SDKs
 
+Libraries and starter kits for building browser extensions across Chrome,
+Firefox, and other browsers.
+
 * https://github.com/abhijithvijayan/wext-manifest-loader[wext-manifest-loader]
 * https://github.com/abhijithvijayan/web-extension-starter[web-extension-starter]
 * https://extensionkit.io/[ExtensionKIt]

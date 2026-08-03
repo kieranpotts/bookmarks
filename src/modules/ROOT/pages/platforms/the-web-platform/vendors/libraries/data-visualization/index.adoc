@@ -1,5 +1,7 @@
 = Data visualization
 
+Libraries and tools for visualizing data, including several built on D3.
+
 * https://vue-data-ui.graphieros.com/[Vue Data UI]
 * https://lib.vizzuhq.com/[Vizzu]
 * https://www.rawgraphs.io/[RAWGraphs]

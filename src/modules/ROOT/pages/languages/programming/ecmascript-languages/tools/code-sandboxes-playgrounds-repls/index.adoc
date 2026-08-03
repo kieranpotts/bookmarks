@@ -1,5 +1,8 @@
 = Code sandboxes/playgrounds/REPLs
 
+Online sandboxes, playgrounds, and REPLs for quickly running and sharing
+JavaScript code.
+
 * https://srcbook.com/[Srcbook]
 * https://jsbin.com/[JS Bin]
 * https://jsfiddle.net/[jsFiddle]

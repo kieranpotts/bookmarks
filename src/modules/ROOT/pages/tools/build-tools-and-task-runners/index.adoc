@@ -1,5 +1,8 @@
 = Build tools and task runners (language-agnostic)
 
+Build automation tools and task runners for compiling, bundling, and running
+project tasks, independent of language or ecosystem.
+
 * https://www.gnu.org/software/make/[GNU Make]
 * https://just.systems/man/en/[Just]
 * https://github.com/joerdav/xc[xc]

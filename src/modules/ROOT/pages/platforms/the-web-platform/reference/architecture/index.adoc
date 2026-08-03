@@ -1,4 +1,7 @@
 = Architecture
 
+Web application architecture patterns and approaches, such as progressive web
+apps and the Jamstack.
+
 * https://web.dev/explore/progressive-web-apps[Progressive Web Apps (PWA)]
 * https://jamstack.org/[Jamstack]

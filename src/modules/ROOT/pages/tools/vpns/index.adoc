@@ -1,3 +1,5 @@
 = VPNs
 
+VPN services and tools.
+
 * https://www.mozilla.org/en-GB/products/vpn/[Mozilla VPN]

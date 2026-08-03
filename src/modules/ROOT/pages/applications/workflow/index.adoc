@@ -1,5 +1,8 @@
 = Task/workflow automation
 
+Task and workflow automation platforms for connecting apps and automating
+processes.
+
 * https://ifttt.com/[ITFFF]
 * https://n8n.io/[n8n]
 * https://tray.io/[tray.io]

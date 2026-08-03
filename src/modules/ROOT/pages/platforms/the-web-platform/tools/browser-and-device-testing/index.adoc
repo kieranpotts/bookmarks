@@ -1,5 +1,7 @@
 = Browser and device testing
 
+Tools and services for testing websites across browsers and devices.
+
 * https://browsershots.org/[BrowserShots (offline?)]
 * https://aws.amazon.com/device-farm/[AWS Device Farm]
 * https://browseemall.com/[BrowseEmAll]

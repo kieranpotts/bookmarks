@@ -1,5 +1,7 @@
 = Single executables
 
+Tools for packaging Node.js applications into standalone executables.
+
 * https://github.com/vercel/ncc[vercel/ncc]
 * https://github.com/nexe/nexe[nexe]
 * https://github.com/vercel/pkg[vercel/pkg]

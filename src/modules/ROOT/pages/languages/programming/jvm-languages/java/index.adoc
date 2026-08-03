@@ -1,5 +1,8 @@
 = Java
 
+Java, with links to JVMs and JDKs, tools, vendors, language specifications,
+and reference material.
+
 * *xref:languages/programming/jvm-languages/java/jvms-and-jdks/index.adoc[JVMs and JDKs]*
 * *xref:languages/programming/jvm-languages/java/tools/index.adoc[Tools]*
 * *xref:languages/programming/jvm-languages/java/vendors/index.adoc[Vendors]*

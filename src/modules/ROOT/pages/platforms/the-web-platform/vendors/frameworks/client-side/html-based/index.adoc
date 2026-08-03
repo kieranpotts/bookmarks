@@ -1,5 +1,8 @@
 = HTML-based
 
+Frameworks that extend plain HTML with reactive behaviour, rather than requiring
+a JavaScript-first component model.
+
 * https://tallstack.dev/[The TALL Stack]
 * https://alpinejs.dev/[Alpine.js]
 * https://hotwired.dev/[Hotwire (Turbo, Stimulus, Strada)]

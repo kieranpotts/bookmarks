@@ -1,5 +1,8 @@
 = React
 
+React, the component-based UI library from Meta, and the surrounding ecosystem
+of starter kits, tools, and resources.
+
 * https://react.dev/[React]
 * https://react.dev/learn[React Docs]
 * https://preactjs.com/[Preact]

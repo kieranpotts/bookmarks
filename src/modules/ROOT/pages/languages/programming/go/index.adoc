@@ -1,5 +1,8 @@
 = Go (aka Golang)
 
+Go, Google's compiled systems language, with links to its tools, package
+registry, reference docs, and web frameworks.
+
 * https://go.dev/[Go]
 
 == Tools

@@ -1,5 +1,8 @@
 = Svelte
 
+Svelte, the compiler-based component framework, and related starter kits and
+project generators.
+
 * https://svelte.dev/[Svelte]
 
 == Project skeletons, starter kits and generators

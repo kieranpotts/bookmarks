@@ -1,5 +1,8 @@
 = Other web UI component libraries
 
+Web UI component libraries that don't fit into the other, more specific
+categories.
+
 * https://wiredjs.com/[Wired Elements]
 * https://github.com/CaptainCodeman/svelte-headlessui[svelte-headlessui]
 

@@ -1,5 +1,8 @@
 = Parsers and compilers
 
+Parsers and compilers for various data formats and languages, including
+spreadsheets, BSON, and expression parsing.
+
 * https://peggyjs.org/[Peggy]
 * https://github.com/beaugunderson/ip-address[ip-address]
 

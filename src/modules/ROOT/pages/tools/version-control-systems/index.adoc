@@ -1,5 +1,7 @@
 = Version control systems (VCS)
 
+Version control systems besides Git, which has its own page.
+
 * https://mercurial-scm.org/[Mercurial]
 * https://subversion.apache.org/[Subversion (SVN)]
 * https://www.perforce.com/products/helix-core[Perforce Helix (formerly Perforce)]

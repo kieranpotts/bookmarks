@@ -1,3 +1,5 @@
 = Photo and video management
 
+Applications for managing photo and video libraries.
+
 * https://immich.app/[Immich]

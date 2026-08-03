@@ -1,4 +1,6 @@
 = Podcasts
 
+Podcasts covering software engineering news and commentary.
+
 * https://stackoverflow.blog/podcast/[The Stack Overflow Podcast]
 * https://changelog.com/[Changelog]

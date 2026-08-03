@@ -1,5 +1,8 @@
 = DOM abstractions
 
+Libraries that abstract or simplify direct DOM manipulation, including virtual
+DOM implementations.
+
 == DOM API abstractions
 
 * https://github.com/victorqribeiro/TinyJS[TinyJS]

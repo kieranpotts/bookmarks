@@ -1,4 +1,6 @@
 = Refactoring
 
+Resources on refactoring techniques and identifying code smells.
+
 * https://sourcemaking.com/refactoring[Source Making: Refactoring]
 * https://refactoring.guru/refactoring[Refactoring Guru]

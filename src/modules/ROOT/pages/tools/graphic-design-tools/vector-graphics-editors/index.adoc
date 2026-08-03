@@ -1,5 +1,7 @@
 = Vector graphics editors
 
+Tools for creating and editing vector graphics and SVGs.
+
 * https://svg-path-visualizer.netlify.app/[SVG Path Visualizer]
 * https://yqnn.github.io/svg-path-editor/[svg-path-editor]
 * https://svgartista.net/[SV Artista]

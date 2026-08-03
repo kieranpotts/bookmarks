@@ -1,5 +1,8 @@
 = Database and storage abstractions and ORMs
 
+Libraries for abstracting database access, including ORMs, query builders,
+and database-specific clients.
+
 * https://mikro-orm.io/[Mikro ORM]
 * https://sequelize.org/[Sequelize]
 * https://github.com/porsager/postgres[Postgres.js]

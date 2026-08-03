@@ -1,4 +1,6 @@
 = Others...
 
+Other Unix shells that don't fit neatly into the more common categories.
+
 * https://elv.sh/[Elvish]
 * https://github.com/liljencrantz/crush[Crush]

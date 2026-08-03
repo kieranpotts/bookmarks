@@ -1,3 +1,5 @@
 = Perl
 
+Perl, a scripting language originally designed for text processing.
+
 * https://www.perl.org/[The Perl Programming Language]

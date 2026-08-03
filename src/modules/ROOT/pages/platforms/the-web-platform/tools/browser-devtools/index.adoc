@@ -1,3 +1,5 @@
 = Browser devtools
 
+Tools and protocols for inspecting and debugging web pages in the browser.
+
 * https://chromedevtools.github.io/devtools-protocol/[Chrome DevTools Protocol]

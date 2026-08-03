@@ -1,5 +1,8 @@
 = Lightweight text markup
 
+Simplified text markup syntaxes, such as Markdown, AsciiDoc, and various wiki
+markups, used as lighter alternatives to full typesetting systems.
+
 * http://www.wikicreole.org/[Creole]
 * https://leanpub.com/markua/read[Markua (by LeanPub)]
 * https://txt2tags.org/[txt2tags]

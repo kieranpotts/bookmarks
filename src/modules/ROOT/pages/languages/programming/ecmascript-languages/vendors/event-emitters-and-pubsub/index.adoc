@@ -1,4 +1,7 @@
 = Event emitters and pubsub
 
+Libraries implementing event emitter and publish/subscribe patterns in
+JavaScript.
+
 * https://github.com/mroderick/PubSubJS[PubSubJS]
 * https://github.com/ai/nanoevents[Nano Events]

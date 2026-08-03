@@ -1,5 +1,7 @@
 = Libraries
 
+Libraries, frameworks, and tools, organized by category.
+
 * *xref:platforms/the-web-platform/vendors/libraries/animation-libraries/index.adoc[Animation libraries]*
 * *xref:platforms/the-web-platform/vendors/libraries/audio-video-and-image-processing/index.adoc[Audio, video, and image processing]*
 * *xref:platforms/the-web-platform/vendors/libraries/browser-extension-api-abstractions-and-sdks/index.adoc[Browser extension API abstractions and sdks]*

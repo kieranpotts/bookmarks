@@ -1,4 +1,6 @@
 = Data storage (local)
 
+Libraries for storing and querying data locally in the browser.
+
 * https://sql.js.org/#/[SQL.js]
 

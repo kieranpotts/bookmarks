@@ -1,5 +1,7 @@
 = Rich-text editors (RTEs) and code editors
 
+Rich-text editors and code editors for building writing and coding interfaces.
+
 * https://lexical.dev/[Lexical]
 * https://tiptap.dev/[TipTap]
 * https://microsoft.github.io/monaco-editor/[Monaco Editor]

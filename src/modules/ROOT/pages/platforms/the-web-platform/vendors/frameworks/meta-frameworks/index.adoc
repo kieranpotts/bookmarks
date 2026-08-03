@@ -1,5 +1,8 @@
 = Meta frameworks
 
+Meta-frameworks built on top of React, Vue, Angular, and other component
+frameworks, adding routing, SSR, and other conventions.
+
 == React-based
 
 * https://blitzjs.com/[Blitz]

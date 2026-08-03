@@ -1,5 +1,7 @@
 = VM and container image libraries
 
+Libraries and registries for sourcing pre-built VM and container images.
+
 * https://portal.cloud.hashicorp.com/[HashiCorp Cloud Platform (HCP)]
 * https://app.vagrantup.com/[Vagrant Cloud]
 * https://www.linuxserver.io/[linuxserver.io]

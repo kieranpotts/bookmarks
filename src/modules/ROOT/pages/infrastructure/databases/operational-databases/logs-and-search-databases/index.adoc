@@ -1,4 +1,6 @@
 = Logs and search databases
 
+Databases specialized for indexing and searching log and text data.
+
 * https://www.elastic.co/[Elastic Stack, formerly ELK Stack - Elasticsearch, Logstash, Kibana]
 * https://solr.apache.org/[Solr]

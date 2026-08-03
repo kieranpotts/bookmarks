@@ -1,5 +1,7 @@
 = Distributed databases
 
+Databases designed to scale horizontally across clusters of machines.
+
 * https://www.couchbase.com/[Couchbase]
 * https://cloud.google.com/bigtable[Google BigTable]
 * https://hbase.apache.org/[Apache HBase]

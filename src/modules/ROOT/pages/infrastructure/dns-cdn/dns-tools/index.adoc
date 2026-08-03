@@ -1,3 +1,5 @@
 = DNS tools
 
+Tools for generating and managing DNS records.
+
 * https://powerdmarc.com/dmarc-record-generator/[Free DMARC Generator]

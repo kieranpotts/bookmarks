@@ -1,5 +1,8 @@
 = Numbers, money and currency libraries
 
+Libraries for working with numbers, money, durations, and currency in
+JavaScript.
+
 * https://mathjs.org/[Math.js]
 * https://github.com/sindresorhus/pretty-ms[pretty-ms]
 * https://github.com/rawify/Fraction.js[Fraction.js]

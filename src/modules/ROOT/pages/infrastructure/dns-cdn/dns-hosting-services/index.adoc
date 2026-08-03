@@ -1,5 +1,7 @@
 = DNS hosting services
 
+Managed DNS hosting providers and public DNS resolvers.
+
 * https://dnsmadeeasy.com/[DNS Made Easy - DigiCert]
 * https://www.oracle.com/cloud/networking/dns/[Oracle OCI DNS]
 * https://www.ibm.com/products/ns1-connect[IBM NS1 Connect]

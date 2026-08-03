@@ -1,5 +1,8 @@
 = Headless CMSes
 
+Headless CMSes that expose content via an API, decoupled from any particular
+front-end.
+
 * https://prismic.io/[Prismic]
 * https://directus.io/[Directus]
 * https://www.sitecore.com/products/experience-manager[Sitecore Experience Manager]

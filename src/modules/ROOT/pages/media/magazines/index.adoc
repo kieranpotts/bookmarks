@@ -1,5 +1,7 @@
 = Magazines
 
+Magazines and news publications for industry and technology coverage.
+
 * https://deprogrammaticaipsum.com/[De Programmatica Ipsum]
 * https://techcrunch.com/[TechCrunch]
 * https://www.methodsandtools.com/[Methods & Tools]

@@ -1,4 +1,6 @@
 = SolidJS component libraries
 
+Component libraries built for SolidJS.
+
 * https://kobalte.dev/[Kobalte]
 

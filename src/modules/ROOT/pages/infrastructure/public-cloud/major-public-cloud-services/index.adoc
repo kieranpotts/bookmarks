@@ -1,5 +1,8 @@
 = Major public cloud services
 
+The major public cloud providers and their training and certification
+resources.
+
 == AWS
 
 * https://aws.amazon.com/[Amazon Web Services (AWS)]

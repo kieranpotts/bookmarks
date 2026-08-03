@@ -1,5 +1,7 @@
 = Image generation and processing
 
+Libraries for generating, processing, and optimizing images in Node.js.
+
 * https://docs.image-js.org/[ImageJS]
 * https://github.com/Yuriy-Svetlov/compress-images[compress-images]
 * https://github.com/rsms/node-imagemagick[node-imagemagick]

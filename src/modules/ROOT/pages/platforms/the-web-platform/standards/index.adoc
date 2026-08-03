@@ -1,5 +1,8 @@
 = Standards
 
+Web standards resources, including specifications, compatibility data, and
+standards bodies.
+
 == Compatibility lookup
 
 * https://wpt.fyi/[web-platform-tests]

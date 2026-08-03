@@ -1,3 +1,5 @@
 = Security tools and data breach analysis
 
+Tools for checking data breaches and assessing security exposure.
+
 * https://haveibeenpwned.com/[Have I Been Pwned?]

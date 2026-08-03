@@ -1,1 +1,3 @@
 = Data structures
+
+Data structures and resources for choosing the right one for a problem.

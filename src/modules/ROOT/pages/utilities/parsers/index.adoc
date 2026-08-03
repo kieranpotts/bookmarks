@@ -1,4 +1,7 @@
 = Parsers
 
+Command-line parsers for querying and transforming structured data such as JSON
+and YAML.
+
 * https://kislyuk.github.io/yq/[yq]
 * https://jqlang.github.io/jq/[jq]

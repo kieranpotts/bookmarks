@@ -1,3 +1,6 @@
 = File transfer utilities
 
+Command-line tools for transferring and syncing files, including to and from
+cloud storage.
+
 * https://rclone.org/[Rclone]

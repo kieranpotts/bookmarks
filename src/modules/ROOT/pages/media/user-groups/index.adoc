@@ -1,4 +1,6 @@
 = User groups
 
+User groups for community and networking.
+
 * https://app.slack.com/client/T0K234K2Q[LeadDev Slack Group]
 * https://dev.java/community/jugs/[Java User Groups]

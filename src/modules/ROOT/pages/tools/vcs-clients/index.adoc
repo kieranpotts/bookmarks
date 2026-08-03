@@ -1,4 +1,6 @@
 = VCS clients
 
+GUI clients for working with version control systems.
+
 * https://www.sublimemerge.com/[SublimeMerge]
 * https://tortoisesvn.net/[TortoiseSVN]

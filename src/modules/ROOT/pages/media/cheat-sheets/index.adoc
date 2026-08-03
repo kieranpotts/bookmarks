@@ -1,3 +1,5 @@
 = Cheat sheets
 
+Cheat sheets and quick-reference materials for common syntax and concepts.
+
 * https://dzone.com/refcardz[DZone Refcards]

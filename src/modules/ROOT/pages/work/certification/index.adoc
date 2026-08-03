@@ -1,5 +1,8 @@
 = Certification
 
+Professional certifications, organized by domain, from broad foundational
+qualifications to specialist accreditations.
+
 == Broad, foundational certifications
 
 * https://www.comptia.org/[CompTIA]

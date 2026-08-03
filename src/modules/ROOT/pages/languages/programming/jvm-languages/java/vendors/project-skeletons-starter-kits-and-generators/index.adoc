@@ -1,3 +1,5 @@
 = Project skeletons, starter kits and generators
 
+Tools for generating starter Java projects.
+
 * https://start.spring.io/[Spring Initializer]

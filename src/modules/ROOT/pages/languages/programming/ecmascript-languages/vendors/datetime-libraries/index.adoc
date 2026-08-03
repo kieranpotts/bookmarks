@@ -1,5 +1,8 @@
 = Datetime libraries
 
+Libraries for parsing, formatting, and manipulating dates and times in
+JavaScript.
+
 * https://moment.github.io/luxon/#/[Luxon]
 * https://date-fns.org/[date-fns]
 * https://day.js.org/[Day.js]

@@ -1,5 +1,7 @@
 = Assets
 
+Fonts, icons, photos, video, and audio resources, organized by category.
+
 * *xref:assets/fonts/index.adoc[Fonts and type foundries]*
 * *xref:assets/icons/index.adoc[Icons and illustrations]*
 * *xref:assets/photos/index.adoc[Photos]*

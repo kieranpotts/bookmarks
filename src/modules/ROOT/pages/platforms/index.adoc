@@ -1,5 +1,7 @@
 = Platforms
 
+Operating systems, runtimes, and application platforms, organized by category.
+
 * *xref:platforms/cross-platform-application-development/index.adoc[Cross-platform application development]*
 * *xref:platforms/native/index.adoc[Native (Operating Systems)]*
 * *xref:platforms/the-web-platform/index.adoc[The web platform]*

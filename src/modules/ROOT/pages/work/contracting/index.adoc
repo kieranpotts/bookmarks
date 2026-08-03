@@ -1,5 +1,7 @@
 = Contracting
 
+Resources for UK contracting, including umbrella companies and IR35 guidance.
+
 == Umbrella companies
 
 * https://www.nasagroup.co.uk/umbrella[Nasa]

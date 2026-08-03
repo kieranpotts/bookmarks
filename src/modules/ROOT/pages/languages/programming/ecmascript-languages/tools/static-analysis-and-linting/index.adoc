@@ -1,5 +1,8 @@
 = Static analysis and linting
 
+Linters, formatters, and static analysis tools for JavaScript and TypeScript
+code quality.
+
 * https://github.com/philbooth/complexity-report[complexity-report (deprecated)]
 * http://dsheiko.github.io/jscodesniffer/[JSCodeSniffer (online, deprecated)]
 * https://www.javascriptlint.com/[JavaScript Lint]

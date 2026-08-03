@@ -1,5 +1,7 @@
 = AI
 
+Tools and services for building with and using AI, organized by category.
+
 * *xref:applications/ai/managers/index.adoc[Model Managers]*
 * *xref:applications/ai/agents/index.adoc[AI Agents]*
 * *xref:applications/ai/skills/index.adoc[Agent Skills, Instructions, Custom Prompts, etc.]*

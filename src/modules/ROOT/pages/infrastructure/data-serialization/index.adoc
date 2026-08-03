@@ -1,5 +1,7 @@
 = Data serialization systems
 
+Formats and frameworks for serializing structured data between services.
+
 * https://avro.apache.org/[Apache Avro]
 * https://thrift.apache.org/[Apache Thrift]
 * https://github.com/facebook/fbthrift[fbthrift]

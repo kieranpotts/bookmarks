@@ -1,5 +1,7 @@
 = Typography tools and font design
 
+Tools for exploring typefaces and designing custom fonts.
+
 * https://v-fonts.com/[Variable Fonts]
 * https://fontforge.org/en-US/[FontForge]
 

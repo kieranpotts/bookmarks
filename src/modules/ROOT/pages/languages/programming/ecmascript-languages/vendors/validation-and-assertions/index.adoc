@@ -1,5 +1,8 @@
 = Validation and assertions
 
+General-purpose libraries for validating values and making assertions in
+JavaScript.
+
 * https://osom.js.org/[osom]
 * https://github.com/ajv-validator/ajv[ajv]
 * https://vinejs.dev/[VineJS]

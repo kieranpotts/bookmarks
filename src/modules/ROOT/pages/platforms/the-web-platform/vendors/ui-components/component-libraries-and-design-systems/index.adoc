@@ -1,5 +1,7 @@
 = Component libraries and design systems
 
+Directories and curated lists of component libraries and design systems.
+
 * https://designsystems.surf/[Design Systems Database]
 * https://git.io/design-systems[Awesome Design Systems]
 

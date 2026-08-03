@@ -1,5 +1,7 @@
 = Code repository hosting
 
+Hosted services for storing and collaborating on source code repositories.
+
 * https://bitbucket.org/[Bitbucket]
 * https://codeberg.org/[Codeberg]
 

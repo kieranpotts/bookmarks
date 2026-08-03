@@ -1,5 +1,8 @@
 = Package registries and hosting
 
+Registries and hosting services for publishing and distributing JavaScript
+packages.
+
 * https://github.com/cnpm/cnpm[cnpm - client for China mirror of NPM]
 * https://www.vlt.sh/serverless-registry[vlt serverless registry]
 * https://jsr.io/[JSR (JavaScript Registry)]

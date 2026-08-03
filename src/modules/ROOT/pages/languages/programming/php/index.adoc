@@ -1,5 +1,8 @@
 = PHP
 
+PHP, a server-side scripting language, with links to alternative runtimes,
+frameworks and libraries, developer tools, and reference material.
+
 == Dialects and runtimes
 
 * https://roadrunner.dev/[RoadRunner]

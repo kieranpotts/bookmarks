@@ -1,5 +1,8 @@
 = Data fetching
 
+Libraries for fetching, caching, and synchronizing remote data in
+JavaScript applications.
+
 * https://netflix.github.io/falcor/[Falcor]
 * https://tanstack.com/query/latest[TanStack Query (formerly React Query)]
 * https://redux-toolkit.js.org/rtk-query/overview[RTK Query]

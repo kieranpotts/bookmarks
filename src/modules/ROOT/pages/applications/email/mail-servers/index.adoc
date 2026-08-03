@@ -1,5 +1,7 @@
 = Mail servers
 
+Self-hosted mail server software.
+
 * http://www.postfix.org/[Postfix]
 * https://www.sendmail.org/[Sendmail]
 * https://www.dovecot.org/[Dovecot]

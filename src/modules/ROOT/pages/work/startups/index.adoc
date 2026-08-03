@@ -1,5 +1,7 @@
 = Startups
 
+Startup incubators and venture capital resources.
+
 == Incubators and venture capital
 
 * https://www.ycombinator.com/[Y Combinator]

@@ -1,5 +1,7 @@
 = Database administration
 
+GUI clients for connecting to, querying, and administering databases.
+
 * https://azure.microsoft.com/en-us/products/data-studio[Azure Data Studio]
 * https://dbeaver.io/[DBeaver]
 * https://robomongo.org/[Studio 3T]

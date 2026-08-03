@@ -1,5 +1,8 @@
 = Domain-specific scripting languages
 
+Scripting languages built for a narrow purpose rather than general-purpose
+programming, such as text processing.
+
 == Awk
 
 * https://pubs.opengroup.org/onlinepubs/9699919799/utilities/awk.html[awk - IEEE Std 1003.1-2008]

@@ -1,3 +1,5 @@
 = Annotation libraries
 
+Libraries that use Java annotations to cut down on boilerplate code.
+
 * https://projectlombok.org/[Project Lombok]

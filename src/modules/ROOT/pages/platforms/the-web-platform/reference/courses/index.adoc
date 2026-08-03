@@ -1,3 +1,5 @@
 = Courses
 
+Online courses and learning platforms for web development.
+
 * https://egghead.io/[EggHead]

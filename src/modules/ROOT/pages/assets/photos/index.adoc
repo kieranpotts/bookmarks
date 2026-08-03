@@ -1,5 +1,7 @@
 = Photos
 
+Stock photo sources, split between free and commercial licensing.
+
 == Free stock photos
 
 * https://unsplash.com/[Unsplash]

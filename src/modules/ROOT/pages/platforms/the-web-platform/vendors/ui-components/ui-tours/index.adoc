@@ -1,4 +1,6 @@
 = UI tours
 
+Components for building guided UI tours and onboarding walkthroughs.
+
 * https://www.william-troup.com/journey-js/[Journey.js]
 

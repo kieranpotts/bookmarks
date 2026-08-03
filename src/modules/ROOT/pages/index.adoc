@@ -1,5 +1,8 @@
 = Bookmarks
 
+A curated collection of links to tools, technologies, and resources, organized
+by category.
+
 * *xref:languages/index.adoc[Languages]*
 * *xref:standards/index.adoc[Standards]*
 * *xref:platforms/index.adoc[Platforms]*

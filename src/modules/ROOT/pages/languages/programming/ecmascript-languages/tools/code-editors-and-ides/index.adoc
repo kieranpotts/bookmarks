@@ -1,3 +1,5 @@
 = Code editors and IDEs
 
+Code editors and IDEs for JavaScript and TypeScript development.
+
 * https://www.jetbrains.com/webstorm/[WebStorm]

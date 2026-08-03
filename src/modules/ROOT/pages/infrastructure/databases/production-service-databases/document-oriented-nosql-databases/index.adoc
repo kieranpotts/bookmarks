@@ -1,5 +1,7 @@
 = Document-oriented (NoSQL) databases
 
+NoSQL databases that store data as flexible, schema-less documents.
+
 * https://cassandra.apache.org/_/index.html[Cassandra]
 * https://aws.amazon.com/dynamodb/[Amazon DynamoDB]
 * https://couchdb.apache.org/[CouchDB]

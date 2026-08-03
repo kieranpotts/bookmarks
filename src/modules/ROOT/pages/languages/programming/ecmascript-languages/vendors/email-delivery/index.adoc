@@ -1,5 +1,7 @@
 = Email delivery
 
+Libraries for sending email from Node.js applications.
+
 * https://github.com/guileen/node-sendmail[node-sendmail]
 * https://github.com/eleith/emailjs[emailjs]
 * https://nodemailer.com/[nodemailer]

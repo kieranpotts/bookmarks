@@ -1,5 +1,8 @@
 = Code/text editors
 
+Lightweight code and text editors, for the terminal and the desktop, as opposed
+to full IDEs.
+
 == Terminal code/text editors
 
 * https://nano-editor.org/[nano]

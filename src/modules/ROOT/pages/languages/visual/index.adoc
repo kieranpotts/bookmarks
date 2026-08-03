@@ -1,5 +1,8 @@
 = Visual programming languages and tools
 
+Languages and tools for programming visually rather than by writing
+text-based code.
+
 * https://rete.js.org/[Rete.js]
 * https://snap.berkeley.edu/[Snap!]
 * https://developers.google.com/blockly[Blockly]

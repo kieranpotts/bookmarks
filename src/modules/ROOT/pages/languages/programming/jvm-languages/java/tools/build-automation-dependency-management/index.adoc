@@ -1,5 +1,8 @@
 = Build automation and dependency management
 
+Build tools and dependency managers for Java projects, such as Maven and
+Gradle.
+
 * https://ant.apache.org/[Ant]
 * https://maven.apache.org/[Maven]
 * https://gradle.org/[Gradle]

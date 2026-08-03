@@ -1,3 +1,5 @@
 = Server-sent events
 
+Libraries for implementing server-sent events (SSE) in Node.js.
+
 * https://github.com/MatthewWid/better-sse[better-sse]

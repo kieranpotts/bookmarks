@@ -1,5 +1,8 @@
 = Tcl ("tickle")
 
+Tcl, a scripting language commonly embedded in other applications, with
+links to alternative implementations.
+
 * https://www.tcl-lang.org/[Tcl Developer Site]
 
 == Implementations

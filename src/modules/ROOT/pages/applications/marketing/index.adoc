@@ -1,5 +1,7 @@
 = Online marketing and SEO
 
+Tools for online marketing and search engine optimization (SEO).
+
 * https://www.screamingfrog.co.uk/seo-spider/[Screaming Frog]
 * https://www.semrush.com/[Semrush]
 * https://www.lumar.io/[Lumar (formerly DeepCrawl)]

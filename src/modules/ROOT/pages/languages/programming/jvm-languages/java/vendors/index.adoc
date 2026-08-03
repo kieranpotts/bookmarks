@@ -1,5 +1,7 @@
 = Vendors
 
+Java frameworks, libraries, and project generators from third-party vendors.
+
 * *xref:languages/programming/jvm-languages/java/vendors/frameworks/index.adoc[Frameworks]*
 * *xref:languages/programming/jvm-languages/java/vendors/project-skeletons-starter-kits-and-generators/index.adoc[Project skeletons, starter kits and generators]*
 * *xref:languages/programming/jvm-languages/java/vendors/libraries/index.adoc[Libraries]*

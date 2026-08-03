@@ -1,4 +1,6 @@
 = Tailwind CSS
 
+Tailwind CSS, the utility-first CSS framework.
+
 * https://tailwindcss.com/[Tailwind CSS]
 

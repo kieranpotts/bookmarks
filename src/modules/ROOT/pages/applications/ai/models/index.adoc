@@ -1,5 +1,7 @@
 = AI Models
 
+Large language models, from both commercial and open-source providers.
+
 * https://www.ibm.com/granite[IBM Granite]
 * https://platform.openai.com/docs/api-reference/introduction[OpenAPI GPT-4]
 * https://x.ai/news/grok-4[Grok 4]

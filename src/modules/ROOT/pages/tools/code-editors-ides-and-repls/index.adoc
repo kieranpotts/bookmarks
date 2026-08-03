@@ -1,5 +1,7 @@
 = Code editors, IDEs and REPLs
 
+Tools for writing, running, and editing code, organized by category.
+
 * *xref:tools/code-editors-ides-and-repls/desktop-ides-and-code-editors/index.adoc[Desktop IDEs and code editors]*
 * *xref:tools/code-editors-ides-and-repls/online-cloud-development-environments/index.adoc[Online/cloud development environments]*
 * *xref:tools/code-editors-ides-and-repls/code-sandboxes-playgrounds-and-repls/index.adoc[Code sandboxes/playgrounds/REPLs]*

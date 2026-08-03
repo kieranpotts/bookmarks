@@ -1,3 +1,5 @@
 = Productivity applications
 
+General-purpose productivity applications.
+
 * https://www.notion.so/[Notion]

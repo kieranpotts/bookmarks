@@ -1,4 +1,6 @@
 = Query languages
 
+Languages for querying data, graphs, and codebases.
+
 * https://graphql.org/[GraphQL]
 * https://codeql.github.com/docs/[CodeQL]

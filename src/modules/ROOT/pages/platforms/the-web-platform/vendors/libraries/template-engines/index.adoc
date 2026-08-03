@@ -1,5 +1,7 @@
 = Template engines (client-side + server-side)
 
+Client-side and server-side templating engines for generating HTML.
+
 * https://github.com/hmpl-language/hmpl[HMPL]
 * https://eta.js.org/[Eta]
 * https://mozilla.github.io/nunjucks/[Nunjucks]

@@ -1,5 +1,7 @@
 = Principles and manifestos
 
+Manifestos and sets of principles for how software should be built.
+
 * https://malleable.systems/[Malleable Systems Collective]
 * https://agilemanifesto.org/[Manifesto for Agile Software Development]
 * http://manifesto.softwarecraftsmanship.org/[Manifesto for Software Craftsmanship]

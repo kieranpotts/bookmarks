@@ -1,3 +1,5 @@
 = Archives
 
+Archived sites and snapshots of historical computing and software, for context.
+
 * https://vintageapple.org/[Vintage Apple]

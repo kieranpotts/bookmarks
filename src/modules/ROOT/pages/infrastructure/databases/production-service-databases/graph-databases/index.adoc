@@ -1,5 +1,7 @@
 = Graph databases
 
+Databases that model data as nodes and relationships rather than tables.
+
 * https://spark.apache.org/[Apache Spark]
 * https://arangodb.com/[ArrangoDB]
 * https://neo4j.com/[neo4j]

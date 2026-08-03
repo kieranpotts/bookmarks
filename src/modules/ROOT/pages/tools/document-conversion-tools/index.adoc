@@ -1,3 +1,5 @@
 = Document conversion tools
 
+Tools for converting documents between formats.
+
 * https://pandoc.org/[Pandoc]

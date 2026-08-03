@@ -1,5 +1,7 @@
 = Journals / research
 
+Academic journals and publications covering computing research.
+
 * https://www.similarweb.com/[SimilarWeb - Digital market research/intelligence]
 * https://www.worldscientific.com/worldscinet/ijseke[International Journal of Software Engineering and Knowledge Engineering]
 * https://cacm.acm.org/[Communications of the ACM]

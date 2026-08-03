@@ -1,5 +1,7 @@
 = IaC
 
+Infrastructure-as-code tools for defining and provisioning infrastructure.
+
 * https://opentofu.org/[OpenTofu]
 * https://www.terraform.io/[Terraform]
 * https://registry.terraform.io/[Terraform Registry]

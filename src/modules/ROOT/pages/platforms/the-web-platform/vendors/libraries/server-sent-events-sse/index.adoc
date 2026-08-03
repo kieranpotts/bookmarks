@@ -1,4 +1,6 @@
 = Server sent events (SSE)
 
+Libraries for working with Server-Sent Events (SSE) in JavaScript.
+
 * https://github.com/Bewinxed/river.ts[river.ts]
 

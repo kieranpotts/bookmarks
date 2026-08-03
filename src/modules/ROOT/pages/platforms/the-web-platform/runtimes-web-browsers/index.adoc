@@ -1,5 +1,7 @@
 = Runtimes (Web Browsers)
 
+Web browsers and browser engines, organized by category.
+
 == Mainstream browsers
 
 * https://www.opera.com/browsers[Opera]

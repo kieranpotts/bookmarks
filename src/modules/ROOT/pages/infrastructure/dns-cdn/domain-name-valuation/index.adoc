@@ -1,5 +1,7 @@
 = Domain name valuation
 
+Tools for estimating the market value of domain names.
+
 * https://domainvaluator.net/[Domain Valuator]
 * https://pc.domains/[Domain Price Checker]
 * https://humbleworth.com/[HumbleWorth]

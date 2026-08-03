@@ -1,4 +1,7 @@
 = Favicon manipulation
 
+Libraries for dynamically updating the favicon, e.g. to show badges or
+notifications.
+
 * http://lab.ejci.net/favico.js/[favico.js]
 
