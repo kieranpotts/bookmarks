@@ -3,6 +3,10 @@
 Testing frameworks, package registries, editors, linters, and version managers
 for Python.
 
+== User interface frameworks
+
+* https://textual.textualize.io/[Textual] – A framework for build sophisticated terminal user interfaces with a simple Python API.
+
 == Testing frameworks
 
 * https://docs.pytest.org/en/7.4.x/[pytest docs]
