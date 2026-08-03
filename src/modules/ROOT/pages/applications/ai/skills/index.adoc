@@ -6,3 +6,4 @@ and custom prompts.
 * https://agentskills.io/[Agent Skills] — The closest thing we have to an industry standard for defining agent skills.
 * The https://www.skills.sh/[Agent Skills Directory] (skills.sh) is the primary public registry for discoverable, installable skills. Skills listed there can be installed into any project via `npx skillsadd <owner/repo>` and referenced via their raw URLs.
 * https://github.com/JuliusBrussee/caveman/[Caveman] – An excellent example of a shareable skill, including installation scripts for multiple agents.
+* https://github.com/kyuz0/local-agent-builder/[Local Agent Builder] – A boilerplate skill for coding assistants that scaffolds agentic workflows built on Microsoft's Agent-Framework, with a TUI baseline, quotas, context isolation, and sub-agent delegation for resource-constrained local models.
