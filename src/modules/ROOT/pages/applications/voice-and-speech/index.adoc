@@ -6,6 +6,10 @@ text-to-speech readers, and text-to-speech engines.
 == Voice-to-text dictation
 
 * https://wisprflow.ai/[Wispr Flow] – Voice-to-text AI that turns speech into clear, polished writing in any application, across Mac, Windows, iOS, and Android.
+* https://superwhisper.com/[Superwhisper] – Voice-to-text that works in any app, online or offline, with custom modes, vocabulary, and 100+ languages. Integrates with coding agents such as Cursor, Claude Code, and Codex.
+* https://aquavoice.com/[Aqua Voice] – Real-time voice-to-text for Mac and iOS, tuned for prompting and coding with screen context, syntax awareness, and a custom dictionary.
+* https://talktastic.com/[TalkTastic] – Voice-to-text dictation for macOS that writes in any app, aiming for higher accuracy than Whisper and ChatGPT.
+* https://www.typeless.com/[Typeless] – Voice-to-text that turns speech into polished messages, emails, and documents across Mac, Windows, iOS, and Android, with auto-formatting, translation, and per-app tones.
 
 == Text-to-speech readers
 
