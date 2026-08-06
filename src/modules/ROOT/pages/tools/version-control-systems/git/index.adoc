@@ -17,6 +17,7 @@ top of it.
 == Git tools and extensions
 
 * https://github.com/tj/git-extras/tree/main[git-extras]
+* https://stacked-git.github.io/[Stacked Git]
 
 === Git secrets
 
