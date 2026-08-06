@@ -4,4 +4,6 @@ Tools for creating flowcharts, diagrams, and technical drawings.
 
 * https://www.yworks.com/products/yed[yEd]
 * https://www.drawio.com/[draw.io]
+* https://github.com/pahen/madge[madge]
+* https://github.com/jez/git-madge[git-madge]
 
