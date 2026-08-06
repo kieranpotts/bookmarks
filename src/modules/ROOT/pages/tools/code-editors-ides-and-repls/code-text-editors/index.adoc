@@ -5,6 +5,7 @@ to full IDEs.
 
 == Terminal code/text editors
 
+* https://github.com/LazyVim/LazyVim[LazyVim]
 * https://nano-editor.org/[nano]
 
 == GUI code/text editors
