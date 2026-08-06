@@ -4,4 +4,6 @@ Tools and services that integrate with CI/CD pipelines to automate specific
 tasks.
 
 * https://devfactory.com/codefix-3/[DevFactory CodeFix]
+* https://gitversion.net/docs/[GitVersion]
+* https://github.com/semantic-release/semantic-release[semantic-release]
 
