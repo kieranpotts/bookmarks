@@ -25,11 +25,12 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
   `applications/ai/skills/index.adoc`). Each contains a bullet list of
   bookmark links.
 
-- **`.agents/skills/add-bookmark.md`** \
+- **`.agents/skills/add-bookmark/`** \
   An agent skill for adding a new bookmark: given a URL, it follows the
   link, chooses the best-fit category, and appends a properly formatted
   entry to the relevant `index.adoc` — without committing the change
-  unless explicitly told to. See `.agents/skills/README.md` for details.
+  unless explicitly told to. See `.agents/skills/add-bookmark/README.md`
+  for details.
 
 - **`.hooks/validate_commit_message.py`** \
   Local commit-message validator (kept local, not consumed from the
@@ -41,8 +42,9 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
 
 - New bookmark entries MUST be added as a valid AsciiDoc bullet
   (`* https://.../[Label]`) to exactly one `index.adoc` under
-  `src/modules/ROOT/pages/`, following the `.agents/skills/add-bookmark.md`
-  skill when adding via an agent.
+  `src/modules/ROOT/pages/`, following the
+  **[add-bookmark](./.agents/skills/add-bookmark/SKILL.md)** skill when
+  adding via an agent.
 
 ## References
 
