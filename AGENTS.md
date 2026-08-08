@@ -9,7 +9,8 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
 
 - AsciiDoc content, structured as an [Antora](https://antora.org/) module
   (`src/antora.yml`, `src/modules/ROOT/`).
-- `pre-commit` with a local commit-message validation hook.
+- `pre-commit` with the shared `kieranpotts/pre-commit-hooks` commit-message
+  validation hook.
 
 ## Project structure
 
@@ -31,12 +32,6 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
   entry to the relevant `index.adoc` — without committing the change
   unless explicitly told to. See `.agents/skills/add-bookmark/README.md`
   for details.
-
-- **`.hooks/validate_commit_message.py`** \
-  Local commit-message validator (kept local, not consumed from the
-  shared `kieranpotts/pre-commit-hooks` repo, so this repo's allowed
-  commit-type prefixes can differ). Keep in sync with
-  `.github/workflows/validate-commit-messages.yaml`.
 
 ## Rules
 
