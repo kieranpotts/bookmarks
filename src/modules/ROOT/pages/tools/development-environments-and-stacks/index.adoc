@@ -7,11 +7,17 @@ containerized setups, cloud sandboxes, and LAMP-like bundles.
 
 == Cloud development sandboxes
 
-* https://exe.dev/[exe.dev] – Durable, fast, secure, and shareable cloud VMs for developers and AI agents. Buy a pool of CPU, RAM, and disk, spin up as many root VMs as you like over SSH, with a built-in web coding agent (Shelley) and IAM-based sharing.
+* https://exe.dev/[exe.dev] – Durable, fast, secure, and shareable cloud VMs
+for developers and AI agents. Buy a pool of CPU, RAM, and disk, spin up as many
+root VMs as you like over SSH, with a built-in web coding agent (Shelley) and
+IAM-based sharing.
 
 == Local cloud emulators
 
-* https://github.com/floci-io/floci[Floci] – A free, open-source local AWS emulator for development, testing, and CI. Point AWS SDKs, CLI, Terraform, CDK, or OpenTofu at http://localhost:4566 with no account, auth token, or paid feature gates; a drop-in alternative to LocalStack Community.
+* https://github.com/floci-io/floci[Floci] – A free, open-source local AWS
+  emulator for development, testing, and CI. Point AWS SDKs, CLI, Terraform,
+  CDK, or OpenTofu at `http://localhost:4566`. A drop-in alternative to
+  LocalStack Community.
 
 == LAMP-like stacks
 
