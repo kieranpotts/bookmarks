@@ -16,7 +16,7 @@ IAM-based sharing.
 
 * https://github.com/floci-io/floci[Floci] – A free, open-source local AWS
   emulator for development, testing, and CI. Point AWS SDKs, CLI, Terraform,
-  CDK, or OpenTofu at `http://localhost:4566`. A drop-in alternative to
+  CDK, or OpenTofu at `pass:[http://localhost:4566]`. A drop-in alternative to
   LocalStack Community.
 
 == LAMP-like stacks

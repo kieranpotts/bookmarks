@@ -41,6 +41,13 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
   **[add-bookmark](./.agents/skills/add-bookmark/SKILL.md)** skill when
   adding via an agent.
 
+- If a description mentions a non-existent, non-public, or otherwise
+  unreachable URL as example text (e.g. `http://localhost:4566`), wrap it
+  in `` `pass:[...]` ``, not plain backticks — AsciiDoc autolinks bare URLs
+  even inside monospace text, and the site's link-check build step crawls
+  those live links and fails when they don't resolve. See
+  **[CONTRIBUTING.md](./CONTRIBUTING.md)** for details.
+
 ## References
 
 This project follows Kieran Potts' technical standards.
