@@ -14,20 +14,20 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
 
 ## Project structure
 
-- **`src/antora.yml`** \
+- `src/antora.yml` \
   Antora component descriptor for this module.
 
-- **`src/modules/ROOT/nav.adoc`** \
+- `src/modules/ROOT/nav.adoc` \
   The page hierarchy. Antora uses it to compute each page's breadcrumb
   ancestry when the site is built.
 
-- **`src/modules/ROOT/pages/`** \
+- `src/modules/ROOT/pages/` \
   One `index.adoc` per category, nested by topic (e.g.
   `applications/ai/skills/index.adoc`). Each contains a bullet list of
   bookmark links.
 
-- **`.agents/skills/add-bookmark/`** \
-  An agent skill for adding a new bookmark: given a URL, it follows the
+- `.agents/skills/add-bookmark/` \
+  An agent skill for adding a new bookmark. Given a URL, it follows the
   link, chooses the best-fit category, and appends a properly formatted
   entry to the relevant `index.adoc` — without committing the change
   unless explicitly told to. See `.agents/skills/add-bookmark/README.md`
@@ -43,7 +43,7 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
 
 - If a description mentions a non-existent, non-public, or otherwise
   unreachable URL as example text (e.g. `http://localhost:4566`), wrap it
-  in `` `pass:[...]` ``, not plain backticks — AsciiDoc autolinks bare URLs
+  in `` `pass:[...]` ``, not plain backticks. AsciiDoc autolinks bare URLs
   even inside monospace text, and the site's link-check build step crawls
   those live links and fails when they don't resolve. See
   **[CONTRIBUTING.md](./CONTRIBUTING.md)** for details.
