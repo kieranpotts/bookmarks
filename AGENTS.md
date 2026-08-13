@@ -52,6 +52,6 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
 
 This project follows Kieran Potts' technical standards.
 
-- **[TS-9: Version Control](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/modules/ROOT/partials/009/AGENTS.md)**
-- **[TS-28: AsciiDoc](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/modules/ROOT/partials/028/AGENTS.md)**
-- **[TS-61: AI Tools](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/modules/ROOT/partials/061/AGENTS.md)**
+- **[TS-9: Version Control](https://kieranpotts.com/standards/009)**
+- **[TS-28: AsciiDoc](https://kieranpotts.com/standards/028)**
+- **[TS-61: AI Tools](https://kieranpotts.com/standards/061)**
