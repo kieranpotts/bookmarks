@@ -50,8 +50,18 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
 
 ## References
 
-This project follows Kieran Potts' technical standards.
+The following technical standards (TS) govern this project. Fetch and ingest
+the relevant standards as-and-when required for the task at hand.
 
-- **[TS-9: Version Control](https://kieranpotts.com/standards/009)**
-- **[TS-28: AsciiDoc](https://kieranpotts.com/standards/028)**
-- **[TS-61: AI Tools](https://kieranpotts.com/standards/061)**
+- [**TS-9: Version Control**](https://kieranpotts.com/standards/009) \
+  Use when working with Git. Covers commits, branching, merging, integration
+  strategies, cutting releases, and configuring Git/PR/CI tooling.
+
+- [**TS-28: AsciiDoc**](https://kieranpotts.com/standards/028) \
+  Use when writing or reviewing AsciiDoc documents or websites built using
+  Antora.
+
+- [**TS-61: AI Tools**](https://kieranpotts.com/standards/061) \
+  Use when planning or executing coding tasks, managing your own context,
+  authoring AGENTS.md files or agent skills, calling tools, or handling
+  untrusted content.
