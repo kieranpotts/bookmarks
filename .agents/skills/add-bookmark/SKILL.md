@@ -37,7 +37,7 @@ prompt the user for clarification.
 ## Success criteria
 
 - Exactly one `index.adoc` file under `src/modules/ROOT/pages/` MUST carry a
-  new bullet of the form `* https://host/path[Label]` naming the supplied URL.
+  new bullet of the form `* https://host/path[Label]` with the supplied URL.
 
 - Re-reading the modified file MUST show the URL present and the bullet
   well-formed, so the change is confirmed rather than assumed.
@@ -60,15 +60,14 @@ prompt the user for clarification.
 2.  Choose a link label. Prefer the site or product name alone, adding a brief
     qualifier only where the name by itself is ambiguous.
 
-3.  Find the most appropriate category for the resource.
+3.  Find the most appropriate category for the resource. Start at the root page, 
+    `src/modules/ROOT/pages/index.adoc`, and traverse down the directory tree. 
+    At each index, identify the next best internal link and follow it to the 
+    next directory down. Read candidate `index.adoc` files until the best fit 
+    is clear.
 
-    Start at the root page, `src/modules/ROOT/pages/index.adoc`, and traverse
-    down the directory tree. At each index, identify the next best internal
-    link and follow it to the next directory down. Read candidate `index.adoc`
-    files until the best fit is clear.
-
-    Prefer leaf category pages over their parents. Where the resource does not
-    fit any existing subcategory but does fit the parent category, use the
+    Prefer leaf category pages over their parents. But where the resource does 
+    not fit any existing subcategory but does fit the parent category, use the
     parent page. Where it fits neither, you MAY create a new category page
     under an existing parent.
 
@@ -113,32 +112,18 @@ prompt the user for clarification.
 
 ## Edge cases
 
-- The URL is unreachable, or returns an error status.
+- The URL is unreachable, or returns an error status. Stop and report the 
+  failure. Do not file a bookmark for a page you could not read.
 
-  Stop and report the failure. Do not file a bookmark for a page you could not
-  read.
+- The same URL is already listed somewhere in the collection. Stop and report 
+  the existing entry and its file path, rather than duplicating it.
 
-- The same URL is already listed somewhere in the collection.
-
-  Stop and report the existing entry and its file path, rather than
-  duplicating it.
-
-- The target page is divided into sub-sections.
-
-  Place the bookmark in the section that best matches the resource. Where no
-  section is clearly appropriate, add it to the top-level list at the start of
-  the page.
+- The target page is divided into sub-sections. Place the bookmark in the 
+  section that best matches the resource. Where no section is clearly 
+  appropriate, add it to the top-level list at the start of the page.
 
 ## Examples
 
-- The user says: "Add bookmark: https://caddyserver.com/".
-
-  You fetch the page, identify Caddy as a web server, and add
-  `* https://caddyserver.com/[Caddy]` to the web servers category page under
-  `src/modules/ROOT/pages/`.
-
-## References
-
-- [AsciiDoc syntax quick reference](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/) \
-  Read to confirm link or list syntax when an existing entry's formatting is
-  unclear.
+- The user says: "Add bookmark: https://caddyserver.com/". You fetch the page, 
+  identify Caddy as a web server, and add `* https://caddyserver.com/[Caddy]` 
+  to the "web servers" category page under `src/modules/ROOT/pages/`.
