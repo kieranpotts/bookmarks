@@ -3,27 +3,27 @@
 Tools and services that support the software delivery lifecycle, organized by
 category.
 
-* xref:tools/devops-lifecycle-systems/all-in-one-devops-systems/index.adoc[*All-in-one DevOps systems*] \
+* xref:tools/devops-lifecycle-systems/all-in-one-devops-systems/index.adoc[*All-in-one DevOps systems*] +
   Platforms that bundle source control, CI/CD, and project management into a
   single DevOps system.
 
-* xref:tools/devops-lifecycle-systems/code-repository-hosting/index.adoc[*Code repository hosting*] \
+* xref:tools/devops-lifecycle-systems/code-repository-hosting/index.adoc[*Code repository hosting*] +
   Hosted services for storing and collaborating on source code repositories.
 
-* xref:tools/devops-lifecycle-systems/artifact-repositories/index.adoc[*Artifact repositories*] \
+* xref:tools/devops-lifecycle-systems/artifact-repositories/index.adoc[*Artifact repositories*] +
   Repositories for storing and versioning build artifacts and binary packages.
 
-* xref:tools/devops-lifecycle-systems/code-search/index.adoc[*Code search*] \
+* xref:tools/devops-lifecycle-systems/code-search/index.adoc[*Code search*] +
   Search engines for finding code across public repositories.
 
-* xref:tools/devops-lifecycle-systems/ci-cd-systems/index.adoc[*CI/CD systems (automation servers)*] \
+* xref:tools/devops-lifecycle-systems/ci-cd-systems/index.adoc[*CI/CD systems (automation servers)*] +
   Automation servers for building, testing, and deploying code as part of a CI/CD
   pipeline.
 
-* xref:tools/devops-lifecycle-systems/ci-cd-integrations/index.adoc[*CI/CD integrations (automation tools and services)*] \
+* xref:tools/devops-lifecycle-systems/ci-cd-integrations/index.adoc[*CI/CD integrations (automation tools and services)*] +
   Tools and services that integrate with CI/CD pipelines to automate specific
   tasks.
 
-* xref:tools/devops-lifecycle-systems/readme-integrations/index.adoc[*README integrations*] \
+* xref:tools/devops-lifecycle-systems/readme-integrations/index.adoc[*README integrations*] +
   Badges and integrations for enriching README files with build status and other
   metadata.

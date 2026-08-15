@@ -2,11 +2,11 @@
 
 Databases and storage systems built for analytical workloads, organized by type.
 
-* xref:infrastructure/databases/analytical-databases/data-warehouses/index.adoc[*Data warehouses (structured)*] \
+* xref:infrastructure/databases/analytical-databases/data-warehouses/index.adoc[*Data warehouses (structured)*] +
   Structured storage systems optimized for large-scale analytical queries.
 
-* xref:infrastructure/databases/analytical-databases/data-lakes/index.adoc[*Data lakes (unstructured)*] \
+* xref:infrastructure/databases/analytical-databases/data-lakes/index.adoc[*Data lakes (unstructured)*] +
   Storage systems for unstructured and semi-structured data at scale.
 
-* xref:infrastructure/databases/analytical-databases/gis-databases/index.adoc[*GIS databases*] \
+* xref:infrastructure/databases/analytical-databases/gis-databases/index.adoc[*GIS databases*] +
   Databases optimized for storing and querying geospatial data.

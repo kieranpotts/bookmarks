@@ -3,40 +3,40 @@
 A curated collection of links to tools, technologies, and resources, organized
 by category.
 
-* xref:languages/index.adoc[*Languages*] \
+* xref:languages/index.adoc[*Languages*] +
   Programming, scripting, markup, and other formal languages, organized by type.
 
-* xref:standards/index.adoc[*Standards*] \
+* xref:standards/index.adoc[*Standards*] +
   Technical standards, organized by category.
 
-* xref:platforms/index.adoc[*Platforms*] \
+* xref:platforms/index.adoc[*Platforms*] +
   Operating systems, runtimes, and application platforms, organized by category.
 
-* xref:infrastructure/index.adoc[*Infrastructure*] \
+* xref:infrastructure/index.adoc[*Infrastructure*] +
   Cloud platforms, networking, data stores, and operational tooling for building
   and running infrastructure, organized by category.
 
-* xref:applications/index.adoc[*Applications*] \
+* xref:applications/index.adoc[*Applications*] +
   Software applications and services, organized by category.
 
-* xref:services/index.adoc[*Services*] \
+* xref:services/index.adoc[*Services*] +
   Third-party services and APIs for software projects, organized by category.
 
-* xref:utilities/index.adoc[*Utilities*] \
+* xref:utilities/index.adoc[*Utilities*] +
   Command-line tools and utilities, organized by category.
 
-* xref:tools/index.adoc[*Tools*] \
+* xref:tools/index.adoc[*Tools*] +
   Software tools, apps, and online services, organized by category.
 
-* xref:methods/index.adoc[*Methods*] \
+* xref:methods/index.adoc[*Methods*] +
   Approaches, principles, and frameworks for how software is designed, built,
   and measured, organized by type.
 
-* xref:assets/index.adoc[*Assets*] \
+* xref:assets/index.adoc[*Assets*] +
   Fonts, icons, photos, video, and audio resources, organized by category.
 
-* xref:work/index.adoc[*Work*] \
+* xref:work/index.adoc[*Work*] +
   Career and work-related resources, organized by category.
 
-* xref:media/index.adoc[*Media*] \
+* xref:media/index.adoc[*Media*] +
   Publications, communities, and other sources of information, organized by type.

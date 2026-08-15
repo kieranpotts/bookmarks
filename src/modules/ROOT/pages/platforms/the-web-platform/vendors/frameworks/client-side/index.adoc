@@ -4,10 +4,10 @@ Client-side JavaScript frameworks, organized by category.
 
 * https://perf-track.web.app/[Perf Track]
 
-* xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/index.adoc[*Component-based*] \
+* xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/index.adoc[*Component-based*] +
   Component-based JavaScript frameworks. The major frameworks each have their own
   page below; other, less common ones are listed directly.
 
-* xref:platforms/the-web-platform/vendors/frameworks/client-side/html-based/index.adoc[*HTML-based*] \
+* xref:platforms/the-web-platform/vendors/frameworks/client-side/html-based/index.adoc[*HTML-based*] +
   Frameworks that extend plain HTML with reactive behaviour, rather than requiring
   a JavaScript-first component model.

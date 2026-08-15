@@ -4,37 +4,37 @@ Web application frameworks and related tooling, organized by category.
 
 * https://todomvc.com/[TodoMVC]
 
-* xref:platforms/the-web-platform/vendors/frameworks/server-side/index.adoc[*Server-side*] \
+* xref:platforms/the-web-platform/vendors/frameworks/server-side/index.adoc[*Server-side*] +
   Server-side frameworks, mostly for Node.js. Express and Fastify have their own
   dedicated pages.
 
-* xref:platforms/the-web-platform/vendors/frameworks/client-side/index.adoc[*Client-side*] \
+* xref:platforms/the-web-platform/vendors/frameworks/client-side/index.adoc[*Client-side*] +
   Client-side JavaScript frameworks, organized by category.
 
-* xref:platforms/the-web-platform/vendors/frameworks/other-web-ui-frameworks/index.adoc[*Other web UI frameworks*] \
+* xref:platforms/the-web-platform/vendors/frameworks/other-web-ui-frameworks/index.adoc[*Other web UI frameworks*] +
   Web UI frameworks that don't fit the other categories, including Java-based and
   platform-specific toolkits.
 
-* xref:platforms/the-web-platform/vendors/frameworks/static-site-generators/index.adoc[*Static-site generators*] \
+* xref:platforms/the-web-platform/vendors/frameworks/static-site-generators/index.adoc[*Static-site generators*] +
   Static-site generators that aren't based on a component framework, including
   tools focused on technical documentation and books.
 
-* xref:platforms/the-web-platform/vendors/frameworks/web-game-engines-vr-and-ar/index.adoc[*Web game engines, VR and AR*] \
+* xref:platforms/the-web-platform/vendors/frameworks/web-game-engines-vr-and-ar/index.adoc[*Web game engines, VR and AR*] +
   Game engines and frameworks for building web-based games, VR, and AR
   experiences.
 
-* xref:platforms/the-web-platform/vendors/frameworks/frontend-starter-kits/index.adoc[*Frontend starter kits*] \
+* xref:platforms/the-web-platform/vendors/frameworks/frontend-starter-kits/index.adoc[*Frontend starter kits*] +
   Framework-agnostic starter kits and boilerplates for bootstrapping frontend
   projects.
 
-* xref:platforms/the-web-platform/vendors/frameworks/full-stack/index.adoc[*Full-stack*] \
+* xref:platforms/the-web-platform/vendors/frameworks/full-stack/index.adoc[*Full-stack*] +
   Full-stack frameworks and libraries that blur the line between client and server
   code.
 
-* xref:platforms/the-web-platform/vendors/frameworks/meta-frameworks/index.adoc[*Meta frameworks*] \
+* xref:platforms/the-web-platform/vendors/frameworks/meta-frameworks/index.adoc[*Meta frameworks*] +
   Meta-frameworks built on top of React, Vue, Angular, and other component
   frameworks, adding routing, SSR, and other conventions.
 
-* xref:platforms/the-web-platform/vendors/frameworks/email-design/index.adoc[*Email design*] \
+* xref:platforms/the-web-platform/vendors/frameworks/email-design/index.adoc[*Email design*] +
   Frameworks and tools for building HTML emails that render consistently across
   email clients.

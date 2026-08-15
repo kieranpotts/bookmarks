@@ -5,218 +5,218 @@ organized by category.
 
 * https://nodejstoolbox.com/[Node.js Toolbox]
 
-* xref:languages/programming/ecmascript-languages/vendors/general-utility-and-functional-programming-libraries/index.adoc[*General utility and functional programming libraries*] \
+* xref:languages/programming/ecmascript-languages/vendors/general-utility-and-functional-programming-libraries/index.adoc[*General utility and functional programming libraries*] +
   General-purpose utility and functional programming libraries for JavaScript,
   covering common data manipulation, composition, and functional helpers.
 
-* xref:languages/programming/ecmascript-languages/vendors/polyfills-and-shims/index.adoc[*Polyfills and shims*] \
+* xref:languages/programming/ecmascript-languages/vendors/polyfills-and-shims/index.adoc[*Polyfills and shims*] +
   Polyfills and shims for ECMAScript features not natively supported in all
   environments.
 
-* xref:languages/programming/ecmascript-languages/vendors/asynchronous-javascript-promises/index.adoc[*Asynchronous JavaScript (Promises)*] \
+* xref:languages/programming/ecmascript-languages/vendors/asynchronous-javascript-promises/index.adoc[*Asynchronous JavaScript (Promises)*] +
   Libraries for managing asynchronous control flow and promise-based patterns in
   JavaScript, including circuit breakers and effect systems.
 
-* xref:languages/programming/ecmascript-languages/vendors/authentication/index.adoc[*Authentication*] \
+* xref:languages/programming/ecmascript-languages/vendors/authentication/index.adoc[*Authentication*] +
   Libraries and frameworks for authenticating users in JavaScript and Node.js
   applications, including session management and OAuth strategies.
 
-* xref:languages/programming/ecmascript-languages/vendors/authorization/index.adoc[*Authorization*] \
+* xref:languages/programming/ecmascript-languages/vendors/authorization/index.adoc[*Authorization*] +
   Libraries for implementing authorization, permissions, and access control rules
   in JavaScript applications.
 
-* xref:languages/programming/ecmascript-languages/vendors/browser-automation-and-web-scraping/index.adoc[*Browser automation and web scraping*] \
+* xref:languages/programming/ecmascript-languages/vendors/browser-automation-and-web-scraping/index.adoc[*Browser automation and web scraping*] +
   Tools for automating browsers and scraping web pages, from full browser
   automation frameworks to lightweight HTML scrapers.
 
-* xref:languages/programming/ecmascript-languages/vendors/cli-abstractions-frameworks/index.adoc[*CLI abstractions/frameworks*] \
+* xref:languages/programming/ecmascript-languages/vendors/cli-abstractions-frameworks/index.adoc[*CLI abstractions/frameworks*] +
   Libraries for building command-line interfaces in Node.js, covering argument
   parsing, interactive prompts, and terminal colour output.
 
-* xref:languages/programming/ecmascript-languages/vendors/color-manipulation/index.adoc[*Color manipulation*] \
+* xref:languages/programming/ecmascript-languages/vendors/color-manipulation/index.adoc[*Color manipulation*] +
   Libraries for parsing, converting, and manipulating colour values in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/parallelism-worker-threads/index.adoc[*Parallelism (Worker Threads)*] \
+* xref:languages/programming/ecmascript-languages/vendors/parallelism-worker-threads/index.adoc[*Parallelism (Worker Threads)*] +
   Libraries for running parallel work using worker threads in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/configuration-and-env-loaders/index.adoc[*Configuration and env loaders*] \
+* xref:languages/programming/ecmascript-languages/vendors/configuration-and-env-loaders/index.adoc[*Configuration and env loaders*] +
   Libraries for loading and validating application configuration from environment
   variables and config files.
 
-* xref:languages/programming/ecmascript-languages/vendors/cookie-abstractions/index.adoc[*Cookie abstractions*] \
+* xref:languages/programming/ecmascript-languages/vendors/cookie-abstractions/index.adoc[*Cookie abstractions*] +
   Libraries for parsing, serializing, and managing HTTP cookies in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/data-structures-entities-and-value-objects/index.adoc[*Data structures, entities and value objects*] \
+* xref:languages/programming/ecmascript-languages/vendors/data-structures-entities-and-value-objects/index.adoc[*Data structures, entities and value objects*] +
   Libraries for defining data structures, entities, and value objects in
   JavaScript, including immutable data, enums, and typed models.
 
-* xref:languages/programming/ecmascript-languages/vendors/database-and-storage-abstractions-and-orms/index.adoc[*Database and storage abstractions and ORMs*] \
+* xref:languages/programming/ecmascript-languages/vendors/database-and-storage-abstractions-and-orms/index.adoc[*Database and storage abstractions and ORMs*] +
   Libraries for abstracting database access, including ORMs, query builders, and
   database-specific clients.
 
-* xref:languages/programming/ecmascript-languages/vendors/postgresql-clients/index.adoc[*PostgreSQL clients*] \
+* xref:languages/programming/ecmascript-languages/vendors/postgresql-clients/index.adoc[*PostgreSQL clients*] +
   Client libraries for connecting to and querying PostgreSQL from Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/object-relational-mapping-orm/index.adoc[*Object-relational mapping (ORM)*] \
+* xref:languages/programming/ecmascript-languages/vendors/object-relational-mapping-orm/index.adoc[*Object-relational mapping (ORM)*] +
   Object-relational mapping (ORM) libraries for JavaScript and TypeScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/query-builders/index.adoc[*Query builders*] \
+* xref:languages/programming/ecmascript-languages/vendors/query-builders/index.adoc[*Query builders*] +
   SQL query builder libraries for JavaScript and TypeScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/redis-clients/index.adoc[*Redis clients*] \
+* xref:languages/programming/ecmascript-languages/vendors/redis-clients/index.adoc[*Redis clients*] +
   Client libraries for connecting to and querying Redis from Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/sqlite-clients/index.adoc[*SQLite clients*] \
+* xref:languages/programming/ecmascript-languages/vendors/sqlite-clients/index.adoc[*SQLite clients*] +
   Client libraries for working with SQLite databases in Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/db-drivers/index.adoc[*DB drivers*] \
+* xref:languages/programming/ecmascript-languages/vendors/db-drivers/index.adoc[*DB drivers*] +
   Low-level database driver libraries for connecting to and querying specific
   database engines from Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/datetime-libraries/index.adoc[*Datetime libraries*] \
+* xref:languages/programming/ecmascript-languages/vendors/datetime-libraries/index.adoc[*Datetime libraries*] +
   Libraries for parsing, formatting, and manipulating dates and times in
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/dependency-injection-service-locator-ioc/index.adoc[*Dependency injection + service locator (IoC)*] \
+* xref:languages/programming/ecmascript-languages/vendors/dependency-injection-service-locator-ioc/index.adoc[*Dependency injection + service locator (IoC)*] +
   Libraries implementing dependency injection, service locator, and inversion of
   control patterns in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/diffing-text-libraries/index.adoc[*Diffing (Text) libraries*] \
+* xref:languages/programming/ecmascript-languages/vendors/diffing-text-libraries/index.adoc[*Diffing (Text) libraries*] +
   Libraries for computing and rendering differences between text content.
 
-* xref:languages/programming/ecmascript-languages/vendors/dom-implementations-fakes/index.adoc[*DOM implementations and fakes*] \
+* xref:languages/programming/ecmascript-languages/vendors/dom-implementations-fakes/index.adoc[*DOM implementations and fakes*] +
   Libraries that implement or fake the DOM outside a browser, for testing and
   server-side use.
 
-* xref:languages/programming/ecmascript-languages/vendors/email-delivery/index.adoc[*Email delivery*] \
+* xref:languages/programming/ecmascript-languages/vendors/email-delivery/index.adoc[*Email delivery*] +
   Libraries for sending email from Node.js applications.
 
-* xref:languages/programming/ecmascript-languages/vendors/event-emitters-and-pubsub/index.adoc[*Event emitters and pubsub*] \
+* xref:languages/programming/ecmascript-languages/vendors/event-emitters-and-pubsub/index.adoc[*Event emitters and pubsub*] +
   Libraries implementing event emitter and publish/subscribe patterns in
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/feature-detection-useragent-browser-runtime-detection/index.adoc[*Feature detection and useragent/browser/runtime detection*] \
+* xref:languages/programming/ecmascript-languages/vendors/feature-detection-useragent-browser-runtime-detection/index.adoc[*Feature detection and useragent/browser/runtime detection*] +
   Libraries for detecting browser/runtime features, user agents, and execution
   environments in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/file-archiving-and-compression/index.adoc[*File archiving and compression*] \
+* xref:languages/programming/ecmascript-languages/vendors/file-archiving-and-compression/index.adoc[*File archiving and compression*] +
   Libraries for creating, reading, and compressing archive files such as zip, in
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/file-type-mimetype-detection/index.adoc[*File type / mimetype detection*] \
+* xref:languages/programming/ecmascript-languages/vendors/file-type-mimetype-detection/index.adoc[*File type / mimetype detection*] +
   Libraries for detecting file types and MIME types from file content in
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/form-and-file-upload-processing/index.adoc[*Form and file upload processing*] \
+* xref:languages/programming/ecmascript-languages/vendors/form-and-file-upload-processing/index.adoc[*Form and file upload processing*] +
   Libraries for parsing multipart form data and handling file uploads in Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/geospatial-analysis/index.adoc[*Geospatial analysis*] \
+* xref:languages/programming/ecmascript-languages/vendors/geospatial-analysis/index.adoc[*Geospatial analysis*] +
   Libraries for geospatial analysis and geometric calculations in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/graphics/index.adoc[*Graphics*] \
+* xref:languages/programming/ecmascript-languages/vendors/graphics/index.adoc[*Graphics*] +
   Libraries for rendering 2D graphics in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/cryptography-and-hashing/index.adoc[*Cryptography and hashing*] \
+* xref:languages/programming/ecmascript-languages/vendors/cryptography-and-hashing/index.adoc[*Cryptography and hashing*] +
   Libraries for cryptographic operations and hashing in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/hot-module-reloading/index.adoc[*Hot module reloading*] \
+* xref:languages/programming/ecmascript-languages/vendors/hot-module-reloading/index.adoc[*Hot module reloading*] +
   Libraries that add hot module reloading to Node.js applications during
   development.
 
-* xref:languages/programming/ecmascript-languages/vendors/http-and-websocket-clients/index.adoc[*HTTP and WebSocket clients*] \
+* xref:languages/programming/ecmascript-languages/vendors/http-and-websocket-clients/index.adoc[*HTTP and WebSocket clients*] +
   HTTP and WebSocket client libraries for making network requests from JavaScript
   and Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/http-and-websocket-servers/index.adoc[*HTTP and WebSocket servers*] \
+* xref:languages/programming/ecmascript-languages/vendors/http-and-websocket-servers/index.adoc[*HTTP and WebSocket servers*] +
   Libraries and tools for running HTTP and WebSocket servers in Node.js, including
   lightweight static file servers.
 
-* xref:languages/programming/ecmascript-languages/vendors/image-generation-and-processing/index.adoc[*Image generation and processing*] \
+* xref:languages/programming/ecmascript-languages/vendors/image-generation-and-processing/index.adoc[*Image generation and processing*] +
   Libraries for generating, processing, and optimizing images in Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/internationalization-and-localization/index.adoc[*Internationalization and localization*] \
+* xref:languages/programming/ecmascript-languages/vendors/internationalization-and-localization/index.adoc[*Internationalization and localization*] +
   Libraries for internationalization and localization of JavaScript applications.
 
-* xref:languages/programming/ecmascript-languages/vendors/jsx-implementations/index.adoc[*JSX implementations*] \
+* xref:languages/programming/ecmascript-languages/vendors/jsx-implementations/index.adoc[*JSX implementations*] +
   Alternative implementations of JSX outside the React ecosystem.
 
-* xref:languages/programming/ecmascript-languages/vendors/jwt/index.adoc[*JWT*] \
+* xref:languages/programming/ecmascript-languages/vendors/jwt/index.adoc[*JWT*] +
   Libraries for creating, signing, and verifying JSON Web Tokens (JWT) in
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/logging/index.adoc[*Logging*] \
+* xref:languages/programming/ecmascript-languages/vendors/logging/index.adoc[*Logging*] +
   Logging libraries and frameworks for Node.js applications.
 
-* xref:languages/programming/ecmascript-languages/vendors/machine-learning/index.adoc[*Machine learning*] \
+* xref:languages/programming/ecmascript-languages/vendors/machine-learning/index.adoc[*Machine learning*] +
   Libraries for machine learning and numerical computation in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/numbers-money-and-currency-libraries/index.adoc[*Numbers, money and currency libraries*] \
+* xref:languages/programming/ecmascript-languages/vendors/numbers-money-and-currency-libraries/index.adoc[*Numbers, money and currency libraries*] +
   Libraries for working with numbers, money, durations, and currency in
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/parsers-and-compilers/index.adoc[*Parsers and compilers*] \
+* xref:languages/programming/ecmascript-languages/vendors/parsers-and-compilers/index.adoc[*Parsers and compilers*] +
   Parsers and compilers for various data formats and languages, including
   spreadsheets, BSON, and expression parsing.
 
-* xref:languages/programming/ecmascript-languages/vendors/pdf-generation/index.adoc[*PDF generation*] \
+* xref:languages/programming/ecmascript-languages/vendors/pdf-generation/index.adoc[*PDF generation*] +
   Libraries for generating and manipulating PDF documents in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/queues/index.adoc[*Queues*] \
+* xref:languages/programming/ecmascript-languages/vendors/queues/index.adoc[*Queues*] +
   Lightweight in-memory queue and priority queue data structure libraries for
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/qr-code-generation/index.adoc[*QR code generation*] \
+* xref:languages/programming/ecmascript-languages/vendors/qr-code-generation/index.adoc[*QR code generation*] +
   Libraries for generating QR codes in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/random-uuid-passwords-hashes-and-secrets-generation/index.adoc[*Random, UUID, passwords, hashes and secrets generation*] \
+* xref:languages/programming/ecmascript-languages/vendors/random-uuid-passwords-hashes-and-secrets-generation/index.adoc[*Random, UUID, passwords, hashes and secrets generation*] +
   Libraries for generating random values, UUIDs, passwords, hashes, and other
   secrets in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/reactive-programming-libraries/index.adoc[*Reactive programming libraries*] \
+* xref:languages/programming/ecmascript-languages/vendors/reactive-programming-libraries/index.adoc[*Reactive programming libraries*] +
   Libraries implementing reactive programming patterns and observables in
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/schedulers-in-process/index.adoc[*Schedulers (In-Process)*] \
+* xref:languages/programming/ecmascript-languages/vendors/schedulers-in-process/index.adoc[*Schedulers (In-Process)*] +
   Libraries for scheduling recurring in-process tasks using cron-like syntax in
   Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/screen-capture/index.adoc[*Screen capture*] \
+* xref:languages/programming/ecmascript-languages/vendors/screen-capture/index.adoc[*Screen capture*] +
   Libraries for capturing screenshots from Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/security-input-sanitization/index.adoc[*Security - input sanitization, etc.*] \
+* xref:languages/programming/ecmascript-languages/vendors/security-input-sanitization/index.adoc[*Security - input sanitization, etc.*] +
   Libraries for sanitizing untrusted input and mitigating security vulnerabilities
   such as XSS in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/server-sent-events/index.adoc[*Server-sent events*] \
+* xref:languages/programming/ecmascript-languages/vendors/server-sent-events/index.adoc[*Server-sent events*] +
   Libraries for implementing server-sent events (SSE) in Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/shell-scripting-shell-execution/index.adoc[*Shell scripting / shell execution*] \
+* xref:languages/programming/ecmascript-languages/vendors/shell-scripting-shell-execution/index.adoc[*Shell scripting / shell execution*] +
   Libraries for scripting shell commands and executing child processes from
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/ssh-abstractions-and-implementations/index.adoc[*SSH abstractions and implementations*] \
+* xref:languages/programming/ecmascript-languages/vendors/ssh-abstractions-and-implementations/index.adoc[*SSH abstractions and implementations*] +
   Libraries for implementing and abstracting SSH clients in Node.js.
 
-* xref:languages/programming/ecmascript-languages/vendors/syntax-parsing-and-highlighting/index.adoc[*Syntax parsing and highlighting*] \
+* xref:languages/programming/ecmascript-languages/vendors/syntax-parsing-and-highlighting/index.adoc[*Syntax parsing and highlighting*] +
   Libraries for parsing and syntax-highlighting code in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/task-job-queues/index.adoc[*Task/job queues*] \
+* xref:languages/programming/ecmascript-languages/vendors/task-job-queues/index.adoc[*Task/job queues*] +
   Libraries for running background task and job queues in Node.js, typically
   backed by Redis or a database.
 
-* xref:languages/programming/ecmascript-languages/vendors/validation-and-assertions/index.adoc[*Validation and assertions*] \
+* xref:languages/programming/ecmascript-languages/vendors/validation-and-assertions/index.adoc[*Validation and assertions*] +
   General-purpose libraries for validating values and making assertions in
   JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/object-schema-validation/index.adoc[*Object / schema validation*] \
+* xref:languages/programming/ecmascript-languages/vendors/object-schema-validation/index.adoc[*Object / schema validation*] +
   Libraries for validating and parsing object shapes and schemas in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/json-schema-validation/index.adoc[*JSON schema validation*] \
+* xref:languages/programming/ecmascript-languages/vendors/json-schema-validation/index.adoc[*JSON schema validation*] +
   Libraries for validating data against JSON Schema in JavaScript.
 
-* xref:languages/programming/ecmascript-languages/vendors/visual-diff-and-regression-testing/index.adoc[*Visual diff and regression testing*] \
+* xref:languages/programming/ecmascript-languages/vendors/visual-diff-and-regression-testing/index.adoc[*Visual diff and regression testing*] +
   Libraries for visual diffing and regression testing, such as comparing rendered
   output between versions.
 
-* xref:languages/programming/ecmascript-languages/vendors/middleware-systems/index.adoc[*Middleware systems*] \
+* xref:languages/programming/ecmascript-languages/vendors/middleware-systems/index.adoc[*Middleware systems*] +
   Libraries for composing middleware pipelines in Node.js applications.

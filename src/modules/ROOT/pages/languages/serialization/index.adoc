@@ -3,13 +3,13 @@
 Formats for converting data to and from a storable or transmittable
 representation, organized by encoding type.
 
-* xref:languages/serialization/text-serialization-formats/index.adoc[*Text serialization formats*] \
+* xref:languages/serialization/text-serialization-formats/index.adoc[*Text serialization formats*] +
   Human-readable, text-based serialization formats, organized by format.
 
-* xref:languages/serialization/binary-serialization-formats/index.adoc[*Binary serialization formats*] \
+* xref:languages/serialization/binary-serialization-formats/index.adoc[*Binary serialization formats*] +
   Binary data serialization formats for compact, non-human-readable data
   representation.
 
-* xref:languages/serialization/dual-text-and-binary-serialization-formats/index.adoc[*Dual (text + binary) serialization formats*] \
+* xref:languages/serialization/dual-text-and-binary-serialization-formats/index.adoc[*Dual (text + binary) serialization formats*] +
   Serialization formats that support both a human-readable text encoding and a
   compact binary encoding.

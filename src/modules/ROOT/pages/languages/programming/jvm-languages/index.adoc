@@ -3,24 +3,24 @@
 Languages that compile to and run on the Java Virtual Machine, including Java
 itself and its main alternatives.
 
-* xref:languages/programming/jvm-languages/java/index.adoc[*Java*] \
+* xref:languages/programming/jvm-languages/java/index.adoc[*Java*] +
   Java, with links to JVMs and JDKs, tools, vendors, language specifications, and
   reference material.
 
-* xref:languages/programming/jvm-languages/kotlin/index.adoc[*Kotlin*] \
+* xref:languages/programming/jvm-languages/kotlin/index.adoc[*Kotlin*] +
   Kotlin, a statically typed language for the JVM that is also the preferred
   language for Android development.
 
-* xref:languages/programming/jvm-languages/scala/index.adoc[*Scala*] \
+* xref:languages/programming/jvm-languages/scala/index.adoc[*Scala*] +
   Scala, a statically typed language for the JVM that blends object-oriented and
   functional programming.
 
-* xref:languages/programming/jvm-languages/groovy/index.adoc[*Groovy*] \
+* xref:languages/programming/jvm-languages/groovy/index.adoc[*Groovy*] +
   Groovy, a dynamic language for the JVM with syntax close to Java's.
 
-* xref:languages/programming/jvm-languages/clojure/index.adoc[*Clojure*] \
+* xref:languages/programming/jvm-languages/clojure/index.adoc[*Clojure*] +
   Clojure, a Lisp dialect that runs on the JVM.
 
-* xref:languages/programming/jvm-languages/other-languages-implemented-in-jvms/index.adoc[*Other languages implemented in JVMs*] \
+* xref:languages/programming/jvm-languages/other-languages-implemented-in-jvms/index.adoc[*Other languages implemented in JVMs*] +
   Implementations of other languages that run on the JVM, such as Python (Jython),
   Ruby (JRuby), and JavaScript (Nashorn, Rhino).

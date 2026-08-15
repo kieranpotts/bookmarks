@@ -4,15 +4,15 @@ Databases and caching systems, organized by category.
 
 * https://db-engines.com/en/[DB-Engines]
 
-* xref:infrastructure/databases/production-service-databases/index.adoc[*Production service databases*] \
+* xref:infrastructure/databases/production-service-databases/index.adoc[*Production service databases*] +
   Databases used to back production services and applications, organized by data
   model.
 
-* xref:infrastructure/databases/operational-databases/index.adoc[*Operational databases*] \
+* xref:infrastructure/databases/operational-databases/index.adoc[*Operational databases*] +
   Databases used for operational data such as caching, metrics, and logs.
 
-* xref:infrastructure/databases/analytical-databases/index.adoc[*Analytical databases*] \
+* xref:infrastructure/databases/analytical-databases/index.adoc[*Analytical databases*] +
   Databases and storage systems built for analytical workloads, organized by type.
 
-* xref:infrastructure/databases/distributed-databases/index.adoc[*Distributed databases*] \
+* xref:infrastructure/databases/distributed-databases/index.adoc[*Distributed databases*] +
   Databases designed to scale horizontally across clusters of machines.

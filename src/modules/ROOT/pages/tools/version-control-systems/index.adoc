@@ -7,6 +7,6 @@ Version control systems besides Git, which has its own page.
 * https://www.perforce.com/products/helix-core[Perforce Helix (formerly Perforce)]
 * https://fossil-scm.org/[Fossil]
 
-* xref:tools/version-control-systems/git/index.adoc[*Git*] \
+* xref:tools/version-control-systems/git/index.adoc[*Git*] +
   Git implementations, reference material, and tools and extensions that build on
   top of it.

@@ -2,11 +2,11 @@
 
 Virtualization and containerization tools, organized by category.
 
-* xref:infrastructure/virtualization/container-systems/index.adoc[*Container systems*] \
+* xref:infrastructure/virtualization/container-systems/index.adoc[*Container systems*] +
   Tools for building, running, and managing containers and container images.
 
-* xref:infrastructure/virtualization/virtualization-systems/index.adoc[*Virtualization systems*] \
+* xref:infrastructure/virtualization/virtualization-systems/index.adoc[*Virtualization systems*] +
   Hypervisors for running virtual machines.
 
-* xref:infrastructure/virtualization/vm-and-container-image-libraries/index.adoc[*VM and container image libraries*] \
+* xref:infrastructure/virtualization/vm-and-container-image-libraries/index.adoc[*VM and container image libraries*] +
   Libraries and registries for sourcing pre-built VM and container images.

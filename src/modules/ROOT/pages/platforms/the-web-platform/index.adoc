@@ -3,19 +3,19 @@
 Tools, runtimes, standards, and reference material related to the web platform
 itself, organized by category.
 
-* xref:platforms/the-web-platform/runtimes-web-browsers/index.adoc[*Runtimes (Web Browsers)*] \
+* xref:platforms/the-web-platform/runtimes-web-browsers/index.adoc[*Runtimes (Web Browsers)*] +
   Web browsers and browser engines, organized by category.
 
-* xref:platforms/the-web-platform/vendors/index.adoc[*Vendors*] \
+* xref:platforms/the-web-platform/vendors/index.adoc[*Vendors*] +
   Software vendors and their products and tools, organized by category.
 
-* xref:platforms/the-web-platform/tools/index.adoc[*Tools*] \
+* xref:platforms/the-web-platform/tools/index.adoc[*Tools*] +
   Tools for building, testing, and analyzing web applications, organized by
   category.
 
-* xref:platforms/the-web-platform/standards/index.adoc[*Standards*] \
+* xref:platforms/the-web-platform/standards/index.adoc[*Standards*] +
   Web standards resources, including specifications, compatibility data, and
   standards bodies.
 
-* xref:platforms/the-web-platform/reference/index.adoc[*Reference*] \
+* xref:platforms/the-web-platform/reference/index.adoc[*Reference*] +
   General web platform reference documentation and resources, organized by topic.

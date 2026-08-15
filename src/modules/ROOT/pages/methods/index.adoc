@@ -3,24 +3,24 @@
 Approaches, principles, and frameworks for how software is designed, built, and
 measured, organized by type.
 
-* xref:methods/architecture-and-design/index.adoc[*Architecture and design*] \
+* xref:methods/architecture-and-design/index.adoc[*Architecture and design*] +
   Frameworks, guides, and associations for software architecture and design,
   organized by topic.
 
-* xref:methods/principles-and-manifestos/index.adoc[*Principles and manifestos*] \
+* xref:methods/principles-and-manifestos/index.adoc[*Principles and manifestos*] +
   Manifestos and sets of principles for how software should be built.
 
-* xref:methods/ways-of-working-frameworks/index.adoc[*Ways of working frameworks*] \
+* xref:methods/ways-of-working-frameworks/index.adoc[*Ways of working frameworks*] +
   Frameworks and methodologies for organizing how software teams work.
 
-* xref:methods/practices-and-techniques/index.adoc[*Practices and techniques*] \
+* xref:methods/practices-and-techniques/index.adoc[*Practices and techniques*] +
   Development practices and techniques, organized by topic.
 
-* xref:methods/productivity-measurement-frameworks/index.adoc[*Productivity measurement frameworks*] \
+* xref:methods/productivity-measurement-frameworks/index.adoc[*Productivity measurement frameworks*] +
   Frameworks for measuring developer and team productivity.
 
-* xref:methods/surveys-and-research/index.adoc[*Surveys and research*] \
+* xref:methods/surveys-and-research/index.adoc[*Surveys and research*] +
   Survey-based research reports on the state of software development.
 
-* xref:methods/open-source/index.adoc[*Open source*] \
+* xref:methods/open-source/index.adoc[*Open source*] +
   Guides, organizations, and license references relating to open source software.

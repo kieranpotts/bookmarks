@@ -3,69 +3,69 @@
 Cloud platforms, networking, data stores, and operational tooling for building
 and running infrastructure, organized by category.
 
-* xref:infrastructure/public-cloud/index.adoc[*Public cloud services*] \
+* xref:infrastructure/public-cloud/index.adoc[*Public cloud services*] +
   Public cloud providers and hosting services, organized by category.
 
-* xref:infrastructure/private-cloud/index.adoc[*Private cloud solutions*] \
+* xref:infrastructure/private-cloud/index.adoc[*Private cloud solutions*] +
   Platforms for running private, self-hosted cloud infrastructure.
 
-* xref:infrastructure/dns-cdn/index.adoc[*DNS, CDNs, reverse proxies*] \
+* xref:infrastructure/dns-cdn/index.adoc[*DNS, CDNs, reverse proxies*] +
   DNS, CDN, and domain-related services and tools, organized by category.
 
-* xref:infrastructure/iac-orchestration/index.adoc[*IaC, cloud automation and orchestration*] \
+* xref:infrastructure/iac-orchestration/index.adoc[*IaC, cloud automation and orchestration*] +
   Tools and platforms for automating infrastructure provisioning and configuration
   management, organized by category.
 
-* xref:infrastructure/virtualization/index.adoc[*Virtualization and containerization*] \
+* xref:infrastructure/virtualization/index.adoc[*Virtualization and containerization*] +
   Virtualization and containerization tools, organized by category.
 
-* xref:infrastructure/applications/index.adoc[*Pre-packaged application catalogs*] \
+* xref:infrastructure/applications/index.adoc[*Pre-packaged application catalogs*] +
   Catalogs of pre-packaged, ready-to-deploy application stacks for quick
   deployment.
 
-* xref:infrastructure/data-serialization/index.adoc[*Data serialization systems*] \
+* xref:infrastructure/data-serialization/index.adoc[*Data serialization systems*] +
   Formats and frameworks for serializing structured data between services.
 
-* xref:infrastructure/protocols/index.adoc[*Communication protocols*] \
+* xref:infrastructure/protocols/index.adoc[*Communication protocols*] +
   Specifications and standards for communication protocols.
 
-* xref:infrastructure/databases/index.adoc[*Databases and caching systems*] \
+* xref:infrastructure/databases/index.adoc[*Databases and caching systems*] +
   Databases and caching systems, organized by category.
 
-* xref:infrastructure/analytics/index.adoc[*Big data analytics, search engines, logging and observability*] \
+* xref:infrastructure/analytics/index.adoc[*Big data analytics, search engines, logging and observability*] +
   Search engines and observability platforms for analyzing large volumes of data,
   logs, and telemetry.
 
-* xref:infrastructure/filesystem/index.adoc[*Distributed file systems*] \
+* xref:infrastructure/filesystem/index.adoc[*Distributed file systems*] +
   Distributed file systems for storing data across clusters of machines.
 
-* xref:infrastructure/load-balancers/index.adoc[*Load balancers, reverse proxies, service routing*] \
+* xref:infrastructure/load-balancers/index.adoc[*Load balancers, reverse proxies, service routing*] +
   Load balancers and ingress controllers for routing and distributing traffic.
 
-* xref:infrastructure/tls/index.adoc[*TLS/SSL certificate authorities*] \
+* xref:infrastructure/tls/index.adoc[*TLS/SSL certificate authorities*] +
   Certificate authorities for issuing TLS/SSL certificates.
 
-* xref:infrastructure/events/index.adoc[*Event-driven systems*] \
+* xref:infrastructure/events/index.adoc[*Event-driven systems*] +
   Platforms for building event-driven systems that react to data changes.
 
-* xref:infrastructure/messaging/index.adoc[*Message brokers (aka. message queues)*] \
+* xref:infrastructure/messaging/index.adoc[*Message brokers (aka. message queues)*] +
   Message brokers for passing messages and events between services.
 
-* xref:infrastructure/observability/index.adoc[*Visibility (Observability and Monitoring)*] \
+* xref:infrastructure/observability/index.adoc[*Visibility (Observability and Monitoring)*] +
   Tools and platforms for monitoring, logging, and tracing systems, organized by
   category.
 
-* xref:infrastructure/service-communication/index.adoc[*Service communication protocols*] \
+* xref:infrastructure/service-communication/index.adoc[*Service communication protocols*] +
   Protocols and frameworks for communication between services.
 
-* xref:infrastructure/service-mesh/index.adoc[*Service mesh and service discovery*] \
+* xref:infrastructure/service-mesh/index.adoc[*Service mesh and service discovery*] +
   Tools for service discovery and mesh networking between services.
 
-* xref:infrastructure/task-queues/index.adoc[*Task queues (aka. job queues)*] \
+* xref:infrastructure/task-queues/index.adoc[*Task queues (aka. job queues)*] +
   Task queue systems for running background and asynchronous jobs.
 
-* xref:infrastructure/web-servers/index.adoc[*Web/HTTP servers*] \
+* xref:infrastructure/web-servers/index.adoc[*Web/HTTP servers*] +
   Web/HTTP servers for serving applications and static content.
 
-* xref:infrastructure/testing/index.adoc[*Infrastructure testing*] \
+* xref:infrastructure/testing/index.adoc[*Infrastructure testing*] +
   Tools for testing infrastructure resilience through chaos engineering.

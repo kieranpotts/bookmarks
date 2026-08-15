@@ -5,37 +5,37 @@ category.
 
 * https://www.canva.com/draw/[Canva Draw]
 
-* xref:tools/graphic-design-tools/accessibility-tools/index.adoc[*Accessibility tools*] \
+* xref:tools/graphic-design-tools/accessibility-tools/index.adoc[*Accessibility tools*] +
   Tools for checking color contrast and generating accessible color combinations
   for design work.
 
-* xref:tools/graphic-design-tools/photo-libraries-and-digital-asset-management/index.adoc[*Photo libraries and digital asset management*] \
+* xref:tools/graphic-design-tools/photo-libraries-and-digital-asset-management/index.adoc[*Photo libraries and digital asset management*] +
   Tools and libraries for organizing, storing, and managing digital images and
   assets.
 
-* xref:tools/graphic-design-tools/animation-tools/index.adoc[*Animation tools*] \
+* xref:tools/graphic-design-tools/animation-tools/index.adoc[*Animation tools*] +
   Tools for creating 2D animations and animated vector graphics.
 
-* xref:tools/graphic-design-tools/color-scheme-and-gradient-generators/index.adoc[*Color scheme and gradient generators*] \
+* xref:tools/graphic-design-tools/color-scheme-and-gradient-generators/index.adoc[*Color scheme and gradient generators*] +
   Generators for color palettes, schemes, and gradients for use in design work.
 
-* xref:tools/graphic-design-tools/image-compression-and-optimization/index.adoc[*Image compression and optimization*] \
+* xref:tools/graphic-design-tools/image-compression-and-optimization/index.adoc[*Image compression and optimization*] +
   Tools for compressing and optimizing images and SVGs for the web.
 
-* xref:tools/graphic-design-tools/mockups-and-prototyping/index.adoc[*Mockups and prototyping*] \
+* xref:tools/graphic-design-tools/mockups-and-prototyping/index.adoc[*Mockups and prototyping*] +
   Tools for creating UI mockups, wireframes, and interactive prototypes.
 
-* xref:tools/graphic-design-tools/code-image-generators/index.adoc[*Code image generators*] \
+* xref:tools/graphic-design-tools/code-image-generators/index.adoc[*Code image generators*] +
   Tools for turning code snippets into shareable, styled images.
 
-* xref:tools/graphic-design-tools/ascii-art-tools/index.adoc[*ASCII art tools*] \
+* xref:tools/graphic-design-tools/ascii-art-tools/index.adoc[*ASCII art tools*] +
   Tools for generating ASCII art, text banners, and diagrams.
 
-* xref:tools/graphic-design-tools/typography-tools-and-font-design/index.adoc[*Typography tools and font design*] \
+* xref:tools/graphic-design-tools/typography-tools-and-font-design/index.adoc[*Typography tools and font design*] +
   Tools for exploring typefaces and designing custom fonts.
 
-* xref:tools/graphic-design-tools/photo-editing/index.adoc[*Photo editing*] \
+* xref:tools/graphic-design-tools/photo-editing/index.adoc[*Photo editing*] +
   Tools for editing and retouching photos.
 
-* xref:tools/graphic-design-tools/vector-graphics-editors/index.adoc[*Vector graphics editors*] \
+* xref:tools/graphic-design-tools/vector-graphics-editors/index.adoc[*Vector graphics editors*] +
   Tools for creating and editing vector graphics and SVGs.

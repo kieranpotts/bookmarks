@@ -2,12 +2,12 @@
 
 Java frameworks, libraries, and project generators from third-party vendors.
 
-* xref:languages/programming/jvm-languages/java/vendors/frameworks/index.adoc[*Frameworks*] \
+* xref:languages/programming/jvm-languages/java/vendors/frameworks/index.adoc[*Frameworks*] +
   Application frameworks for Java, including Spring and its lighter-weight
   alternatives.
 
-* xref:languages/programming/jvm-languages/java/vendors/project-skeletons-starter-kits-and-generators/index.adoc[*Project skeletons, starter kits and generators*] \
+* xref:languages/programming/jvm-languages/java/vendors/project-skeletons-starter-kits-and-generators/index.adoc[*Project skeletons, starter kits and generators*] +
   Tools for generating starter Java projects.
 
-* xref:languages/programming/jvm-languages/java/vendors/libraries/index.adoc[*Libraries*] \
+* xref:languages/programming/jvm-languages/java/vendors/libraries/index.adoc[*Libraries*] +
   Third-party Java libraries.

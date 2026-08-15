@@ -2,20 +2,20 @@
 
 Native operating systems, organized by platform.
 
-* xref:platforms/native/android/index.adoc[*Android*] \
+* xref:platforms/native/android/index.adoc[*Android*] +
   Tools and resources for developing native Android applications.
 
-* xref:platforms/native/bsd/index.adoc[*BSD*] \
+* xref:platforms/native/bsd/index.adoc[*BSD*] +
   BSD operating systems and distributions.
 
-* xref:platforms/native/linux/index.adoc[*Linux*] \
+* xref:platforms/native/linux/index.adoc[*Linux*] +
   Linux distributions, tooling, and reference material, organized by category.
 
-* xref:platforms/native/windows/index.adoc[*Windows*] \
+* xref:platforms/native/windows/index.adoc[*Windows*] +
   Tools and resources for developing on and working with Windows.
 
-* xref:platforms/native/macos/index.adoc[*macOS*] \
+* xref:platforms/native/macos/index.adoc[*macOS*] +
   Tools and resources for developing native macOS applications.
 
-* xref:platforms/native/unix/index.adoc[*Unix*] \
+* xref:platforms/native/unix/index.adoc[*Unix*] +
   Standards, reference material, and resources for Unix and Unix-like systems.

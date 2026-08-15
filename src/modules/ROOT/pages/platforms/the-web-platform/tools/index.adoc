@@ -3,43 +3,43 @@
 Tools for building, testing, and analyzing web applications, organized by
 category.
 
-* xref:platforms/the-web-platform/tools/browser-devtools/index.adoc[*Browser devtools*] \
+* xref:platforms/the-web-platform/tools/browser-devtools/index.adoc[*Browser devtools*] +
   Tools and protocols for inspecting and debugging web pages in the browser.
 
-* xref:platforms/the-web-platform/tools/browser-and-device-testing/index.adoc[*Browser and device testing*] \
+* xref:platforms/the-web-platform/tools/browser-and-device-testing/index.adoc[*Browser and device testing*] +
   Tools and services for testing websites across browsers and devices.
 
-* xref:platforms/the-web-platform/tools/browser-automation-and-simulation/index.adoc[*Browser automation and simulation*] \
+* xref:platforms/the-web-platform/tools/browser-automation-and-simulation/index.adoc[*Browser automation and simulation*] +
   Tools and frameworks for automating and simulating browser interactions, mostly
   for testing.
 
-* xref:platforms/the-web-platform/tools/build-tools-bundlers-and-dev-servers/index.adoc[*Build tools, bundlers and dev servers*] \
+* xref:platforms/the-web-platform/tools/build-tools-bundlers-and-dev-servers/index.adoc[*Build tools, bundlers and dev servers*] +
   Build tools, bundlers, and development servers for compiling and serving
   front-end code.
 
-* xref:platforms/the-web-platform/tools/cdns-for-open-source-web-assets/index.adoc[*CDNs for open source web assets*] \
+* xref:platforms/the-web-platform/tools/cdns-for-open-source-web-assets/index.adoc[*CDNs for open source web assets*] +
   Content delivery networks that host common open source web assets and libraries.
 
-* xref:platforms/the-web-platform/tools/css-parsers-and-transformers/index.adoc[*CSS parsers and transformers*] \
+* xref:platforms/the-web-platform/tools/css-parsers-and-transformers/index.adoc[*CSS parsers and transformers*] +
   CSS preprocessors, parsers, and transformers, including PostCSS and its plugins.
 
-* xref:platforms/the-web-platform/tools/code-generators/index.adoc[*Code generators*] \
+* xref:platforms/the-web-platform/tools/code-generators/index.adoc[*Code generators*] +
   Online generators for CSS, favicons, and other front-end assets, organized by
   type.
 
-* xref:platforms/the-web-platform/tools/code-editors-ides-and-repls/index.adoc[*Code editors, IDEs and REPLs*] \
+* xref:platforms/the-web-platform/tools/code-editors-ides-and-repls/index.adoc[*Code editors, IDEs and REPLs*] +
   Code editors, IDEs, and online REPLs for web development.
 
-* xref:platforms/the-web-platform/tools/search-engine-optimization/index.adoc[*Search engine optimization*] \
+* xref:platforms/the-web-platform/tools/search-engine-optimization/index.adoc[*Search engine optimization*] +
   Tools for search engine optimization and website analytics.
 
-* xref:platforms/the-web-platform/tools/web-app-reverse-engineering/index.adoc[*Web app reverse engineering*] \
+* xref:platforms/the-web-platform/tools/web-app-reverse-engineering/index.adoc[*Web app reverse engineering*] +
   Tools for identifying the technologies and frameworks used to build a website.
 
-* xref:platforms/the-web-platform/tools/web-ui-ux-design-tools/index.adoc[*Web UI/UX design tools*] \
+* xref:platforms/the-web-platform/tools/web-ui-ux-design-tools/index.adoc[*Web UI/UX design tools*] +
   CSS architecture conventions and UI design system documentation tools.
 
-* xref:platforms/the-web-platform/tools/web-application-testing-tools/index.adoc[*Web application testing tools*] \
+* xref:platforms/the-web-platform/tools/web-application-testing-tools/index.adoc[*Web application testing tools*] +
   Tools for testing, analyzing, and monitoring web applications, covering
   performance, accessibility, security, and more.
 

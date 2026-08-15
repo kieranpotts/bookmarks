@@ -2,79 +2,79 @@
 
 UI component libraries and individual widgets, organized by category.
 
-* xref:platforms/the-web-platform/vendors/ui-components/component-libraries-and-design-systems/index.adoc[*Component libraries and design systems*] \
+* xref:platforms/the-web-platform/vendors/ui-components/component-libraries-and-design-systems/index.adoc[*Component libraries and design systems*] +
   Directories and curated lists of component libraries and design systems.
 
-* xref:platforms/the-web-platform/vendors/ui-components/multi-platform-design-systems/index.adoc[*Multi-platform design systems*] \
+* xref:platforms/the-web-platform/vendors/ui-components/multi-platform-design-systems/index.adoc[*Multi-platform design systems*] +
   Design systems and component libraries that target multiple frontend frameworks
   or platforms.
 
-* xref:platforms/the-web-platform/vendors/ui-components/react-component-libraries/index.adoc[*React component libraries*] \
+* xref:platforms/the-web-platform/vendors/ui-components/react-component-libraries/index.adoc[*React component libraries*] +
   Component libraries and design systems built for React.
 
-* xref:platforms/the-web-platform/vendors/ui-components/standalone-react-components/index.adoc[*Standalone React components*] \
+* xref:platforms/the-web-platform/vendors/ui-components/standalone-react-components/index.adoc[*Standalone React components*] +
   Individual React components, as opposed to full component libraries.
 
-* xref:platforms/the-web-platform/vendors/ui-components/vue-component-libraries/index.adoc[*Vue component libraries*] \
+* xref:platforms/the-web-platform/vendors/ui-components/vue-component-libraries/index.adoc[*Vue component libraries*] +
   Component libraries and design systems built for Vue.
 
-* xref:platforms/the-web-platform/vendors/ui-components/standalone-vue-components/index.adoc[*Standalone Vue components*] \
+* xref:platforms/the-web-platform/vendors/ui-components/standalone-vue-components/index.adoc[*Standalone Vue components*] +
   Individual Vue components, as opposed to full component libraries.
 
-* xref:platforms/the-web-platform/vendors/ui-components/solidjs-component-libraries/index.adoc[*SolidJS component libraries*] \
+* xref:platforms/the-web-platform/vendors/ui-components/solidjs-component-libraries/index.adoc[*SolidJS component libraries*] +
   Component libraries built for SolidJS.
 
-* xref:platforms/the-web-platform/vendors/ui-components/native-web-component-libraries/index.adoc[*Native web component libraries*] \
+* xref:platforms/the-web-platform/vendors/ui-components/native-web-component-libraries/index.adoc[*Native web component libraries*] +
   Component libraries built on native web components, usable with any framework or
   none at all.
 
-* xref:platforms/the-web-platform/vendors/ui-components/static-html-progressive-js-component-libraries/index.adoc[*Static HTML + progressive JS component libraries*] \
+* xref:platforms/the-web-platform/vendors/ui-components/static-html-progressive-js-component-libraries/index.adoc[*Static HTML + progressive JS component libraries*] +
   Component libraries built with static HTML and progressively enhanced with
   JavaScript, rather than requiring a full framework.
 
-* xref:platforms/the-web-platform/vendors/ui-components/tailwind-based-component-libraries/index.adoc[*Tailwind-based component libraries*] \
+* xref:platforms/the-web-platform/vendors/ui-components/tailwind-based-component-libraries/index.adoc[*Tailwind-based component libraries*] +
   Component libraries built on top of Tailwind CSS.
 
-* xref:platforms/the-web-platform/vendors/ui-components/other-web-ui-component-libraries/index.adoc[*Other web UI component libraries*] \
+* xref:platforms/the-web-platform/vendors/ui-components/other-web-ui-component-libraries/index.adoc[*Other web UI component libraries*] +
   Web UI component libraries that don't fit into the other, more specific
   categories.
 
-* xref:platforms/the-web-platform/vendors/ui-components/calendars/index.adoc[*Calendars*] \
+* xref:platforms/the-web-platform/vendors/ui-components/calendars/index.adoc[*Calendars*] +
   Calendar widgets for displaying and selecting dates.
 
-* xref:platforms/the-web-platform/vendors/ui-components/file-uploaders/index.adoc[*File uploaders*] \
+* xref:platforms/the-web-platform/vendors/ui-components/file-uploaders/index.adoc[*File uploaders*] +
   Standalone file upload components.
 
-* xref:platforms/the-web-platform/vendors/ui-components/date-and-time-pickers/index.adoc[*Date and time pickers*] \
+* xref:platforms/the-web-platform/vendors/ui-components/date-and-time-pickers/index.adoc[*Date and time pickers*] +
   Standalone date and time picker components.
 
-* xref:platforms/the-web-platform/vendors/ui-components/emoji-pickers/index.adoc[*Emoji pickers*] \
+* xref:platforms/the-web-platform/vendors/ui-components/emoji-pickers/index.adoc[*Emoji pickers*] +
   Standalone emoji picker components.
 
-* xref:platforms/the-web-platform/vendors/ui-components/tag-inputs/index.adoc[*Tag inputs*] \
+* xref:platforms/the-web-platform/vendors/ui-components/tag-inputs/index.adoc[*Tag inputs*] +
   Tag and token input components.
 
-* xref:platforms/the-web-platform/vendors/ui-components/rich-text-editors-and-code-editors/index.adoc[*Rich-text editors (RTEs) and code editors*] \
+* xref:platforms/the-web-platform/vendors/ui-components/rich-text-editors-and-code-editors/index.adoc[*Rich-text editors (RTEs) and code editors*] +
   Rich-text editors and code editors for building writing and coding interfaces.
 
-* xref:platforms/the-web-platform/vendors/ui-components/photo-lightboxes-image-carousels/index.adoc[*Photo lightboxes, image carousels, etc.*] \
+* xref:platforms/the-web-platform/vendors/ui-components/photo-lightboxes-image-carousels/index.adoc[*Photo lightboxes, image carousels, etc.*] +
   Lightbox and image carousel components for displaying photos.
 
-* xref:platforms/the-web-platform/vendors/ui-components/tables-and-structured-data-presentation/index.adoc[*Tables and structured data presentation*] \
+* xref:platforms/the-web-platform/vendors/ui-components/tables-and-structured-data-presentation/index.adoc[*Tables and structured data presentation*] +
   Components for presenting tables and other structured data.
 
-* xref:platforms/the-web-platform/vendors/ui-components/ui-tours/index.adoc[*UI tours*] \
+* xref:platforms/the-web-platform/vendors/ui-components/ui-tours/index.adoc[*UI tours*] +
   Components for building guided UI tours and onboarding walkthroughs.
 
-* xref:platforms/the-web-platform/vendors/ui-components/terminal-emulator-interfaces/index.adoc[*Terminal emulator interfaces*] \
+* xref:platforms/the-web-platform/vendors/ui-components/terminal-emulator-interfaces/index.adoc[*Terminal emulator interfaces*] +
   Terminal emulator components for embedding a command-line interface in the
   browser.
 
-* xref:platforms/the-web-platform/vendors/ui-components/icon-libraries/index.adoc[*Icon libraries*] \
+* xref:platforms/the-web-platform/vendors/ui-components/icon-libraries/index.adoc[*Icon libraries*] +
   Icon libraries and icon components for the web.
 
-* xref:platforms/the-web-platform/vendors/ui-components/svg-spinners-loading-icons-skeletons/index.adoc[*SVG spinners / loading icons / skeletons*] \
+* xref:platforms/the-web-platform/vendors/ui-components/svg-spinners-loading-icons-skeletons/index.adoc[*SVG spinners / loading icons / skeletons*] +
   SVG-based loading spinners, icons, and skeleton screens.
 
-* xref:platforms/the-web-platform/vendors/ui-components/miscellaneous/index.adoc[*Miscellaneous*] \
+* xref:platforms/the-web-platform/vendors/ui-components/miscellaneous/index.adoc[*Miscellaneous*] +
   UI components that don't fit into the other categories.

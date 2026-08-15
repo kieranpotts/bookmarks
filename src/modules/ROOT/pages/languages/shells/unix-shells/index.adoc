@@ -2,26 +2,26 @@
 
 Command-line shells that originate from, or are closely associated with, Unix.
 
-* xref:languages/shells/unix-shells/posix/index.adoc[*POSIX*] \
+* xref:languages/shells/unix-shells/posix/index.adoc[*POSIX*] +
   The POSIX shell specification and related resources.
 
-* xref:languages/shells/unix-shells/bash/index.adoc[*Bash*] \
+* xref:languages/shells/unix-shells/bash/index.adoc[*Bash*] +
   Reference material and guides for Bash.
 
-* xref:languages/shells/unix-shells/z-shell-zsh/index.adoc[*Z shell (Zsh)*] \
+* xref:languages/shells/unix-shells/z-shell-zsh/index.adoc[*Z shell (Zsh)*] +
   The Z shell (Zsh) and its popular configuration frameworks.
 
-* xref:languages/shells/unix-shells/c-shell-csh-and-tcsh/index.adoc[*C shell (csh and tsch)*] \
+* xref:languages/shells/unix-shells/c-shell-csh-and-tcsh/index.adoc[*C shell (csh and tsch)*] +
   Resources on the C shell (csh) and its enhanced successor, tcsh.
 
-* xref:languages/shells/unix-shells/fish/index.adoc[*Fish*] \
+* xref:languages/shells/unix-shells/fish/index.adoc[*Fish*] +
   The friendly interactive shell (fish).
 
-* xref:languages/shells/unix-shells/kornshell/index.adoc[*KornShell*] \
+* xref:languages/shells/unix-shells/kornshell/index.adoc[*KornShell*] +
   The KornShell (ksh).
 
-* xref:languages/shells/unix-shells/qshell-qsh/index.adoc[*Qshell (qsh)*] \
+* xref:languages/shells/unix-shells/qshell-qsh/index.adoc[*Qshell (qsh)*] +
   IBM i's Qshell (qsh).
 
-* xref:languages/shells/unix-shells/others/index.adoc[*Others...*] \
+* xref:languages/shells/unix-shells/others/index.adoc[*Others...*] +
   Other Unix shells that don't fit neatly into the more common categories.

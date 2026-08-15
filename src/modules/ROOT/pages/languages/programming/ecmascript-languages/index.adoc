@@ -5,31 +5,31 @@ around them, organized by category.
 
 * https://github.com/voodootikigod/logo.js[logo.js - A community logo for JS]
 
-* xref:languages/programming/ecmascript-languages/engines/index.adoc[*Engines*] \
+* xref:languages/programming/ecmascript-languages/engines/index.adoc[*Engines*] +
   JavaScript engines, including embeddable and experimental implementations.
 
-* xref:languages/programming/ecmascript-languages/runtimes/index.adoc[*Runtimes*] \
+* xref:languages/programming/ecmascript-languages/runtimes/index.adoc[*Runtimes*] +
   JavaScript runtime environments, Node.js resources, and language/feature
   compatibility tables.
 
-* xref:languages/programming/ecmascript-languages/language-dialects-and-extensions/index.adoc[*Language dialects and extensions, compile-to-JS languages*] \
+* xref:languages/programming/ecmascript-languages/language-dialects-and-extensions/index.adoc[*Language dialects and extensions, compile-to-JS languages*] +
   Languages and dialects that compile to JavaScript, or extend it.
 
-* xref:languages/programming/ecmascript-languages/language-specifications-and-proposals/index.adoc[*Language specifications and proposals*] \
+* xref:languages/programming/ecmascript-languages/language-specifications-and-proposals/index.adoc[*Language specifications and proposals*] +
   Specifications, proposals, and tracking resources for the evolution of the
   ECMAScript language.
 
-* xref:languages/programming/ecmascript-languages/tools/index.adoc[*Tools*] \
+* xref:languages/programming/ecmascript-languages/tools/index.adoc[*Tools*] +
   Tools for building, running, and maintaining JavaScript and TypeScript projects,
   organized by category.
 
-* xref:languages/programming/ecmascript-languages/vendors/index.adoc[*Vendors (pure ES/TS + server-side runtimes)*] \
+* xref:languages/programming/ecmascript-languages/vendors/index.adoc[*Vendors (pure ES/TS + server-side runtimes)*] +
   Third-party JavaScript and TypeScript libraries for server-side runtimes,
   organized by category.
 
-* xref:languages/programming/ecmascript-languages/organizations/index.adoc[*Organizations*] \
+* xref:languages/programming/ecmascript-languages/organizations/index.adoc[*Organizations*] +
   Organizations behind the stewardship and standardization of the ECMAScript
   language and its ecosystem.
 
-* xref:languages/programming/ecmascript-languages/reference/index.adoc[*Reference*] \
+* xref:languages/programming/ecmascript-languages/reference/index.adoc[*Reference*] +
   Reference material and books on JavaScript.

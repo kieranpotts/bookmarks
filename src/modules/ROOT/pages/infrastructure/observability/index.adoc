@@ -3,22 +3,22 @@
 Tools and platforms for monitoring, logging, and tracing systems, organized by
 category.
 
-* xref:infrastructure/observability/stats-aggregation/index.adoc[*Stats aggregation*] \
+* xref:infrastructure/observability/stats-aggregation/index.adoc[*Stats aggregation*] +
   Agents and libraries for aggregating and forwarding application metrics.
 
-* xref:infrastructure/observability/monitoring/index.adoc[*Monitoring*] \
+* xref:infrastructure/observability/monitoring/index.adoc[*Monitoring*] +
   Application performance monitoring, system monitoring, and service status
   dashboard tools.
 
-* xref:infrastructure/observability/observability/index.adoc[*Observability*] \
+* xref:infrastructure/observability/observability/index.adoc[*Observability*] +
   General-purpose observability platforms for collecting, storing, and visualizing
   metrics.
 
-* xref:infrastructure/observability/tracing/index.adoc[*Tracing*] \
+* xref:infrastructure/observability/tracing/index.adoc[*Tracing*] +
   Tools and standards for distributed tracing across services.
 
-* xref:infrastructure/observability/logging/index.adoc[*Logging*] \
+* xref:infrastructure/observability/logging/index.adoc[*Logging*] +
   Tools for collecting, processing, and shipping log data.
 
-* xref:infrastructure/observability/data-analysis-tools/index.adoc[*Data analysis tools*] \
+* xref:infrastructure/observability/data-analysis-tools/index.adoc[*Data analysis tools*] +
   Tools for exploring and visualizing indexed log and metrics data.

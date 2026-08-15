@@ -8,15 +8,15 @@ organized by topic.
 * https://iasaglobal.org/[IASA - Association for IT Architects]
 * https://arc42.org/[arc42 - Template for documenting software architectures]
 
-* xref:methods/architecture-and-design/algorithms/index.adoc[*Algorithms*] \
+* xref:methods/architecture-and-design/algorithms/index.adoc[*Algorithms*] +
   Algorithms and algorithmic thinking resources for problem-solving.
 
-* xref:methods/architecture-and-design/data-structures/index.adoc[*Data structures*] \
+* xref:methods/architecture-and-design/data-structures/index.adoc[*Data structures*] +
   Data structures and resources for choosing the right one for a problem.
 
-* xref:methods/architecture-and-design/design-patterns/index.adoc[*Design patterns*] \
+* xref:methods/architecture-and-design/design-patterns/index.adoc[*Design patterns*] +
   Design pattern catalogs and resources for designing software.
 
-* xref:methods/architecture-and-design/complexity-metrics/index.adoc[*Complexity metrics*] \
+* xref:methods/architecture-and-design/complexity-metrics/index.adoc[*Complexity metrics*] +
   Metrics and notations used to reason about the complexity of algorithms and
   code.
