@@ -3,14 +3,14 @@
 Frameworks and tools for building applications that run on multiple platforms
 from a single codebase, organized by how they execute.
 
-* *xref:platforms/cross-platform-application-development/compiled/index.adoc[Compiled]* \
+* xref:platforms/cross-platform-application-development/compiled/index.adoc[*Compiled*] \
   Cross-platform frameworks that compile applications down to native code for each
   target platform.
 
-* *xref:platforms/cross-platform-application-development/abstracted-interpreted-vms/index.adoc[Abstracted/interpreted (VMs)]* \
+* xref:platforms/cross-platform-application-development/abstracted-interpreted-vms/index.adoc[*Abstracted/interpreted (VMs)*] \
   Cross-platform frameworks that run applications inside a managed runtime or
   virtual machine rather than compiling straight to native code.
 
-* *xref:platforms/cross-platform-application-development/hybrid-web-apps/index.adoc[Hybrid web apps (ie. using native Web Views)]* \
+* xref:platforms/cross-platform-application-development/hybrid-web-apps/index.adoc[*Hybrid web apps (ie. using native Web Views)*] \
   Frameworks for building cross-platform apps as web content wrapped in a native
   Web View.

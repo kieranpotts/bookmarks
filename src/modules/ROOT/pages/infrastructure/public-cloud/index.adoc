@@ -2,21 +2,21 @@
 
 Public cloud providers and hosting services, organized by category.
 
-* *xref:infrastructure/public-cloud/major-public-cloud-services/index.adoc[Major public cloud services]* \
+* xref:infrastructure/public-cloud/major-public-cloud-services/index.adoc[*Major public cloud services*] \
   The major public cloud providers and their training and certification resources.
 
-* *xref:infrastructure/public-cloud/vps-dedicated-and-managed-hosting/index.adoc[VPS, dedicated, and managed hosting]* \
+* xref:infrastructure/public-cloud/vps-dedicated-and-managed-hosting/index.adoc[*VPS, dedicated, and managed hosting*] \
   VPS, dedicated server, and managed hosting providers.
 
-* *xref:infrastructure/public-cloud/platform-as-a-service/index.adoc[Platform-as-a-service]* \
+* xref:infrastructure/public-cloud/platform-as-a-service/index.adoc[*Platform-as-a-service*] \
   Platform-as-a-service providers for deploying applications without managing
   infrastructure.
 
-* *xref:infrastructure/public-cloud/function-as-a-service/index.adoc[Function-as-a-service (aka. serverless)]* \
+* xref:infrastructure/public-cloud/function-as-a-service/index.adoc[*Function-as-a-service (aka. serverless)*] \
   Serverless compute platforms for running functions without managing servers.
 
-* *xref:infrastructure/public-cloud/cloud-storage-and-data-backup-services/index.adoc[Cloud storage and data backup services]* \
+* xref:infrastructure/public-cloud/cloud-storage-and-data-backup-services/index.adoc[*Cloud storage and data backup services*] \
   Cloud storage and backup services for archiving and protecting data.
 
-* *xref:infrastructure/public-cloud/static-site-hosting/index.adoc[Static site hosting]* \
+* xref:infrastructure/public-cloud/static-site-hosting/index.adoc[*Static site hosting*] \
   Free and low-cost hosting platforms for static sites.

@@ -2,110 +2,110 @@
 
 Libraries, frameworks, and tools, organized by category.
 
-* *xref:platforms/the-web-platform/vendors/libraries/animation-libraries/index.adoc[Animation libraries]* \
+* xref:platforms/the-web-platform/vendors/libraries/animation-libraries/index.adoc[*Animation libraries*] \
   JavaScript libraries for animating values, tweening, and easing over time.
 
-* *xref:platforms/the-web-platform/vendors/libraries/audio-video-and-image-processing/index.adoc[Audio, video, and image processing]* \
+* xref:platforms/the-web-platform/vendors/libraries/audio-video-and-image-processing/index.adoc[*Audio, video, and image processing*] \
   Libraries for processing, converting, and manipulating audio, video, and image
   files.
 
-* *xref:platforms/the-web-platform/vendors/libraries/browser-extension-api-abstractions-and-sdks/index.adoc[Browser extension API abstractions and sdks]* \
+* xref:platforms/the-web-platform/vendors/libraries/browser-extension-api-abstractions-and-sdks/index.adoc[*Browser extension API abstractions and sdks*] \
   Libraries and starter kits for building browser extensions across Chrome,
   Firefox, and other browsers.
 
-* *xref:platforms/the-web-platform/vendors/libraries/canvas-and-svg-abstractions/index.adoc[Canvas and SVG abstractions]* \
+* xref:platforms/the-web-platform/vendors/libraries/canvas-and-svg-abstractions/index.adoc[*Canvas and SVG abstractions*] \
   Libraries that simplify working with the Canvas and SVG APIs for drawing and
   graphics.
 
-* *xref:platforms/the-web-platform/vendors/libraries/css-libraries/index.adoc[CSS libraries]* \
+* xref:platforms/the-web-platform/vendors/libraries/css-libraries/index.adoc[*CSS libraries*] \
   CSS frameworks and libraries.
 
-* *xref:platforms/the-web-platform/vendors/libraries/css-themes/index.adoc[CSS themes]* \
+* xref:platforms/the-web-platform/vendors/libraries/css-themes/index.adoc[*CSS themes*] \
   Pre-built CSS themes and design systems for styling projects.
 
-* *xref:platforms/the-web-platform/vendors/libraries/css-utility-class-libraries/index.adoc[CSS utility class libraries]* \
+* xref:platforms/the-web-platform/vendors/libraries/css-utility-class-libraries/index.adoc[*CSS utility class libraries*] \
   Utility-class and atomic CSS frameworks, plus a few full component and design
   systems.
 
-* *xref:platforms/the-web-platform/vendors/libraries/tailwind-css/index.adoc[Tailwind CSS]* \
+* xref:platforms/the-web-platform/vendors/libraries/tailwind-css/index.adoc[*Tailwind CSS*] \
   Tailwind CSS, the utility-first CSS framework.
 
-* *xref:platforms/the-web-platform/vendors/libraries/tailwind-tools/index.adoc[Tailwind tools]* \
+* xref:platforms/the-web-platform/vendors/libraries/tailwind-tools/index.adoc[*Tailwind tools*] \
   Tools that complement Tailwind CSS, such as fluid typography and color scale
   generators.
 
-* *xref:platforms/the-web-platform/vendors/libraries/css-in-js-libraries/index.adoc[CSS-in-JS libraries]* \
+* xref:platforms/the-web-platform/vendors/libraries/css-in-js-libraries/index.adoc[*CSS-in-JS libraries*] \
   Libraries for writing CSS directly in JavaScript or JSX, usually with
   zero-runtime or near-zero-runtime output.
 
-* *xref:platforms/the-web-platform/vendors/libraries/css-resets-and-baseline-stylesheets/index.adoc[CSS resets and baseline stylesheets]* \
+* xref:platforms/the-web-platform/vendors/libraries/css-resets-and-baseline-stylesheets/index.adoc[*CSS resets and baseline stylesheets*] \
   CSS resets and baseline stylesheets for normalizing browser default styles.
 
-* *xref:platforms/the-web-platform/vendors/libraries/css-color-manipulation/index.adoc[CSS color manipulation]* \
+* xref:platforms/the-web-platform/vendors/libraries/css-color-manipulation/index.adoc[*CSS color manipulation*] \
   Libraries for parsing, converting, and manipulating CSS colors in JavaScript.
 
-* *xref:platforms/the-web-platform/vendors/libraries/other-css-libraries-and-tools/index.adoc[Other CSS libraries and tools]* \
+* xref:platforms/the-web-platform/vendors/libraries/other-css-libraries-and-tools/index.adoc[*Other CSS libraries and tools*] \
   CSS libraries and tools that don't fit into the other categories.
 
-* *xref:platforms/the-web-platform/vendors/libraries/data-fetching/index.adoc[Data fetching]* \
+* xref:platforms/the-web-platform/vendors/libraries/data-fetching/index.adoc[*Data fetching*] \
   Libraries for fetching, caching, and synchronizing remote data in JavaScript
   applications.
 
-* *xref:platforms/the-web-platform/vendors/libraries/graphql/index.adoc[GraphQL]* \
+* xref:platforms/the-web-platform/vendors/libraries/graphql/index.adoc[*GraphQL*] \
   Tools and clients for working with GraphQL APIs.
 
-* *xref:platforms/the-web-platform/vendors/libraries/dom-abstractions/index.adoc[DOM abstractions]* \
+* xref:platforms/the-web-platform/vendors/libraries/dom-abstractions/index.adoc[*DOM abstractions*] \
   Libraries that abstract or simplify direct DOM manipulation, including virtual
   DOM implementations.
 
-* *xref:platforms/the-web-platform/vendors/libraries/data-storage-local/index.adoc[Data storage (local)]* \
+* xref:platforms/the-web-platform/vendors/libraries/data-storage-local/index.adoc[*Data storage (local)*] \
   Libraries for storing and querying data locally in the browser.
 
-* *xref:platforms/the-web-platform/vendors/libraries/data-visualization/index.adoc[Data visualization]* \
+* xref:platforms/the-web-platform/vendors/libraries/data-visualization/index.adoc[*Data visualization*] \
   Libraries and tools for visualizing data, including several built on D3.
 
-* *xref:platforms/the-web-platform/vendors/libraries/diagram-generation/index.adoc[Diagram generation]* \
+* xref:platforms/the-web-platform/vendors/libraries/diagram-generation/index.adoc[*Diagram generation*] \
   Tools for generating diagrams programmatically, including diagrams-as-code
   approaches.
 
-* *xref:platforms/the-web-platform/vendors/libraries/favicon-manipulation/index.adoc[Favicon manipulation]* \
+* xref:platforms/the-web-platform/vendors/libraries/favicon-manipulation/index.adoc[*Favicon manipulation*] \
   Libraries for dynamically updating the favicon, e.g. to show badges or
   notifications.
 
-* *xref:platforms/the-web-platform/vendors/libraries/form-validation/index.adoc[Form validation]* \
+* xref:platforms/the-web-platform/vendors/libraries/form-validation/index.adoc[*Form validation*] \
   Libraries for validating HTML form input on the client side.
 
-* *xref:platforms/the-web-platform/vendors/libraries/input-masks-and-validation/index.adoc[Input masks and validation]* \
+* xref:platforms/the-web-platform/vendors/libraries/input-masks-and-validation/index.adoc[*Input masks and validation*] \
   Libraries for masking and validating text input in form fields.
 
-* *xref:platforms/the-web-platform/vendors/libraries/micro-frontend-solutions/index.adoc[Micro-frontend solutions]* \
+* xref:platforms/the-web-platform/vendors/libraries/micro-frontend-solutions/index.adoc[*Micro-frontend solutions*] \
   Frameworks and tools for composing micro-frontends from independently deployed
   applications.
 
-* *xref:platforms/the-web-platform/vendors/libraries/popup-element-management/index.adoc[Popup element management]* \
+* xref:platforms/the-web-platform/vendors/libraries/popup-element-management/index.adoc[*Popup element management*] \
   Libraries for positioning tooltips, popovers, and other floating UI elements.
 
-* *xref:platforms/the-web-platform/vendors/libraries/routing/index.adoc[Routing]* \
+* xref:platforms/the-web-platform/vendors/libraries/routing/index.adoc[*Routing*] \
   Client-side routing libraries for single-page applications.
 
-* *xref:platforms/the-web-platform/vendors/libraries/server-sent-events-sse/index.adoc[Server sent events (SSE)]* \
+* xref:platforms/the-web-platform/vendors/libraries/server-sent-events-sse/index.adoc[*Server sent events (SSE)*] \
   Libraries for working with Server-Sent Events (SSE) in JavaScript.
 
-* *xref:platforms/the-web-platform/vendors/libraries/state-management/index.adoc[State management]* \
+* xref:platforms/the-web-platform/vendors/libraries/state-management/index.adoc[*State management*] \
   Libraries for managing application state, including the Redux, Vuex, and Pinia
   ecosystems.
 
-* *xref:platforms/the-web-platform/vendors/libraries/template-engines/index.adoc[Template engines]* \
+* xref:platforms/the-web-platform/vendors/libraries/template-engines/index.adoc[*Template engines*] \
   Client-side and server-side templating engines for generating HTML.
 
-* *xref:platforms/the-web-platform/vendors/libraries/web-component-abstractions-and-compilers/index.adoc[Web component abstractions and compilers]* \
+* xref:platforms/the-web-platform/vendors/libraries/web-component-abstractions-and-compilers/index.adoc[*Web component abstractions and compilers*] \
   Libraries and compilers for building native web components with less
   boilerplate.
 
-* *xref:platforms/the-web-platform/vendors/libraries/web-component-wrappers/index.adoc[Web component wrappers]* \
+* xref:platforms/the-web-platform/vendors/libraries/web-component-wrappers/index.adoc[*Web component wrappers*] \
   Libraries for wrapping web components so they integrate cleanly with frameworks
   like Vue and React.
 
-* *xref:platforms/the-web-platform/vendors/libraries/polyfills/index.adoc[Polyfills]* \
+* xref:platforms/the-web-platform/vendors/libraries/polyfills/index.adoc[*Polyfills*] \
   Polyfills and shims for adding missing or newer JavaScript and browser features
   to older environments.

@@ -2,21 +2,21 @@
 
 Tools for writing, running, and editing code, organized by category.
 
-* *xref:tools/code-editors-ides-and-repls/desktop-ides-and-code-editors/index.adoc[Desktop IDEs and code editors]* \
+* xref:tools/code-editors-ides-and-repls/desktop-ides-and-code-editors/index.adoc[*Desktop IDEs and code editors*] \
   Desktop IDEs and code editors that aren't tied to a single programming language.
 
-* *xref:tools/code-editors-ides-and-repls/online-cloud-development-environments/index.adoc[Online/cloud development environments]* \
+* xref:tools/code-editors-ides-and-repls/online-cloud-development-environments/index.adoc[*Online/cloud development environments*] \
   Cloud-hosted development environments that run in the browser, for coding
   without a local setup.
 
-* *xref:tools/code-editors-ides-and-repls/code-sandboxes-playgrounds-and-repls/index.adoc[Code sandboxes/playgrounds/REPLs]* \
+* xref:tools/code-editors-ides-and-repls/code-sandboxes-playgrounds-and-repls/index.adoc[*Code sandboxes/playgrounds/REPLs*] \
   Online sandboxes, playgrounds, and REPLs for writing and running snippets of
   code without setting up a local project.
 
-* *xref:tools/code-editors-ides-and-repls/ide-plugins/index.adoc[IDE plugins]* \
+* xref:tools/code-editors-ides-and-repls/ide-plugins/index.adoc[*IDE plugins*] \
   Plugins, extensions, and integrations that add functionality to code editors and
   IDEs.
 
-* *xref:tools/code-editors-ides-and-repls/code-text-editors/index.adoc[Code/text editors]* \
+* xref:tools/code-editors-ides-and-repls/code-text-editors/index.adoc[*Code/text editors*] \
   Lightweight code and text editors, for the terminal and the desktop, as opposed
   to full IDEs.

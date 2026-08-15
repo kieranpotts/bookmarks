@@ -5,33 +5,33 @@ DNS, CDN, and domain-related services and tools, organized by category.
 * https://www.cloudflare.com/en-gb/[Cloudflare]
 * https://www.iana.org/domains/root/db[Root Zone Database]
 
-* *xref:infrastructure/dns-cdn/cdns-and-static-site-hosting/index.adoc[CDNs and static site hosting]* \
+* xref:infrastructure/dns-cdn/cdns-and-static-site-hosting/index.adoc[*CDNs and static site hosting*] \
   Content delivery networks and hosting platforms for static sites.
 
-* *xref:infrastructure/dns-cdn/reverse-proxies/index.adoc[Reverse proxies]* \
+* xref:infrastructure/dns-cdn/reverse-proxies/index.adoc[*Reverse proxies*] \
   Reverse proxy and caching servers for sitting in front of web applications.
 
-* *xref:infrastructure/dns-cdn/dns-hosting-services/index.adoc[DNS hosting services]* \
+* xref:infrastructure/dns-cdn/dns-hosting-services/index.adoc[*DNS hosting services*] \
   Managed DNS hosting providers and public DNS resolvers.
 
-* *xref:infrastructure/dns-cdn/secondary-dns-replication-services/index.adoc[Secondary DNS (replication) services]* \
+* xref:infrastructure/dns-cdn/secondary-dns-replication-services/index.adoc[*Secondary DNS (replication) services*] \
   Services for replicating DNS zones across secondary providers for redundancy.
 
-* *xref:infrastructure/dns-cdn/dns-lookup/index.adoc[DNS lookup]* \
+* xref:infrastructure/dns-cdn/dns-lookup/index.adoc[*DNS lookup*] \
   Tools for looking up DNS records, WHOIS data, and DNS propagation status.
 
-* *xref:infrastructure/dns-cdn/dns-registrars-and-marketplaces/index.adoc[DNS registrars and marketplaces]* \
+* xref:infrastructure/dns-cdn/dns-registrars-and-marketplaces/index.adoc[*DNS registrars and marketplaces*] \
   Domain registrars and marketplaces for buying, selling, and registering domain
   names.
 
-* *xref:infrastructure/dns-cdn/domain-name-generators/index.adoc[Domain name generators]* \
+* xref:infrastructure/dns-cdn/domain-name-generators/index.adoc[*Domain name generators*] \
   Tools for brainstorming and generating available domain names.
 
-* *xref:infrastructure/dns-cdn/expired-domains-and-backorders/index.adoc[Expired domains and backorders]* \
+* xref:infrastructure/dns-cdn/expired-domains-and-backorders/index.adoc[*Expired domains and backorders*] \
   Services for catching or bidding on expired and backordered domain names.
 
-* *xref:infrastructure/dns-cdn/domain-name-valuation/index.adoc[Domain name valuation]* \
+* xref:infrastructure/dns-cdn/domain-name-valuation/index.adoc[*Domain name valuation*] \
   Tools for estimating the market value of domain names.
 
-* *xref:infrastructure/dns-cdn/dns-tools/index.adoc[DNS tools]* \
+* xref:infrastructure/dns-cdn/dns-tools/index.adoc[*DNS tools*] \
   Tools for generating and managing DNS records.

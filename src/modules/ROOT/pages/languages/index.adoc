@@ -2,45 +2,45 @@
 
 Programming, scripting, markup, and other formal languages, organized by type.
 
-* *xref:languages/data-formats/index.adoc[Data interchange formats]* \
+* xref:languages/data-formats/index.adoc[*Data interchange formats*] \
   Formats and specifications for exchanging structured data between systems,
   including linked data and RDF-based standards.
 
-* *xref:languages/interface-definitions/index.adoc[Interface definition languages]* \
+* xref:languages/interface-definitions/index.adoc[*Interface definition languages*] \
   Languages and specifications for describing the interfaces of web service APIs.
 
-* *xref:languages/programming/index.adoc[Programming and scripting languages]* \
+* xref:languages/programming/index.adoc[*Programming and scripting languages*] \
   Programming and scripting languages, grouped by family or ecosystem.
 
-* *xref:languages/shells/index.adoc[Shells and command languages]* \
+* xref:languages/shells/index.adoc[*Shells and command languages*] \
   Command shells and scripting languages for interacting with an operating system,
   organized by platform and type.
 
-* *xref:languages/domain-specific/index.adoc[Domain-specific scripting languages]* \
+* xref:languages/domain-specific/index.adoc[*Domain-specific scripting languages*] \
   Scripting languages built for a narrow purpose rather than general-purpose
   programming, such as text processing.
 
-* *xref:languages/visual/index.adoc[Visual programming languages and tools]* \
+* xref:languages/visual/index.adoc[*Visual programming languages and tools*] \
   Languages and tools for programming visually rather than by writing text-based
   code.
 
-* *xref:languages/schema/index.adoc[Schema languages]* \
+* xref:languages/schema/index.adoc[*Schema languages*] \
   Languages for defining and validating the structure of data, including JSON
   Schema.
 
-* *xref:languages/serialization/index.adoc[Serialization languages]* \
+* xref:languages/serialization/index.adoc[*Serialization languages*] \
   Formats for converting data to and from a storable or transmittable
   representation, organized by encoding type.
 
-* *xref:languages/stylesheets/index.adoc[Style sheet languages]* \
+* xref:languages/stylesheets/index.adoc[*Style sheet languages*] \
   Languages for controlling the presentation of documents, principally CSS.
 
-* *xref:languages/encoding/index.adoc[Text encoding systems]* \
+* xref:languages/encoding/index.adoc[*Text encoding systems*] \
   Character encoding standards and tools for working with Unicode and text data.
 
-* *xref:languages/markup/index.adoc[Text markup languages]* \
+* xref:languages/markup/index.adoc[*Text markup languages*] \
   Languages for annotating text with structure and formatting, from lightweight
   wiki syntax to full typesetting systems.
 
-* *xref:languages/query/index.adoc[Query languages]* \
+* xref:languages/query/index.adoc[*Query languages*] \
   Languages for querying data, graphs, and codebases.

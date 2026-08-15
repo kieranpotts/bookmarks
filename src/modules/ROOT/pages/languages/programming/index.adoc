@@ -2,40 +2,40 @@
 
 Programming and scripting languages, grouped by family or ecosystem.
 
-* *xref:languages/programming/ecmascript-languages/index.adoc[ECMAScript languages]* \
+* xref:languages/programming/ecmascript-languages/index.adoc[*ECMAScript languages*] \
   JavaScript and TypeScript, and the engines, runtimes, tools, and specifications
   around them, organized by category.
 
-* *xref:languages/programming/jvm-languages/index.adoc[JVM languages]* \
+* xref:languages/programming/jvm-languages/index.adoc[*JVM languages*] \
   Languages that compile to and run on the Java Virtual Machine, including Java
   itself and its main alternatives.
 
-* *xref:languages/programming/c-family-languages/index.adoc[C family languages]* \
+* xref:languages/programming/c-family-languages/index.adoc[*C family languages*] \
   C, C++, and C#, languages that share C's core syntax, with links to their
   official standards and documentation.
 
-* *xref:languages/programming/lisp-family-languages/index.adoc[Lisp family languages]* \
+* xref:languages/programming/lisp-family-languages/index.adoc[*Lisp family languages*] \
   Lisp and its descendants, including Common Lisp, Scheme, Racket, and Clojure.
 
-* *xref:languages/programming/go/index.adoc[Go (aka Golang)]* \
+* xref:languages/programming/go/index.adoc[*Go (aka Golang)*] \
   Go, Google's compiled systems language, with links to its tools, package
   registry, reference docs, and web frameworks.
 
-* *xref:languages/programming/perl/index.adoc[Perl]* \
+* xref:languages/programming/perl/index.adoc[*Perl*] \
   Perl, a scripting language originally designed for text processing.
 
-* *xref:languages/programming/php/index.adoc[PHP]* \
+* xref:languages/programming/php/index.adoc[*PHP*] \
   PHP, a server-side scripting language, with links to alternative runtimes,
   frameworks and libraries, developer tools, and reference material.
 
-* *xref:languages/programming/python/index.adoc[Python]* \
+* xref:languages/programming/python/index.adoc[*Python*] \
   Python, with links to language standards, alternative implementations, tools,
   vendors, and reference material.
 
-* *xref:languages/programming/tcl/index.adoc[Tcl ("tickle")]* \
+* xref:languages/programming/tcl/index.adoc[*Tcl ("tickle")*] \
   Tcl, a scripting language commonly embedded in other applications, with links to
   alternative implementations.
 
-* *xref:languages/programming/data-centric-programming-languages/index.adoc[Data-centric programming languages]* \
+* xref:languages/programming/data-centric-programming-languages/index.adoc[*Data-centric programming languages*] \
   Languages built specifically for data processing and transformation, such as ECL
   and Odin.

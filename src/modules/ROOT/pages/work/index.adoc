@@ -2,22 +2,22 @@
 
 Career and work-related resources, organized by category.
 
-* *xref:work/jobs/index.adoc[Jobs]* \
+* xref:work/jobs/index.adoc[*Jobs*] \
   Job boards and job-search resources, covering contract and freelance work,
   remote roles, tech and startup positions, and salary data.
 
-* *xref:work/interviewing/index.adoc[Interviewing]* \
+* xref:work/interviewing/index.adoc[*Interviewing*] \
   Resources for preparing for technical job interviews.
 
-* *xref:work/contracting/index.adoc[Contracting]* \
+* xref:work/contracting/index.adoc[*Contracting*] \
   Resources for UK contracting, including umbrella companies and IR35 guidance.
 
-* *xref:work/certification/index.adoc[Certification]* \
+* xref:work/certification/index.adoc[*Certification*] \
   Professional certifications, organized by domain, from broad foundational
   qualifications to specialist accreditations.
 
-* *xref:work/coworking/index.adoc[Coworking]* \
+* xref:work/coworking/index.adoc[*Coworking*] \
   Coworking space providers.
 
-* *xref:work/startups/index.adoc[Startups]* \
+* xref:work/startups/index.adoc[*Startups*] \
   Startup incubators and venture capital resources.

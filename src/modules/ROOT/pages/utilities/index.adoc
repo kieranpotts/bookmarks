@@ -2,40 +2,40 @@
 
 Command-line tools and utilities, organized by category.
 
-* *xref:utilities/password-and-secrets-management/index.adoc[Password and secrets management]* \
+* xref:utilities/password-and-secrets-management/index.adoc[*Password and secrets management*] \
   Command-line tools for managing passwords and secrets.
 
-* *xref:utilities/pagers/index.adoc[Pagers]* \
+* xref:utilities/pagers/index.adoc[*Pagers*] \
   Command-line pagers for viewing diffs and paginated output.
 
-* *xref:utilities/prompt-theme-engines/index.adoc[Prompt theme engines (multi-shell)]* \
+* xref:utilities/prompt-theme-engines/index.adoc[*Prompt theme engines (multi-shell)*] \
   Shell prompt theming engines, most of which work across multiple shells.
 
-* *xref:utilities/terminal-multiplexers/index.adoc[Terminal multiplexers]* \
+* xref:utilities/terminal-multiplexers/index.adoc[*Terminal multiplexers*] \
   Terminal multiplexers for managing multiple terminal sessions.
 
-* *xref:utilities/file-transfer-utilities/index.adoc[File transfer utilities]* \
+* xref:utilities/file-transfer-utilities/index.adoc[*File transfer utilities*] \
   Command-line tools for transferring and syncing files, including to and from
   cloud storage.
 
-* *xref:utilities/text-editors-cli/index.adoc[Text editors (CLI)]* \
+* xref:utilities/text-editors-cli/index.adoc[*Text editors (CLI)*] \
   Command-line text editors.
 
-* *xref:utilities/parsers/index.adoc[Parsers]* \
+* xref:utilities/parsers/index.adoc[*Parsers*] \
   Command-line parsers for querying and transforming structured data such as JSON
   and YAML.
 
-* *xref:utilities/web-http-clients/index.adoc[Web/HTTP clients]* \
+* xref:utilities/web-http-clients/index.adoc[*Web/HTTP clients*] \
   Command-line HTTP clients for making web requests.
 
-* *xref:utilities/regex/index.adoc[Regex]* \
+* xref:utilities/regex/index.adoc[*Regex*] \
   Regular expression engines and libraries.
 
-* *xref:utilities/spelling-and-grammar-checkers/index.adoc[Spelling and grammar checkers]* \
+* xref:utilities/spelling-and-grammar-checkers/index.adoc[*Spelling and grammar checkers*] \
   Spelling and grammar checking tools.
 
-* *xref:utilities/text-processing/index.adoc[Text processing]* \
+* xref:utilities/text-processing/index.adoc[*Text processing*] \
   Command-line tools for processing and transforming text.
 
-* *xref:utilities/image-multimedia-processing/index.adoc[Image multimedia processing]* \
+* xref:utilities/image-multimedia-processing/index.adoc[*Image multimedia processing*] \
   Command-line tools for processing and converting images, audio, and video.

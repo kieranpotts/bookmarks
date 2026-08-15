@@ -21,12 +21,12 @@ management, organized by category.
 * https://stackstorm.com/[StackStorm]
 * https://developer.hashicorp.com/vagrant[Vagrant]
 
-* *xref:infrastructure/iac-orchestration/cluster-management/index.adoc[Cluster management]* \
+* xref:infrastructure/iac-orchestration/cluster-management/index.adoc[*Cluster management*] \
   Tools for managing Kubernetes clusters and scaling their workloads.
 
-* *xref:infrastructure/iac-orchestration/iac/index.adoc[IaC]* \
+* xref:infrastructure/iac-orchestration/iac/index.adoc[*IaC*] \
   Infrastructure-as-code tools for defining and provisioning infrastructure.
 
-* *xref:infrastructure/iac-orchestration/service-mesh/index.adoc[Service mesh]* \
+* xref:infrastructure/iac-orchestration/service-mesh/index.adoc[*Service mesh*] \
   Service mesh tools for managing traffic, security, and observability between
   services.

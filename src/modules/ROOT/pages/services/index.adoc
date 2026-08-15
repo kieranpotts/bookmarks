@@ -2,44 +2,44 @@
 
 Third-party services and APIs for software projects, organized by category.
 
-* *xref:services/backend-as-a-service/index.adoc[Backend-as-a-service (BaaS)]* \
+* xref:services/backend-as-a-service/index.adoc[*Backend-as-a-service (BaaS)*] \
   Backend-as-a-service platforms providing hosted infrastructure for applications.
 
-* *xref:services/application-usage-analytics/index.adoc[Application usage analytics]* \
+* xref:services/application-usage-analytics/index.adoc[*Application usage analytics*] \
   Services for tracking and analyzing how users interact with applications.
 
-* *xref:services/avatar-services/index.adoc[Avatar services]* \
+* xref:services/avatar-services/index.adoc[*Avatar services*] \
   Services for generating or resolving user avatar images.
 
-* *xref:services/event-gateways-and-webhook-services/index.adoc[Event gateways and webhook services]* \
+* xref:services/event-gateways-and-webhook-services/index.adoc[*Event gateways and webhook services*] \
   Services for managing, routing, and debugging webhooks and event delivery.
 
-* *xref:services/feature-flag-management/index.adoc[Feature flag management]* \
+* xref:services/feature-flag-management/index.adoc[*Feature flag management*] \
   Services for managing feature flags and controlled rollouts.
 
-* *xref:services/form-hosting-and-capture/index.adoc[Form hosting and capture]* \
+* xref:services/form-hosting-and-capture/index.adoc[*Form hosting and capture*] \
   Services for hosting forms and capturing submissions without building a backend.
 
-* *xref:services/live-chat-systems/index.adoc[Live chat systems]* \
+* xref:services/live-chat-systems/index.adoc[*Live chat systems*] \
   Live chat and customer messaging platforms for websites and applications.
 
-* *xref:services/payments-and-money-services/index.adoc[Payments and money services]* \
+* xref:services/payments-and-money-services/index.adoc[*Payments and money services*] \
   Services for processing payments and working with currency exchange rates.
 
-* *xref:services/push-notifications-services/index.adoc[Push notifications services]* \
+* xref:services/push-notifications-services/index.adoc[*Push notifications services*] \
   Services for sending push notifications to devices and applications.
 
-* *xref:services/text-messaging-services/index.adoc[Text messaging (SMS) services]* \
+* xref:services/text-messaging-services/index.adoc[*Text messaging (SMS) services*] \
   Services for sending and receiving SMS and text messages.
 
-* *xref:services/transactional-email/index.adoc[Transactional email]* \
+* xref:services/transactional-email/index.adoc[*Transactional email*] \
   Services for sending transactional emails from applications.
 
-* *xref:services/sso-and-user-authentication-and-authorization/index.adoc[Sso and user authentication and authorization]* \
+* xref:services/sso-and-user-authentication-and-authorization/index.adoc[*Sso and user authentication and authorization*] \
   Services for single sign-on, authentication, and authorization.
 
-* *xref:services/two-factor-authentication/index.adoc[Two-factor authentication]* \
+* xref:services/two-factor-authentication/index.adoc[*Two-factor authentication*] \
   Services for adding two-factor authentication to applications.
 
-* *xref:services/validation-and-verification-services/index.adoc[Validation and verification services]* \
+* xref:services/validation-and-verification-services/index.adoc[*Validation and verification services*] \
   Services for validating and verifying data such as email addresses and language.

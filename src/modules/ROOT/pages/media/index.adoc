@@ -2,61 +2,61 @@
 
 Publications, communities, and other sources of information, organized by type.
 
-* *xref:media/professional-bodies/index.adoc[Professional bodies]* \
+* xref:media/professional-bodies/index.adoc[*Professional bodies*] \
   Professional bodies and associations for standards and community.
 
-* *xref:media/blogs/index.adoc[Blogs]* \
+* xref:media/blogs/index.adoc[*Blogs*] \
   Corporate and individual blogs covering engineering insight and commentary.
 
-* *xref:media/books/index.adoc[Books]* \
+* xref:media/books/index.adoc[*Books*] \
   Books, book series, and publishers covering software engineering knowledge.
 
-* *xref:media/bootcamps/index.adoc[Bootcamps]* \
+* xref:media/bootcamps/index.adoc[*Bootcamps*] \
   Coding bootcamps for career-changers.
 
-* *xref:media/cheat-sheets/index.adoc[Cheat sheets]* \
+* xref:media/cheat-sheets/index.adoc[*Cheat sheets*] \
   Cheat sheets and quick-reference materials for common syntax and concepts.
 
-* *xref:media/comics/index.adoc[Comics]* \
+* xref:media/comics/index.adoc[*Comics*] \
   Comics and webcomics about software and technology.
 
-* *xref:media/courses/index.adoc[Courses]* \
+* xref:media/courses/index.adoc[*Courses*] \
   Online courses and learning platforms for building skills.
 
-* *xref:media/conferences/index.adoc[Conferences and events]* \
+* xref:media/conferences/index.adoc[*Conferences and events*] \
   Conferences and events in software engineering and technology.
 
-* *xref:media/forums/index.adoc[Forums / social]* \
+* xref:media/forums/index.adoc[*Forums / social*] \
   Forums and community sites for developer discussion.
 
-* *xref:media/journals/index.adoc[Journals / research]* \
+* xref:media/journals/index.adoc[*Journals / research*] \
   Academic journals and publications covering computing research.
 
-* *xref:media/magazines/index.adoc[Magazines]* \
+* xref:media/magazines/index.adoc[*Magazines*] \
   Magazines and news publications for industry and technology coverage.
 
-* *xref:media/meetups/index.adoc[Meetups]* \
+* xref:media/meetups/index.adoc[*Meetups*] \
   Meetup groups for local networking and events.
 
-* *xref:media/podcasts/index.adoc[Podcasts]* \
+* xref:media/podcasts/index.adoc[*Podcasts*] \
   Podcasts covering software engineering news and commentary.
 
-* *xref:media/product-launches/index.adoc[Product launches]* \
+* xref:media/product-launches/index.adoc[*Product launches*] \
   Sites for discovering and tracking new product and tool launches.
 
-* *xref:media/social-news/index.adoc[Social news]* \
+* xref:media/social-news/index.adoc[*Social news*] \
   Social news and link-aggregation sites for technology discussion.
 
-* *xref:media/trends/index.adoc[Trends and surveys]* \
+* xref:media/trends/index.adoc[*Trends and surveys*] \
   Surveys and indexes tracking trends in languages, tools, and technology
   adoption.
 
-* *xref:media/user-groups/index.adoc[User groups]* \
+* xref:media/user-groups/index.adoc[*User groups*] \
   User groups for community and networking.
 
-* *xref:media/wikis/index.adoc[Wikis and bodies of knowledge]* \
+* xref:media/wikis/index.adoc[*Wikis and bodies of knowledge*] \
   Wikis and reference works documenting software engineering knowledge, folklore,
   and terminology.
 
-* *xref:media/archives/index.adoc[Archives]* \
+* xref:media/archives/index.adoc[*Archives*] \
   Archived sites and snapshots of historical computing and software, for context.

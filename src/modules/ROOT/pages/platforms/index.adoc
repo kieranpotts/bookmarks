@@ -2,17 +2,17 @@
 
 Operating systems, runtimes, and application platforms, organized by category.
 
-* *xref:platforms/cross-platform-application-development/index.adoc[Cross-platform application development]* \
+* xref:platforms/cross-platform-application-development/index.adoc[*Cross-platform application development*] \
   Frameworks and tools for building applications that run on multiple platforms
   from a single codebase, organized by how they execute.
 
-* *xref:platforms/native/index.adoc[Native (Operating Systems)]* \
+* xref:platforms/native/index.adoc[*Native (Operating Systems)*] \
   Native operating systems, organized by platform.
 
-* *xref:platforms/the-web-platform/index.adoc[The web platform]* \
+* xref:platforms/the-web-platform/index.adoc[*The web platform*] \
   Tools, runtimes, standards, and reference material related to the web platform
   itself, organized by category.
 
-* *xref:platforms/machine-learning-platforms/index.adoc[Machine learning platforms]* \
+* xref:platforms/machine-learning-platforms/index.adoc[*Machine learning platforms*] \
   Frameworks and libraries for building, training, and running machine learning
   models.

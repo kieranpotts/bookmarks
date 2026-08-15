@@ -2,11 +2,11 @@
 
 Databases used for operational data such as caching, metrics, and logs.
 
-* *xref:infrastructure/databases/operational-databases/key-value-stores-and-in-memory-object-caches/index.adoc[Key-value stores and in-memory object caches]* \
+* xref:infrastructure/databases/operational-databases/key-value-stores-and-in-memory-object-caches/index.adoc[*Key-value stores and in-memory object caches*] \
   Key-value stores and in-memory caches for fast reads and writes.
 
-* *xref:infrastructure/databases/operational-databases/time-series-databases/index.adoc[Time series databases]* \
+* xref:infrastructure/databases/operational-databases/time-series-databases/index.adoc[*Time series databases*] \
   Databases optimized for storing and querying time-stamped metrics.
 
-* *xref:infrastructure/databases/operational-databases/logs-and-search-databases/index.adoc[Logs and search databases]* \
+* xref:infrastructure/databases/operational-databases/logs-and-search-databases/index.adoc[*Logs and search databases*] \
   Databases specialized for indexing and searching log and text data.

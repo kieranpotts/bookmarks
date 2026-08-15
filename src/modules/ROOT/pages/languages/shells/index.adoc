@@ -3,14 +3,14 @@
 Command shells and scripting languages for interacting with an operating system,
 organized by platform and type.
 
-* *xref:languages/shells/unix-shells/index.adoc[Unix shells]* \
+* xref:languages/shells/unix-shells/index.adoc[*Unix shells*] \
   Command-line shells that originate from, or are closely associated with, Unix.
 
-* *xref:languages/shells/tools/index.adoc[Tools]* \
+* xref:languages/shells/tools/index.adoc[*Tools*] \
   Tools for testing and statically analyzing shell scripts.
 
-* *xref:languages/shells/cross-platform-shells/index.adoc[Cross-platform shells]* \
+* xref:languages/shells/cross-platform-shells/index.adoc[*Cross-platform shells*] \
   Shells designed to run consistently across multiple operating systems.
 
-* *xref:languages/shells/compile-to-shell-languages/index.adoc[Compile-to-shell languages]* \
+* xref:languages/shells/compile-to-shell-languages/index.adoc[*Compile-to-shell languages*] \
   Languages that compile down to shell scripts.

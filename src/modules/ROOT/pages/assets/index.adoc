@@ -2,18 +2,18 @@
 
 Fonts, icons, photos, video, and audio resources, organized by category.
 
-* *xref:assets/fonts/index.adoc[Fonts and type foundries]* \
+* xref:assets/fonts/index.adoc[*Fonts and type foundries*] \
   Type foundries, font marketplaces, and free font sources, including a dedicated
   list of programming and terminal fonts.
 
-* *xref:assets/icons/index.adoc[Icons and illustrations]* \
+* xref:assets/icons/index.adoc[*Icons and illustrations*] \
   Icon and illustration libraries for UI design and general graphic work.
 
-* *xref:assets/photos/index.adoc[Photos]* \
+* xref:assets/photos/index.adoc[*Photos*] \
   Stock photo sources, split between free and commercial licensing.
 
-* *xref:assets/video/index.adoc[Video]* \
+* xref:assets/video/index.adoc[*Video*] \
   Stock video marketplaces for footage and motion assets.
 
-* *xref:assets/audio/index.adoc[Audio and music]* \
+* xref:assets/audio/index.adoc[*Audio and music*] \
   Stock audio and music marketplaces for sound effects and background music.

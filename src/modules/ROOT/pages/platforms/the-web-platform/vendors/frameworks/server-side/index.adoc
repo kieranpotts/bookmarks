@@ -36,10 +36,10 @@ dedicated pages.
 * https://zeroserver.io/[Zero Server]
 * https://github.com/tsedio/tsed[Ts.ED]
 
-* *xref:platforms/the-web-platform/vendors/frameworks/server-side/express/index.adoc[Express]* \
+* xref:platforms/the-web-platform/vendors/frameworks/server-side/express/index.adoc[*Express*] \
   Express, the minimalist Node.js web framework, and related starter kits and
   middleware.
 
-* *xref:platforms/the-web-platform/vendors/frameworks/server-side/fastify/index.adoc[Fastify]* \
+* xref:platforms/the-web-platform/vendors/frameworks/server-side/fastify/index.adoc[*Fastify*] \
   Fastify, the fast and low-overhead Node.js web framework, and its official
   starter kit generator.
