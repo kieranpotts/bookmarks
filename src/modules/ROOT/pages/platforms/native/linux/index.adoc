@@ -2,8 +2,17 @@
 
 Linux distributions, tooling, and reference material, organized by category.
 
-* *xref:platforms/native/linux/distributions/index.adoc[Distributions]*
-* *xref:platforms/native/linux/package-managers/index.adoc[Package managers]*
-* *xref:platforms/native/linux/package-repositories/index.adoc[Package repositories]*
-* *xref:platforms/native/linux/system-and-service-managers/index.adoc[System and service managers]*
-* *xref:platforms/native/linux/reference/index.adoc[Reference]*
+* *xref:platforms/native/linux/distributions/index.adoc[Distributions]* \
+  Linux distributions.
+
+* *xref:platforms/native/linux/package-managers/index.adoc[Package managers]* \
+  Package managers used for installing and managing software on Linux.
+
+* *xref:platforms/native/linux/package-repositories/index.adoc[Package repositories]* \
+  Repositories for finding and browsing Linux packages across distributions.
+
+* *xref:platforms/native/linux/system-and-service-managers/index.adoc[System and service managers]* \
+  Init systems and service managers used to manage processes on Linux.
+
+* *xref:platforms/native/linux/reference/index.adoc[Reference]* \
+  Documentation, news, and reference resources for Linux.

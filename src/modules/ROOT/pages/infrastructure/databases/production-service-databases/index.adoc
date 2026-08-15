@@ -3,6 +3,11 @@
 Databases used to back production services and applications, organized by data
 model.
 
-* *xref:infrastructure/databases/production-service-databases/relational-databases/index.adoc[Relational databases]*
-* *xref:infrastructure/databases/production-service-databases/document-oriented-nosql-databases/index.adoc[Document-oriented (NoSQL) databases]*
-* *xref:infrastructure/databases/production-service-databases/graph-databases/index.adoc[Graph databases]*
+* *xref:infrastructure/databases/production-service-databases/relational-databases/index.adoc[Relational databases]* \
+  SQL databases that store data in structured tables with defined schemas.
+
+* *xref:infrastructure/databases/production-service-databases/document-oriented-nosql-databases/index.adoc[Document-oriented (NoSQL) databases]* \
+  NoSQL databases that store data as flexible, schema-less documents.
+
+* *xref:infrastructure/databases/production-service-databases/graph-databases/index.adoc[Graph databases]* \
+  Databases that model data as nodes and relationships rather than tables.

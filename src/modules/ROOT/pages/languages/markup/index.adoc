@@ -3,6 +3,13 @@
 Languages for annotating text with structure and formatting, from lightweight
 wiki syntax to full typesetting systems.
 
-* *xref:languages/markup/html/index.adoc[HTML]*
-* *xref:languages/markup/lightweight-text-markup/index.adoc[Lightweight text markup]*
-* *xref:languages/markup/typesetting-systems-and-heavyweight-markup/index.adoc[Typesetting systems and heavyweight markup]*
+* *xref:languages/markup/html/index.adoc[HTML]* \
+  Reference material and specifications for HyperText Markup Language.
+
+* *xref:languages/markup/lightweight-text-markup/index.adoc[Lightweight text markup]* \
+  Simplified text markup syntaxes, such as Markdown, AsciiDoc, and various wiki
+  markups, used as lighter alternatives to full typesetting systems.
+
+* *xref:languages/markup/typesetting-systems-and-heavyweight-markup/index.adoc[Typesetting systems and heavyweight markup]* \
+  Typesetting systems and heavyweight markup languages for producing complex
+  technical and print-quality documents.

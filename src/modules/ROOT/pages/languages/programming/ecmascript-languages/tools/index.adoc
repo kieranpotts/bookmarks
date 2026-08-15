@@ -3,25 +3,73 @@
 Tools for building, running, and maintaining JavaScript and TypeScript projects,
 organized by category.
 
-* *xref:languages/programming/ecmascript-languages/tools/benchmarking-and-runtime-analysis/index.adoc[Benchmarking and runtime analysis]*
-* *xref:languages/programming/ecmascript-languages/tools/build-tools-and-task-runners/index.adoc[Build tools and task runners]*
-* *xref:languages/programming/ecmascript-languages/tools/single-executables/index.adoc[Single executables]*
-* *xref:languages/programming/ecmascript-languages/tools/code-editors-and-ides/index.adoc[Code editors and IDEs]*
-* *xref:languages/programming/ecmascript-languages/tools/code-sandboxes-playgrounds-repls/index.adoc[Code sandboxes/playgrounds/REPLs]*
-* *xref:languages/programming/ecmascript-languages/tools/compilers-transpilers-and-parsers/index.adoc[Compilers/transpilers and parsers]*
-* *xref:languages/programming/ecmascript-languages/tools/runtime-transpilers-and-module-loaders/index.adoc[Runtime transpilers and module loaders]*
-* *xref:languages/programming/ecmascript-languages/tools/development-lifecycle-automation/index.adoc[Development lifecycle automation]*
-* *xref:languages/programming/ecmascript-languages/tools/documentation-generators/index.adoc[Documentation generators]*
-* *xref:languages/programming/ecmascript-languages/tools/dummy-fake-data-generation/index.adoc[Dummy/fake data generation]*
-* *xref:languages/programming/ecmascript-languages/tools/hot-js-module-reloading/index.adoc[Hot JS module reloading]*
-* *xref:languages/programming/ecmascript-languages/tools/module-systems-legacy/index.adoc[Module systems (legacy)]*
-* *xref:languages/programming/ecmascript-languages/tools/package-managers/index.adoc[Package managers]*
-* *xref:languages/programming/ecmascript-languages/tools/package-registries-and-hosting/index.adoc[Package registries and hosting]*
-* *xref:languages/programming/ecmascript-languages/tools/runtime-version-managers/index.adoc[Runtime version managers]*
-* *xref:languages/programming/ecmascript-languages/tools/runtime-process-managers/index.adoc[Runtime process managers]*
-* *xref:languages/programming/ecmascript-languages/tools/script-runners/index.adoc[Script runners]*
-* *xref:languages/programming/ecmascript-languages/tools/static-analysis-and-linting/index.adoc[Static analysis and linting]*
-* *xref:languages/programming/ecmascript-languages/tools/testing-frameworks/index.adoc[Testing frameworks]*
-* *xref:languages/programming/ecmascript-languages/tools/workspace-management-monorepos/index.adoc[Workspace management (monorepos)]*
-* *xref:languages/programming/ecmascript-languages/tools/dependency-analysis/index.adoc[Dependency analysis]*
-* *xref:languages/programming/ecmascript-languages/tools/file-watching-and-hot-reloading/index.adoc[File watching and hot reloading]*
+* *xref:languages/programming/ecmascript-languages/tools/benchmarking-and-runtime-analysis/index.adoc[Benchmarking and runtime analysis]* \
+  Tools for benchmarking JavaScript code and analyzing runtime performance.
+
+* *xref:languages/programming/ecmascript-languages/tools/build-tools-and-task-runners/index.adoc[Build tools and task runners]* \
+  Build tools and task runners for automating JavaScript project workflows.
+
+* *xref:languages/programming/ecmascript-languages/tools/single-executables/index.adoc[Single executables]* \
+  Tools for packaging Node.js applications into standalone executables.
+
+* *xref:languages/programming/ecmascript-languages/tools/code-editors-and-ides/index.adoc[Code editors and IDEs]* \
+  Code editors and IDEs for JavaScript and TypeScript development.
+
+* *xref:languages/programming/ecmascript-languages/tools/code-sandboxes-playgrounds-repls/index.adoc[Code sandboxes/playgrounds/REPLs]* \
+  Online sandboxes, playgrounds, and REPLs for quickly running and sharing
+  JavaScript code.
+
+* *xref:languages/programming/ecmascript-languages/tools/compilers-transpilers-and-parsers/index.adoc[Compilers/transpilers and parsers]* \
+  Compilers, transpilers, and parsers for JavaScript and TypeScript source code.
+
+* *xref:languages/programming/ecmascript-languages/tools/runtime-transpilers-and-module-loaders/index.adoc[Runtime transpilers and module loaders]* \
+  Tools for transpiling and loading modules on the fly at runtime.
+
+* *xref:languages/programming/ecmascript-languages/tools/development-lifecycle-automation/index.adoc[Development lifecycle automation]* \
+  Tools for automating versioning, releases, and changelogs in JavaScript
+  projects.
+
+* *xref:languages/programming/ecmascript-languages/tools/documentation-generators/index.adoc[Documentation generators]* \
+  Tools for generating documentation from JavaScript source code and comments.
+
+* *xref:languages/programming/ecmascript-languages/tools/dummy-fake-data-generation/index.adoc[Dummy/fake data generation]* \
+  Libraries for generating fake or dummy data for testing and prototyping.
+
+* *xref:languages/programming/ecmascript-languages/tools/hot-js-module-reloading/index.adoc[Hot JS module reloading]* \
+  Tools for reloading Node.js processes automatically as source files change.
+
+* *xref:languages/programming/ecmascript-languages/tools/module-systems-legacy/index.adoc[Module systems (legacy)]* \
+  Legacy JavaScript module systems and loaders, largely superseded by ES modules.
+
+* *xref:languages/programming/ecmascript-languages/tools/package-managers/index.adoc[Package managers]* \
+  Package managers for installing and managing JavaScript project dependencies.
+
+* *xref:languages/programming/ecmascript-languages/tools/package-registries-and-hosting/index.adoc[Package registries and hosting]* \
+  Registries and hosting services for publishing and distributing JavaScript
+  packages.
+
+* *xref:languages/programming/ecmascript-languages/tools/runtime-version-managers/index.adoc[Runtime version managers]* \
+  Tools for installing and switching between Node.js versions.
+
+* *xref:languages/programming/ecmascript-languages/tools/runtime-process-managers/index.adoc[Runtime process managers]* \
+  Process managers for keeping Node.js applications running in production.
+
+* *xref:languages/programming/ecmascript-languages/tools/script-runners/index.adoc[Script runners]* \
+  Tools for running npm package scripts and one-off packages from the command
+  line.
+
+* *xref:languages/programming/ecmascript-languages/tools/static-analysis-and-linting/index.adoc[Static analysis and linting]* \
+  Linters, formatters, and static analysis tools for JavaScript and TypeScript
+  code quality.
+
+* *xref:languages/programming/ecmascript-languages/tools/testing-frameworks/index.adoc[Testing frameworks]* \
+  Testing frameworks and test runners for JavaScript and TypeScript projects.
+
+* *xref:languages/programming/ecmascript-languages/tools/workspace-management-monorepos/index.adoc[Workspace management (monorepos)]* \
+  Tools for managing monorepos and multi-package JavaScript workspaces.
+
+* *xref:languages/programming/ecmascript-languages/tools/dependency-analysis/index.adoc[Dependency analysis]* \
+  Tools for auditing, updating, and analyzing JavaScript project dependencies.
+
+* *xref:languages/programming/ecmascript-languages/tools/file-watching-and-hot-reloading/index.adoc[File watching and hot reloading]* \
+  Tools for watching file changes and triggering hot reloads during development.

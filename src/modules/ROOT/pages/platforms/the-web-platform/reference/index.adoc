@@ -5,11 +5,28 @@ General web platform reference documentation and resources, organized by topic.
 * https://developer.mozilla.org/en-US/[MDN Web Docs]
 * https://web.dev/[web.dev]
 
-* *xref:platforms/the-web-platform/reference/accessibility/index.adoc[Accessibility]*
-* *xref:platforms/the-web-platform/reference/architecture/index.adoc[Architecture]*
-* *xref:platforms/the-web-platform/reference/performance/index.adoc[Performance]*
-* *xref:platforms/the-web-platform/reference/security/index.adoc[Security]*
-* *xref:platforms/the-web-platform/reference/books/index.adoc[Books]*
-* *xref:platforms/the-web-platform/reference/courses/index.adoc[Courses]*
-* *xref:platforms/the-web-platform/reference/webzines/index.adoc[Webzines]*
-* *xref:platforms/the-web-platform/reference/surveys/index.adoc[Surveys]*
+* *xref:platforms/the-web-platform/reference/accessibility/index.adoc[Accessibility]* \
+  Accessibility frameworks and practices for building accessible web experiences.
+
+* *xref:platforms/the-web-platform/reference/architecture/index.adoc[Architecture]* \
+  Web application architecture patterns and approaches, such as progressive web
+  apps and the Jamstack.
+
+* *xref:platforms/the-web-platform/reference/performance/index.adoc[Performance]* \
+  Web performance metrics and resources, such as Core Web Vitals.
+
+* *xref:platforms/the-web-platform/reference/security/index.adoc[Security]* \
+  Web security reference resources, including vulnerability databases and
+  best-practice guides.
+
+* *xref:platforms/the-web-platform/reference/books/index.adoc[Books]* \
+  Books on front-end web development.
+
+* *xref:platforms/the-web-platform/reference/courses/index.adoc[Courses]* \
+  Online courses and learning platforms for web development.
+
+* *xref:platforms/the-web-platform/reference/webzines/index.adoc[Webzines]* \
+  Online publications about front-end web development.
+
+* *xref:platforms/the-web-platform/reference/surveys/index.adoc[Surveys]* \
+  Industry surveys on web development trends and tools.

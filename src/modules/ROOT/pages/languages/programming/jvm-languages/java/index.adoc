@@ -3,8 +3,19 @@
 Java, with links to JVMs and JDKs, tools, vendors, language specifications, and
 reference material.
 
-* *xref:languages/programming/jvm-languages/java/jvms-and-jdks/index.adoc[JVMs and JDKs]*
-* *xref:languages/programming/jvm-languages/java/tools/index.adoc[Tools]*
-* *xref:languages/programming/jvm-languages/java/vendors/index.adoc[Vendors]*
-* *xref:languages/programming/jvm-languages/java/language-specifications/index.adoc[Language specifications]*
-* *xref:languages/programming/jvm-languages/java/reference/index.adoc[Reference]*
+* *xref:languages/programming/jvm-languages/java/jvms-and-jdks/index.adoc[JVMs and JDKs]* \
+  Java Virtual Machine implementations and Java Development Kit distributions from
+  Oracle and other vendors.
+
+* *xref:languages/programming/jvm-languages/java/tools/index.adoc[Tools]* \
+  Tools for building, testing, and managing Java projects.
+
+* *xref:languages/programming/jvm-languages/java/vendors/index.adoc[Vendors]* \
+  Java frameworks, libraries, and project generators from third-party vendors.
+
+* *xref:languages/programming/jvm-languages/java/language-specifications/index.adoc[Language specifications]* \
+  Java platform editions, plus the standards bodies and processes that define
+  them.
+
+* *xref:languages/programming/jvm-languages/java/reference/index.adoc[Reference]* \
+  Documentation and learning resources for Java.

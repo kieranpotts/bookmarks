@@ -2,11 +2,28 @@
 
 Content management systems (CMS), organized by category.
 
-* *xref:applications/cms/blogging-and-personal-publishing-platforms/index.adoc[Blogging and personal publishing platforms]*
-* *xref:applications/cms/database-cms-and-web-frontend/index.adoc[Database CMS + web front-ends]*
-* *xref:applications/cms/flat-file-and-git-based-cmses/index.adoc[Flat-file and Git-based CMSes]*
-* *xref:applications/cms/visual-cmses/index.adoc[Visual CMSes]*
-* *xref:applications/cms/headless-cmses/index.adoc[Headless CMSes]*
-* *xref:applications/cms/self-publishing/index.adoc[Self-publishing]*
-* *xref:applications/cms/static-site-generation-only/index.adoc[Static-site generation only]*
-* *xref:applications/cms/translation-management/index.adoc[Translation management]*
+* *xref:applications/cms/blogging-and-personal-publishing-platforms/index.adoc[Blogging and personal publishing platforms]* \
+  Hosted platforms for blogging and personal publishing.
+
+* *xref:applications/cms/database-cms-and-web-frontend/index.adoc[Database CMS + web front-ends]* \
+  CMSes that pair a database back-end with a bundled web front-end.
+
+* *xref:applications/cms/flat-file-and-git-based-cmses/index.adoc[Flat-file and Git-based CMSes]* \
+  CMSes that store content as flat files, often version-controlled in Git, rather
+  than in a database.
+
+* *xref:applications/cms/visual-cmses/index.adoc[Visual CMSes]* \
+  Visual, drag-and-drop CMSes for building pages without writing code.
+
+* *xref:applications/cms/headless-cmses/index.adoc[Headless CMSes]* \
+  Headless CMSes that expose content via an API, decoupled from any particular
+  front-end.
+
+* *xref:applications/cms/self-publishing/index.adoc[Self-publishing]* \
+  Platforms for self-publishing books, independent of a traditional publisher.
+
+* *xref:applications/cms/static-site-generation-only/index.adoc[Static-site generation only]* \
+  CMSes dedicated to generating static sites, with no server-side runtime.
+
+* *xref:applications/cms/translation-management/index.adoc[Translation management]* \
+  Translation management systems for localizing content.

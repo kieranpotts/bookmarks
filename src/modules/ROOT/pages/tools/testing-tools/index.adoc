@@ -2,5 +2,9 @@
 
 Tools for testing software, organized by category.
 
-* *xref:tools/testing-tools/performance-and-load-testing/index.adoc[Performance and load testing]*
-* *xref:tools/testing-tools/static-and-dynamic-application-security-testing/index.adoc[Static and dynamic application security testing (SAST, DAST)]*
+* *xref:tools/testing-tools/performance-and-load-testing/index.adoc[Performance and load testing]* \
+  Tools for benchmarking and load testing applications and services.
+
+* *xref:tools/testing-tools/static-and-dynamic-application-security-testing/index.adoc[Static and dynamic application security testing (SAST, DAST)]* \
+  Tools for finding security vulnerabilities in code and running applications,
+  including pen testing and secrets scanning.

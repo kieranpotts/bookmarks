@@ -3,8 +3,19 @@
 Python, with links to language standards, alternative implementations, tools,
 vendors, and reference material.
 
-* *xref:languages/programming/python/standards/index.adoc[Standards]*
-* *xref:languages/programming/python/implementations/index.adoc[Implementations]*
-* *xref:languages/programming/python/tools/index.adoc[Tools]*
-* *xref:languages/programming/python/vendors/index.adoc[Vendors]*
-* *xref:languages/programming/python/reference/index.adoc[Reference]*
+* *xref:languages/programming/python/standards/index.adoc[Standards]* \
+  Python Enhancement Proposals (PEPs) and other Python style guides.
+
+* *xref:languages/programming/python/implementations/index.adoc[Implementations]* \
+  Alternative implementations of Python, such as MicroPython for microcontrollers.
+
+* *xref:languages/programming/python/tools/index.adoc[Tools]* \
+  Testing frameworks, package registries, editors, linters, and version managers
+  for Python.
+
+* *xref:languages/programming/python/vendors/index.adoc[Vendors]* \
+  Python frameworks and libraries from third-party vendors, such as Django and
+  Pandas.
+
+* *xref:languages/programming/python/reference/index.adoc[Reference]* \
+  Documentation and learning resources for Python.

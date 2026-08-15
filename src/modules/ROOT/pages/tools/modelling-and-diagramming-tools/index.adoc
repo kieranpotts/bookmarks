@@ -4,6 +4,12 @@ Tools for modelling systems and drawing diagrams, organized by category.
 
 * https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool[Microsoft Threat Modeling Tool]
 
-* *xref:tools/modelling-and-diagramming-tools/diagramming-tools/index.adoc[Diagramming tools]*
-* *xref:tools/modelling-and-diagramming-tools/visual-modeling-tools/index.adoc[Visual modeling tools]*
-* *xref:tools/modelling-and-diagramming-tools/text-to-diagram-diagrams-as-code/index.adoc[Text-to-diagram / diagrams-as-code]*
+* *xref:tools/modelling-and-diagramming-tools/diagramming-tools/index.adoc[Diagramming tools]* \
+  Tools for creating flowcharts, diagrams, and technical drawings.
+
+* *xref:tools/modelling-and-diagramming-tools/visual-modeling-tools/index.adoc[Visual modeling tools]* \
+  Tools for visually modelling systems, architectures, and infrastructure.
+
+* *xref:tools/modelling-and-diagramming-tools/text-to-diagram-diagrams-as-code/index.adoc[Text-to-diagram / diagrams-as-code]* \
+  Tools and formats for describing diagrams as text and rendering them as code,
+  rather than drawing them by hand.

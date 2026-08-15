@@ -2,8 +2,17 @@
 
 Tools for building, testing, and managing Java projects.
 
-* *xref:languages/programming/jvm-languages/java/tools/build-automation-dependency-management/index.adoc[Build automation and dependency management]*
-* *xref:languages/programming/jvm-languages/java/tools/package-registries/index.adoc[Package registries]*
-* *xref:languages/programming/jvm-languages/java/tools/java-version-managers/index.adoc[Java version managers]*
-* *xref:languages/programming/jvm-languages/java/tools/testing-frameworks-and-mocking-libraries/index.adoc[Testing frameworks and mocking libraries]*
-* *xref:languages/programming/jvm-languages/java/tools/annotation-libraries/index.adoc[Annotation libraries]*
+* *xref:languages/programming/jvm-languages/java/tools/build-automation-dependency-management/index.adoc[Build automation and dependency management]* \
+  Build tools and dependency managers for Java projects, such as Maven and Gradle.
+
+* *xref:languages/programming/jvm-languages/java/tools/package-registries/index.adoc[Package registries]* \
+  Registries for publishing and discovering Java packages.
+
+* *xref:languages/programming/jvm-languages/java/tools/java-version-managers/index.adoc[Java version managers]* \
+  Tools for installing and switching between Java versions.
+
+* *xref:languages/programming/jvm-languages/java/tools/testing-frameworks-and-mocking-libraries/index.adoc[Testing frameworks and mocking libraries]* \
+  Testing frameworks and mocking libraries for Java.
+
+* *xref:languages/programming/jvm-languages/java/tools/annotation-libraries/index.adoc[Annotation libraries]* \
+  Libraries that use Java annotations to cut down on boilerplate code.

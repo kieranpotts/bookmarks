@@ -2,7 +2,14 @@
 
 Development practices and techniques, organized by topic.
 
-* *xref:methods/practices-and-techniques/code-katas/index.adoc[Code katas]*
-* *xref:methods/practices-and-techniques/refactoring/index.adoc[Refactoring]*
-* *xref:methods/practices-and-techniques/test-driven-development/index.adoc[Test-driven development]*
-* *xref:methods/practices-and-techniques/version-control-methodologies/index.adoc[Version control methodologies]*
+* *xref:methods/practices-and-techniques/code-katas/index.adoc[Code katas]* \
+  Short, repeatable coding exercises for practicing technique and problem-solving.
+
+* *xref:methods/practices-and-techniques/refactoring/index.adoc[Refactoring]* \
+  Resources on refactoring techniques and identifying code smells.
+
+* *xref:methods/practices-and-techniques/test-driven-development/index.adoc[Test-driven development]* \
+  Resources on test-driven development as a software design and testing practice.
+
+* *xref:methods/practices-and-techniques/version-control-methodologies/index.adoc[Version control methodologies]* \
+  Branching models, workflows, and conventions for using version control.

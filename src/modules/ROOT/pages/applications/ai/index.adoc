@@ -2,8 +2,23 @@
 
 Tools and services for building with and using AI, organized by category.
 
-* *xref:applications/ai/managers/index.adoc[Model Managers]*
-* *xref:applications/ai/agents/index.adoc[AI Agents]*
-* *xref:applications/ai/skills/index.adoc[Agent Skills, Instructions, Custom Prompts, etc.]*
-* *xref:applications/ai/models/index.adoc[AI Models]*
-* *xref:applications/ai/front-ends/index.adoc[Front-ends]*
+* *xref:applications/ai/managers/index.adoc[Model Managers]* \
+  Model managers are runtime environments for running and managing large language
+  models locally. They provide tooling for model management, deployment,
+  configuration, and inference optimization—allowing you to run open-source models
+  on your own hardware with ease.
+
+* *xref:applications/ai/agents/index.adoc[AI Agents]* \
+  AI agent products and chat-based assistants for research, coding, and general-
+  purpose tasks.
+
+* *xref:applications/ai/skills/index.adoc[Agent Skills, Instructions, Custom Prompts, etc.]* \
+  Standards, directories, and examples for packaging agent skills, instructions,
+  and custom prompts.
+
+* *xref:applications/ai/models/index.adoc[AI Models]* \
+  Large language models, from both commercial and open-source providers.
+
+* *xref:applications/ai/front-ends/index.adoc[Front-ends]* \
+  Front-end applications for interacting with large language models, providing a
+  chat interface on top of one or more model backends.

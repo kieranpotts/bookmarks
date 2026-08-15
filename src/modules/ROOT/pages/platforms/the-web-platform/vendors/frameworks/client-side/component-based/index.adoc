@@ -25,8 +25,22 @@ page below; other, less common ones are listed directly.
 * https://typescene.dev/[TypeScene]
 * https://zuixjs.org/pages/documentation/about/[zuix.js]
 
-* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/angular/index.adoc[Angular]*
-* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/react/index.adoc[React]*
-* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/vue/index.adoc[Vue]*
-* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/svelte/index.adoc[Svelte]*
-* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/native-web-components/index.adoc[Native web components]*
+* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/angular/index.adoc[Angular]* \
+  Angular, the TypeScript-based component framework from Google, and related
+  testing tools.
+
+* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/react/index.adoc[React]* \
+  React, the component-based UI library from Meta, and the surrounding ecosystem
+  of starter kits, tools, and resources.
+
+* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/vue/index.adoc[Vue]* \
+  Vue.js, the progressive JavaScript framework, and related starter kits, testing
+  tools, and IDE extensions.
+
+* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/svelte/index.adoc[Svelte]* \
+  Svelte, the compiler-based component framework, and related starter kits and
+  project generators.
+
+* *xref:platforms/the-web-platform/vendors/frameworks/client-side/component-based/native-web-components/index.adoc[Native web components]* \
+  Frameworks for building native web components on top of the Web Components
+  standards.

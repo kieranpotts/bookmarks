@@ -2,39 +2,112 @@
 
 Software applications and services, organized by category.
 
-* *xref:applications/chatops/index.adoc[ChatOps and IRC clients]*
-* *xref:applications/email/index.adoc[Email]*
-* *xref:applications/lowcode-nocode/index.adoc[Low-code/no-code application development]*
-* *xref:applications/workflow/index.adoc[Task/workflow automation]*
-* *xref:applications/ai/index.adoc[AI]*
-* *xref:applications/bookmarks/index.adoc[Bookmarks and web clipping applications]*
-* *xref:applications/brainstorming/index.adoc[Brainstorming and collaborative planning]*
-* *xref:applications/recruitment-tests/index.adoc[Coding tests for tech recruitment]*
-* *xref:applications/cms/index.adoc[Content management systems (CMS)]*
-* *xref:applications/crm/index.adoc[Customer relationship management (CRM)]*
-* *xref:applications/disk-imaging/index.adoc[Disk imaging / bootable media creation]*
-* *xref:applications/dam/index.adoc[Digital asset management]*
-* *xref:applications/ebooks/index.adoc[E-book readers and managers]*
-* *xref:applications/ecommerce/index.adoc[E-commerce platforms]*
-* *xref:applications/file-storage/index.adoc[File storage, syncing and sharing]*
-* *xref:applications/home-automation/index.adoc[Home automation]*
-* *xref:applications/idv/index.adoc[Identity verification (IDV) and know your customer (KYC) services]*
-* *xref:applications/image-optimization/index.adoc[Image optimization / compression]*
-* *xref:applications/i18n/index.adoc[Internationalization and localization / translation]*
-* *xref:applications/project-management/index.adoc[Issue trackers and project management]*
-* *xref:applications/lms/index.adoc[Learning management systems (LMS)]*
-* *xref:applications/payments/index.adoc[Money transfer]*
-* *xref:applications/passwords/index.adoc[Password and secrets management/sharing]*
-* *xref:applications/pdf/index.adoc[PDF generation and editing]*
-* *xref:applications/media/index.adoc[Photo and video management]*
-* *xref:applications/productivity/index.adoc[Productivity applications]*
-* *xref:applications/voice-and-speech/index.adoc[Voice and speech tools]*
-* *xref:applications/ats/index.adoc[Recruitment software and applicant tracking software (ATS)]*
-* *xref:applications/rss/index.adoc[RSS feed readers and news aggregators]*
-* *xref:applications/time-tracking/index.adoc[Time tracking]*
-* *xref:applications/marketing/index.adoc[Online marketing and SEO]*
-* *xref:applications/helpdesk/index.adoc[Service desk / help desk and ITSM]*
-* *xref:applications/ssh/index.adoc[SSH clients]*
-* *xref:applications/wikis/index.adoc[Wikis and knowledgebases]*
-* *xref:applications/writing/index.adoc[Writing and research]*
+* *xref:applications/chatops/index.adoc[ChatOps and IRC clients]* \
+  ChatOps platforms and IRC clients for team communication.
 
+* *xref:applications/email/index.adoc[Email]* \
+  Email tools and services, organized by category.
+
+* *xref:applications/lowcode-nocode/index.adoc[Low-code/no-code application development]* \
+  Low-code and no-code platforms for building applications with minimal custom
+  code.
+
+* *xref:applications/workflow/index.adoc[Task/workflow automation]* \
+  Task and workflow automation platforms for connecting apps and automating
+  processes.
+
+* *xref:applications/ai/index.adoc[AI]* \
+  Tools and services for building with and using AI, organized by category.
+
+* *xref:applications/bookmarks/index.adoc[Bookmarks and web clipping applications]* \
+  Applications for saving, organizing, and clipping links from the web.
+
+* *xref:applications/brainstorming/index.adoc[Brainstorming and collaborative planning]* \
+  Tools for brainstorming, mind-mapping, and collaborative planning.
+
+* *xref:applications/recruitment-tests/index.adoc[Coding tests for tech recruitment]* \
+  Platforms for running coding tests as part of technical recruitment.
+
+* *xref:applications/cms/index.adoc[Content management systems (CMS)]* \
+  Content management systems (CMS), organized by category.
+
+* *xref:applications/crm/index.adoc[Customer relationship management (CRM)]* \
+  Customer relationship management (CRM) systems for tracking contacts and sales
+  pipelines.
+
+* *xref:applications/disk-imaging/index.adoc[Disk imaging / bootable media creation]* \
+  Tools for disk imaging and creating bootable media.
+
+* *xref:applications/dam/index.adoc[Digital asset management]* \
+  Digital asset management (DAM) systems for storing and organizing media assets.
+
+* *xref:applications/ebooks/index.adoc[E-book readers and managers]* \
+  E-book readers and library managers.
+
+* *xref:applications/ecommerce/index.adoc[E-commerce platforms]* \
+  E-commerce platforms for building online stores.
+
+* *xref:applications/file-storage/index.adoc[File storage, syncing and sharing]* \
+  Applications for storing, syncing, sharing, and encrypting files.
+
+* *xref:applications/home-automation/index.adoc[Home automation]* \
+  Home automation platforms.
+
+* *xref:applications/idv/index.adoc[Identity verification (IDV) and know your customer (KYC) services]* \
+  Identity verification (IDV) and know your customer (KYC) services.
+
+* *xref:applications/image-optimization/index.adoc[Image optimization / compression]* \
+  Tools for optimizing and compressing images.
+
+* *xref:applications/i18n/index.adoc[Internationalization and localization / translation]* \
+  Tools for internationalization, localization, and translation.
+
+* *xref:applications/project-management/index.adoc[Issue trackers and project management]* \
+  Issue trackers and project management tools.
+
+* *xref:applications/lms/index.adoc[Learning management systems (LMS)]* \
+  Learning management systems (LMS) for delivering and tracking training.
+
+* *xref:applications/payments/index.adoc[Money transfer]* \
+  Services for transferring money and managing currency exchange.
+
+* *xref:applications/passwords/index.adoc[Password and secrets management/sharing]* \
+  Password managers and secrets management/sharing tools.
+
+* *xref:applications/pdf/index.adoc[PDF generation and editing]* \
+  Tools for generating, editing, and signing PDF documents.
+
+* *xref:applications/media/index.adoc[Photo and video management]* \
+  Applications for managing photo and video libraries.
+
+* *xref:applications/productivity/index.adoc[Productivity applications]* \
+  General-purpose productivity applications.
+
+* *xref:applications/voice-and-speech/index.adoc[Voice and speech tools]* \
+  Applications for working with text by voice, including voice-to-text dictation,
+  text-to-speech readers, and text-to-speech engines.
+
+* *xref:applications/ats/index.adoc[Recruitment software and applicant tracking software (ATS)]* \
+  Recruitment software and applicant tracking systems (ATS) for managing hiring
+  pipelines.
+
+* *xref:applications/rss/index.adoc[RSS feed readers and news aggregators]* \
+  RSS feed readers and news aggregators.
+
+* *xref:applications/time-tracking/index.adoc[Time tracking]* \
+  Time tracking applications.
+
+* *xref:applications/marketing/index.adoc[Online marketing and SEO]* \
+  Tools for online marketing and search engine optimization (SEO).
+
+* *xref:applications/helpdesk/index.adoc[Service desk / help desk and ITSM]* \
+  Service desk and help desk software for IT service management (ITSM).
+
+* *xref:applications/ssh/index.adoc[SSH clients]* \
+  SSH client applications.
+
+* *xref:applications/wikis/index.adoc[Wikis and knowledgebases]* \
+  Wikis and knowledgebase platforms.
+
+* *xref:applications/writing/index.adoc[Writing and research]* \
+  Applications for writing and research, organized by category.
