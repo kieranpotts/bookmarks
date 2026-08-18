@@ -1,0 +1,13 @@
+= Benchmarks and Leaderboards
+
+Public benchmarks and leaderboards for comparing AI models. Benchmarks such as
+SWE-bench, Terminal-Bench, and LiveBench are a useful first filter for
+capability in a specific domain. Cross-provider aggregators are useful for
+comparing capability, speed, and price across labs.
+
+* https://www.swebench.com/[SWE-bench]
+* https://www.tbench.ai/[Terminal-Bench]
+* https://livebench.ai/[LiveBench]
+* https://artificialanalysis.ai/[Artificial Analysis]
+* https://openrouter.ai/rankings[OpenRouter Rankings]
+* https://arena.ai/[Arena (formerly LMArena)]

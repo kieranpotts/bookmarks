@@ -13,6 +13,7 @@
 **** xref:applications/ai/skills/index.adoc[Agent Skills, Instructions, Custom Prompts, etc.]
 **** xref:applications/ai/agents/index.adoc[AI Agents]
 **** xref:applications/ai/models/index.adoc[AI Models]
+**** xref:applications/ai/benchmarks/index.adoc[Benchmarks and Leaderboards]
 **** xref:applications/ai/front-ends/index.adoc[Front-ends]
 **** xref:applications/ai/managers/index.adoc[Model Managers]
 *** xref:applications/bookmarks/index.adoc[Bookmarks and web clipping applications]

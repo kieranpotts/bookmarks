@@ -19,6 +19,10 @@ Tools and services for building with and using AI, organized by category.
 * xref:applications/ai/models/index.adoc[*AI Models*] +
   Large language models, from both commercial and open-source providers.
 
+* xref:applications/ai/benchmarks/index.adoc[*Benchmarks and Leaderboards*] +
+  Public benchmarks and cross-provider aggregators for comparing AI model
+  capability, speed, and price.
+
 * xref:applications/ai/front-ends/index.adoc[*Front-ends*] +
   Front-end applications for interacting with large language models, providing a
   chat interface on top of one or more model backends.
