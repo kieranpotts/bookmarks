@@ -475,6 +475,7 @@
 **** xref:tools/code-editors-ides-and-repls/online-cloud-development-environments/index.adoc[Online/cloud development environments]
 *** xref:tools/code-generators/index.adoc[Code generators]
 *** xref:tools/database-administration/index.adoc[Database administration]
+*** xref:tools/database-migration-tools/index.adoc[Database migration tools]
 *** xref:tools/development-environments-and-stacks/index.adoc[Development environments and stacks]
 *** xref:tools/devops-lifecycle-systems/index.adoc[DevOps lifecycle systems]
 **** xref:tools/devops-lifecycle-systems/all-in-one-devops-systems/index.adoc[All-in-one DevOps systems]
