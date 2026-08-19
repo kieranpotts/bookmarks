@@ -71,3 +71,4 @@ Corporate and individual blogs covering engineering insight and commentary.
 * https://specbranch.com/[Nima Badizadegan - Speculative Branches]
 * https://aresluna.org/[Marcin Wichary - Aresluna]
 * https://pragdave.me/[Dave Thomas (pragdave)]
+* https://darwinsys.com/[Ian Darwin - Darwin Systems]
