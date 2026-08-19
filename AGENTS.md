@@ -26,11 +26,11 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
   `applications/ai/skills/index.adoc`). Each contains a bullet list of
   bookmark links.
 
-- `.agents/skills/add-bookmark/` \
+- `.agents/skills/bookmark/` \
   An agent skill for adding a new bookmark. Given a URL, it follows the
   link, chooses the best-fit category, and appends a properly formatted
   entry to the relevant `index.adoc` — without committing the change
-  unless explicitly told to. See `.agents/skills/add-bookmark/README.md`
+  unless explicitly told to. See `.agents/skills/bookmark/README.md`
   for details.
 
 ## Rules
@@ -38,7 +38,7 @@ consumes this content and its `nav.adoc` for breadcrumb rendering).
 - New bookmark entries MUST be added as a valid AsciiDoc bullet
   (`* https://.../[Label]`) to exactly one `index.adoc` under
   `src/modules/ROOT/pages/`, following the
-  **[add-bookmark](./.agents/skills/add-bookmark/SKILL.md)** skill when
+  **[bookmark](./.agents/skills/bookmark/SKILL.md)** skill when
   adding via an agent.
 
 - If a description mentions a non-existent, non-public, or otherwise
