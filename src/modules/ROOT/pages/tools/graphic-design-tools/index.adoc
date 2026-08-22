@@ -16,6 +16,9 @@ category.
 * xref:tools/graphic-design-tools/animation-tools/index.adoc[*Animation tools*] +
   Tools for creating 2D animations and animated vector graphics.
 
+* xref:tools/graphic-design-tools/3d-modelling-and-animation/index.adoc[*3D modelling and animation*] +
+  Tools for 3D modelling, sculpting, animation, and rendering.
+
 * xref:tools/graphic-design-tools/color-scheme-and-gradient-generators/index.adoc[*Color scheme and gradient generators*] +
   Generators for color palettes, schemes, and gradients for use in design work.
 

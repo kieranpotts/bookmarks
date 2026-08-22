@@ -490,6 +490,7 @@
 *** xref:tools/email-capture/index.adoc[Email capture]
 *** xref:tools/file-archival-and-compression/index.adoc[File archival and compression]
 *** xref:tools/graphic-design-tools/index.adoc[Graphic design tools]
+**** xref:tools/graphic-design-tools/3d-modelling-and-animation/index.adoc[3D modelling and animation]
 **** xref:tools/graphic-design-tools/accessibility-tools/index.adoc[Accessibility tools]
 **** xref:tools/graphic-design-tools/animation-tools/index.adoc[Animation tools]
 **** xref:tools/graphic-design-tools/ascii-art-tools/index.adoc[ASCII art tools]
