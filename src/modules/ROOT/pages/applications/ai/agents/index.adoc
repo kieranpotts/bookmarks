@@ -8,6 +8,7 @@ purpose tasks.
 * https://replit.com/[Replit]
 * https://claude.ai/[Claude]
 * https://gemini.google.com/[Gemini]
+* https://deepseek.com/harness/en/[DeepSeek Harness] – An open-source agent development framework built on the Cordis kernel, composing models, tools, storage, scheduling, and UI as interchangeable plugins.
 * https://pi.dev/[Pi] – A minimal, extensible agent harness for the terminal. Customize it with extensions, skills, prompt templates, and themes; supports 15+ providers and shareable tree-structured session history.
 * https://omp.sh/[omp (Oh My Pi)] – Extends Pi with enhanced capabilities.
 * https://github.com/mattpocock/sandcastle[Sandcastle] – A TypeScript library for orchestrating AI coding agents in isolated sandboxes.
