@@ -3,5 +3,6 @@
 Terminal multiplexers for managing multiple terminal sessions.
 
 * https://www.gnu.org/software/screen/[GNU Screen]
+* https://herdr.dev/[Herdr]
 * https://github.com/tmux/tmux/wiki[tmux]
 * https://zellij.dev/[Zellij]
