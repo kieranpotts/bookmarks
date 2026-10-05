@@ -7,6 +7,7 @@ Standalone tools for comparing and merging text, code, and files.
 * https://www.devart.com/codecompare/[CodeCompare]
 * https://www.deltawalker.com/[DeltaWalker]
 * https://www.sourcegear.com/diffmerge/[SourceGear DiffMerge]
+* https://github.com/modem-dev/hunk[Hunk]
 * https://kdiff3.sourceforge.net/[KDiff3]
 * https://meldmerge.org/[Meld]
 * https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge[P4Merge]
