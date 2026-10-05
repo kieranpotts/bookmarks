@@ -12,3 +12,4 @@ purpose tasks.
 * https://pi.dev/[Pi] – A minimal, extensible agent harness for the terminal. Customize it with extensions, skills, prompt templates, and themes; supports 15+ providers and shareable tree-structured session history.
 * https://omp.sh/[omp (Oh My Pi)] – Extends Pi with enhanced capabilities.
 * https://github.com/mattpocock/sandcastle[Sandcastle] – A TypeScript library for orchestrating AI coding agents in isolated sandboxes.
+* https://t3.codes/[T3 Code] – An open-source GUI that orchestrates multiple AI coding agents (Claude Code, Codex, OpenCode, Cursor, and others) from one interface, using your existing subscriptions.
