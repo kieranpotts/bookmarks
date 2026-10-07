@@ -21,3 +21,7 @@ Career and work-related resources, organized by category.
 
 * xref:work/startups/index.adoc[*Startups*] +
   Startup incubators and venture capital resources.
+
+* xref:work/skills-frameworks/index.adoc[*Skills frameworks*] +
+  Frameworks that define the skills and competencies needed for digital and
+  technology roles.

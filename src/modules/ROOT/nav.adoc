@@ -540,4 +540,5 @@
 *** xref:work/coworking/index.adoc[Coworking]
 *** xref:work/interviewing/index.adoc[Interviewing]
 *** xref:work/jobs/index.adoc[Jobs]
+*** xref:work/skills-frameworks/index.adoc[Skills frameworks]
 *** xref:work/startups/index.adoc[Startups]

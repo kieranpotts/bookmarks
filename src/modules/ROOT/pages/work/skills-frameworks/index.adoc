@@ -1,0 +1,8 @@
+= Skills frameworks
+
+Frameworks and guides that define the skills, competencies, and career levels
+needed for digital and technology roles, including the senior individual
+contributor ladder.
+
+* https://sfia-online.org/en[SFIA - Skills Framework for the Information Age]
+* https://staffeng.com/[StaffEng - Staff, principal, and distinguished engineer career path]
