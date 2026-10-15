@@ -13,3 +13,5 @@ purpose tasks.
 * https://omp.sh/[omp (Oh My Pi)] – Extends Pi with enhanced capabilities.
 * https://github.com/mattpocock/sandcastle[Sandcastle] – A TypeScript library for orchestrating AI coding agents in isolated sandboxes.
 * https://t3.codes/[T3 Code] – An open-source GUI that orchestrates multiple AI coding agents (Claude Code, Codex, OpenCode, Cursor, and others) from one interface, using your existing subscriptions.
+* https://github.com/gastownhall/beads[Beads] – A dependency-aware issue tracker that gives AI coding agents durable, structured memory in place of ad hoc markdown task lists. Built on Dolt.
+* https://github.com/gastownhall/gastown[Gas Town] – A workspace manager that coordinates multiple AI coding agents (Claude Code, GitHub Copilot, Codex) and persists their work state in git-backed hooks so it survives restarts.
