@@ -17,6 +17,7 @@ purpose tasks.
 * https://github.com/gastownhall/gastown[Gas Town] – A workspace manager that coordinates multiple AI coding agents (Claude Code, GitHub Copilot, Codex) and persists their work state in git-backed hooks so it survives restarts.
 * https://nimbalyst.com/[Nimbalyst] – An open-source (MIT) desktop and iOS workspace for Claude Code and Codex that runs parallel agent sessions in git worktrees, with visual editors for markdown, diagrams, and mockups and reviewable diffs for every AI edit.
 * https://github.com/coder/xum[Xum] – An open-source (AGPL-3.0) desktop app from Coder for running multiple coding agents in parallel, in isolated local, git worktree, or SSH workspaces. Multi-model, with its own agent loop and a central view of git divergence.
+* https://github.com/smtg-ai/claude-squad[Claude Squad] – An open-source (AGPL-3.0) terminal app that manages multiple AI coding agents (Claude Code, Codex, Gemini, Aider) in parallel, each in its own tmux session and git worktree so tasks stay isolated on separate branches.
 
 == Related links
 
