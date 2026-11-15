@@ -7,3 +7,4 @@ Large language models, from both commercial and open-source providers.
 * https://x.ai/news/grok-4[Grok 4]
 * https://www.anthropic.com/claude/opus[Claude Opus 4]
 * https://www.anthropic.com/claude/sonnet[Claude Sonnet 4]
+* https://typesafe.ai/blog/introducing-system-one-models-and-jev[Jev (TypeSafe AI)]
