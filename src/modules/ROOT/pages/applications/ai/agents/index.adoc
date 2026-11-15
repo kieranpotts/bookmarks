@@ -15,6 +15,7 @@ purpose tasks.
 * https://t3.codes/[T3 Code] – An open-source GUI that orchestrates multiple AI coding agents (Claude Code, Codex, OpenCode, Cursor, and others) from one interface, using your existing subscriptions.
 * https://github.com/gastownhall/beads[Beads] – A dependency-aware issue tracker that gives AI coding agents durable, structured memory in place of ad hoc markdown task lists. Built on Dolt.
 * https://github.com/gastownhall/gastown[Gas Town] – A workspace manager that coordinates multiple AI coding agents (Claude Code, GitHub Copilot, Codex) and persists their work state in git-backed hooks so it survives restarts.
+* https://nimbalyst.com/[Nimbalyst] – An open-source (MIT) desktop and iOS workspace for Claude Code and Codex that runs parallel agent sessions in git worktrees, with visual editors for markdown, diagrams, and mockups and reviewable diffs for every AI edit.
 
 == Related links
 
