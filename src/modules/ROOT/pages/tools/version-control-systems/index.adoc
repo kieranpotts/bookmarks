@@ -6,6 +6,7 @@ Version control systems besides Git, which has its own page.
 * https://subversion.apache.org/[Subversion (SVN)]
 * https://www.perforce.com/products/helix-core[Perforce Helix (formerly Perforce)]
 * https://fossil-scm.org/[Fossil]
+* https://github.com/jj-vcs/jj[Jujutsu (jj)]
 
 * xref:tools/version-control-systems/git/index.adoc[*Git*] +
   Git implementations, reference material, and tools and extensions that build on
