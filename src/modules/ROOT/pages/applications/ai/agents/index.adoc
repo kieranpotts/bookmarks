@@ -15,3 +15,8 @@ purpose tasks.
 * https://t3.codes/[T3 Code] – An open-source GUI that orchestrates multiple AI coding agents (Claude Code, Codex, OpenCode, Cursor, and others) from one interface, using your existing subscriptions.
 * https://github.com/gastownhall/beads[Beads] – A dependency-aware issue tracker that gives AI coding agents durable, structured memory in place of ad hoc markdown task lists. Built on Dolt.
 * https://github.com/gastownhall/gastown[Gas Town] – A workspace manager that coordinates multiple AI coding agents (Claude Code, GitHub Copilot, Codex) and persists their work state in git-backed hooks so it survives restarts.
+
+== Related links
+
+* https://standardagentspec.org/[Standard Agent Specification] – An open, MIT-licensed specification for building agents as portable, composable units (model, prompt, tools, hooks) that can be published, installed, and run in any compliant runtime.
+* https://standardagents.ai/[Standard Agents] – A platform for building and hosting production agents that implement the Standard Agent Specification, with free local development, deploy-on-push cloud hosting, and per-request tracing and cost tracking.
