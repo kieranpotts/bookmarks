@@ -12,6 +12,15 @@ Tools and services for building with and using AI, organized by category.
   AI agent products and chat-based assistants for research, coding, and general-
   purpose tasks.
 
+* xref:applications/ai/agent-frameworks/index.adoc[*AI Agent Frameworks and SDKs*] +
+  Libraries, SDKs, and platforms for building and running custom AI agents,
+  from general-purpose and multi-agent frameworks to vendor SDKs and
+  self-hosted harnesses.
+
+* xref:applications/ai/evals/index.adoc[*AI Evals Tools*] +
+  Libraries and platforms for evaluating LLM applications and AI agents,
+  including trajectory scoring, LLM-as-judge metrics, and production tracing.
+
 * xref:applications/ai/skills/index.adoc[*Agent Skills, Instructions, Custom Prompts, etc.*] +
   Standards, directories, and examples for packaging agent skills, instructions,
   and custom prompts.

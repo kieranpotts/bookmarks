@@ -10,6 +10,8 @@
 * xref:index.adoc[Bookmarks]
 ** xref:applications/index.adoc[Applications]
 *** xref:applications/ai/index.adoc[AI]
+**** xref:applications/ai/agent-frameworks/index.adoc[AI Agent Frameworks and SDKs]
+**** xref:applications/ai/evals/index.adoc[AI Evals Tools]
 **** xref:applications/ai/skills/index.adoc[Agent Skills, Instructions, Custom Prompts, etc.]
 **** xref:applications/ai/agents/index.adoc[AI Agents]
 **** xref:applications/ai/models/index.adoc[AI Models]

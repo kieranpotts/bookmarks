@@ -1,0 +1,29 @@
+= AI Evals Tools
+
+Tools for evaluating LLM applications and AI agents. Most add trajectory scoring on top of ordinary output evals, covering which tools an agent called, with what arguments, and how it recovered from errors. Metrics usually combine code checks, LLM-as-judge rubrics, and human review. LangSmith, which also handles tracing and evals, is listed with the xref:applications/ai/agent-frameworks/index.adoc[AI agent frameworks and SDKs].
+
+== Open-source libraries
+
+Libraries that run in your own code or CI.
+
+* https://deepeval.com/[DeepEval] – Pytest-style tests with many built-in metrics for agents, RAG, and multi-turn chat. A good fit for evals written as unit tests.
+* https://docs.ragas.io/[Ragas] – Metrics focused on RAG, such as faithfulness and context precision and recall.
+* https://www.promptfoo.dev/[Promptfoo] – Config-driven and CI-first, and quick to set up without an account.
+* https://github.com/openai/evals[OpenAI Evals] – OpenAI's evaluation framework and registry.
+* https://github.com/langchain-ai/openevals[openevals] – LangChain's open-source library of evaluators.
+* https://github.com/braintrustdata/autoevals[autoevals] – Braintrust's open-source library of scorers.
+
+== Platforms
+
+Platforms that combine tracing, datasets, evals, and monitoring.
+
+* https://www.braintrust.dev/[Braintrust] – An evals-first workflow that scores whole traces and runs trials.
+* https://langfuse.com/[Langfuse] – Open-source observability, prompt management, and evaluation. Self-hosting is the default, which suits data-residency needs.
+* https://arize.com/phoenix/[Arize Phoenix] – OpenTelemetry-native tracing and evals, a good fit for teams already using Arize for ML observability.
+* https://mlflow.org/[MLflow] – Experiment tracking and agent evaluation, which can use DeepEval, Ragas, and Phoenix metrics as plugins.
+* https://www.comet.com/site/products/opik/[Comet Opik] – Open-source LLM tracing and evaluation from Comet.
+* https://wandb.ai/site/weave/[W&B Weave] – Weights & Biases' toolkit for tracing and evaluating LLM applications.
+* https://www.getmaxim.ai/[Maxim AI] – A platform for simulating, evaluating, and monitoring AI agents.
+* https://www.patronus.ai/[Patronus AI] – Evaluation and monitoring with a focus on safety.
+* https://www.confident-ai.com/[Confident AI] – The commercial platform behind DeepEval.
+* https://langwatch.ai/[LangWatch] – Observability and evaluation for LLM applications.

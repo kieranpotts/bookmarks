@@ -1,0 +1,41 @@
+= AI Agent Frameworks and SDKs
+
+Libraries, SDKs, and platforms for building and running custom AI agents. A development framework is code you write agents with. A harness is the runtime that executes them, managing their lifecycle, permissions, and observability. Several entries below do both.
+
+== General-purpose frameworks
+
+* https://github.com/langchain-ai/langchain[LangChain] – An orchestration framework with integrations (models, vector stores, loaders), abstractions for prompts, tools, and retrievers, and prebuilt agent constructors. Python and JavaScript/TypeScript. Usually the choice for components and quick starts.
+* https://www.langchain.com/langgraph[LangGraph] – LangChain's sibling, which models an agent as a graph of nodes with explicit state. Gives control over branching, persistence, human-in-the-loop approval, and long-running runs. Usually the choice when you need control and reliability.
+* https://www.langchain.com/langsmith[LangSmith] – Tracing and evals for LangChain and LangGraph applications.
+* https://ai.pydantic.dev/[Pydantic AI] – A type-safe, model-agnostic agent framework from the Pydantic team, built on dependency injection and structured outputs. Lighter in feel than LangChain. Python.
+* https://pydantic.dev/docs/[Pydantic] – A Python data-validation library built on type hints. Underpins tool calling in most agent frameworks: give a model's JSON schema to the LLM as a tool or response format, validate what comes back, and feed any validation error to the model so it can correct itself.
+* https://github.com/The-Pocket/PocketFlow[PocketFlow] – A deliberately minimalist framework whose core is around 100 lines of code. Models agentic applications as a graph of nodes, with no heavy dependencies.
+* https://github.com/microsoft/semantic-kernel[Semantic Kernel] – Microsoft's library for building and orchestrating AI agents, with a plugin architecture and enterprise features. Python, .NET, and Java.
+
+== Multi-agent frameworks
+
+* https://github.com/microsoft/autogen[AutoGen] – Multi-agent conversation built around `UserProxyAgent` and `AssistantAgent` components that collaborate and refine solutions together. Also runs the conversation loop itself, so it blurs the line toward being a harness.
+* https://crewai.com/[CrewAI] – A multi-agent framework in which role-based agents collaborate as a crew.
+* https://www.ag2.ai/[AG2] – The community-maintained continuation of AutoGen, for building multi-agent systems.
+* https://github.com/FoundationAgents/MetaGPT[MetaGPT] – A multi-agent framework that assigns software-company roles to agents.
+* https://superagi.com/[SuperAGI] – A platform for building and managing autonomous agents.
+* https://claude.com/product/cowork[Claude Cowork] – Anthropic's product for delegating multi-step work to Claude agents.
+
+== Data and RAG frameworks
+
+* https://github.com/run-llama/llama_index[LlamaIndex] – Specialized in data ingestion, organization, and retrieval-augmented generation (RAG). Bridges enterprise data and LLMs with 300+ integration packages. Strong on RAG and data.
+* https://haystack.deepset.ai/[Haystack] – An open-source framework for building search, RAG, and agent pipelines from modular, swappable components. Python.
+* https://github.com/docling-project/docling[Docling] – A document-ingestion library that parses PDF, DOCX, HTML, and other formats into structured output for RAG pipelines. A building block rather than an agent framework.
+
+== Vendor SDKs and harnesses
+
+* https://code.claude.com/docs/en/agent-sdk/overview[Claude Agent SDK] – Anthropic's library for building agents on the same harness primitives that power Claude Code: context management, built-in tools, permissions, and subagents.
+* https://developers.openai.com/api/docs/guides/agents-sdk[OpenAI Agents SDK] – OpenAI's library for building agents with their models, with a vendor-run agent loop and built-in tools.
+* https://google.github.io/adk-docs/[Google Agent Development Kit (ADK)] – Google's library for agent development.
+* https://github.com/microsoft/agent-framework[Microsoft Agent Framework] – A production-grade harness for running multi-agent workflows, with workflow orchestration, observability, YAML-based agent definitions, and cloud deployment options. Python and C#/.NET.
+
+== Low-code platforms and self-hosted harnesses
+
+* https://docs.n8n.io/hosting/starter-kits/ai-starter-kit/[n8n AI starter kit] – A starter kit for bootstrapping and running AI agent workflows on the n8n low-code automation platform.
+* https://openclaw.ai/[OpenClaw] – An open-source, self-hosted agent harness with 15+ messaging channel integrations and support for 40+ LLM providers.
+* https://hermes-agent.nousresearch.com/[Hermes Agent] – An OpenClaw-like agent harness, regarded for its speed and self-improving capabilities.
