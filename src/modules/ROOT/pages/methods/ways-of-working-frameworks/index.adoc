@@ -9,6 +9,7 @@ Frameworks and methodologies for organizing how software teams work.
 * https://web.archive.org/web/20161002055756/https://www.dsdm.org/[DSDM (web.archive.org)]
 * http://pages.swcp.com/raccoon/chaosmodel.html[Chaos Model]
 * https://basecamp.com/shapeup[Shape Up]
+* https://ai-dlc.dev/[AI-DLC]
 * https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum[The MANY Alternatives to Scrum - Adam Ard]
 
 == Scrum
